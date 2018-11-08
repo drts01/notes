@@ -58,10 +58,11 @@ _notes:
 ## Packaging
 "Packaging is the fine art of creating a distributable software artifact"
 --["The Packaging Gradient", Mahmoud Hashemi](https://www.youtube.com/watch?v=iLVNWfPWAC8) [[slides](https://speakerd.s3.amazonaws.com/presentations/d655083f4a4c4199ae2f7066d5b8fc47/The_Packaging_Gradient_-_Mahmoud_Hashemi_PyBay_2017.pdf)]
+* Turning code into a self-contained artifact
+* For reliable transfer to environments
 
 _note:
-* Turning code into a self-contained artifact
-* For reliable transfer to production environments
+* 
 
 
 
@@ -256,11 +257,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTg3ODEzMiwtMjE0Mjc0Mzg3NywzOT
-Q5MDcxOTIsMzkyNDM1MjIyLC0xMDM3MjExNjIwLDUwODA2NTU4
-NiwyMDcyMzIyODkxLDIzNDUxMTIsMTQyODE2OTkxMywxMTU1Mz
-A2ODAzLDE3OTIyNjQ2NjgsMjYzNjQyMTEsMTU0MDE0NzIzMywx
-NDM4ODQzMjMyLC0xODk2NzIzODg4LDc1MTk4MjQ4OCwzNTU3Mj
-Y3MywxNDk4NDE4NTA5LC03NTEwMTQ2OCwxOTQzODcwODA5XX0=
+eyJoaXN0b3J5IjpbLTIwODkyMTA3MzUsLTIxNDI3NDM4NzcsMz
+k0OTA3MTkyLDM5MjQzNTIyMiwtMTAzNzIxMTYyMCw1MDgwNjU1
+ODYsMjA3MjMyMjg5MSwyMzQ1MTEyLDE0MjgxNjk5MTMsMTE1NT
+MwNjgwMywxNzkyMjY0NjY4LDI2MzY0MjExLDE1NDAxNDcyMzMs
+MTQzODg0MzIzMiwtMTg5NjcyMzg4OCw3NTE5ODI0ODgsMzU1Nz
+I2NzMsMTQ5ODQxODUwOSwtNzUxMDE0NjgsMTk0Mzg3MDgwOV19
 
 -->
