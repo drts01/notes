@@ -62,7 +62,8 @@ _notes:
 * For reliable transfer to environments
 
 _note:
-* 
+* a git repo is not packaging
+* scp is not package distribution
 
 
 
@@ -257,11 +258,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODkyMTA3MzUsLTIxNDI3NDM4NzcsMz
-k0OTA3MTkyLDM5MjQzNTIyMiwtMTAzNzIxMTYyMCw1MDgwNjU1
-ODYsMjA3MjMyMjg5MSwyMzQ1MTEyLDE0MjgxNjk5MTMsMTE1NT
-MwNjgwMywxNzkyMjY0NjY4LDI2MzY0MjExLDE1NDAxNDcyMzMs
-MTQzODg0MzIzMiwtMTg5NjcyMzg4OCw3NTE5ODI0ODgsMzU1Nz
-I2NzMsMTQ5ODQxODUwOSwtNzUxMDE0NjgsMTk0Mzg3MDgwOV19
+eyJoaXN0b3J5IjpbLTgxODU0MDMyNywtMjE0Mjc0Mzg3NywzOT
+Q5MDcxOTIsMzkyNDM1MjIyLC0xMDM3MjExNjIwLDUwODA2NTU4
+NiwyMDcyMzIyODkxLDIzNDUxMTIsMTQyODE2OTkxMywxMTU1Mz
+A2ODAzLDE3OTIyNjQ2NjgsMjYzNjQyMTEsMTU0MDE0NzIzMywx
+NDM4ODQzMjMyLC0xODk2NzIzODg4LDc1MTk4MjQ4OCwzNTU3Mj
+Y3MywxNDk4NDE4NTA5LC03NTEwMTQ2OCwxOTQzODcwODA5XX0=
 
 -->
