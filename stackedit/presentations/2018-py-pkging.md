@@ -7,14 +7,10 @@ _notes:
 * sharing my code in a more professional manor
 * this sent me down a rabbit hole of pain
 * packaging in python have been evolving for 18 years and is still changing
-* in fa
+* in fact this comic is missing quite a bit
 * from my struggle, i want to share a clearer path on how to package python code.
-* was on teams that had a solution and automation for pkg
-* so took pkging for granted
 
-bad docs,
-packaging in python have been evolving for 18 years and is still changing
-from my struggle, i want to share a clearer path on how to package python code.
+bad docs, broken features, moving target
 
 
 
@@ -262,11 +258,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjc2MTExNjYsNjU0MzE2OTk5LC04MT
-g1NDAzMjcsLTIxNDI3NDM4NzcsMzk0OTA3MTkyLDM5MjQzNTIy
-MiwtMTAzNzIxMTYyMCw1MDgwNjU1ODYsMjA3MjMyMjg5MSwyMz
-Q1MTEyLDE0MjgxNjk5MTMsMTE1NTMwNjgwMywxNzkyMjY0NjY4
-LDI2MzY0MjExLDE1NDAxNDcyMzMsMTQzODg0MzIzMiwtMTg5Nj
-cyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOV19
+eyJoaXN0b3J5IjpbLTY3MjkwOTYzMiw2NTQzMTY5OTksLTgxOD
+U0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcxOTIsMzkyNDM1MjIy
+LC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMDcyMzIyODkxLDIzND
+UxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2Njgs
+MjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0xODk2Nz
+IzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5XX0=
 
 -->
