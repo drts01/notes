@@ -125,6 +125,7 @@ _notes:
 
 
 ## Distribution Types
+"A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a Release."
 * Source (sdist): Source Code
 * Built (bdist):
 	* Wheel Binary Package Format<sup> <small><small>[ref](https://www.python.org/dev/peps/pep-0427/)</small></small></sup>
@@ -147,7 +148,7 @@ twine upload dist/*
 _notes:
 * minimal steps (i.e. no testing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDkyMTI5ODksMTE1NTMwNjgwMywxNz
+eyJoaXN0b3J5IjpbLTE2MTA3MzcxNzksMTE1NTMwNjgwMywxNz
 kyMjY0NjY4LDI2MzY0MjExLDE1NDAxNDcyMzMsMTQzODg0MzIz
 MiwtMTg5NjcyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5OD
 QxODUwOSwtNzUxMDE0NjgsMTk0Mzg3MDgwOSwzMDkwNTIxNjMs
