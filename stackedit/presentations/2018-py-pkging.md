@@ -119,6 +119,7 @@ _notes:
 * PyPA recommend method to upload to PyPI
 
 
+
 ## Publishing Today
 ```bash
 cd awesome-pyproject/
@@ -131,9 +132,9 @@ twine upload dist/*
 _notes:
 * minimal steps (i.e. no testing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0xOD
-k2NzIzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5
-LC03NTEwMTQ2OCwxOTQzODcwODA5LDMwOTA1MjE2MywtNDczOD
-kwOTY2LDY4MjY4NTMyMSwxMjU3MzczMDIyLDI1NTAxNDkxNywt
-MjExOTExOTY1NF19
+eyJoaXN0b3J5IjpbMjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4OD
+QzMjMyLC0xODk2NzIzODg4LDc1MTk4MjQ4OCwzNTU3MjY3Mywx
+NDk4NDE4NTA5LC03NTEwMTQ2OCwxOTQzODcwODA5LDMwOTA1Mj
+E2MywtNDczODkwOTY2LDY4MjY4NTMyMSwxMjU3MzczMDIyLDI1
+NTAxNDkxNywtMjExOTExOTY1NF19
 -->
