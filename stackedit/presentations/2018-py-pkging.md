@@ -240,7 +240,7 @@ _notes:
 ## Changes from 2016
 * Pipfile
 	* Pipenv
-* pyproject.toml
+* pyproject.toml - PEP-518 
 	* Flit
 	* Poetry
 
@@ -284,15 +284,25 @@ _notes:
 
 
 
+## pyproject.toml
+
+
+
+## Worth Mentioning
+* Pip-tools
+* Hatch
+
+
+
 ## A Modern Workflow
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2Nzc0MDkzMywtMzY1NDI3OTQxLDY1ND
-MxNjk5OSwtODE4NTQwMzI3LC0yMTQyNzQzODc3LDM5NDkwNzE5
-MiwzOTI0MzUyMjIsLTEwMzcyMTE2MjAsNTA4MDY1NTg2LDIwNz
-IzMjI4OTEsMjM0NTExMiwxNDI4MTY5OTEzLDExNTUzMDY4MDMs
-MTc5MjI2NDY2OCwyNjM2NDIxMSwxNTQwMTQ3MjMzLDE0Mzg4ND
-MyMzIsLTE4OTY3MjM4ODgsNzUxOTgyNDg4LDM1NTcyNjczXX0=
+eyJoaXN0b3J5IjpbLTE5MDMzMjYwNzMsLTM2NTQyNzk0MSw2NT
+QzMTY5OTksLTgxODU0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcx
+OTIsMzkyNDM1MjIyLC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMD
+cyMzIyODkxLDIzNDUxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAz
+LDE3OTIyNjQ2NjgsMjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4OD
+QzMjMyLC0xODk2NzIzODg4LDc1MTk4MjQ4OCwzNTU3MjY3M119
 
 -->
