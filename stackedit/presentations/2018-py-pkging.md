@@ -6,12 +6,10 @@
 _notes:
 * sharing my code in a more professional manor
 * this sent me down a rabbit hole of pain
-    * py pkging evolving for 18 years
-	* is still changing
+    * py pkging evolving for 18 years & is still changing
+	* bad docs, broken tooling
 * in fact this comic is missing quite a bit
 * from my struggle, i want to share a clearer path on how to package python code.
-
-bad docs, broken features, moving target
 
 
 
@@ -36,21 +34,21 @@ Anyone:
 * Curious about newer standards and tooling
 
 _notes:
-* introduce how to properly distribute python
+* introduce how to properly share python code
 * take advantage of newer standards and tooling
 
 
 
 ## 'NoneType' object has no attribute 'get'
-Will not:
+Not intending to cover:
 * CI / CD
 * Testing
 * Documentation
 
 _notes:
 * these are important
-* focusing on the packaging process
-* docs can be argued to be included
+* focusing on the packaging and distribution process
+* but docs can be argued to be included
 
 
 
@@ -259,11 +257,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4MzcwOTQ1LDY1NDMxNjk5OSwtODE4NT
-QwMzI3LC0yMTQyNzQzODc3LDM5NDkwNzE5MiwzOTI0MzUyMjIs
-LTEwMzcyMTE2MjAsNTA4MDY1NTg2LDIwNzIzMjI4OTEsMjM0NT
-ExMiwxNDI4MTY5OTEzLDExNTUzMDY4MDMsMTc5MjI2NDY2OCwy
-NjM2NDIxMSwxNTQwMTQ3MjMzLDE0Mzg4NDMyMzIsLTE4OTY3Mj
-M4ODgsNzUxOTgyNDg4LDM1NTcyNjczLDE0OTg0MTg1MDldfQ==
+eyJoaXN0b3J5IjpbLTYzMzAyMjE3NCw2NTQzMTY5OTksLTgxOD
+U0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcxOTIsMzkyNDM1MjIy
+LC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMDcyMzIyODkxLDIzND
+UxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2Njgs
+MjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0xODk2Nz
+IzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5XX0=
 
 -->
