@@ -63,8 +63,9 @@ virtualenv venv
 which python
 ~/ ... /venv/bin/python
 ```
+* solution for
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5MDUyMTYzLC00NzM4OTA5NjYsNjgyNj
-g1MzIxLDEyNTczNzMwMjIsMjU1MDE0OTE3LC0yMTE5MTE5NjU0
-XX0=
+eyJoaXN0b3J5IjpbMTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mz
+g5MDk2Niw2ODI2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MTcs
+LTIxMTkxMTk2NTRdfQ==
 -->
