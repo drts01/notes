@@ -20,7 +20,9 @@ _notes:
 ## X
 _notes:
 * initally I didnt wory about py pkging
-* i just edit some code and let the CI servers do there thing
+* i just edit some code and let the CI servers do their thing
+* but i have 
+
 
 
 ## for pythonista in socalcodecamp:
@@ -239,11 +241,10 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDMzMzkxMjAsMzkyNDM1MjIyLC0xMD
-M3MjExNjIwLDUwODA2NTU4NiwyMDcyMzIyODkxLDIzNDUxMTIs
-MTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2NjgsMjYzNj
-QyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0xODk2NzIzODg4
-LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5LC03NTEwMT
-Q2OCwxOTQzODcwODA5LDMwOTA1MjE2MywtNDczODkwOTY2XX0=
-
+eyJoaXN0b3J5IjpbMzk0OTA3MTkyLDM5MjQzNTIyMiwtMTAzNz
+IxMTYyMCw1MDgwNjU1ODYsMjA3MjMyMjg5MSwyMzQ1MTEyLDE0
+MjgxNjk5MTMsMTE1NTMwNjgwMywxNzkyMjY0NjY4LDI2MzY0Mj
+ExLDE1NDAxNDcyMzMsMTQzODg0MzIzMiwtMTg5NjcyMzg4OCw3
+NTE5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMDE0Nj
+gsMTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Nl19
 -->
