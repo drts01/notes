@@ -26,6 +26,9 @@ python setup.py install
 
 ## distutils
 ```bash
+python setup.py sdist
+```
+```bash
 python setup.py install
 ```
 setup<span>.</span>py:
@@ -119,7 +122,7 @@ _notes:
 ## Common Today
 ```bash
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzgzNTU3ODIsMTQzODg0MzIzMiwtMT
+eyJoaXN0b3J5IjpbLTIwNTg1OTkyODMsMTQzODg0MzIzMiwtMT
 g5NjcyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUw
 OSwtNzUxMDE0NjgsMTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mz
 g5MDk2Niw2ODI2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MTcs
