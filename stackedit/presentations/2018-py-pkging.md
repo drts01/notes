@@ -103,7 +103,7 @@ _notes:
 pip install -r requirements.txt
 ```
 _notes:
-* Released in 2011
+* Released in 2008
 * The [PyPA recommended](https://packaging.python.org/en/latest/current/) tool for installing Python packages.
 * 2014 included w/ Python
 * requirements.txt convention enabled contrete dependancies
@@ -117,9 +117,9 @@ _notes:
 * 2013
 * PyPA recommend method to upload to PyPI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxMjY1NTA4LC0xODk2NzIzODg4LDc1MT
-k4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5LC03NTEwMTQ2OCwx
-OTQzODcwODA5LDMwOTA1MjE2MywtNDczODkwOTY2LDY4MjY4NT
-MyMSwxMjU3MzczMDIyLDI1NTAxNDkxNywtMjExOTExOTY1NF19
-
+eyJoaXN0b3J5IjpbLTE2NzYzMTc0OCwtMTg5NjcyMzg4OCw3NT
+E5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMDE0Njgs
+MTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Niw2ODI2OD
+UzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMTk2NTRd
+fQ==
 -->
