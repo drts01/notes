@@ -125,8 +125,10 @@ _notes:
 
 
 ## Distribution Types
-* Source Code
-* # Wheel Binary Package Format<sup> <small><small>[ref](https://www.python.org/dev/peps/pep-0427/)</small></small><sup>
+* sdist (source): Source Code
+* bdist (binary): Wheel Binary Package Format<sup> <small><small>[ref](https://www.python.org/dev/peps/pep-0427/)</small></small><sup>
+_notes:
+* wheel 2012
 ## Publishing Today
 ```bash
 cd awesome-pyproject/
@@ -139,7 +141,7 @@ twine upload dist/*
 _notes:
 * minimal steps (i.e. no testing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Njc1NzcxOCwyNjM2NDIxMSwxNTQwMT
+eyJoaXN0b3J5IjpbMTc5MjI2NDY2OCwyNjM2NDIxMSwxNTQwMT
 Q3MjMzLDE0Mzg4NDMyMzIsLTE4OTY3MjM4ODgsNzUxOTgyNDg4
 LDM1NTcyNjczLDE0OTg0MTg1MDksLTc1MTAxNDY4LDE5NDM4Nz
 A4MDksMzA5MDUyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxLDEy
