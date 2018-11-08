@@ -125,10 +125,13 @@ cd awesome-pyproject/
 virtualenv venv
 . venv/bin/activate
 pip install -r requirements.txt
-python setup.py install
+python setup.py sdist bdist_wheel
+twine upload dist/*
 ```
+_notes:
+* minimal steps (i.e. no testing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDY2MTk5MiwxNDM4ODQzMjMyLC0xOD
+eyJoaXN0b3J5IjpbMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0xOD
 k2NzIzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5
 LC03NTEwMTQ2OCwxOTQzODcwODA5LDMwOTA1MjE2MywtNDczOD
 kwOTY2LDY4MjY4NTMyMSwxMjU3MzczMDIyLDI1NTAxNDkxNywt
