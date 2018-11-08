@@ -238,9 +238,9 @@ _notes:
 
 
 ## Changes from 2016
-* Pipfile
+* Pipfile - Endorsed by PyPA
 	* Pipenv
-* pyproject.toml - PEP-518 
+* pyproject.toml - PEP-518, PEP-517
 	* Flit
 	* Poetry
 
@@ -285,6 +285,11 @@ _notes:
 
 
 ## pyproject.toml
+_notes:
+* TOML Manifest file
+* designed for application, abstract, dependancies
+	* for sharable redistributable artificts
+* specify backend installation call, making it possible to replace setuptools `setup.py install
 
 
 
@@ -298,7 +303,7 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDMzMjYwNzMsLTM2NTQyNzk0MSw2NT
+eyJoaXN0b3J5IjpbLTE4MzA3MTc3ODEsLTM2NTQyNzk0MSw2NT
 QzMTY5OTksLTgxODU0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcx
 OTIsMzkyNDM1MjIyLC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMD
 cyMzIyODkxLDIzNDUxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAz
