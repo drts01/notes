@@ -15,10 +15,12 @@
 
 ## .\. contents::
 ### TOC
-1. Current Packaging Story
+1. Current (Legacy) Packaging Story
 	1. Overview of tooling
-	1. Minimal 
-1. Changes in Progress
+	1. Minimal Python Distribution
+1. 
+	1. Changes in Progress
+	1. Overview of tooling
 	1. 
 
 _notes:
@@ -194,7 +196,7 @@ _notes:
 * Intended for developer/sysadmins, concrete, dependencies for apps
 	* i.e. deploy on a server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjAyMDE0MywyMDcyMzIyODkxLDIzND
+eyJoaXN0b3J5IjpbLTI3MjA3NzUzNywyMDcyMzIyODkxLDIzND
 UxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2Njgs
 MjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0xODk2Nz
 IzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5LC03
