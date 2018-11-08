@@ -276,6 +276,7 @@ _notes:
 * Single interface for pip and virtualenv
 * dependency synchronization via lock file
 * 2017 PyPA recommend tooling
+* buggy
 
 
 
@@ -283,11 +284,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTU5MzU1NTMsLTM2NTQyNzk0MSw2NT
-QzMTY5OTksLTgxODU0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcx
-OTIsMzkyNDM1MjIyLC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMD
-cyMzIyODkxLDIzNDUxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAz
-LDE3OTIyNjQ2NjgsMjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4OD
-QzMjMyLC0xODk2NzIzODg4LDc1MTk4MjQ4OCwzNTU3MjY3M119
+eyJoaXN0b3J5IjpbNDU1ODI0ODczLC0zNjU0Mjc5NDEsNjU0Mz
+E2OTk5LC04MTg1NDAzMjcsLTIxNDI3NDM4NzcsMzk0OTA3MTky
+LDM5MjQzNTIyMiwtMTAzNzIxMTYyMCw1MDgwNjU1ODYsMjA3Mj
+MyMjg5MSwyMzQ1MTEyLDE0MjgxNjk5MTMsMTE1NTMwNjgwMywx
+NzkyMjY0NjY4LDI2MzY0MjExLDE1NDAxNDcyMzMsMTQzODg0Mz
+IzMiwtMTg5NjcyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzNdfQ==
 
 -->
