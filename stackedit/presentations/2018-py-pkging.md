@@ -57,7 +57,7 @@ _notes:
 
 
 ## setuptools
-"An enhanced alternative to distutils"<sup> <small><small>[ref](https://docs.python.org/3/library/distutils.html)</small></small><sup><!-- .element: style="text-align:center" -->
+"An enhanced alternative to distutils"<sup> <small><small>[ref](https://docs.python.org/3/library/distutils.html)</small></small></sup><!-- .element: style="text-align:center" -->
 ```python
 from setuptools import setup, find_packages
 setup(
@@ -74,7 +74,7 @@ _notes:
 
 
 ## Virtualenv
-"`virtualenv` is a tool to create isolated Python environments"<sup> <small><small>[ref](https://virtualenv.pypa.io)</small></small><sup><!-- .element: style="text-align:center" -->
+"`virtualenv` is a tool to create isolated Python environments"<sup> <small><small>[ref](https://virtualenv.pypa.io)</small></small></sup><!-- .element: style="text-align:center" -->
 ```bash
 virtualenv venv
 . venv/bin/activate
@@ -101,7 +101,7 @@ _notes:
 
 
 ## Python Packaging Authority
-"PyPA is a working group that maintains many of the relevant projects in Python packaging."<sup> <small><small>[ref](https://www.pypa.io)</small></small><sup><!-- .element: style="text-align:center" -->
+"PyPA is a working group that maintains many of the relevant projects in Python packaging."<sup> <small><small>[ref](https://www.pypa.io)</small></small></sup><!-- .element: style="text-align:center" -->
 
 * Python Packaging User Guide (PyPUG): https://packaging.python.org
 * Tooling: https://github.com/pypa/
@@ -113,7 +113,7 @@ _notes:
 
 
 ## Twine
-"A utility for publishing Python packages on PyPI."<sup> <small><small>[ref](https://github.com/pypa/twine)</small></small><sup><!-- .element: style="text-align:center" -->
+"A utility for publishing Python packages on PyPI."<sup> <small><small>[ref](https://github.com/pypa/twine)</small></small></sup><!-- .element: style="text-align:center" -->
 ```bash
 twine upload dist/*
 ```
@@ -126,7 +126,8 @@ _notes:
 
 ## Distribution Types
 * Source (sdist): Source Code
-* Binary (bdist): Wheel Binary Package Format<sup> <small><small>[ref](https://www.python.org/dev/peps/pep-0427/)</small></small><sup>
+* Binary (bdist): Wheel Binary Package Format<sup> <small><small>[ref](https://www.python.org/dev/peps/pep-0427/)</small></small></sup>
+
 _notes:
 * 2012 wheel provides a simpler interface between the build system and the installer.
 
@@ -144,10 +145,10 @@ twine upload dist/*
 _notes:
 * minimal steps (i.e. no testing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjAzMDc0MzYsMTc5MjI2NDY2OCwyNj
-M2NDIxMSwxNTQwMTQ3MjMzLDE0Mzg4NDMyMzIsLTE4OTY3MjM4
-ODgsNzUxOTgyNDg4LDM1NTcyNjczLDE0OTg0MTg1MDksLTc1MT
-AxNDY4LDE5NDM4NzA4MDksMzA5MDUyMTYzLC00NzM4OTA5NjYs
-NjgyNjg1MzIxLDEyNTczNzMwMjIsMjU1MDE0OTE3LC0yMTE5MT
-E5NjU0XX0=
+eyJoaXN0b3J5IjpbMTE1NTMwNjgwMywxNzkyMjY0NjY4LDI2Mz
+Y0MjExLDE1NDAxNDcyMzMsMTQzODg0MzIzMiwtMTg5NjcyMzg4
+OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMD
+E0NjgsMTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Niw2
+ODI2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMT
+k2NTRdfQ==
 -->
