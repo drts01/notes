@@ -86,9 +86,16 @@ _notes:
 
 
 ## Pip
+```bash
+pip install -r requirements.txt
+```
+_notes:
+* Released in 2011
+* Python 2.7.9 and later (on the python2 series), and Python 3.4
+* requirements.txt convention Enabled contrete dependancies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDA3MTQ0ODMsMzU1NzI2NzMsMTQ5OD
-QxODUwOSwtNzUxMDE0NjgsMTk0Mzg3MDgwOSwzMDkwNTIxNjMs
-LTQ3Mzg5MDk2Niw2ODI2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMT
-Q5MTcsLTIxMTkxMTk2NTRdfQ==
+eyJoaXN0b3J5IjpbNzUxOTgyNDg4LDM1NTcyNjczLDE0OTg0MT
+g1MDksLTc1MTAxNDY4LDE5NDM4NzA4MDksMzA5MDUyMTYzLC00
+NzM4OTA5NjYsNjgyNjg1MzIxLDEyNTczNzMwMjIsMjU1MDE0OT
+E3LC0yMTE5MTE5NjU0XX0=
 -->
