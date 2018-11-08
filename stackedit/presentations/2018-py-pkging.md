@@ -12,12 +12,18 @@
 ## for pythonista in socalcodecamp:
 Anyone:
 * New to Python packaging
-* Desire to distribute Python library
-* Cover newer standards and tooling
+* Desiring to distribute Python library
+* Curious about newer standards and tooling
 
 _notes:
 * introduce how to properly distribute python
 * take advantage of newer standards and tooling
+
+
+
+## locals()
+
+
 
 
 ## .\. contents::
@@ -211,7 +217,7 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4NzI5MzE4LC0xMDM3MjExNjIwLDUwOD
+eyJoaXN0b3J5IjpbMzkyNDM1MjIyLC0xMDM3MjExNjIwLDUwOD
 A2NTU4NiwyMDcyMzIyODkxLDIzNDUxMTIsMTQyODE2OTkxMywx
 MTU1MzA2ODAzLDE3OTIyNjQ2NjgsMjYzNjQyMTEsMTU0MDE0Nz
 IzMywxNDM4ODQzMjMyLC0xODk2NzIzODg4LDc1MTk4MjQ4OCwz
