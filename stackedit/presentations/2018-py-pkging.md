@@ -39,9 +39,7 @@ _notes:
 
 
 ## setuptools
-<span style="text-align:center">
-"An enhanced alternative to distutils"<sup> <small><small>[ref](https://docs.python.org/3/library/distutils.html)</small></small><sup>
-</span>
+"An enhanced alternative to distutils"<sup> <small><small>[ref](https://docs.python.org/3/library/distutils.html)</small></small><sup><!-- .element: style="text-align:center" -->
 ```python
 from setuptools import setup, find_packages
 setup(
@@ -68,7 +66,7 @@ which python
 ```
 * solution for
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTk5NzY1LDE5NDM4NzA4MDksMzA5MD
+eyJoaXN0b3J5IjpbNzQ5OTI4MzQxLDE5NDM4NzA4MDksMzA5MD
 UyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxLDEyNTczNzMwMjIs
 MjU1MDE0OTE3LC0yMTE5MTE5NjU0XX0=
 -->
