@@ -124,6 +124,9 @@ _notes:
 
 
 
+## Distribution Types
+* Source C
+* Wheel
 ## Publishing Today
 ```bash
 cd awesome-pyproject/
@@ -136,9 +139,9 @@ twine upload dist/*
 _notes:
 * minimal steps (i.e. no testing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk5NjkyMzcsMjYzNjQyMTEsMTU0MD
-E0NzIzMywxNDM4ODQzMjMyLC0xODk2NzIzODg4LDc1MTk4MjQ4
-OCwzNTU3MjY3MywxNDk4NDE4NTA5LC03NTEwMTQ2OCwxOTQzOD
-cwODA5LDMwOTA1MjE2MywtNDczODkwOTY2LDY4MjY4NTMyMSwx
-MjU3MzczMDIyLDI1NTAxNDkxNywtMjExOTExOTY1NF19
+eyJoaXN0b3J5IjpbLTcyMTU2OTUyMywyNjM2NDIxMSwxNTQwMT
+Q3MjMzLDE0Mzg4NDMyMzIsLTE4OTY3MjM4ODgsNzUxOTgyNDg4
+LDM1NTcyNjczLDE0OTg0MTg1MDksLTc1MTAxNDY4LDE5NDM4Nz
+A4MDksMzA5MDUyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxLDEy
+NTczNzMwMjIsMjU1MDE0OTE3LC0yMTE5MTE5NjU0XX0=
 -->
