@@ -66,7 +66,7 @@ setup(
 ```
 _notes:
 * 2004 - overcome distutils' limitations
-* i.e. dependencies
+* i.e.: automatically install dependencies
 
 
 
@@ -115,9 +115,9 @@ _notes:
 * 2013
 * PyPA recommend method to upload to PyPI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODg0MzIzMiwtMTg5NjcyMzg4OCw3NT
-E5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMDE0Njgs
-MTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Niw2ODI2OD
-UzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMTk2NTRd
-fQ==
+eyJoaXN0b3J5IjpbMTEzNzg3MjMyNiwxNDM4ODQzMjMyLC0xOD
+k2NzIzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5
+LC03NTEwMTQ2OCwxOTQzODcwODA5LDMwOTA1MjE2MywtNDczOD
+kwOTY2LDY4MjY4NTMyMSwxMjU3MzczMDIyLDI1NTAxNDkxNywt
+MjExOTExOTY1NF19
 -->
