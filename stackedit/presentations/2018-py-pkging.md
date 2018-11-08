@@ -13,7 +13,7 @@
 ```bash
 python setup.py install
 ```
-setup.py
+setup<span>.</span>py:
 ```python
 from distutils.core import setup
 setup(name='foo',
@@ -46,13 +46,14 @@ setup(
     name="HelloWorld",
     version="0.1",
     packages=find_packages(),
+    install_requires=['A', 'B']
 )
 ```
 _notes:
 * overcome distutils' limitations
 * i.e. dependencies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzQxOTkxMCwtNDczODkwOTY2LDY4Mj
-Y4NTMyMSwxMjU3MzczMDIyLDI1NTAxNDkxNywtMjExOTExOTY1
-NF19
+eyJoaXN0b3J5IjpbODQ5OTE4NjQ1LC00NzM4OTA5NjYsNjgyNj
+g1MzIxLDEyNTczNzMwMjIsMjU1MDE0OTE3LC0yMTE5MTE5NjU0
+XX0=
 -->
