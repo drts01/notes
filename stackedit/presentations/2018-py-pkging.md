@@ -11,9 +11,9 @@
 * "SGV Software Craftsmanship" Co-Founder
 
 _notes:
-* being using Python professionally for a few years
-* Used to automate and manage large infrastructure
-* also starting a group to help any who writes code to grow
+* Python for a few years
+* automate and manage large infrastructure
+* a group to help any who writes code to grow
 
 
 ## for pythonista in socalcodecamp:
@@ -232,7 +232,7 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTQ3NTUyNywzOTI0MzUyMjIsLTEwMz
+eyJoaXN0b3J5IjpbMTMzNTM0OTAwNywzOTI0MzUyMjIsLTEwMz
 cyMTE2MjAsNTA4MDY1NTg2LDIwNzIzMjI4OTEsMjM0NTExMiwx
 NDI4MTY5OTEzLDExNTUzMDY4MDMsMTc5MjI2NDY2OCwyNjM2ND
 IxMSwxNTQwMTQ3MjMzLDE0Mzg4NDMyMzIsLTE4OTY3MjM4ODgs
