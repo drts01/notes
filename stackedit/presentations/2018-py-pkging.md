@@ -1,7 +1,16 @@
 
 
 
-# My [Mis]adventures in 
+# My [Mis]Adventures in Python Packaging
+
+
+
+## getpass.getuser()
+
+
+
+## X
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzODYzNTAyXX0=
+eyJoaXN0b3J5IjpbLTIxMTkxMTk2NTRdfQ==
 -->
