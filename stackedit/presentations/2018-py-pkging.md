@@ -79,16 +79,14 @@ virtualenv venv
 which python
 ~/ ... /venv/bin/python
 ```
-* b4 d
-* addresses a single global python env
+* b4 break applications with different dependencies and versions, etc
+* 2007 - addresses single global python env
 * by creating isolated env
-* different projects dependencies and versions
-
 
 
 ## Pip
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjI4MTI1NCwtNzUxMDE0NjgsMTk0Mz
-g3MDgwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Niw2ODI2ODUzMjEs
-MTI1NzM3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMTk2NTRdfQ==
+eyJoaXN0b3J5IjpbMzg4NjA5MDAzLC03NTEwMTQ2OCwxOTQzOD
+cwODA5LDMwOTA1MjE2MywtNDczODkwOTY2LDY4MjY4NTMyMSwx
+MjU3MzczMDIyLDI1NTAxNDkxNywtMjExOTExOTY1NF19
 -->
