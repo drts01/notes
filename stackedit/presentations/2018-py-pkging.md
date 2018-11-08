@@ -113,10 +113,10 @@ _notes:
 
 
 ## Twine
-"A utility for publishing Python packages on PyPI."
+"A utility for publishing Python packages on PyPI."<sup> <small><small>[ref](https://github.com/pypa/twine)</small></small><sup><!-- .element: style="text-align:center" -->
 _notes:
 * may not be familiar w/ this tool if just learning to package
-* 2013
+* 2013 provided a secure way to publish to PyPI
 * PyPA recommend method to upload to PyPI
 
 
@@ -133,9 +133,9 @@ twine upload dist/*
 _notes:
 * minimal steps (i.e. no testing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyNDk5MDQ2LDI2MzY0MjExLDE1NDAxND
-cyMzMsMTQzODg0MzIzMiwtMTg5NjcyMzg4OCw3NTE5ODI0ODgs
-MzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMDE0NjgsMTk0Mzg3MD
-gwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Niw2ODI2ODUzMjEsMTI1
-NzM3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMTk2NTRdfQ==
+eyJoaXN0b3J5IjpbLTI1ODEzNjQ4MCwyNjM2NDIxMSwxNTQwMT
+Q3MjMzLDE0Mzg4NDMyMzIsLTE4OTY3MjM4ODgsNzUxOTgyNDg4
+LDM1NTcyNjczLDE0OTg0MTg1MDksLTc1MTAxNDY4LDE5NDM4Nz
+A4MDksMzA5MDUyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxLDEy
+NTczNzMwMjIsMjU1MDE0OTE3LC0yMTE5MTE5NjU0XX0=
 -->
