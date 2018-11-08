@@ -3,16 +3,17 @@
 
 # My [Mis]Adventures in Python Packaging
 [![Python Environment](https://imgs.xkcd.com/comics/python_environment.png)](https://xkcd.com/1987/)
-
-
-
+_notes:
 I wanted to sharing my code in a more professional manor
 I started looking at how teams I have been on were doing it.
 I had been taking packing for granted
 this sent me down a rabbit hole of pain
 bad docs,
 packaging in python have been evolving for 18 years and is still changing
-I want 
+from my struggle, i want to share a clearer path on how to package python code.
+
+
+
 ## getpass.getuser()
 * Developer and Systems Engineer for a
 Content Delivery Network
@@ -257,11 +258,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDcxOTc0OCw2NTQzMTY5OTksLTgxOD
-U0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcxOTIsMzkyNDM1MjIy
-LC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMDcyMzIyODkxLDIzND
-UxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2Njgs
-MjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0xODk2Nz
-IzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5XX0=
+eyJoaXN0b3J5IjpbLTE3NDM4NTM2ODgsNjU0MzE2OTk5LC04MT
+g1NDAzMjcsLTIxNDI3NDM4NzcsMzk0OTA3MTkyLDM5MjQzNTIy
+MiwtMTAzNzIxMTYyMCw1MDgwNjU1ODYsMjA3MjMyMjg5MSwyMz
+Q1MTEyLDE0MjgxNjk5MTMsMTE1NTMwNjgwMywxNzkyMjY0NjY4
+LDI2MzY0MjExLDE1NDAxNDcyMzMsMTQzODg0MzIzMiwtMTg5Nj
+cyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOV19
 
 -->
