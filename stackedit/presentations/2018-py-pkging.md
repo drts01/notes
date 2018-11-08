@@ -34,12 +34,12 @@ Anyone:
 * Curious about newer standards and tooling
 
 _notes:
-* introduce how to properly share py code
+* * not just who want to share code but
 * take advantage of newer standards and tooling
 
 
 
-## 'NoneType' object has no attribute 'get'
+## X 'NoneType' object has no attribute 'get'
 Not intending to cover:
 * CI / CD
 * Testing
@@ -59,7 +59,8 @@ _notes:
 * For reliable transfer to environments
 
 _note:
-* not just who want to share code but
+* introduce how to properly share py code
+* not share code but
 * reliably distribute code
 * a git repo is not packaging
 * scp is not package distribution
@@ -257,11 +258,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk3NTEwMjUsNjU0MzE2OTk5LC04MT
-g1NDAzMjcsLTIxNDI3NDM4NzcsMzk0OTA3MTkyLDM5MjQzNTIy
-MiwtMTAzNzIxMTYyMCw1MDgwNjU1ODYsMjA3MjMyMjg5MSwyMz
-Q1MTEyLDE0MjgxNjk5MTMsMTE1NTMwNjgwMywxNzkyMjY0NjY4
-LDI2MzY0MjExLDE1NDAxNDcyMzMsMTQzODg0MzIzMiwtMTg5Nj
-cyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOV19
+eyJoaXN0b3J5IjpbMTcxNTcxMDY4MSw2NTQzMTY5OTksLTgxOD
+U0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcxOTIsMzkyNDM1MjIy
+LC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMDcyMzIyODkxLDIzND
+UxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2Njgs
+MjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0xODk2Nz
+IzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5XX0=
 
 -->
