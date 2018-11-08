@@ -305,6 +305,20 @@ _notes:
 
 
 
+## Flit
+* Implements PEP-518 and replaces setup<span></span>.py, setup.cfg, and requirements.txt with pyproject.toml
+* Builds and publishes artifact
+* Maintainer authored PEP-517
+
+
+
+## Poetry
+* Similar to Flit
+* superiour dependency resolution to Pipenv
+* created its own locking file to use with pyproject.toml
+
+
+
 ## Worth Mentioning
 * Pip-tools
 * Hatch
@@ -315,11 +329,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODU0MzIwNSwtMTgzMDcxNzc4MSwtMz
-Y1NDI3OTQxLDY1NDMxNjk5OSwtODE4NTQwMzI3LC0yMTQyNzQz
-ODc3LDM5NDkwNzE5MiwzOTI0MzUyMjIsLTEwMzcyMTE2MjAsNT
-A4MDY1NTg2LDIwNzIzMjI4OTEsMjM0NTExMiwxNDI4MTY5OTEz
-LDExNTUzMDY4MDMsMTc5MjI2NDY2OCwyNjM2NDIxMSwxNTQwMT
-Q3MjMzLDE0Mzg4NDMyMzIsLTE4OTY3MjM4ODgsNzUxOTgyNDg4
-XX0=
+eyJoaXN0b3J5IjpbNDM1NzE3MDE2LC0xODMwNzE3NzgxLC0zNj
+U0Mjc5NDEsNjU0MzE2OTk5LC04MTg1NDAzMjcsLTIxNDI3NDM4
+NzcsMzk0OTA3MTkyLDM5MjQzNTIyMiwtMTAzNzIxMTYyMCw1MD
+gwNjU1ODYsMjA3MjMyMjg5MSwyMzQ1MTEyLDE0MjgxNjk5MTMs
+MTE1NTMwNjgwMywxNzkyMjY0NjY4LDI2MzY0MjExLDE1NDAxND
+cyMzMsMTQzODg0MzIzMiwtMTg5NjcyMzg4OCw3NTE5ODI0ODhd
+fQ==
 -->
