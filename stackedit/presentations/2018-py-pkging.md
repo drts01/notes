@@ -14,6 +14,8 @@ _notes:
 * introduce how to properly distribute python
 * take advantage of newer standards and tooling
 
+when i started, i did think think i was going to have enough information to fill an hour
+rabbit hole
 
 
 ## .\. contents::
@@ -206,10 +208,10 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4MDY1NTg2LDIwNzIzMjI4OTEsMjM0NT
-ExMiwxNDI4MTY5OTEzLDExNTUzMDY4MDMsMTc5MjI2NDY2OCwy
-NjM2NDIxMSwxNTQwMTQ3MjMzLDE0Mzg4NDMyMzIsLTE4OTY3Mj
-M4ODgsNzUxOTgyNDg4LDM1NTcyNjczLDE0OTg0MTg1MDksLTc1
-MTAxNDY4LDE5NDM4NzA4MDksMzA5MDUyMTYzLC00NzM4OTA5Nj
-YsNjgyNjg1MzIxLDEyNTczNzMwMjIsMjU1MDE0OTE3XX0=
+eyJoaXN0b3J5IjpbLTM1NjAyNzU4Miw1MDgwNjU1ODYsMjA3Mj
+MyMjg5MSwyMzQ1MTEyLDE0MjgxNjk5MTMsMTE1NTMwNjgwMywx
+NzkyMjY0NjY4LDI2MzY0MjExLDE1NDAxNDcyMzMsMTQzODg0Mz
+IzMiwtMTg5NjcyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5
+ODQxODUwOSwtNzUxMDE0NjgsMTk0Mzg3MDgwOSwzMDkwNTIxNj
+MsLTQ3Mzg5MDk2Niw2ODI2ODUzMjEsMTI1NzM3MzAyMl19
 -->
