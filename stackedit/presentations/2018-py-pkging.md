@@ -17,14 +17,13 @@ _notes:
 
 
 ## .\. contents::
-### TOC
 1. Current (Legacy) Packaging Story
 	1. Overview of tooling
-	1. ExamMinimal Python Distribution
+	1. Example of a Minimal Python Distribution
 1. 
 	1. Changes in Progress
 	1. Overview of tooling
-	1. A modern workflow
+	1. Example of a Modern Workflow
 
 _notes:
 * going to go over tools
@@ -207,10 +206,10 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjE3MjQyNywyMDcyMzIyODkxLDIzND
-UxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2Njgs
-MjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0xODk2Nz
-IzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5LC03
-NTEwMTQ2OCwxOTQzODcwODA5LDMwOTA1MjE2MywtNDczODkwOT
-Y2LDY4MjY4NTMyMSwxMjU3MzczMDIyLDI1NTAxNDkxN119
+eyJoaXN0b3J5IjpbNTA4MDY1NTg2LDIwNzIzMjI4OTEsMjM0NT
+ExMiwxNDI4MTY5OTEzLDExNTUzMDY4MDMsMTc5MjI2NDY2OCwy
+NjM2NDIxMSwxNTQwMTQ3MjMzLDE0Mzg4NDMyMzIsLTE4OTY3Mj
+M4ODgsNzUxOTgyNDg4LDM1NTcyNjczLDE0OTg0MTg1MDksLTc1
+MTAxNDY4LDE5NDM4NzA4MDksMzA5MDUyMTYzLC00NzM4OTA5Nj
+YsNjgyNjg1MzIxLDEyNTczNzMwMjIsMjU1MDE0OTE3XX0=
 -->
