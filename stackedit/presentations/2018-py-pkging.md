@@ -14,9 +14,8 @@
 python setup.py install
 ```
 _notes:
-* 2000
-* beginnings of modern Python packaging
-* 
+* 2000 - beginnings of modern Python packaging
+* confidence that code would build and ru
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5NjcxMzg5LC0yMTE5MTE5NjU0XX0=
+eyJoaXN0b3J5IjpbMTU3NjgxNjQxMSwtMjExOTExOTY1NF19
 -->
