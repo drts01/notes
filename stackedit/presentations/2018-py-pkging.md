@@ -13,6 +13,14 @@
 ```bash
 python setup.py install
 ```
+setup.py
+```python
+from distutils.core import setup
+setup(name='foo',
+      version='1.0',
+      py_modules=['foo'],
+      )
+```
 _notes:
 * 2000 - beginnings of modern Python packaging
 * b4 custom makefiles and hope for the best
@@ -44,7 +52,7 @@ _notes:
 * overcome distutils' limitations
 * i.e. dependencies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0MTg5NzI0LC00NzM4OTA5NjYsNjgyNj
-g1MzIxLDEyNTczNzMwMjIsMjU1MDE0OTE3LC0yMTE5MTE5NjU0
-XX0=
+eyJoaXN0b3J5IjpbMTQ2MzQxOTkxMCwtNDczODkwOTY2LDY4Mj
+Y4NTMyMSwxMjU3MzczMDIyLDI1NTAxNDkxNywtMjExOTExOTY1
+NF19
 -->
