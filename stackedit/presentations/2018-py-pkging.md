@@ -22,11 +22,15 @@ _notes:
 
 
 ## 'NoneType' object has no attribute 'get'
+Will not:
 * CI / CD
 * Testing
 * Documentation
-* these are important
 
+_notes:
+* these are important
+* focusing on the packaging process
+* docs can be argued to be included
 
 
 
@@ -221,7 +225,7 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NTMwMzIxOCwzOTI0MzUyMjIsLTEwMz
+eyJoaXN0b3J5IjpbLTE0MDkwMzA2MywzOTI0MzUyMjIsLTEwMz
 cyMTE2MjAsNTA4MDY1NTg2LDIwNzIzMjI4OTEsMjM0NTExMiwx
 NDI4MTY5OTEzLDExNTUzMDY4MDMsMTc5MjI2NDY2OCwyNjM2ND
 IxMSwxNTQwMTQ3MjMzLDE0Mzg4NDMyMzIsLTE4OTY3MjM4ODgs
