@@ -285,6 +285,14 @@ _notes:
 
 
 ## pyproject.toml
+
+```ini
+[build-system]
+# Defined by PEP 518:
+requires = ["flit"]
+# Defined by this PEP:
+build-backend = "flit.api:main"
+```
 _notes:
 * TOML Manifest file
 * designed for application, abstract, dependancies
@@ -303,11 +311,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA3MTc3ODEsLTM2NTQyNzk0MSw2NT
-QzMTY5OTksLTgxODU0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcx
-OTIsMzkyNDM1MjIyLC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMD
-cyMzIyODkxLDIzNDUxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAz
-LDE3OTIyNjQ2NjgsMjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4OD
-QzMjMyLC0xODk2NzIzODg4LDc1MTk4MjQ4OCwzNTU3MjY3M119
-
+eyJoaXN0b3J5IjpbLTE3Nzc2MjcyNTksLTE4MzA3MTc3ODEsLT
+M2NTQyNzk0MSw2NTQzMTY5OTksLTgxODU0MDMyNywtMjE0Mjc0
+Mzg3NywzOTQ5MDcxOTIsMzkyNDM1MjIyLC0xMDM3MjExNjIwLD
+UwODA2NTU4NiwyMDcyMzIyODkxLDIzNDUxMTIsMTQyODE2OTkx
+MywxMTU1MzA2ODAzLDE3OTIyNjQ2NjgsMjYzNjQyMTEsMTU0MD
+E0NzIzMywxNDM4ODQzMjMyLC0xODk2NzIzODg4LDc1MTk4MjQ4
+OF19
 -->
