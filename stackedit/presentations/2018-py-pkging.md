@@ -93,11 +93,11 @@ pip install -r requirements.txt
 _notes:
 * The [PyPA recommended](https://packaging.python.org/en/latest/current/) tool for installing Python packages.
 * Released in 2011
-* Python 2.7.9 and later (on the python2 series), and Python 3.4
+* 2014 included w/ Python
 * requirements.txt convention Enabled contrete dependancies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTI2Njk5MTYsNzUxOTgyNDg4LDM1NT
-cyNjczLDE0OTg0MTg1MDksLTc1MTAxNDY4LDE5NDM4NzA4MDks
-MzA5MDUyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxLDEyNTczNz
-MwMjIsMjU1MDE0OTE3LC0yMTE5MTE5NjU0XX0=
+eyJoaXN0b3J5IjpbMTg1NTA0OTc2OCw3NTE5ODI0ODgsMzU1Nz
+I2NzMsMTQ5ODQxODUwOSwtNzUxMDE0NjgsMTk0Mzg3MDgwOSwz
+MDkwNTIxNjMsLTQ3Mzg5MDk2Niw2ODI2ODUzMjEsMTI1NzM3Mz
+AyMiwyNTUwMTQ5MTcsLTIxMTkxMTk2NTRdfQ==
 -->
