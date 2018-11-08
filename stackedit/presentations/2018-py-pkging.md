@@ -16,6 +16,13 @@ _notes:
 * a group to help any who writes code to grow
 
 
+
+## X
+_notes:
+* initally I didnt wory about py pkging
+* i just edit some code and let the CI servers do there thing
+
+
 ## for pythonista in socalcodecamp:
 Anyone:
 * New to Python packaging
@@ -232,11 +239,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTM0OTAwNywzOTI0MzUyMjIsLTEwMz
-cyMTE2MjAsNTA4MDY1NTg2LDIwNzIzMjI4OTEsMjM0NTExMiwx
-NDI4MTY5OTEzLDExNTUzMDY4MDMsMTc5MjI2NDY2OCwyNjM2ND
-IxMSwxNTQwMTQ3MjMzLDE0Mzg4NDMyMzIsLTE4OTY3MjM4ODgs
-NzUxOTgyNDg4LDM1NTcyNjczLDE0OTg0MTg1MDksLTc1MTAxND
-Y4LDE5NDM4NzA4MDksMzA5MDUyMTYzLC00NzM4OTA5NjZdfQ==
+eyJoaXN0b3J5IjpbLTE4NDMzMzkxMjAsMzkyNDM1MjIyLC0xMD
+M3MjExNjIwLDUwODA2NTU4NiwyMDcyMzIyODkxLDIzNDUxMTIs
+MTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2NjgsMjYzNj
+QyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0xODk2NzIzODg4
+LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5LC03NTEwMT
+Q2OCwxOTQzODcwODA5LDMwOTA1MjE2MywtNDczODkwOTY2XX0=
 
 -->
