@@ -19,6 +19,7 @@ _notes:
 
 
 
+reliably distribute code
 ## X
 _notes:
 * initally I didnt wory about py pkging
@@ -255,7 +256,7 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDA1NDg2NCwtMjE0Mjc0Mzg3NywzOT
+eyJoaXN0b3J5IjpbMTU3MTg3ODEzMiwtMjE0Mjc0Mzg3NywzOT
 Q5MDcxOTIsMzkyNDM1MjIyLC0xMDM3MjExNjIwLDUwODA2NTU4
 NiwyMDcyMzIyODkxLDIzNDUxMTIsMTQyODE2OTkxMywxMTU1Mz
 A2ODAzLDE3OTIyNjQ2NjgsMjYzNjQyMTEsMTU0MDE0NzIzMywx
