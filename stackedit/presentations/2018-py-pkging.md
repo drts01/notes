@@ -11,7 +11,9 @@
 
 ## locals()
 * Introduce proper Python code distribution
+* Cover newer standards and tooling
 * 
+
 _notes:
 * introduce how to properly distribute python
 * take advantage of newer standards and tooling
@@ -208,11 +210,10 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzYzMjUzNiwtMTAzNzIxMTYyMCw1MD
-gwNjU1ODYsMjA3MjMyMjg5MSwyMzQ1MTEyLDE0MjgxNjk5MTMs
-MTE1NTMwNjgwMywxNzkyMjY0NjY4LDI2MzY0MjExLDE1NDAxND
-cyMzMsMTQzODg0MzIzMiwtMTg5NjcyMzg4OCw3NTE5ODI0ODgs
-MzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMDE0NjgsMTk0Mzg3MD
-gwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Niw2ODI2ODUzMjFdfQ==
-
+eyJoaXN0b3J5IjpbLTQzMDQzNDA5LC0xMDM3MjExNjIwLDUwOD
+A2NTU4NiwyMDcyMzIyODkxLDIzNDUxMTIsMTQyODE2OTkxMywx
+MTU1MzA2ODAzLDE3OTIyNjQ2NjgsMjYzNjQyMTEsMTU0MDE0Nz
+IzMywxNDM4ODQzMjMyLC0xODk2NzIzODg4LDc1MTk4MjQ4OCwz
+NTU3MjY3MywxNDk4NDE4NTA5LC03NTEwMTQ2OCwxOTQzODcwOD
+A5LDMwOTA1MjE2MywtNDczODkwOTY2LDY4MjY4NTMyMV19
 -->
