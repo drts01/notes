@@ -19,17 +19,6 @@ _notes:
 
 
 
-reliably distribute code
-## X
-_notes:
-* initally I didnt wory about py pkging
-* I just used someone else' project temple and ran
-* i just edit some code and let the CI servers do their thing
-* but recently I found myself needing to package up some code from scratch w/o any predefined setup
-* but i have see people running py file checked out from git and scp-ing them around
-
-
-
 ## for pythonista in socalcodecamp:
 Anyone:
 * New to Python packaging
@@ -62,6 +51,7 @@ _notes:
 * For reliable transfer to environments
 
 _note:
+* not just who want to share code but
 * reliably distribute code
 * a git repo is not packaging
 * scp is not package distribution
@@ -259,11 +249,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0MzE2OTk5LC04MTg1NDAzMjcsLTIxND
-I3NDM4NzcsMzk0OTA3MTkyLDM5MjQzNTIyMiwtMTAzNzIxMTYy
-MCw1MDgwNjU1ODYsMjA3MjMyMjg5MSwyMzQ1MTEyLDE0MjgxNj
-k5MTMsMTE1NTMwNjgwMywxNzkyMjY0NjY4LDI2MzY0MjExLDE1
-NDAxNDcyMzMsMTQzODg0MzIzMiwtMTg5NjcyMzg4OCw3NTE5OD
-I0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMDE0NjhdfQ==
+eyJoaXN0b3J5IjpbLTE3MDA1Nzk1MTAsNjU0MzE2OTk5LC04MT
+g1NDAzMjcsLTIxNDI3NDM4NzcsMzk0OTA3MTkyLDM5MjQzNTIy
+MiwtMTAzNzIxMTYyMCw1MDgwNjU1ODYsMjA3MjMyMjg5MSwyMz
+Q1MTEyLDE0MjgxNjk5MTMsMTE1NTMwNjgwMywxNzkyMjY0NjY4
+LDI2MzY0MjExLDE1NDAxNDcyMzMsMTQzODg0MzIzMiwtMTg5Nj
+cyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOV19
 
 -->
