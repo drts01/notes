@@ -41,8 +41,8 @@ setup(
 ```
 _notes:
 * overcome distutils' limitations
-* 
+* i.e. dependencies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODgyMDg0Niw2ODI2ODUzMjEsMTI1Nz
-M3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMTk2NTRdfQ==
+eyJoaXN0b3J5IjpbLTE0Njc4NzQzMjksNjgyNjg1MzIxLDEyNT
+czNzMwMjIsMjU1MDE0OTE3LC0yMTE5MTE5NjU0XX0=
 -->
