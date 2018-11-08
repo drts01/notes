@@ -151,6 +151,12 @@ _notes:
 
 
 
+## Example
+_notes:
+* check in
+
+
+
 ## In the Works
 * Pipfile
 * pyproject.toml
@@ -166,10 +172,11 @@ _notes:
 * Intended for developer/sysadmins, concrete, dependencies for apps
 	* i.e. deploy on a server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0NTExMiwxNDI4MTY5OTEzLDExNTUzMD
-Y4MDMsMTc5MjI2NDY2OCwyNjM2NDIxMSwxNTQwMTQ3MjMzLDE0
-Mzg4NDMyMzIsLTE4OTY3MjM4ODgsNzUxOTgyNDg4LDM1NTcyNj
-czLDE0OTg0MTg1MDksLTc1MTAxNDY4LDE5NDM4NzA4MDksMzA5
-MDUyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxLDEyNTczNzMwMj
-IsMjU1MDE0OTE3LC0yMTE5MTE5NjU0XX0=
+eyJoaXN0b3J5IjpbMTE4MDM2NTA4OSwyMzQ1MTEyLDE0MjgxNj
+k5MTMsMTE1NTMwNjgwMywxNzkyMjY0NjY4LDI2MzY0MjExLDE1
+NDAxNDcyMzMsMTQzODg0MzIzMiwtMTg5NjcyMzg4OCw3NTE5OD
+I0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMDE0NjgsMTk0
+Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Niw2ODI2ODUzMj
+EsMTI1NzM3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMTk2NTRdfQ==
+
 -->
