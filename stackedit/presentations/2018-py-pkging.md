@@ -16,7 +16,11 @@ python setup.py install
 _notes:
 * 2000 - beginnings of modern Python packaging
 * standard interface to build and install
-* confidence code will work in diff envs
+* gave confidence code will build and run in diff envs
+
+
+
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczODk2NzA3LC0yMTE5MTE5NjU0XX0=
+eyJoaXN0b3J5IjpbMjU1MDE0OTE3LC0yMTE5MTE5NjU0XX0=
 -->
