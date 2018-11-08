@@ -23,6 +23,7 @@ _notes:
 _notes:
 * initally I didnt wory about py pkging
 * i just edit some code and let the CI servers do their thing
+* but recently I found myself needing to package up 
 * but i have see people running py file checked out from git and scp-ing them around
 
 
@@ -253,7 +254,7 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA4NjQ2NzksLTIxNDI3NDM4NzcsMz
+eyJoaXN0b3J5IjpbLTE1OTgwOTczMTUsLTIxNDI3NDM4NzcsMz
 k0OTA3MTkyLDM5MjQzNTIyMiwtMTAzNzIxMTYyMCw1MDgwNjU1
 ODYsMjA3MjMyMjg5MSwyMzQ1MTEyLDE0MjgxNjk5MTMsMTE1NT
 MwNjgwMywxNzkyMjY0NjY4LDI2MzY0MjExLDE1NDAxNDcyMzMs
