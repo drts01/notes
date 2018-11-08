@@ -10,6 +10,9 @@
 
 
 ## locals()
+_notes:
+* introduce how to properly distribute python
+* 
 
 
 
@@ -22,7 +25,7 @@
 	1. Changes in Progress
 	1. Overview of tooling
 	1. 
- - [ ] A modern workflow
+ -  A modern workflow
 
 _notes:
 * going to go over tools
@@ -198,8 +201,12 @@ _notes:
 	* i.e. deploy on a server
 
 
+
+## A Modern Workflow
+_notes:
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc0MTE3ODksMjA3MjMyMjg5MSwyMz
+eyJoaXN0b3J5IjpbLTEyNjY3MzcxMTIsMjA3MjMyMjg5MSwyMz
 Q1MTEyLDE0MjgxNjk5MTMsMTE1NTMwNjgwMywxNzkyMjY0NjY4
 LDI2MzY0MjExLDE1NDAxNDcyMzMsMTQzODg0MzIzMiwtMTg5Nj
 cyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOSwt
