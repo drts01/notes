@@ -56,9 +56,10 @@ _notes:
 
 
 ## Virtualenv
-
+```bash
+virtualenv venv
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTAwNDcyMzYsLTQ3Mzg5MDk2Niw2OD
-I2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMTk2
-NTRdfQ==
+eyJoaXN0b3J5IjpbOTM3NjA0MzAxLC00NzM4OTA5NjYsNjgyNj
+g1MzIxLDEyNTczNzMwMjIsMjU1MDE0OTE3LC0yMTE5MTE5NjU0
+XX0=
 -->
