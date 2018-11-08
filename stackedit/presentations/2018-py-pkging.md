@@ -5,6 +5,9 @@
 [![Python Environment](https://imgs.xkcd.com/comics/python_environment.png)](https://xkcd.com/1987/)
 
 
+
+I wanted to sharing my code in a more professional manor
+I 
 ## getpass.getuser()
 * Developer and Systems Engineer for a
 Content Delivery Network
@@ -249,7 +252,7 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA1Nzk1MTAsNjU0MzE2OTk5LC04MT
+eyJoaXN0b3J5IjpbLTExNjY1ODU1NzQsNjU0MzE2OTk5LC04MT
 g1NDAzMjcsLTIxNDI3NDM4NzcsMzk0OTA3MTkyLDM5MjQzNTIy
 MiwtMTAzNzIxMTYyMCw1MDgwNjU1ODYsMjA3MjMyMjg5MSwyMz
 Q1MTEyLDE0MjgxNjk5MTMsMTE1NTMwNjgwMywxNzkyMjY0NjY4
