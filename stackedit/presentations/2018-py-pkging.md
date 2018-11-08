@@ -13,7 +13,7 @@
 _notes:
 * being using Python professionally for a few years
 * Used to automate and manage large infrastructure
-* I have a desire to learn by 
+* 
 
 
 ## for pythonista in socalcodecamp:
@@ -232,7 +232,7 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDQ5MzI4LDM5MjQzNTIyMiwtMTAzNz
+eyJoaXN0b3J5IjpbNzMzMzg0NDY2LDM5MjQzNTIyMiwtMTAzNz
 IxMTYyMCw1MDgwNjU1ODYsMjA3MjMyMjg5MSwyMzQ1MTEyLDE0
 MjgxNjk5MTMsMTE1NTMwNjgwMywxNzkyMjY0NjY4LDI2MzY0Mj
 ExLDE1NDAxNDcyMzMsMTQzODg0MzIzMiwtMTg5NjcyMzg4OCw3
