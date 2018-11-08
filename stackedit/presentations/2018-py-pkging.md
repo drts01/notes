@@ -23,7 +23,7 @@ _notes:
 _notes:
 * initally I didnt wory about py pkging
 * i just edit some code and let the CI servers do their thing
-* but i have 
+* but i have see people running py file checked out from git and scp-ing them around
 
 
 
@@ -243,10 +243,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTUzODEyOSwzOTQ5MDcxOTIsMzkyND
-M1MjIyLC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMDcyMzIyODkx
-LDIzNDUxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNj
-Q2NjgsMjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0x
-ODk2NzIzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NT
-A5LC03NTEwMTQ2OCwxOTQzODcwODA5LDMwOTA1MjE2M119
+eyJoaXN0b3J5IjpbLTIxNDI3NDM4NzcsMzk0OTA3MTkyLDM5Mj
+QzNTIyMiwtMTAzNzIxMTYyMCw1MDgwNjU1ODYsMjA3MjMyMjg5
+MSwyMzQ1MTEyLDE0MjgxNjk5MTMsMTE1NTMwNjgwMywxNzkyMj
+Y0NjY4LDI2MzY0MjExLDE1NDAxNDcyMzMsMTQzODg0MzIzMiwt
+MTg5NjcyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxOD
+UwOSwtNzUxMDE0NjgsMTk0Mzg3MDgwOSwzMDkwNTIxNjNdfQ==
+
 -->
