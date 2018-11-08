@@ -15,6 +15,7 @@ python setup.py install
 ```
 _notes:
 * 2000 - beginnings of modern Python packaging
+* 
 * standard interface to build and install
 * gave confidence code will build and run in diff envs
 
@@ -22,8 +23,14 @@ _notes:
 
 ## Python Packaging Index
 ![PyPI Screenshot](https://api.pcloud.com/getpubthumb?code=ulHctalK&size=746x688)
-_
+_notes:
+* 2003 Catalog (links) of py pkgs
+* 2004 hosting pkgs
+
+
+
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU2NDY0MDQsMjU1MDE0OTE3LC0yMT
-E5MTE5NjU0XX0=
+eyJoaXN0b3J5IjpbMjE0MjkyMTYwOSwyNTUwMTQ5MTcsLTIxMT
+kxMTk2NTRdfQ==
 -->
