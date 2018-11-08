@@ -58,8 +58,10 @@ _notes:
 ## Virtualenv
 ```bash
 virtualenv venv
+. venv/bin/activate
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3NjA0MzAxLC00NzM4OTA5NjYsNjgyNj
-g1MzIxLDEyNTczNzMwMjIsMjU1MDE0OTE3LC0yMTE5MTE5NjU0
-XX0=
+eyJoaXN0b3J5IjpbMTM3MTIxODU3NCwtNDczODkwOTY2LDY4Mj
+Y4NTMyMSwxMjU3MzczMDIyLDI1NTAxNDkxNywtMjExOTExOTY1
+NF19
 -->
