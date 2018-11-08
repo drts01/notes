@@ -56,7 +56,7 @@ _notes:
 
 
 ## Virtualenv
-isolated Python environments
+"`virtualenv` is a tool to create isolated Python environments"<sup> <small><small>[ref](https://virtualenv.pypa.io)</small></small><sup><!-- .element: style="text-align:center" -->
 ```bash
 virtualenv venv
 . venv/bin/activate
@@ -70,7 +70,7 @@ which python
 
 ## Pip
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzgyNTYwNSwxOTQzODcwODA5LDMwOT
+eyJoaXN0b3J5IjpbMTY3MDY2MDUxMSwxOTQzODcwODA5LDMwOT
 A1MjE2MywtNDczODkwOTY2LDY4MjY4NTMyMSwxMjU3MzczMDIy
 LDI1NTAxNDkxNywtMjExOTExOTY1NF19
 -->
