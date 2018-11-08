@@ -50,7 +50,7 @@ setup(
 )
 ```
 _notes:
-* overcome distutils' limitations
+* 2004 - overcome distutils' limitations
 * i.e. dependencies
 
 
@@ -65,8 +65,12 @@ which python
 ~/ ... /venv/bin/python
 ```
 * solution for
+
+
+
+## Pip
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5OTI4MzQxLDE5NDM4NzA4MDksMzA5MD
-UyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxLDEyNTczNzMwMjIs
-MjU1MDE0OTE3LC0yMTE5MTE5NjU0XX0=
+eyJoaXN0b3J5IjpbLTMzNzgyNTYwNSwxOTQzODcwODA5LDMwOT
+A1MjE2MywtNDczODkwOTY2LDY4MjY4NTMyMSwxMjU3MzczMDIy
+LDI1NTAxNDkxNywtMjExOTExOTY1NF19
 -->
