@@ -9,7 +9,7 @@
 
 
 
-## Typical
+## Install 
 ```bash
 cd awesome-pyproject/
 virtualenv venv
@@ -17,6 +17,8 @@ virtualenv venv
 pip install -r requirements.txt
 python setup.py install
 ```
+* is this pattern familiar?
+* 
 
 
 
@@ -82,7 +84,7 @@ which python
 
 ## Pip
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwNDU1NDI2LDE5NDM4NzA4MDksMzA5MD
-UyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxLDEyNTczNzMwMjIs
-MjU1MDE0OTE3LC0yMTE5MTE5NjU0XX0=
+eyJoaXN0b3J5IjpbLTE0MjgwNTI4NDEsMTk0Mzg3MDgwOSwzMD
+kwNTIxNjMsLTQ3Mzg5MDk2Niw2ODI2ODUzMjEsMTI1NzM3MzAy
+MiwyNTUwMTQ5MTcsLTIxMTkxMTk2NTRdfQ==
 -->
