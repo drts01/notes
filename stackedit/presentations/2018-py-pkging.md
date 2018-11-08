@@ -52,8 +52,13 @@ setup(
 _notes:
 * overcome distutils' limitations
 * i.e. dependencies
+
+
+
+## Virtualenv
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4NDYwMjA0LC00NzM4OTA5NjYsNjgyNj
-g1MzIxLDEyNTczNzMwMjIsMjU1MDE0OTE3LC0yMTE5MTE5NjU0
-XX0=
+eyJoaXN0b3J5IjpbLTEyOTAwNDcyMzYsLTQ3Mzg5MDk2Niw2OD
+I2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMTk2
+NTRdfQ==
 -->
