@@ -39,7 +39,10 @@ setup(
     packages=find_packages(),
 )
 ```
+_notes:
+* overcome distutils' limitations
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyNjg1MzIxLDEyNTczNzMwMjIsMjU1MD
-E0OTE3LC0yMTE5MTE5NjU0XX0=
+eyJoaXN0b3J5IjpbLTgwODgyMDg0Niw2ODI2ODUzMjEsMTI1Nz
+M3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMTk2NTRdfQ==
 -->
