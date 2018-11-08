@@ -24,15 +24,15 @@ _notes:
 1. 
 	1. Changes in Progress
 	1. Overview of tooling
-	1. A 
+	1. 
  -  A modern workflow
 
 _notes:
 * going to go over tools
 * show a minimal example
 * (if you all can handle some more)
-* go over upcoming changes  and tooling
-* My workflow
+* go over upcoming changes  and tooling to
+* understand why I made choices
 
 
 
@@ -208,10 +208,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Njg1NzAyOCwyMDcyMzIyODkxLDIzND
-UxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2Njgs
-MjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0xODk2Nz
-IzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5LC03
-NTEwMTQ2OCwxOTQzODcwODA5LDMwOTA1MjE2MywtNDczODkwOT
-Y2LDY4MjY4NTMyMSwxMjU3MzczMDIyLDI1NTAxNDkxN119
+eyJoaXN0b3J5IjpbLTE3ODgxMDI1MTUsMjA3MjMyMjg5MSwyMz
+Q1MTEyLDE0MjgxNjk5MTMsMTE1NTMwNjgwMywxNzkyMjY0NjY4
+LDI2MzY0MjExLDE1NDAxNDcyMzMsMTQzODg0MzIzMiwtMTg5Nj
+cyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOSwt
+NzUxMDE0NjgsMTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mzg5MD
+k2Niw2ODI2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MTddfQ==
+
 -->
