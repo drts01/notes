@@ -10,7 +10,9 @@ I wanted to sharing my code in a more professional manor
 I started looking at how teams I have been on were doing it.
 I had been taking packing for granted
 this sent me down a rabbit hole of pain
-bad docs
+bad docs,
+packaging in python have been evolving for 18 years and is still changing
+I want 
 ## getpass.getuser()
 * Developer and Systems Engineer for a
 Content Delivery Network
@@ -255,7 +257,7 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDU5MzIwMSw2NTQzMTY5OTksLTgxOD
+eyJoaXN0b3J5IjpbLTg1NDcxOTc0OCw2NTQzMTY5OTksLTgxOD
 U0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcxOTIsMzkyNDM1MjIy
 LC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMDcyMzIyODkxLDIzND
 UxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2Njgs
