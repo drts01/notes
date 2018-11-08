@@ -16,9 +16,9 @@ python setup.py install
 setup<span>.</span>py:
 ```python
 from distutils.core import setup
-setup(name='foo',
-      version='1.0',
-      py_modules=['foo'],
+setup(name="foo",
+      version="1.0",
+      py_modules=["foo"],
       )
 ```
 _notes:
@@ -46,14 +46,14 @@ setup(
     name="HelloWorld",
     version="0.1",
     packages=find_packages(),
-    install_requires=['A', 'B']
+    install_requires=["foo"],
 )
 ```
 _notes:
 * overcome distutils' limitations
 * i.e. dependencies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5OTE4NjQ1LC00NzM4OTA5NjYsNjgyNj
+eyJoaXN0b3J5IjpbNTk4NDYwMjA0LC00NzM4OTA5NjYsNjgyNj
 g1MzIxLDEyNTczNzMwMjIsMjU1MDE0OTE3LC0yMTE5MTE5NjU0
 XX0=
 -->
