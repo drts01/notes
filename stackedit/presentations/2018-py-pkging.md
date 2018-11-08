@@ -34,7 +34,9 @@ Anyone:
 * Curious about newer standards and tooling
 
 _notes:
-* realiz
+anyone who realizes
+* git is not a py pkg and
+* scp is not distribution
 * wants to take advantage of newer standards and tooling
 
 
@@ -256,7 +258,7 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTcwMjUwODUsNjU0MzE2OTk5LC04MT
+eyJoaXN0b3J5IjpbLTE4Njk1MDg1OTQsNjU0MzE2OTk5LC04MT
 g1NDAzMjcsLTIxNDI3NDM4NzcsMzk0OTA3MTkyLDM5MjQzNTIy
 MiwtMTAzNzIxMTYyMCw1MDgwNjU1ODYsMjA3MjMyMjg5MSwyMz
 Q1MTEyLDE0MjgxNjk5MTMsMTE1NTMwNjgwMywxNzkyMjY0NjY4
