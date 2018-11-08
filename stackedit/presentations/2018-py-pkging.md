@@ -134,7 +134,7 @@ _notes:
 * sdist provides metadata and source files
 * bdist removes the build step before installing
 * 2012 wheel provides a simpler interface between the build system and the installer.
-* wheel is the st
+* wheel is the current standard for a distribution
 
 
 ## Publishing Today
@@ -149,10 +149,10 @@ twine upload dist/*
 _notes:
 * minimal steps (i.e. no testing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU0MjMxMjgsMTE1NTMwNjgwMywxNz
-kyMjY0NjY4LDI2MzY0MjExLDE1NDAxNDcyMzMsMTQzODg0MzIz
-MiwtMTg5NjcyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5OD
-QxODUwOSwtNzUxMDE0NjgsMTk0Mzg3MDgwOSwzMDkwNTIxNjMs
-LTQ3Mzg5MDk2Niw2ODI2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMT
-Q5MTcsLTIxMTkxMTk2NTRdfQ==
+eyJoaXN0b3J5IjpbMTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OT
+IyNjQ2NjgsMjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMy
+LC0xODk2NzIzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4ND
+E4NTA5LC03NTEwMTQ2OCwxOTQzODcwODA5LDMwOTA1MjE2Mywt
+NDczODkwOTY2LDY4MjY4NTMyMSwxMjU3MzczMDIyLDI1NTAxND
+kxNywtMjExOTExOTY1NF19
 -->
