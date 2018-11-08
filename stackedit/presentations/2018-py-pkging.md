@@ -6,9 +6,14 @@
 
 
 ## getpass.getuser()
+* Developer and Systems Engineer for CDN
+* Site Reliability Engineer for Critical Event Management Company
+* "SGV Software Craftsmanship" Co-Founder
+
 _notes:
 * being using Python professionally for a few years
-* Used to automate and manage large infrastu
+* Used to automate and manage large infrastructure
+* I have a desire to learn by 
 
 
 ## for pythonista in socalcodecamp:
@@ -227,11 +232,10 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODU2NDQ5MSwzOTI0MzUyMjIsLTEwMz
-cyMTE2MjAsNTA4MDY1NTg2LDIwNzIzMjI4OTEsMjM0NTExMiwx
-NDI4MTY5OTEzLDExNTUzMDY4MDMsMTc5MjI2NDY2OCwyNjM2ND
-IxMSwxNTQwMTQ3MjMzLDE0Mzg4NDMyMzIsLTE4OTY3MjM4ODgs
-NzUxOTgyNDg4LDM1NTcyNjczLDE0OTg0MTg1MDksLTc1MTAxND
-Y4LDE5NDM4NzA4MDksMzA5MDUyMTYzLC00NzM4OTA5NjZdfQ==
-
+eyJoaXN0b3J5IjpbLTM5MDQ5MzI4LDM5MjQzNTIyMiwtMTAzNz
+IxMTYyMCw1MDgwNjU1ODYsMjA3MjMyMjg5MSwyMzQ1MTEyLDE0
+MjgxNjk5MTMsMTE1NTMwNjgwMywxNzkyMjY0NjY4LDI2MzY0Mj
+ExLDE1NDAxNDcyMzMsMTQzODg0MzIzMiwtMTg5NjcyMzg4OCw3
+NTE5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMDE0Nj
+gsMTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Nl19
 -->
