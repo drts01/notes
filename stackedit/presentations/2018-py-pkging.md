@@ -9,10 +9,11 @@
 
 
 
-## X
-```Python
-echo True
+## distutils
+```bash
+python setup.py install
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTcyODgzOSwtMjExOTExOTY1NF19
+eyJoaXN0b3J5IjpbLTIwMDEzOTcwMDYsLTIxMTkxMTk2NTRdfQ
+==
 -->
