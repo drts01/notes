@@ -15,7 +15,7 @@ python setup.py install
 ```
 _notes:
 * 2000 - beginnings of modern Python packaging
-* 
+* b4 custom makefiles and hope for the best
 * standard interface to build and install
 * gave confidence code will build and run in diff envs
 
@@ -31,6 +31,6 @@ _notes:
 
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjkyMTYwOSwyNTUwMTQ5MTcsLTIxMT
+eyJoaXN0b3J5IjpbMTI5MDk5MjEzMCwyNTUwMTQ5MTcsLTIxMT
 kxMTk2NTRdfQ==
 -->
