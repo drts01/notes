@@ -91,10 +91,10 @@ _notes:
 pip install -r requirements.txt
 ```
 _notes:
-* 2008
+* 2008 -
+* requirements.txt convention gave users the power to easily replicate environments.
 * 2014 included w/ Python
-* requirements.txt convention enabled contrete dependancies
-
+* https://packaging.python.org/discussions/pip-vs-easy-install/
 
 
 ## Python Packaging Authority
@@ -115,7 +115,7 @@ _notes:
 * 2013
 * PyPA recommend method to upload to PyPI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTgyMzY1MywtMTg5NjcyMzg4OCw3NT
+eyJoaXN0b3J5IjpbMTQzODg0MzIzMiwtMTg5NjcyMzg4OCw3NT
 E5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMDE0Njgs
 MTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Niw2ODI2OD
 UzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMTk2NTRd
