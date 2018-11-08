@@ -113,6 +113,7 @@ _notes:
 
 
 ## Twine
+"A utility for publishing Python packages on PyPI."
 _notes:
 * may not be familiar w/ this tool if just learning to package
 * 2013
@@ -132,9 +133,9 @@ twine upload dist/*
 _notes:
 * minimal steps (i.e. no testing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4OD
-QzMjMyLC0xODk2NzIzODg4LDc1MTk4MjQ4OCwzNTU3MjY3Mywx
-NDk4NDE4NTA5LC03NTEwMTQ2OCwxOTQzODcwODA5LDMwOTA1Mj
-E2MywtNDczODkwOTY2LDY4MjY4NTMyMSwxMjU3MzczMDIyLDI1
-NTAxNDkxNywtMjExOTExOTY1NF19
+eyJoaXN0b3J5IjpbNTQyNDk5MDQ2LDI2MzY0MjExLDE1NDAxND
+cyMzMsMTQzODg0MzIzMiwtMTg5NjcyMzg4OCw3NTE5ODI0ODgs
+MzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMDE0NjgsMTk0Mzg3MD
+gwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Niw2ODI2ODUzMjEsMTI1
+NzM3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMTk2NTRdfQ==
 -->
