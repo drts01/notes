@@ -14,9 +14,6 @@ _notes:
 * introduce how to properly distribute python
 * take advantage of newer standards and tooling
 
-when i started, i did think think i was going to have enough information to fill an hour
-rabbit hole
-
 
 ## .\. contents::
 1. Current (Legacy) Packaging Story
@@ -33,7 +30,8 @@ _notes:
 * (if you all can handle some more)
 * go over upcoming changes  and tooling to
 * understand why I made choices
-
+* we will see how far we can go
+* please ask questions during examples
 
 
 ## Installing My Application
@@ -208,10 +206,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjAyNzU4Miw1MDgwNjU1ODYsMjA3Mj
-MyMjg5MSwyMzQ1MTEyLDE0MjgxNjk5MTMsMTE1NTMwNjgwMywx
-NzkyMjY0NjY4LDI2MzY0MjExLDE1NDAxNDcyMzMsMTQzODg0Mz
-IzMiwtMTg5NjcyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5
-ODQxODUwOSwtNzUxMDE0NjgsMTk0Mzg3MDgwOSwzMDkwNTIxNj
-MsLTQ3Mzg5MDk2Niw2ODI2ODUzMjEsMTI1NzM3MzAyMl19
+eyJoaXN0b3J5IjpbLTEwMzcyMTE2MjAsNTA4MDY1NTg2LDIwNz
+IzMjI4OTEsMjM0NTExMiwxNDI4MTY5OTEzLDExNTUzMDY4MDMs
+MTc5MjI2NDY2OCwyNjM2NDIxMSwxNTQwMTQ3MjMzLDE0Mzg4ND
+MyMzIsLTE4OTY3MjM4ODgsNzUxOTgyNDg4LDM1NTcyNjczLDE0
+OTg0MTg1MDksLTc1MTAxNDY4LDE5NDM4NzA4MDksMzA5MDUyMT
+YzLC00NzM4OTA5NjYsNjgyNjg1MzIxLDEyNTczNzMwMjJdfQ==
+
 -->
