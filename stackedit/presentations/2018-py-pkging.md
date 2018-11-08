@@ -15,7 +15,9 @@ python setup.py install
 ```
 _notes:
 * 2000 - beginnings of modern Python packaging
-* confidence that code would build and ru
+* standard interfac
+* confidence that code would build other than dev's computer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjgxNjQxMSwtMjExOTExOTY1NF19
+eyJoaXN0b3J5IjpbLTE2NDg4MzMzMTEsLTIxMTkxMTk2NTRdfQ
+==
 -->
