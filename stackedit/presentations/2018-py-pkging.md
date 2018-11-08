@@ -9,6 +9,16 @@
 
 
 
+## locals()
+
+
+
+## ..contents:
+_notes:
+* going to go over 
+
+
+
 ## Installing My Application
 ```bash
 cd awesome-pyproject/
@@ -172,7 +182,7 @@ _notes:
 * Intended for developer/sysadmins, concrete, dependencies for apps
 	* i.e. deploy on a server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDM2NTA4OSwyMzQ1MTEyLDE0MjgxNj
+eyJoaXN0b3J5IjpbMTI3OTc5MzI5NSwyMzQ1MTEyLDE0MjgxNj
 k5MTMsMTE1NTMwNjgwMywxNzkyMjY0NjY4LDI2MzY0MjExLDE1
 NDAxNDcyMzMsMTQzODg0MzIzMiwtMTg5NjcyMzg4OCw3NTE5OD
 I0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMDE0NjgsMTk0
