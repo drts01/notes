@@ -126,9 +126,11 @@ _notes:
 
 ## Distribution Types
 * Source (sdist): Source Code
-* Binary (bdist): Wheel Binary Package Format<sup> <small><small>[ref](https://www.python.org/dev/peps/pep-0427/)</small></small></sup>
+* Built (bdist):
+	* Wheel Binary Package Format<sup> <small><small>[ref](https://www.python.org/dev/peps/pep-0427/)</small></small></sup>
 
 _notes:
+* sdist provides metadata and source files
 * 2012 wheel provides a simpler interface between the build system and the installer.
 
 
@@ -145,10 +147,10 @@ twine upload dist/*
 _notes:
 * minimal steps (i.e. no testing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTMwNjgwMywxNzkyMjY0NjY4LDI2Mz
-Y0MjExLDE1NDAxNDcyMzMsMTQzODg0MzIzMiwtMTg5NjcyMzg4
-OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMD
-E0NjgsMTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Niw2
-ODI2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMT
-k2NTRdfQ==
+eyJoaXN0b3J5IjpbLTE5MDkyMTI5ODksMTE1NTMwNjgwMywxNz
+kyMjY0NjY4LDI2MzY0MjExLDE1NDAxNDcyMzMsMTQzODg0MzIz
+MiwtMTg5NjcyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5OD
+QxODUwOSwtNzUxMDE0NjgsMTk0Mzg3MDgwOSwzMDkwNTIxNjMs
+LTQ3Mzg5MDk2Niw2ODI2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMT
+Q5MTcsLTIxMTkxMTk2NTRdfQ==
 -->
