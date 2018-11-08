@@ -266,8 +266,13 @@ _notes:
 
 
 ## Pipenv
+* Similar too:
+  -   npm (or Yarn) in Node.js
+  -   Bundler in Ruby
+  -   Cargo in Rust
 
-reference implementation
+_notes:
+* Pipfile reference implementation
 
 
 
@@ -276,11 +281,11 @@ reference implementation
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTQyNzk0MSw2NTQzMTY5OTksLTgxOD
-U0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcxOTIsMzkyNDM1MjIy
-LC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMDcyMzIyODkxLDIzND
-UxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2Njgs
-MjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0xODk2Nz
-IzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5XX0=
+eyJoaXN0b3J5IjpbMTEzOTExMDc2OSwtMzY1NDI3OTQxLDY1ND
+MxNjk5OSwtODE4NTQwMzI3LC0yMTQyNzQzODc3LDM5NDkwNzE5
+MiwzOTI0MzUyMjIsLTEwMzcyMTE2MjAsNTA4MDY1NTg2LDIwNz
+IzMjI4OTEsMjM0NTExMiwxNDI4MTY5OTEzLDExNTUzMDY4MDMs
+MTc5MjI2NDY2OCwyNjM2NDIxMSwxNTQwMTQ3MjMzLDE0Mzg4ND
+MyMzIsLTE4OTY3MjM4ODgsNzUxOTgyNDg4LDM1NTcyNjczXX0=
 
 -->
