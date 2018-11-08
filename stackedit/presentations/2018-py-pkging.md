@@ -26,7 +26,7 @@ python setup.py install
 
 ## distutils
 ```bash
-python setup.py sdist
+python setup.py build
 ```
 ```bash
 python setup.py install
@@ -119,12 +119,18 @@ _notes:
 * PyPA recommend method to upload to PyPI
 
 
-## Common Today
+## Publishing Today
 ```bash
+cd awesome-pyproject/
+virtualenv venv
+. venv/bin/activate
+pip install -r requirements.txt
+python setup.py install
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTg1OTkyODMsMTQzODg0MzIzMiwtMT
-g5NjcyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUw
-OSwtNzUxMDE0NjgsMTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mz
-g5MDk2Niw2ODI2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MTcs
-LTIxMTkxMTk2NTRdfQ==
+eyJoaXN0b3J5IjpbLTYxMDY2MTk5MiwxNDM4ODQzMjMyLC0xOD
+k2NzIzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5
+LC03NTEwMTQ2OCwxOTQzODcwODA5LDMwOTA1MjE2MywtNDczOD
+kwOTY2LDY4MjY4NTMyMSwxMjU3MzczMDIyLDI1NTAxNDkxNywt
+MjExOTExOTY1NF19
 -->
