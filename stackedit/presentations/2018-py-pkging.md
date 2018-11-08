@@ -114,10 +114,14 @@ _notes:
 * may not be familiar w/ this tool if just learning to package
 * 2013
 * PyPA recommend method to upload to PyPI
+
+
+## Common Today
+```bash
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzg3MjMyNiwxNDM4ODQzMjMyLC0xOD
-k2NzIzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5
-LC03NTEwMTQ2OCwxOTQzODcwODA5LDMwOTA1MjE2MywtNDczOD
-kwOTY2LDY4MjY4NTMyMSwxMjU3MzczMDIyLDI1NTAxNDkxNywt
-MjExOTExOTY1NF19
+eyJoaXN0b3J5IjpbLTIwMzgzNTU3ODIsMTQzODg0MzIzMiwtMT
+g5NjcyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUw
+OSwtNzUxMDE0NjgsMTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mz
+g5MDk2Niw2ODI2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MTcs
+LTIxMTkxMTk2NTRdfQ==
 -->
