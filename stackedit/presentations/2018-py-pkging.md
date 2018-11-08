@@ -14,7 +14,11 @@
 
 
 ## .\. contents::
-TOC
+### TOC
+1. Current Packaging Story
+	1. d
+	2. d
+2. C
 _notes:
 * going to go over tools
 * show a minimal example
@@ -188,7 +192,7 @@ _notes:
 * Intended for developer/sysadmins, concrete, dependencies for apps
 	* i.e. deploy on a server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjkwODEwMCwyMDcyMzIyODkxLDIzND
+eyJoaXN0b3J5IjpbMTU3NjUzODA5MywyMDcyMzIyODkxLDIzND
 UxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2Njgs
 MjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0xODk2Nz
 IzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5LC03
