@@ -237,7 +237,7 @@ _notes:
 
 
 
-## Changes
+## Changes from 2016
 * Pipfile
 * pyproject.toml
 _notes:
@@ -246,6 +246,7 @@ _notes:
 
 
 ## Pipfile
+Pipfile will be superior to requirements.txt"
 _notes:
 * Replaces requirements.txt
 * Lock file for deterministic environments
@@ -260,11 +261,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzNjYyNDIxLDY1NDMxNjk5OSwtODE4NT
-QwMzI3LC0yMTQyNzQzODc3LDM5NDkwNzE5MiwzOTI0MzUyMjIs
-LTEwMzcyMTE2MjAsNTA4MDY1NTg2LDIwNzIzMjI4OTEsMjM0NT
-ExMiwxNDI4MTY5OTEzLDExNTUzMDY4MDMsMTc5MjI2NDY2OCwy
-NjM2NDIxMSwxNTQwMTQ3MjMzLDE0Mzg4NDMyMzIsLTE4OTY3Mj
-M4ODgsNzUxOTgyNDg4LDM1NTcyNjczLDE0OTg0MTg1MDldfQ==
+eyJoaXN0b3J5IjpbLTYzNTk3Mzk0Miw2NTQzMTY5OTksLTgxOD
+U0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcxOTIsMzkyNDM1MjIy
+LC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMDcyMzIyODkxLDIzND
+UxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2Njgs
+MjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0xODk2Nz
+IzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5XX0=
 
 -->
