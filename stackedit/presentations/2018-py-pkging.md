@@ -12,7 +12,7 @@
 ## locals()
 _notes:
 * introduce how to properly distribute python
-* 
+* take advantage of newer standards and tooling
 
 
 
@@ -43,6 +43,7 @@ virtualenv venv
 pip install -r requirements.txt
 python setup.py install
 ```
+_notes:
 * is this pattern familiar?
 * this is a common approach
 * what does this mean?
@@ -206,11 +207,10 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjY3MzcxMTIsMjA3MjMyMjg5MSwyMz
-Q1MTEyLDE0MjgxNjk5MTMsMTE1NTMwNjgwMywxNzkyMjY0NjY4
-LDI2MzY0MjExLDE1NDAxNDcyMzMsMTQzODg0MzIzMiwtMTg5Nj
-cyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOSwt
-NzUxMDE0NjgsMTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mzg5MD
-k2Niw2ODI2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MTddfQ==
-
+eyJoaXN0b3J5IjpbMTg5ODQ4MzEzOSwyMDcyMzIyODkxLDIzND
+UxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2Njgs
+MjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0xODk2Nz
+IzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5LC03
+NTEwMTQ2OCwxOTQzODcwODA5LDMwOTA1MjE2MywtNDczODkwOT
+Y2LDY4MjY4NTMyMSwxMjU3MzczMDIyLDI1NTAxNDkxN119
 -->
