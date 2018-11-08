@@ -79,14 +79,16 @@ virtualenv venv
 which python
 ~/ ... /venv/bin/python
 ```
-* solution for
-* addresses dependencies and versions
+* b4 d
+* addresses a single global python env
+* by creating isolated env
+* different projects dependencies and versions
 
 
 
 ## Pip
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTAxNDY4LDE5NDM4NzA4MDksMzA5MD
-UyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxLDEyNTczNzMwMjIs
-MjU1MDE0OTE3LC0yMTE5MTE5NjU0XX0=
+eyJoaXN0b3J5IjpbMTUzMjI4MTI1NCwtNzUxMDE0NjgsMTk0Mz
+g3MDgwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Niw2ODI2ODUzMjEs
+MTI1NzM3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMTk2NTRdfQ==
 -->
