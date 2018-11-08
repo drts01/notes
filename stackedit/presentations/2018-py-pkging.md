@@ -89,13 +89,12 @@ _notes:
 ## Python Packaging Authority
 "PyPA is a working group that maintains many of the relevant projects in Python packaging."<sup> <small><small>[ref](https://www.pypa.io)</small></small><sup><!-- .element: style="text-align:center" -->
 
-* 
-* PyPUG - https://packaging.python.org
-* Tooling - https://github.com/pypa/
+* Python Packaging User Guide (PyPUG): https://packaging.python.org
+* Tooling: https://github.com/pypa/
 
 _notes:
 * 2011 The PyPA is created to take over the maintenance of pip and virtualenv
-* Python Packaging User Guide
+* And is resposible for packaging documentation
 
 
 
@@ -118,8 +117,9 @@ _notes:
 * 2013
 * PyPA recommend method to upload to PyPI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTY3MjM4ODgsNzUxOTgyNDg4LDM1NT
-cyNjczLDE0OTg0MTg1MDksLTc1MTAxNDY4LDE5NDM4NzA4MDks
-MzA5MDUyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxLDEyNTczNz
-MwMjIsMjU1MDE0OTE3LC0yMTE5MTE5NjU0XX0=
+eyJoaXN0b3J5IjpbMTQzNzQzNTEyNiwtMTg5NjcyMzg4OCw3NT
+E5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMDE0Njgs
+MTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Niw2ODI2OD
+UzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMTk2NTRd
+fQ==
 -->
