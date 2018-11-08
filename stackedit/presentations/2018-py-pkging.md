@@ -86,6 +86,17 @@ _notes:
 
 
 
+## Python Packaging Authority
+"PyPA is a working group that maintains many of the relevant projects in Python packaging." --https://www.pypa.io
+* 2011 The PyPA is created to take over the maintenance of pip and virtualenv
+* PyPUG - https://packaging.python.org
+* Tooling - https://github.com/pypa/
+
+_notes:
+* Python Packaging User Guide
+
+
+
 ## Pip Installs Packages
 ```bash
 pip install -r requirements.txt
@@ -95,9 +106,18 @@ _notes:
 * Released in 2011
 * 2014 included w/ Python
 * requirements.txt convention Enabled contrete dependancies
+
+
+
+
+## Twine
+_notes:
+* may not be familiar w/ this too
+* 2013
+* PyPA recommend method to upload to PyPI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTA0OTc2OCw3NTE5ODI0ODgsMzU1Nz
-I2NzMsMTQ5ODQxODUwOSwtNzUxMDE0NjgsMTk0Mzg3MDgwOSwz
-MDkwNTIxNjMsLTQ3Mzg5MDk2Niw2ODI2ODUzMjEsMTI1NzM3Mz
-AyMiwyNTUwMTQ5MTcsLTIxMTkxMTk2NTRdfQ==
+eyJoaXN0b3J5IjpbLTE1NjEzNDg0MDcsNzUxOTgyNDg4LDM1NT
+cyNjczLDE0OTg0MTg1MDksLTc1MTAxNDY4LDE5NDM4NzA4MDks
+MzA5MDUyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxLDEyNTczNz
+MwMjIsMjU1MDE0OTE3LC0yMTE5MTE5NjU0XX0=
 -->
