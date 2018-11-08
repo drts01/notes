@@ -149,14 +149,27 @@ twine upload dist/*
 _notes:
 * minimal steps (i.e. no testing)
 
+
+
 ## In the Works
-* Pipfiles
+* Pipfile
 * pyproject.toml
+
+
+
+## Pipfile
+_notes:
+* Replaces requirements.txt
+* Lock file for deterministic environments
+* TOML syntax
+* "under active design and development"
+* Intended for developer/sysadmins, concrete, dependencies for apps
+	* i.e. deploy on a server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTI5NjE5MywxNDI4MTY5OTEzLDExNT
-UzMDY4MDMsMTc5MjI2NDY2OCwyNjM2NDIxMSwxNTQwMTQ3MjMz
-LDE0Mzg4NDMyMzIsLTE4OTY3MjM4ODgsNzUxOTgyNDg4LDM1NT
-cyNjczLDE0OTg0MTg1MDksLTc1MTAxNDY4LDE5NDM4NzA4MDks
-MzA5MDUyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxLDEyNTczNz
-MwMjIsMjU1MDE0OTE3LC0yMTE5MTE5NjU0XX0=
+eyJoaXN0b3J5IjpbMjM0NTExMiwxNDI4MTY5OTEzLDExNTUzMD
+Y4MDMsMTc5MjI2NDY2OCwyNjM2NDIxMSwxNTQwMTQ3MjMzLDE0
+Mzg4NDMyMzIsLTE4OTY3MjM4ODgsNzUxOTgyNDg4LDM1NTcyNj
+czLDE0OTg0MTg1MDksLTc1MTAxNDY4LDE5NDM4NzA4MDksMzA5
+MDUyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxLDEyNTczNzMwMj
+IsMjU1MDE0OTE3LC0yMTE5MTE5NjU0XX0=
 -->
