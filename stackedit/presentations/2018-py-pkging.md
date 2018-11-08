@@ -6,8 +6,10 @@
 
 
 ## getpass.getuser()
-* Developer and Systems Engineer for a CDN
-* Site Reliability Engineer for Critical Event Management Company
+* Developer and Systems Engineer for a
+Content Delivery Network
+* Site Reliability Engineer for a
+"critical communications and enterprise safety" company
 * "SGV Software Craftsmanship" Co-Founder
 
 _notes:
@@ -241,10 +243,10 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0OTA3MTkyLDM5MjQzNTIyMiwtMTAzNz
-IxMTYyMCw1MDgwNjU1ODYsMjA3MjMyMjg5MSwyMzQ1MTEyLDE0
-MjgxNjk5MTMsMTE1NTMwNjgwMywxNzkyMjY0NjY4LDI2MzY0Mj
-ExLDE1NDAxNDcyMzMsMTQzODg0MzIzMiwtMTg5NjcyMzg4OCw3
-NTE5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMDE0Nj
-gsMTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Nl19
+eyJoaXN0b3J5IjpbMTY3NTUzODEyOSwzOTQ5MDcxOTIsMzkyND
+M1MjIyLC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMDcyMzIyODkx
+LDIzNDUxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNj
+Q2NjgsMjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0x
+ODk2NzIzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NT
+A5LC03NTEwMTQ2OCwxOTQzODcwODA5LDMwOTA1MjE2M119
 -->
