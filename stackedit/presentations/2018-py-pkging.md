@@ -86,6 +86,17 @@ _notes:
 
 
 
+## Pip Installs Packages
+```bash
+pip install -r requirements.txt
+```
+_notes:
+* 2008
+* 2014 included w/ Python
+* requirements.txt convention enabled contrete dependancies
+
+
+
 ## Python Packaging Authority
 "PyPA is a working group that maintains many of the relevant projects in Python packaging."<sup> <small><small>[ref](https://www.pypa.io)</small></small><sup><!-- .element: style="text-align:center" -->
 
@@ -98,26 +109,13 @@ _notes:
 
 
 
-## Pip Installs Packages
-```bash
-pip install -r requirements.txt
-```
-_notes:
-* Released in 2008
-* The [PyPA recommended](https://packaging.python.org/en/latest/current/) tool for installing Python packages.
-* 2014 included w/ Python
-* requirements.txt convention enabled contrete dependancies
-
-
-
-
 ## Twine
 _notes:
 * may not be familiar w/ this tool if just learning to package
 * 2013
 * PyPA recommend method to upload to PyPI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzYzMTc0OCwtMTg5NjcyMzg4OCw3NT
+eyJoaXN0b3J5IjpbMjEwOTgyMzY1MywtMTg5NjcyMzg4OCw3NT
 E5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMDE0Njgs
 MTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Niw2ODI2OD
 UzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMTk2NTRd
