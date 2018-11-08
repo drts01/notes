@@ -18,6 +18,7 @@ _notes:
 * b4 custom makefiles and hope for the best
 * standard interface to build and install
 * gave confidence code will build and run in diff envs
+* but still had to share
 
 
 
@@ -31,6 +32,6 @@ _notes:
 
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDk5MjEzMCwyNTUwMTQ5MTcsLTIxMT
-kxMTk2NTRdfQ==
+eyJoaXN0b3J5IjpbNDgzMTMyMzA4LDI1NTAxNDkxNywtMjExOT
+ExOTY1NF19
 -->
