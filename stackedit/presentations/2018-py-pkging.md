@@ -10,6 +10,7 @@
 
 ## Typical
 ```bash
+cd my_py-project/
 virtualenv venv
 . venv/bin/activate
 pip install -r requirements.txt
@@ -77,7 +78,7 @@ which python
 
 ## Pip
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwNDIzMjc2LDE5NDM4NzA4MDksMzA5MD
+eyJoaXN0b3J5IjpbNTk3MzU4MzA4LDE5NDM4NzA4MDksMzA5MD
 UyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxLDEyNTczNzMwMjIs
 MjU1MDE0OTE3LC0yMTE5MTE5NjU0XX0=
 -->
