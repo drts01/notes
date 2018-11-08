@@ -31,7 +31,7 @@ _notes:
 
 
 ## setuptools
-"An enhanced alternative to distutils" [ref](https://docs.python.org/3/library/distutils.html)
+"An enhanced alternative to distutils" <sup><smaller>[ref](https://docs.python.org/3/library/distutils.html)</small><sup>
 ```python
 from setuptools import setup, find_packages
 setup(
@@ -44,6 +44,7 @@ _notes:
 * overcome distutils' limitations
 * i.e. dependencies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Mzg5MDk2Niw2ODI2ODUzMjEsMTI1Nz
-M3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMTk2NTRdfQ==
+eyJoaXN0b3J5IjpbLTE2MjQ3NDU4OTIsLTQ3Mzg5MDk2Niw2OD
+I2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMTk2
+NTRdfQ==
 -->
