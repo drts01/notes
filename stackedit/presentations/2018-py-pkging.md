@@ -65,12 +65,13 @@ which python
 ~/ ... /venv/bin/python
 ```
 * solution for
+* addresses dependencies and versions
 
 
 
 ## Pip
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDY2MDUxMSwxOTQzODcwODA5LDMwOT
-A1MjE2MywtNDczODkwOTY2LDY4MjY4NTMyMSwxMjU3MzczMDIy
-LDI1NTAxNDkxNywtMjExOTExOTY1NF19
+eyJoaXN0b3J5IjpbODYxMDM1NTIyLDE5NDM4NzA4MDksMzA5MD
+UyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxLDEyNTczNzMwMjIs
+MjU1MDE0OTE3LC0yMTE5MTE5NjU0XX0=
 -->
