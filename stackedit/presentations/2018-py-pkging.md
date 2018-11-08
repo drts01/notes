@@ -85,16 +85,18 @@ _notes:
 * by creating isolated env
 
 
+
 ## Pip Installs Packages
 ```bash
 pip install -r requirements.txt
 ```
 _notes:
+* The [PyPA recommended](https://packaging.python.org/en/latest/current/) tool for installing Python packages.
 * Released in 2011
 * Python 2.7.9 and later (on the python2 series), and Python 3.4
 * requirements.txt convention Enabled contrete dependancies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjExMDA3ODcsNzUxOTgyNDg4LDM1NT
+eyJoaXN0b3J5IjpbLTE3OTI2Njk5MTYsNzUxOTgyNDg4LDM1NT
 cyNjczLDE0OTg0MTg1MDksLTc1MTAxNDY4LDE5NDM4NzA4MDks
 MzA5MDUyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxLDEyNTczNz
 MwMjIsMjU1MDE0OTE3LC0yMTE5MTE5NjU0XX0=
