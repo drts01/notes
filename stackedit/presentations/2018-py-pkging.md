@@ -30,8 +30,16 @@ _notes:
 
 
 
-## 
+## setuptools
+```python
+from setuptools import setup, find_packages
+setup(
+    name="HelloWorld",
+    version="0.1",
+    packages=find_packages(),
+)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NzM3MzAyMiwyNTUwMTQ5MTcsLTIxMT
-kxMTk2NTRdfQ==
+eyJoaXN0b3J5IjpbNjgyNjg1MzIxLDEyNTczNzMwMjIsMjU1MD
+E0OTE3LC0yMTE5MTE5NjU0XX0=
 -->
