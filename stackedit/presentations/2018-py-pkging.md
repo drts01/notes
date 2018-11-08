@@ -126,15 +126,15 @@ _notes:
 
 ## Distribution Types
 "A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a Release."<sup> <small><small>[ref](https://packaging.python.org/glossary/#term-distribution-package)</small></small></sup>
-* Source Distribution (sdist): Source Code
-* Built Distribution (bdist):
+* Source Distribution (sdist)
+* Built Distribution (bdist)
 	* Wheel Binary Package Format<sup> <small><small>[ref](https://www.python.org/dev/peps/pep-0427/)</small></small></sup>
 
 _notes:
 * sdist provides metadata and source files
-* bdist containing files and metadata that only need to be moved to the correct location on the target system, to be installed
+* bdist removes the build step before installing
 * 2012 wheel provides a simpler interface between the build system and the installer.
-
+* wheel is the st
 
 
 ## Publishing Today
@@ -149,10 +149,10 @@ twine upload dist/*
 _notes:
 * minimal steps (i.e. no testing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1MzA3NzksMTE1NTMwNjgwMywxNzkyMj
-Y0NjY4LDI2MzY0MjExLDE1NDAxNDcyMzMsMTQzODg0MzIzMiwt
-MTg5NjcyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxOD
-UwOSwtNzUxMDE0NjgsMTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3
-Mzg5MDk2Niw2ODI2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MT
-csLTIxMTkxMTk2NTRdfQ==
+eyJoaXN0b3J5IjpbLTE5NTU0MjMxMjgsMTE1NTMwNjgwMywxNz
+kyMjY0NjY4LDI2MzY0MjExLDE1NDAxNDcyMzMsMTQzODg0MzIz
+MiwtMTg5NjcyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5OD
+QxODUwOSwtNzUxMDE0NjgsMTk0Mzg3MDgwOSwzMDkwNTIxNjMs
+LTQ3Mzg5MDk2Niw2ODI2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMT
+Q5MTcsLTIxMTkxMTk2NTRdfQ==
 -->
