@@ -267,12 +267,16 @@ _notes:
 
 ## Pipenv
 
+reference implementation
+
+
+
 
 ## A Modern Workflow
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODA0NjUwOCw2NTQzMTY5OTksLTgxOD
+eyJoaXN0b3J5IjpbLTM2NTQyNzk0MSw2NTQzMTY5OTksLTgxOD
 U0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcxOTIsMzkyNDM1MjIy
 LC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMDcyMzIyODkxLDIzND
 UxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2Njgs
