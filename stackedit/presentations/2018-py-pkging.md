@@ -2,7 +2,7 @@
 
 
 # My [Mis]Adventures in Python Packaging
-![Python Environment](https://imgs.xkcd.com/comics/python_environment.png)
+[![Python Environment](https://imgs.xkcd.com/comics/python_environment.png)](https://xkcd.com/1987/)
 
 
 ## getpass.getuser()
@@ -87,8 +87,8 @@ _notes:
 
 ## Pip
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMD
-E0NjgsMTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Niw2
-ODI2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MTcsLTIxMTkxMT
-k2NTRdfQ==
+eyJoaXN0b3J5IjpbLTEyMDA3MTQ0ODMsMzU1NzI2NzMsMTQ5OD
+QxODUwOSwtNzUxMDE0NjgsMTk0Mzg3MDgwOSwzMDkwNTIxNjMs
+LTQ3Mzg5MDk2Niw2ODI2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMT
+Q5MTcsLTIxMTkxMTk2NTRdfQ==
 -->
