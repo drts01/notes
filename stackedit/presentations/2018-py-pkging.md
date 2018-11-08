@@ -10,7 +10,8 @@
 
 
 ## locals()
-* Introduce how to distribute Python 
+* Introduce proper Python code distribution
+* 
 _notes:
 * introduce how to properly distribute python
 * take advantage of newer standards and tooling
@@ -207,11 +208,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTU4NDQ4MjUsLTEwMzcyMTE2MjAsNT
-A4MDY1NTg2LDIwNzIzMjI4OTEsMjM0NTExMiwxNDI4MTY5OTEz
-LDExNTUzMDY4MDMsMTc5MjI2NDY2OCwyNjM2NDIxMSwxNTQwMT
-Q3MjMzLDE0Mzg4NDMyMzIsLTE4OTY3MjM4ODgsNzUxOTgyNDg4
-LDM1NTcyNjczLDE0OTg0MTg1MDksLTc1MTAxNDY4LDE5NDM4Nz
-A4MDksMzA5MDUyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxXX0=
+eyJoaXN0b3J5IjpbMTA3MzYzMjUzNiwtMTAzNzIxMTYyMCw1MD
+gwNjU1ODYsMjA3MjMyMjg5MSwyMzQ1MTEyLDE0MjgxNjk5MTMs
+MTE1NTMwNjgwMywxNzkyMjY0NjY4LDI2MzY0MjExLDE1NDAxND
+cyMzMsMTQzODg0MzIzMiwtMTg5NjcyMzg4OCw3NTE5ODI0ODgs
+MzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMDE0NjgsMTk0Mzg3MD
+gwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Niw2ODI2ODUzMjFdfQ==
 
 -->
