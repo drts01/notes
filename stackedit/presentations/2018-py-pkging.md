@@ -8,7 +8,13 @@
 ## getpass.getuser()
 
 
-
+## Typical
+```bash
+virtualenv venv
+. venv/bin/activate
+pip install -r requirements.txt
+python setup.py install
+```
 ## distutils
 ```bash
 python setup.py install
@@ -71,7 +77,7 @@ which python
 
 ## Pip
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxMDM1NTIyLDE5NDM4NzA4MDksMzA5MD
+eyJoaXN0b3J5IjpbNDYwNDIzMjc2LDE5NDM4NzA4MDksMzA5MD
 UyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxLDEyNTczNzMwMjIs
 MjU1MDE0OTE3LC0yMTE5MTE5NjU0XX0=
 -->
