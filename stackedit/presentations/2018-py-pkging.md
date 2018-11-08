@@ -13,6 +13,20 @@ _notes:
 
 
 
+## Packaging
+"Packaging is the fine art of creating a distributable software artifact"
+--["The Packaging Gradient", Mahmoud Hashemi](https://www.youtube.com/watch?v=iLVNWfPWAC8) [[slides](https://speakerd.s3.amazonaws.com/presentations/d655083f4a4c4199ae2f7066d5b8fc47/The_Packaging_Gradient_-_Mahmoud_Hashemi_PyBay_2017.pdf)]
+* Turning code into a self-contained artifact
+* For reliable transfer to environments
+
+_note:
+* what is
+* create artifacts that can be reliably distributed
+* a git repo is not packaging
+* scp is not package distribution
+
+
+
 ## getpass.getuser()
 * Developer and Systems Engineer for a
 Content Delivery Network
@@ -51,19 +65,6 @@ _notes:
 * these are important
 * focusing on the packaging and distribution process
 * but docs can be argued to be included
-
-
-
-## Packaging
-"Packaging is the fine art of creating a distributable software artifact"
---["The Packaging Gradient", Mahmoud Hashemi](https://www.youtube.com/watch?v=iLVNWfPWAC8) [[slides](https://speakerd.s3.amazonaws.com/presentations/d655083f4a4c4199ae2f7066d5b8fc47/The_Packaging_Gradient_-_Mahmoud_Hashemi_PyBay_2017.pdf)]
-* Turning code into a self-contained artifact
-* For reliable transfer to environments
-
-_note:
-* create artifacts that can be reliably distributed
-* a git repo is not packaging
-* scp is not package distribution
 
 
 
@@ -258,11 +259,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njk1MDg1OTQsNjU0MzE2OTk5LC04MT
-g1NDAzMjcsLTIxNDI3NDM4NzcsMzk0OTA3MTkyLDM5MjQzNTIy
-MiwtMTAzNzIxMTYyMCw1MDgwNjU1ODYsMjA3MjMyMjg5MSwyMz
-Q1MTEyLDE0MjgxNjk5MTMsMTE1NTMwNjgwMywxNzkyMjY0NjY4
-LDI2MzY0MjExLDE1NDAxNDcyMzMsMTQzODg0MzIzMiwtMTg5Nj
-cyMzg4OCw3NTE5ODI0ODgsMzU1NzI2NzMsMTQ5ODQxODUwOV19
+eyJoaXN0b3J5IjpbMTMzMDQwOTAxNCw2NTQzMTY5OTksLTgxOD
+U0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcxOTIsMzkyNDM1MjIy
+LC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMDcyMzIyODkxLDIzND
+UxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2Njgs
+MjYzNjQyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0xODk2Nz
+IzODg4LDc1MTk4MjQ4OCwzNTU3MjY3MywxNDk4NDE4NTA5XX0=
 
 -->
