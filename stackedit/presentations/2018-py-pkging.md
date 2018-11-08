@@ -285,13 +285,17 @@ _notes:
 
 
 ## pyproject.toml
-
+PEP-518
 ```ini
 [build-system]
-# Defined by PEP 518:
+# Minimum requirements for the build system to execute.
+requires = ["setuptools", "wheel"]  # PEP 508 specifications.
+```
+PEP-517
+```ini
+[build-system]
 requires = ["flit"]
-# Defined by this PEP:
-build-backend = "flit.api:main"
+build-backend = "flit.api:main"  # Defined by this PEP
 ```
 _notes:
 * TOML Manifest file
@@ -311,11 +315,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzc2MjcyNTksLTE4MzA3MTc3ODEsLT
-M2NTQyNzk0MSw2NTQzMTY5OTksLTgxODU0MDMyNywtMjE0Mjc0
-Mzg3NywzOTQ5MDcxOTIsMzkyNDM1MjIyLC0xMDM3MjExNjIwLD
-UwODA2NTU4NiwyMDcyMzIyODkxLDIzNDUxMTIsMTQyODE2OTkx
-MywxMTU1MzA2ODAzLDE3OTIyNjQ2NjgsMjYzNjQyMTEsMTU0MD
-E0NzIzMywxNDM4ODQzMjMyLC0xODk2NzIzODg4LDc1MTk4MjQ4
-OF19
+eyJoaXN0b3J5IjpbLTIwODU0MzIwNSwtMTgzMDcxNzc4MSwtMz
+Y1NDI3OTQxLDY1NDMxNjk5OSwtODE4NTQwMzI3LC0yMTQyNzQz
+ODc3LDM5NDkwNzE5MiwzOTI0MzUyMjIsLTEwMzcyMTE2MjAsNT
+A4MDY1NTg2LDIwNzIzMjI4OTEsMjM0NTExMiwxNDI4MTY5OTEz
+LDExNTUzMDY4MDMsMTc5MjI2NDY2OCwyNjM2NDIxMSwxNTQwMT
+Q3MjMzLDE0Mzg4NDMyMzIsLTE4OTY3MjM4ODgsNzUxOTgyNDg4
+XX0=
 -->
