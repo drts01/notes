@@ -56,6 +56,7 @@ _notes:
 
 
 ## Virtualenv
+isolated Python environments
 ```bash
 virtualenv venv
 . venv/bin/activate
@@ -65,7 +66,7 @@ which python
 ```
 * solution for
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Mzg3MDgwOSwzMDkwNTIxNjMsLTQ3Mz
-g5MDk2Niw2ODI2ODUzMjEsMTI1NzM3MzAyMiwyNTUwMTQ5MTcs
-LTIxMTkxMTk2NTRdfQ==
+eyJoaXN0b3J5IjpbMTY3OTI0NTU3NiwxOTQzODcwODA5LDMwOT
+A1MjE2MywtNDczODkwOTY2LDY4MjY4NTMyMSwxMjU3MzczMDIy
+LDI1NTAxNDkxNywtMjExOTExOTY1NF19
 -->
