@@ -9,12 +9,9 @@
 
 
 
-## locals()
-
 ## for pythonista in socalcodecamp:
-* Introduce proper Python code distribution
+* Desire to distribute
 * Cover newer standards and tooling
-
 
 _notes:
 * introduce how to properly distribute python
@@ -212,11 +209,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjU4ODI3MCwtMTAzNzIxMTYyMCw1MD
-gwNjU1ODYsMjA3MjMyMjg5MSwyMzQ1MTEyLDE0MjgxNjk5MTMs
-MTE1NTMwNjgwMywxNzkyMjY0NjY4LDI2MzY0MjExLDE1NDAxND
-cyMzMsMTQzODg0MzIzMiwtMTg5NjcyMzg4OCw3NTE5ODI0ODgs
-MzU1NzI2NzMsMTQ5ODQxODUwOSwtNzUxMDE0NjgsMTk0Mzg3MD
-gwOSwzMDkwNTIxNjMsLTQ3Mzg5MDk2Niw2ODI2ODUzMjFdfQ==
+eyJoaXN0b3J5IjpbLTExNzY2NzAwNjcsLTEwMzcyMTE2MjAsNT
+A4MDY1NTg2LDIwNzIzMjI4OTEsMjM0NTExMiwxNDI4MTY5OTEz
+LDExNTUzMDY4MDMsMTc5MjI2NDY2OCwyNjM2NDIxMSwxNTQwMT
+Q3MjMzLDE0Mzg4NDMyMzIsLTE4OTY3MjM4ODgsNzUxOTgyNDg4
+LDM1NTcyNjczLDE0OTg0MTg1MDksLTc1MTAxNDY4LDE5NDM4Nz
+A4MDksMzA5MDUyMTYzLC00NzM4OTA5NjYsNjgyNjg1MzIxXX0=
 
 -->
