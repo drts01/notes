@@ -247,6 +247,8 @@ _notes:
 
 ## Pipfile
 "Pipfile will be superior to requirements.txt"<sup> <small><small>[ref](https://github.com/pypa/pipfile/blob/c09b3d9f24c635aeaeaf8a9304a2f69e99c25e8a/README.rst)</small></small></sup>
+
+Pipfile:
 ```ini
 [packages]
 requests = { extras = ['socks'] }
@@ -263,11 +265,14 @@ _notes:
 
 
 
+## Pipenv
+
+
 ## A Modern Workflow
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDQ1NDQ4MSw2NTQzMTY5OTksLTgxOD
+eyJoaXN0b3J5IjpbMTM0ODA0NjUwOCw2NTQzMTY5OTksLTgxOD
 U0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcxOTIsMzkyNDM1MjIy
 LC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMDcyMzIyODkxLDIzND
 UxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2Njgs
