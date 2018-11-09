@@ -4,6 +4,10 @@
 # My [Mis]Adventures in Python Packaging
 [![Python Environment](https://imgs.xkcd.com/comics/python_environment.png)](https://xkcd.com/1987/)
 _notes:
+* 
+
+d
+
 * make my code more shareable and professional
 * this sent me down a rabbit hole of pain
     * py pkging evolving for 18 years & is still changing
@@ -329,11 +333,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM1NzE3MDE2LC0xODMwNzE3NzgxLC0zNj
-U0Mjc5NDEsNjU0MzE2OTk5LC04MTg1NDAzMjcsLTIxNDI3NDM4
-NzcsMzk0OTA3MTkyLDM5MjQzNTIyMiwtMTAzNzIxMTYyMCw1MD
-gwNjU1ODYsMjA3MjMyMjg5MSwyMzQ1MTEyLDE0MjgxNjk5MTMs
-MTE1NTMwNjgwMywxNzkyMjY0NjY4LDI2MzY0MjExLDE1NDAxND
-cyMzMsMTQzODg0MzIzMiwtMTg5NjcyMzg4OCw3NTE5ODI0ODhd
-fQ==
+eyJoaXN0b3J5IjpbMTg1MTkyNTQ3Miw0MzU3MTcwMTYsLTE4Mz
+A3MTc3ODEsLTM2NTQyNzk0MSw2NTQzMTY5OTksLTgxODU0MDMy
+NywtMjE0Mjc0Mzg3NywzOTQ5MDcxOTIsMzkyNDM1MjIyLC0xMD
+M3MjExNjIwLDUwODA2NTU4NiwyMDcyMzIyODkxLDIzNDUxMTIs
+MTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2NjgsMjYzNj
+QyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0xODk2NzIzODg4
+XX0=
 -->
