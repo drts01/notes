@@ -474,7 +474,8 @@ _notes:
 
 
 ## Flit
-"A simple way to put Python packages and modules on PyPI."<small><small>[ref](https://github.com/pypa/pipfile/blob/c09b3d9f24c635aeaeaf8a9304a2f69e99c25e8a/README.rst)</small></small>
+"A simple way to put Python packages and modules on PyPI."<small><small>[ref](https://flit.readthedocs.io)</small></small>
+
 * Implements PEP-518 and replaces setup<span></span>.py, setup.cfg, and requirements.txt with pyproject.toml
 * Builds and publishes artifact
 * Maintainer authored PEP-517
@@ -547,11 +548,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAzMTgxMDQsMTU4NzI5MjgzNiwtMT
-g4NzcxOTY1MiwtMTQzOTc0NjU4NywtMjIxNjY0NTEsMTI4NzQx
-MzA1NSwyMDE2MzQwNjk3LC0yMTI0NTY1MTY3LDg4Njc5NDUzMi
-wtMTMxMTQ5MDI2NiwyMDA3MDc4NzYzLDUyMjI5ODQyNCwtMzgx
-MDQyNzI2LDE4NjEyMTExNzUsNzE3ODczNTU4LDg3NDAzODg4OC
-wyMDQxNTEzODQxLC00NzYzNzk0MjIsLTk2ODAzODA0NiwtNzk4
-NzM2NjM5XX0=
+eyJoaXN0b3J5IjpbMTkxMDI2MTU4MSwxNTg3MjkyODM2LC0xOD
+g3NzE5NjUyLC0xNDM5NzQ2NTg3LC0yMjE2NjQ1MSwxMjg3NDEz
+MDU1LDIwMTYzNDA2OTcsLTIxMjQ1NjUxNjcsODg2Nzk0NTMyLC
+0xMzExNDkwMjY2LDIwMDcwNzg3NjMsNTIyMjk4NDI0LC0zODEw
+NDI3MjYsMTg2MTIxMTE3NSw3MTc4NzM1NTgsODc0MDM4ODg4LD
+IwNDE1MTM4NDEsLTQ3NjM3OTQyMiwtOTY4MDM4MDQ2LC03OTg3
+MzY2MzldfQ==
 -->
