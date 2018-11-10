@@ -458,7 +458,7 @@ build-backend = "flit.api:main"  # Defined by this PEP
 _notes:
 * TOML Manifest file
 * designed for application, abstract, dependencies
-	* for shareable redistributable artifices
+	* for shareable redistributable artifacts
 * removes dependency on setup.py
 
 
@@ -536,7 +536,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzA4NjUwNSwtMTQzOTc0NjU4NywtMj
+eyJoaXN0b3J5IjpbLTk2NjAwNDE3NiwtMTQzOTc0NjU4NywtMj
 IxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0NTY1
 MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3MDc4NzYzLD
 UyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEyMTExNzUsNzE3ODcz
