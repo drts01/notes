@@ -372,14 +372,13 @@ _notes:
 
 
 ## Example
-```pkg-demo0.3/
+```
+pkg-demo/
 |-- AUTHORS
 |-- CHANGELOG
-|-- CHANGELOG.rst
-|-- CONTRIBUTING.rst
+|-- CONTRIBUTING
 |-- docs
 |   `-- config.py
-|-- .gitignore
 |-- LICENSE
 |-- Makefile
 |-- MANIFEST.in
@@ -392,11 +391,13 @@ _notes:
 |   `-- pkg_demo
 |       |-- __init__.py
 |       `-- __main__.py
-|-- test
 |-- tests
 |   `-- __init__.py
 ```
-
+_notes:
+* Pipfile
+* Pipfile.lock
+* 
 
 
 ## D
@@ -404,7 +405,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzY2Mzc5OSw1MjIyOTg0MjQsLTM4MT
+eyJoaXN0b3J5IjpbLTg5NDQ0MTg5OSw1MjIyOTg0MjQsLTM4MT
 A0MjcyNiwxODYxMjExMTc1LDcxNzg3MzU1OCw4NzQwMzg4ODgs
 MjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05NjgwMzgwNDYsLTc5OD
 czNjYzOSwtMTI0NDYyNjk2LC04OTIwMTExMTcsNDQ1NDQzNTE3
