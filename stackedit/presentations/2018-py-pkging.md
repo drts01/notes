@@ -324,18 +324,10 @@ project_urls =
     Source Code = https://gitlab.com/digitalr00ts-demos/pkg-demo
 classifiers =
     Development Status :: 3 - Alpha
-    Environment :: Console
     Intended Audience :: Developers
     License :: OSI Approved :: MIT License
-    Programming Language :: Python
     Programming Language :: Python :: 2
-    Programming Language :: Python :: 2.7
     Programming Language :: Python :: 3
-    Programming Language :: Python :: 3.4
-    Programming Language :: Python :: 3.5
-    Programming Language :: Python :: 3.6
-    Programming Language :: Python :: 3.7
-    Topic :: Software Development :: Libraries :: Python Modules
 keywords = digitalr00ts, demo, example
 
 [options]
@@ -502,7 +494,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDA0NjcwNTEsODg2Nzk0NTMyLC0xMz
+eyJoaXN0b3J5IjpbLTIxMjQ1NjUxNjcsODg2Nzk0NTMyLC0xMz
 ExNDkwMjY2LDIwMDcwNzg3NjMsNTIyMjk4NDI0LC0zODEwNDI3
 MjYsMTg2MTIxMTE3NSw3MTc4NzM1NTgsODc0MDM4ODg4LDIwND
 E1MTM4NDEsLTQ3NjM3OTQyMiwtOTY4MDM4MDQ2LC03OTg3MzY2
