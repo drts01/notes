@@ -102,7 +102,7 @@ _notes:
 
 
 
-## Dev-ing My Application
+## Setting Up My Application
 ```bash
 cd awesome-pyproject/
 virtualenv venv
@@ -361,7 +361,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTMwOTI3MiwtNDc2Mzc5NDIyLC05Nj
+eyJoaXN0b3J5IjpbMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05Nj
 gwMzgwNDYsLTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OTIwMTEx
 MTcsNDQ1NDQzNTE3LC0xMTY4NzIyMzM5LDU1NTI2MDgxMCwtMT
 cwMjUzNzg1NywtOTk1OTkzODk1LDMxNDAwMTI4MiwtOTA5NjE5
