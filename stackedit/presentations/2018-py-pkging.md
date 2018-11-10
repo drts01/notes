@@ -213,7 +213,7 @@ _notes:
 "A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a Release."<sup> <small><small>[ref](https://packaging.python.org/glossary/#term-distribution-package)</small></small></sup>
 * Source Distribution (sdist)
 * Built Distribution (bdist)
-	* Wheel Binary Package Format<sup> <small><small>[ref](https://www.python.org/dev/peps/pep-0427/)</small></small></sup>
+	* Wheel Binary??? Package Format<sup> <small><small>[ref](https://www.python.org/dev/peps/pep-0427/)</small></small></sup>
 
 _notes:
 * Terminology:
@@ -337,11 +337,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1MjYwODEwLC0xNzAyNTM3ODU3LC05OT
-U5OTM4OTUsMzE0MDAxMjgyLC05MDk2MTk5NjYsMTg1MTkyNTQ3
-Miw0MzU3MTcwMTYsLTE4MzA3MTc3ODEsLTM2NTQyNzk0MSw2NT
-QzMTY5OTksLTgxODU0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcx
-OTIsMzkyNDM1MjIyLC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMD
-cyMzIyODkxLDIzNDUxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAz
-XX0=
+eyJoaXN0b3J5IjpbLTExNjg3MjIzMzksNTU1MjYwODEwLC0xNz
+AyNTM3ODU3LC05OTU5OTM4OTUsMzE0MDAxMjgyLC05MDk2MTk5
+NjYsMTg1MTkyNTQ3Miw0MzU3MTcwMTYsLTE4MzA3MTc3ODEsLT
+M2NTQyNzk0MSw2NTQzMTY5OTksLTgxODU0MDMyNywtMjE0Mjc0
+Mzg3NywzOTQ5MDcxOTIsMzkyNDM1MjIyLC0xMDM3MjExNjIwLD
+UwODA2NTU4NiwyMDcyMzIyODkxLDIzNDUxMTIsMTQyODE2OTkx
+M119
 -->
