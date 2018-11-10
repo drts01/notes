@@ -91,13 +91,13 @@ _notes:
 
 
 
-## Installing My Application
+## Dev-ing My Application
 ```bash
 cd awesome-pyproject/
 virtualenv venv
 . venv/bin/activate
 pip install -r requirements.txt
-python setup.py install
+python setup.py develop
 ```
 _notes:
 * is this pattern familiar?
@@ -336,11 +336,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDI1Mzc4NTcsLTk5NTk5Mzg5NSwzMT
-QwMDEyODIsLTkwOTYxOTk2NiwxODUxOTI1NDcyLDQzNTcxNzAx
-NiwtMTgzMDcxNzc4MSwtMzY1NDI3OTQxLDY1NDMxNjk5OSwtOD
-E4NTQwMzI3LC0yMTQyNzQzODc3LDM5NDkwNzE5MiwzOTI0MzUy
-MjIsLTEwMzcyMTE2MjAsNTA4MDY1NTg2LDIwNzIzMjI4OTEsMj
-M0NTExMiwxNDI4MTY5OTEzLDExNTUzMDY4MDMsMTc5MjI2NDY2
-OF19
+eyJoaXN0b3J5IjpbLTEzMTgyODAyNzQsLTE3MDI1Mzc4NTcsLT
+k5NTk5Mzg5NSwzMTQwMDEyODIsLTkwOTYxOTk2NiwxODUxOTI1
+NDcyLDQzNTcxNzAxNiwtMTgzMDcxNzc4MSwtMzY1NDI3OTQxLD
+Y1NDMxNjk5OSwtODE4NTQwMzI3LC0yMTQyNzQzODc3LDM5NDkw
+NzE5MiwzOTI0MzUyMjIsLTEwMzcyMTE2MjAsNTA4MDY1NTg2LD
+IwNzIzMjI4OTEsMjM0NTExMiwxNDI4MTY5OTEzLDExNTUzMDY4
+MDNdfQ==
 -->
