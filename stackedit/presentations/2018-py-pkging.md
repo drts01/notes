@@ -6,9 +6,6 @@
 _notes:
 * started out as a rant about python packaging
 * i wanted to start distributing 
-
-d
-
 * make my code more shareable and professional
 * this sent me down a rabbit hole of pain
     * py pkging evolving for 18 years & is still changing
@@ -334,7 +331,7 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODkwNjg2MiwxODUxOTI1NDcyLDQzNT
+eyJoaXN0b3J5IjpbLTkwOTYxOTk2NiwxODUxOTI1NDcyLDQzNT
 cxNzAxNiwtMTgzMDcxNzc4MSwtMzY1NDI3OTQxLDY1NDMxNjk5
 OSwtODE4NTQwMzI3LC0yMTQyNzQzODc3LDM5NDkwNzE5MiwzOT
 I0MzUyMjIsLTEwMzcyMTE2MjAsNTA4MDY1NTg2LDIwNzIzMjI4
