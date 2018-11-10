@@ -6,6 +6,7 @@
 _notes:
 * started out as a rant about python packaging
 * i wanted to start distributing 
+* I suffered so you dont have to
 * make my code more shareable and professional
 * this sent me down a rabbit hole of pain
     * py pkging evolving for 18 years & is still changing
@@ -342,11 +343,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1NDQzNTE3LC0xMTY4NzIyMzM5LDU1NT
-I2MDgxMCwtMTcwMjUzNzg1NywtOTk1OTkzODk1LDMxNDAwMTI4
-MiwtOTA5NjE5OTY2LDE4NTE5MjU0NzIsNDM1NzE3MDE2LC0xOD
-MwNzE3NzgxLC0zNjU0Mjc5NDEsNjU0MzE2OTk5LC04MTg1NDAz
-MjcsLTIxNDI3NDM4NzcsMzk0OTA3MTkyLDM5MjQzNTIyMiwtMT
-AzNzIxMTYyMCw1MDgwNjU1ODYsMjA3MjMyMjg5MSwyMzQ1MTEy
-XX0=
+eyJoaXN0b3J5IjpbLTg5MjAxMTExNyw0NDU0NDM1MTcsLTExNj
+g3MjIzMzksNTU1MjYwODEwLC0xNzAyNTM3ODU3LC05OTU5OTM4
+OTUsMzE0MDAxMjgyLC05MDk2MTk5NjYsMTg1MTkyNTQ3Miw0Mz
+U3MTcwMTYsLTE4MzA3MTc3ODEsLTM2NTQyNzk0MSw2NTQzMTY5
+OTksLTgxODU0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcxOTIsMz
+kyNDM1MjIyLC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMDcyMzIy
+ODkxXX0=
 -->
