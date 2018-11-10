@@ -457,9 +457,9 @@ build-backend = "flit.api:main"  # Defined by this PEP
 ```
 _notes:
 * TOML Manifest file
-* designed for application, abstract, dependancies
-	* for sharable redistributable artificts
-* specify backend installation call, making it possible to replace setuptools `setup.py install
+* designed for application, abstract, dependencies
+	* for shareable redistributable artifices
+* removes dependency on setup.py
 
 
 
@@ -536,11 +536,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQyMTk3MTAsLTE0Mzk3NDY1ODcsLT
-IyMTY2NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5NywtMjEyNDU2
-NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3ODc2My
-w1MjIyOTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3
-MzU1OCw4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC
-05NjgwMzgwNDYsLTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OTIw
-MTExMTddfQ==
+eyJoaXN0b3J5IjpbMjA5MzA4NjUwNSwtMTQzOTc0NjU4NywtMj
+IxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0NTY1
+MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3MDc4NzYzLD
+UyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEyMTExNzUsNzE3ODcz
+NTU4LDg3NDAzODg4OCwyMDQxNTEzODQxLC00NzYzNzk0MjIsLT
+k2ODAzODA0NiwtNzk4NzM2NjM5LC0xMjQ0NjI2OTYsLTg5MjAx
+MTExN119
 -->
