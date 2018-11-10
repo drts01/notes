@@ -348,7 +348,7 @@ console_scripts =
 
 [bdist_wheel]
 # If your project contains no C extensions and is expected to work on both Python 2 and 3:
-# https://wheel.readthedocs.io/en/stable/user_guide.html#building-wheels
+# For more details see the user guide at https://wheel.readthedocs.io/.
 universal = 1
 ```
 
@@ -495,11 +495,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjkxNDYyMDMsLTIxMjQ1NjUxNjcsOD
-g2Nzk0NTMyLC0xMzExNDkwMjY2LDIwMDcwNzg3NjMsNTIyMjk4
-NDI0LC0zODEwNDI3MjYsMTg2MTIxMTE3NSw3MTc4NzM1NTgsOD
-c0MDM4ODg4LDIwNDE1MTM4NDEsLTQ3NjM3OTQyMiwtOTY4MDM4
-MDQ2LC03OTg3MzY2MzksLTEyNDQ2MjY5NiwtODkyMDExMTE3LD
-Q0NTQ0MzUxNywtMTE2ODcyMjMzOSw1NTUyNjA4MTAsLTE3MDI1
-Mzc4NTddfQ==
+eyJoaXN0b3J5IjpbMTM5NTM5MDIwMCwtMjEyNDU2NTE2Nyw4OD
+Y3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3ODc2Myw1MjIyOTg0
+MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3MzU1OCw4Nz
+QwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05NjgwMzgw
+NDYsLTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OTIwMTExMTcsND
+Q1NDQzNTE3LC0xMTY4NzIyMzM5LDU1NTI2MDgxMCwtMTcwMjUz
+Nzg1N119
 -->
