@@ -480,9 +480,11 @@ cd flit
 pip install flit
 flit publish
 ```
-
+_notes:
 * Maintainer authored PEP-517
 * replaces setup<span></span>.py, setup.cfg, with pyproject.toml
+* dont think will work w/ sdist
+* doesnt address requirements.txt, still need pip for dev and concrete dependencies.
 
 
 
@@ -552,11 +554,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxMzkwNTQxLDE5MTAyNjE1ODEsMTU4Nz
-I5MjgzNiwtMTg4NzcxOTY1MiwtMTQzOTc0NjU4NywtMjIxNjY0
-NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0NTY1MTY3LD
-g4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3MDc4NzYzLDUyMjI5
-ODQyNCwtMzgxMDQyNzI2LDE4NjEyMTExNzUsNzE3ODczNTU4LD
-g3NDAzODg4OCwyMDQxNTEzODQxLC00NzYzNzk0MjIsLTk2ODAz
-ODA0Nl19
+eyJoaXN0b3J5IjpbMTU3ODgzODE1MywxOTEwMjYxNTgxLDE1OD
+cyOTI4MzYsLTE4ODc3MTk2NTIsLTE0Mzk3NDY1ODcsLTIyMTY2
+NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5NywtMjEyNDU2NTE2Ny
+w4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3ODc2Myw1MjIy
+OTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3MzU1OC
+w4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05Njgw
+MzgwNDZdfQ==
 -->
