@@ -449,6 +449,7 @@ _notes:
 * dependency synchronization via lock file
 * 2017 PyPA recommend tooling
 * buggy
+* export to requirments.txt
 
 
 
@@ -497,7 +498,7 @@ _notes:
 * takes over
 
 
-using flit or poetry will create a barior to gain new collaborators
+using flit or poetry will create a barrier to gain new collaborators
 ## Worth Mentioning
 * Pip-tools???
 * Hatch
@@ -556,7 +557,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDA1MjYyMzUsMTU3ODgzODE1MywxOT
+eyJoaXN0b3J5IjpbLTEzOTI2MTU0MzEsMTU3ODgzODE1MywxOT
 EwMjYxNTgxLDE1ODcyOTI4MzYsLTE4ODc3MTk2NTIsLTE0Mzk3
 NDY1ODcsLTIyMTY2NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5Ny
 wtMjEyNDU2NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAw
