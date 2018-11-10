@@ -28,7 +28,7 @@ _notes:
 Content Delivery Network
 * Site Reliability Engineer for a
 "critical communications and enterprise safety" company
-* "SGV Software Craftsmanship" Co-Founder
+* "SGV Software Engineering/Craftsmanship" Co-Founder
 
 _notes:
 * Python for a few years
@@ -358,11 +358,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OT
-IwMTExMTcsNDQ1NDQzNTE3LC0xMTY4NzIyMzM5LDU1NTI2MDgx
-MCwtMTcwMjUzNzg1NywtOTk1OTkzODk1LDMxNDAwMTI4MiwtOT
-A5NjE5OTY2LDE4NTE5MjU0NzIsNDM1NzE3MDE2LC0xODMwNzE3
-NzgxLC0zNjU0Mjc5NDEsNjU0MzE2OTk5LC04MTg1NDAzMjcsLT
-IxNDI3NDM4NzcsMzk0OTA3MTkyLDM5MjQzNTIyMiwtMTAzNzIx
-MTYyMF19
+eyJoaXN0b3J5IjpbNjA5MzI1MTU3LC03OTg3MzY2MzksLTEyND
+Q2MjY5NiwtODkyMDExMTE3LDQ0NTQ0MzUxNywtMTE2ODcyMjMz
+OSw1NTUyNjA4MTAsLTE3MDI1Mzc4NTcsLTk5NTk5Mzg5NSwzMT
+QwMDEyODIsLTkwOTYxOTk2NiwxODUxOTI1NDcyLDQzNTcxNzAx
+NiwtMTgzMDcxNzc4MSwtMzY1NDI3OTQxLDY1NDMxNjk5OSwtOD
+E4NTQwMzI3LC0yMTQyNzQzODc3LDM5NDkwNzE5MiwzOTI0MzUy
+MjJdfQ==
 -->
