@@ -295,8 +295,11 @@ wheel>=0.32.2
 
 
 
-## setup.py
+## setup<span></span>.py
 ```
+from setuptools import setup
+
+setup()
 ```
 
 
@@ -442,11 +445,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwNTg5MDgwLDg4Njc5NDUzMiwtMTMxMT
-Q5MDI2NiwyMDA3MDc4NzYzLDUyMjI5ODQyNCwtMzgxMDQyNzI2
-LDE4NjEyMTExNzUsNzE3ODczNTU4LDg3NDAzODg4OCwyMDQxNT
-EzODQxLC00NzYzNzk0MjIsLTk2ODAzODA0NiwtNzk4NzM2NjM5
-LC0xMjQ0NjI2OTYsLTg5MjAxMTExNyw0NDU0NDM1MTcsLTExNj
-g3MjIzMzksNTU1MjYwODEwLC0xNzAyNTM3ODU3LC05OTU5OTM4
-OTVdfQ==
+eyJoaXN0b3J5IjpbLTEyNTcyNTQzNzMsODg2Nzk0NTMyLC0xMz
+ExNDkwMjY2LDIwMDcwNzg3NjMsNTIyMjk4NDI0LC0zODEwNDI3
+MjYsMTg2MTIxMTE3NSw3MTc4NzM1NTgsODc0MDM4ODg4LDIwND
+E1MTM4NDEsLTQ3NjM3OTQyMiwtOTY4MDM4MDQ2LC03OTg3MzY2
+MzksLTEyNDQ2MjY5NiwtODkyMDExMTE3LDQ0NTQ0MzUxNywtMT
+E2ODcyMjMzOSw1NTUyNjA4MTAsLTE3MDI1Mzc4NTcsLTk5NTk5
+Mzg5NV19
 -->
