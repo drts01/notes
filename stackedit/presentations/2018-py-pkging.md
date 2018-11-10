@@ -204,8 +204,10 @@ _notes:
 ## Python Packaging Authority
 "PyPA is a working group that maintains many of the relevant projects in Python packaging."<sup> <small><small>[ref](https://www.pypa.io)</small></small></sup><!-- .element: style="text-align:center" -->
 
-* Python Packaging User Guide (PyPUG)https://packaging.python.org
-* Tooling: https://github.com/pypa/
+* Python Packaging User Guide (PyPUG)
+<small>https://packaging.python.org</small>
+* Tooling
+<small>https://github.com/pypa/</small>
 
 _notes:
 * 2011 The PyPA is created to take over the maintenance of pip and virtualenv
@@ -215,7 +217,7 @@ _notes:
 
 ## PEP-427 Wheel
 ### The Wheel Binary Package Format
-"a simpler interface between the build system and the installer. The wheel binary package format ... removes the need to install a build system in the target environment."<sup> <small><small>[ref](https://www.python.org/dev/peps/pep-0427/#id5)</small></small></sup>
+"A simpler interface between the build system and the installer. The wheel binary package format ... removes the need to install a build system in the target environment."<small><small>[ref](https://www.python.org/dev/peps/pep-0427/#id5)</small></small>
 
 _notes:
 * 2012
@@ -373,7 +375,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzY2MTI5OSwxODYxMjExMTc1LDcxNz
+eyJoaXN0b3J5IjpbLTM4MTA0MjcyNiwxODYxMjExMTc1LDcxNz
 g3MzU1OCw4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIy
 LC05NjgwMzgwNDYsLTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OT
 IwMTExMTcsNDQ1NDQzNTE3LC0xMTY4NzIyMzM5LDU1NTI2MDgx
