@@ -13,6 +13,17 @@ _notes:
 
 
 
+## for pythonista in socalcodecamp:
+* Desiring to properly share Python libraries
+* Curious about newer standards and tooling
+
+_notes:
+* i would like to share
+* new to py pkging
+* wants to take advantage of newer standards and tooling
+
+
+
 ## getpass.getuser()
 * Developer and Systems Engineer for a
 Content Delivery Network
@@ -24,17 +35,6 @@ _notes:
 * Python for a few years
 * automate and manage large infrastructure
 * a group to help myself and any who writes code to grow
-
-
-
-## for pythonista in socalcodecamp:
-* Desiring to properly share Python libraries
-* Curious about newer standards and tooling
-
-_notes:
-* new to py pkging
-* wants to take advantage of newer standards and tooling
-
 
 
 
@@ -65,7 +65,6 @@ _note:
 _notes:
 * 2 parts: traditional / upcoming
 * discussion during examples
-
 
 
 
@@ -616,11 +615,11 @@ _notes:
 #### @digitalr00ts
 Questions?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTQyMzU4MCwxMjU0MDk5MjAwLC03Nj
-cxNjU1NjAsLTMwOTk1MDcwMiwtMTU4MDAyNDY2NiwtNDM0MjQ3
-MDA1LDc2NTQ5MTM1MiwtNTM1ODU1MjYxLDE1Nzg4MzgxNTMsMT
-kxMDI2MTU4MSwxNTg3MjkyODM2LC0xODg3NzE5NjUyLC0xNDM5
-NzQ2NTg3LC0yMjE2NjQ1MSwxMjg3NDEzMDU1LDIwMTYzNDA2OT
-csLTIxMjQ1NjUxNjcsODg2Nzk0NTMyLC0xMzExNDkwMjY2LDIw
-MDcwNzg3NjNdfQ==
+eyJoaXN0b3J5IjpbODI3NDYxMTMsMTI1NDA5OTIwMCwtNzY3MT
+Y1NTYwLC0zMDk5NTA3MDIsLTE1ODAwMjQ2NjYsLTQzNDI0NzAw
+NSw3NjU0OTEzNTIsLTUzNTg1NTI2MSwxNTc4ODM4MTUzLDE5MT
+AyNjE1ODEsMTU4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMTQzOTc0
+NjU4NywtMjIxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC
+0yMTI0NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3
+MDc4NzYzXX0=
 -->
