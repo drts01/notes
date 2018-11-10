@@ -59,9 +59,9 @@ _note:
 * Built Distribution (bdist)
 
 _notes:
-* Py pgk = distrib
+* Py pgk = distribution
 * sdist: provides metadata and source files
-* bdist: removes the build step before installing
+* bdist: removes the build step before installing (faster)
 
 
 
@@ -76,8 +76,7 @@ _notes:
 
 
 
-## X 'NoneType' object has no attribute 'get'
-Not intending to cover:
+## 'NoneType' object has no attribute 'get'
 * CI / CD
 * Testing
 * Documentation
@@ -371,7 +370,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTgzODgzOSwtNzk4NzM2NjM5LC0xMj
+eyJoaXN0b3J5IjpbLTg4MzUzNTg1NywtNzk4NzM2NjM5LC0xMj
 Q0NjI2OTYsLTg5MjAxMTExNyw0NDU0NDM1MTcsLTExNjg3MjIz
 MzksNTU1MjYwODEwLC0xNzAyNTM3ODU3LC05OTU5OTM4OTUsMz
 E0MDAxMjgyLC05MDk2MTk5NjYsMTg1MTkyNTQ3Miw0MzU3MTcw
