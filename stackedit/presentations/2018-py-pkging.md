@@ -519,7 +519,11 @@ using flit or poetry
 * not enough market share
 * will create a barrier to gain new collaborators
 * doesnt address requirements.txt, still need pip for dev and concrete dependencies.
-* pipenv streamlines the 
+
+pipenv:
+* streamlines the virtualenv management
+* dependency locking
+* generate requirements.txt to be compatible w/ traditional workflows
 
 
 
@@ -562,7 +566,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODg1MTY2OSwxNTc4ODM4MTUzLDE5MT
+eyJoaXN0b3J5IjpbMTYyMTk2NDgxMiwxNTc4ODM4MTUzLDE5MT
 AyNjE1ODEsMTU4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMTQzOTc0
 NjU4NywtMjIxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC
 0yMTI0NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3
