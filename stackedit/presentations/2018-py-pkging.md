@@ -308,6 +308,7 @@ _notes:
 
 ## setup.cfg
 ```ini
+# For setuptools configuration see https://setuptools.readthedocs.io
 [metadata]
 name = pkg-demo
 version = 0.1.0
@@ -494,11 +495,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQ1NjUxNjcsODg2Nzk0NTMyLC0xMz
-ExNDkwMjY2LDIwMDcwNzg3NjMsNTIyMjk4NDI0LC0zODEwNDI3
-MjYsMTg2MTIxMTE3NSw3MTc4NzM1NTgsODc0MDM4ODg4LDIwND
-E1MTM4NDEsLTQ3NjM3OTQyMiwtOTY4MDM4MDQ2LC03OTg3MzY2
-MzksLTEyNDQ2MjY5NiwtODkyMDExMTE3LDQ0NTQ0MzUxNywtMT
-E2ODcyMjMzOSw1NTUyNjA4MTAsLTE3MDI1Mzc4NTcsLTk5NTk5
-Mzg5NV19
+eyJoaXN0b3J5IjpbLTEyNjkxNDYyMDMsLTIxMjQ1NjUxNjcsOD
+g2Nzk0NTMyLC0xMzExNDkwMjY2LDIwMDcwNzg3NjMsNTIyMjk4
+NDI0LC0zODEwNDI3MjYsMTg2MTIxMTE3NSw3MTc4NzM1NTgsOD
+c0MDM4ODg4LDIwNDE1MTM4NDEsLTQ3NjM3OTQyMiwtOTY4MDM4
+MDQ2LC03OTg3MzY2MzksLTEyNDQ2MjY5NiwtODkyMDExMTE3LD
+Q0NTQ0MzUxNywtMTE2ODcyMjMzOSw1NTUyNjA4MTAsLTE3MDI1
+Mzc4NTddfQ==
 -->
