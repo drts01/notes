@@ -198,7 +198,6 @@ _notes:
 * 2008 - installing from PyPI
 * requirements.txt convention gave users the power to easily replicate environments.
 	* for concrete dependencies, i pull in abstract from setup.py
-* * setup.py requires designed for application, shareable redistributable artifacts 
 * 2014 included w/ Python
 
 
@@ -538,7 +537,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDEzNTczMCwtMTQzOTc0NjU4NywtMj
+eyJoaXN0b3J5IjpbLTU2ODYxMzI0NSwtMTQzOTc0NjU4NywtMj
 IxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0NTY1
 MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3MDc4NzYzLD
 UyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEyMTExNzUsNzE3ODcz
