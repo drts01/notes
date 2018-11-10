@@ -37,17 +37,6 @@ _notes:
 
 
 
-## 'NoneType' object has no attribute 'get'
-* CI / CD
-* Testing
-* Documentation
-
-_notes:
-* these are important
-* focusing on the packaging and distribution process
-* but docs can be argued to be included
-
-
 
 ## Packaging
 "Packaging is the fine art of creating a distributable software artifact"
@@ -65,18 +54,6 @@ _note:
 
 
 
-## Distribution
-"A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a Release."<sup> <small><small>[ref](https://packaging.python.org/glossary/#term-distribution-package)</small></small></sup>
-* Source Distribution (sdist)
-* Built Distribution (bdist)
-
-_notes:
-* Py pgk = distribution
-* sdist: provides metadata and source files
-* bdist: removes the build step before installing (faster)
-
-
-
 ## .\. contents::
 1. Current ("Classic") Packaging Story
 	1. Overview of tooling
@@ -88,6 +65,32 @@ _notes:
 _notes:
 * 2 parts: traditional / upcoming
 * discussion during examples
+
+
+
+
+## 'NoneType' object has no attribute 'get'
+* CI / CD
+* Testing
+* Documentation
+
+_notes:
+* these are important
+* focusing on the packaging and distribution process
+* but docs can be argued to be included
+
+
+
+
+## Distribution
+"A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a Release."<sup> <small><small>[ref](https://packaging.python.org/glossary/#term-distribution-package)</small></small></sup>
+* Source Distribution (sdist)
+* Built Distribution (bdist)
+
+_notes:
+* Py pgk = distribution
+* sdist: provides metadata and source files
+* bdist: removes the build step before installing (faster)
 
 
 
@@ -613,11 +616,11 @@ _notes:
 #### @digitalr00ts
 Questions?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDA5OTIwMCwtNzY3MTY1NTYwLC0zMD
-k5NTA3MDIsLTE1ODAwMjQ2NjYsLTQzNDI0NzAwNSw3NjU0OTEz
-NTIsLTUzNTg1NTI2MSwxNTc4ODM4MTUzLDE5MTAyNjE1ODEsMT
-U4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMTQzOTc0NjU4NywtMjIx
-NjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0NTY1MT
-Y3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3MDc4NzYzLDUy
-MjI5ODQyNF19
+eyJoaXN0b3J5IjpbLTQ0MTQyMzU4MCwxMjU0MDk5MjAwLC03Nj
+cxNjU1NjAsLTMwOTk1MDcwMiwtMTU4MDAyNDY2NiwtNDM0MjQ3
+MDA1LDc2NTQ5MTM1MiwtNTM1ODU1MjYxLDE1Nzg4MzgxNTMsMT
+kxMDI2MTU4MSwxNTg3MjkyODM2LC0xODg3NzE5NjUyLC0xNDM5
+NzQ2NTg3LC0yMjE2NjQ1MSwxMjg3NDEzMDU1LDIwMTYzNDA2OT
+csLTIxMjQ1NjUxNjcsODg2Nzk0NTMyLC0xMzExNDkwMjY2LDIw
+MDcwNzg3NjNdfQ==
 -->
