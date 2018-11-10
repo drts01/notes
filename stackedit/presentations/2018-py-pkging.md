@@ -197,12 +197,14 @@ virtualenv==16.1.0
 _notes:
 * 2008 - installing from PyPI
 * requirements.txt convention gave users the power to easily replicate environments.
+* setup.py designed for application, abstract, dependencies
+	* for shareable redistributable artifacts
 * 2014 included w/ Python
 
 
 
 ## Python Packaging Authority
-"PyPA is a working group that maintains many of the relevant projects in Python packaging."<sup> <small><small>[ref](https://www.pypa.io)</small></small></sup><!-- .element: style="text-align:center" -->
+"PyPA is a working group that maintains many of the relevant projects in Python packaging."<small><small>[ref](https://www.pypa.io)</small></small><!-- .element: style="text-align:center" -->
 
 * Python Packaging User Guide (PyPUG)
 <small>https://packaging.python.org</small>
@@ -536,7 +538,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjAwNDE3NiwtMTQzOTc0NjU4NywtMj
+eyJoaXN0b3J5IjpbLTU3ODM3OTI1MCwtMTQzOTc0NjU4NywtMj
 IxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0NTY1
 MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3MDc4NzYzLD
 UyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEyMTExNzUsNzE3ODcz
