@@ -611,7 +611,7 @@ _notes:
 _notes:
 * the story isnt over
 * today nothing addresses everything completely
-* have competing tooling clouding up 
+* have competing tooling 
 
 
 
@@ -619,7 +619,7 @@ _notes:
 #### @digitalr00ts
 Questions?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODE2MjkzMjAsLTQzNDI0NzAwNSw3Nj
+eyJoaXN0b3J5IjpbLTE1ODAwMjQ2NjYsLTQzNDI0NzAwNSw3Nj
 U0OTEzNTIsLTUzNTg1NTI2MSwxNTc4ODM4MTUzLDE5MTAyNjE1
 ODEsMTU4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMTQzOTc0NjU4Ny
 wtMjIxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0
