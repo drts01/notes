@@ -391,6 +391,11 @@ recursive-include tests *
 _notes:
 * includes files that are not in the py pkg dir
 
+
+
+
+## DEMO?
+_notes:
 ```bash
 cd pkg-demo
 virtualenv venv
@@ -401,8 +406,6 @@ twine upload -r testpypi dist/*
 ```
 
 
-
-## DEMO?
 
 ## Changes from 2016
 * Pipfile - Endorsed by PyPA
@@ -543,11 +546,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTk3MjQ2MTIsLTE4ODc3MTk2NTIsLT
-E0Mzk3NDY1ODcsLTIyMTY2NDUxLDEyODc0MTMwNTUsMjAxNjM0
-MDY5NywtMjEyNDU2NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNj
-YsMjAwNzA3ODc2Myw1MjIyOTg0MjQsLTM4MTA0MjcyNiwxODYx
-MjExMTc1LDcxNzg3MzU1OCw4NzQwMzg4ODgsMjA0MTUxMzg0MS
-wtNDc2Mzc5NDIyLC05NjgwMzgwNDYsLTc5ODczNjYzOSwtMTI0
-NDYyNjk2XX0=
+eyJoaXN0b3J5IjpbMTU4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMT
+QzOTc0NjU4NywtMjIxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQw
+Njk3LC0yMTI0NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2Ni
+wyMDA3MDc4NzYzLDUyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEy
+MTExNzUsNzE3ODczNTU4LDg3NDAzODg4OCwyMDQxNTEzODQxLC
+00NzYzNzk0MjIsLTk2ODAzODA0NiwtNzk4NzM2NjM5LC0xMjQ0
+NjI2OTZdfQ==
 -->
