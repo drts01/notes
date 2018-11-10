@@ -477,7 +477,9 @@ _notes:
 ## Flit
 "A simple way to put Python packages and modules on PyPI."<small><small>[ref](https://flit.readthedocs.io)</small></small>
 ```bash
-cd flit
+cd awesome-pyproject
+virtualenv venv
+. venv/bin/activate
 pip install flit
 flit publish
 ```
@@ -491,7 +493,9 @@ _notes:
 
 ## Poetry
 "Python dependency management and packaging made easy."<small><small>[ref](https://poetry.eustace.io/)</small></small>
-
+```bash
+cd awe
+poetry 
 
 _notes:
 * Similar to Flit
@@ -559,11 +563,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDIzMDMwNywxNTc4ODM4MTUzLDE5MT
-AyNjE1ODEsMTU4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMTQzOTc0
-NjU4NywtMjIxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC
-0yMTI0NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3
-MDc4NzYzLDUyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEyMTExNz
-UsNzE3ODczNTU4LDg3NDAzODg4OCwyMDQxNTEzODQxLC00NzYz
-Nzk0MjJdfQ==
+eyJoaXN0b3J5IjpbLTE3NTQ3MTM3NzMsMTU3ODgzODE1MywxOT
+EwMjYxNTgxLDE1ODcyOTI4MzYsLTE4ODc3MTk2NTIsLTE0Mzk3
+NDY1ODcsLTIyMTY2NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5Ny
+wtMjEyNDU2NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAw
+NzA3ODc2Myw1MjIyOTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMT
+c1LDcxNzg3MzU1OCw4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2
+Mzc5NDIyXX0=
 -->
