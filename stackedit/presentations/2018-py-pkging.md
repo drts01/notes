@@ -489,6 +489,8 @@ _notes:
 
 
 ## Poetry
+"Python dependency management and packaging made easy.
+_notes:
 * Similar to Flit
 * superiour dependency resolution to Pipenv
 * created its own locking file to use with pyproject.toml
@@ -554,11 +556,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODgzODE1MywxOTEwMjYxNTgxLDE1OD
-cyOTI4MzYsLTE4ODc3MTk2NTIsLTE0Mzk3NDY1ODcsLTIyMTY2
-NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5NywtMjEyNDU2NTE2Ny
-w4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3ODc2Myw1MjIy
-OTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3MzU1OC
-w4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05Njgw
-MzgwNDZdfQ==
+eyJoaXN0b3J5IjpbLTcwOTYwODczOCwxNTc4ODM4MTUzLDE5MT
+AyNjE1ODEsMTU4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMTQzOTc0
+NjU4NywtMjIxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC
+0yMTI0NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3
+MDc4NzYzLDUyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEyMTExNz
+UsNzE3ODczNTU4LDg3NDAzODg4OCwyMDQxNTEzODQxLC00NzYz
+Nzk0MjJdfQ==
 -->
