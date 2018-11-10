@@ -449,7 +449,7 @@ _notes:
 * dependency synchronization via lock file
 * 2017 PyPA recommend tooling
 * buggy
-* export to requirments.txt
+* export to requirements.txt
 
 
 
@@ -491,11 +491,13 @@ _notes:
 
 ## Poetry
 "Python dependency management and packaging made easy."<small><small>[ref](https://poetry.eustace.io/)</small></small>
+
+
 _notes:
 * Similar to Flit
-* superiour dependency resolution to Pipenv
-* created its own locking file to use with pyproject.toml
-* takes over
+* created its own locking file
+* superior dependency resolution to Pipenv
+
 
 
 using flit or poetry will create a barrier to gain new collaborators
@@ -557,11 +559,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTI2MTU0MzEsMTU3ODgzODE1MywxOT
-EwMjYxNTgxLDE1ODcyOTI4MzYsLTE4ODc3MTk2NTIsLTE0Mzk3
-NDY1ODcsLTIyMTY2NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5Ny
-wtMjEyNDU2NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAw
-NzA3ODc2Myw1MjIyOTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMT
-c1LDcxNzg3MzU1OCw4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2
-Mzc5NDIyXX0=
+eyJoaXN0b3J5IjpbMTY1NDIzMDMwNywxNTc4ODM4MTUzLDE5MT
+AyNjE1ODEsMTU4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMTQzOTc0
+NjU4NywtMjIxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC
+0yMTI0NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3
+MDc4NzYzLDUyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEyMTExNz
+UsNzE3ODczNTU4LDg3NDAzODg4OCwyMDQxNTEzODQxLC00NzYz
+Nzk0MjJdfQ==
 -->
