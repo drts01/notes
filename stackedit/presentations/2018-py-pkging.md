@@ -52,6 +52,23 @@ _note:
 * why: usable, versioning
 
 
+
+## Distribution
+"A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a Release."<sup> <small><small>[ref](https://packaging.python.org/glossary/#term-distribution-package)</small></small></sup>
+* Source Distribution (sdist)
+* Built Distribution (bdist)
+	* Wheel Binary??? Package Format<sup> <small><small>[ref](https://www.python.org/dev/peps/pep-0427/)</small></small></sup>
+
+_notes:
+* Terminology:
+* dist
+* sdist: provides metadata and source files
+* bdist: removes the build step before installing
+* wheel: 2012, provides a simpler interface between the build system and the installer.
+* wheel is the current standard for a distribution
+
+
+
 ## for pythonista in socalcodecamp:
 * Desiring to properly share Python libraries
 * New to Python packaging
@@ -358,7 +375,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDU1NDgxNDcsLTc5ODczNjYzOSwtMT
+eyJoaXN0b3J5IjpbLTE2NTM4NzE0MDgsLTc5ODczNjYzOSwtMT
 I0NDYyNjk2LC04OTIwMTExMTcsNDQ1NDQzNTE3LC0xMTY4NzIy
 MzM5LDU1NTI2MDgxMCwtMTcwMjUzNzg1NywtOTk1OTkzODk1LD
 MxNDAwMTI4MiwtOTA5NjE5OTY2LDE4NTE5MjU0NzIsNDM1NzE3
