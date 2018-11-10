@@ -475,6 +475,10 @@ _notes:
 
 ## Flit
 "A simple way to put Python packages and modules on PyPI."<small><small>[ref](https://flit.readthedocs.io)</small></small>
+```bash
+cd flit
+pip install flint
+flit publish
 
 * Implements PEP-518 and replaces setup<span></span>.py, setup.cfg, and requirements.txt with pyproject.toml
 * Builds and publishes artifact
@@ -548,11 +552,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDI2MTU4MSwxNTg3MjkyODM2LC0xOD
-g3NzE5NjUyLC0xNDM5NzQ2NTg3LC0yMjE2NjQ1MSwxMjg3NDEz
-MDU1LDIwMTYzNDA2OTcsLTIxMjQ1NjUxNjcsODg2Nzk0NTMyLC
-0xMzExNDkwMjY2LDIwMDcwNzg3NjMsNTIyMjk4NDI0LC0zODEw
-NDI3MjYsMTg2MTIxMTE3NSw3MTc4NzM1NTgsODc0MDM4ODg4LD
-IwNDE1MTM4NDEsLTQ3NjM3OTQyMiwtOTY4MDM4MDQ2LC03OTg3
-MzY2MzldfQ==
+eyJoaXN0b3J5IjpbLTc4OTEzNzY1MCwxOTEwMjYxNTgxLDE1OD
+cyOTI4MzYsLTE4ODc3MTk2NTIsLTE0Mzk3NDY1ODcsLTIyMTY2
+NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5NywtMjEyNDU2NTE2Ny
+w4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3ODc2Myw1MjIy
+OTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3MzU1OC
+w4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05Njgw
+MzgwNDZdfQ==
 -->
