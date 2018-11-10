@@ -501,27 +501,27 @@ poetry publish
 ```
 
 _notes:
-* Similar to Flit
+* kind of Flit
 * created its own locking file
 * superior dependency resolution to Pipenv
 
 
-not enough market share
-using flit or poetry will create a barrier to gain new collaborators
 
 
 
 
-## A Modern Workflow
+## A Newer Workflow
 ```bash
 cd pkg-demo
 pipenv install --dev
 pipenv shell
 python setup.py sdist bdist_wheel
 twine upload dist/*
-_notes:
 ```
-* 
+_notes:
+using flit or poetry
+* not enough market share
+* will create a barrier to gain new collaborators
 
 
 
@@ -564,11 +564,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU3MTkzNzQsMTU3ODgzODE1MywxOT
-EwMjYxNTgxLDE1ODcyOTI4MzYsLTE4ODc3MTk2NTIsLTE0Mzk3
-NDY1ODcsLTIyMTY2NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5Ny
-wtMjEyNDU2NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAw
-NzA3ODc2Myw1MjIyOTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMT
-c1LDcxNzg3MzU1OCw4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2
-Mzc5NDIyXX0=
+eyJoaXN0b3J5IjpbMjMwMzA3ODEsMTU3ODgzODE1MywxOTEwMj
+YxNTgxLDE1ODcyOTI4MzYsLTE4ODc3MTk2NTIsLTE0Mzk3NDY1
+ODcsLTIyMTY2NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5NywtMj
+EyNDU2NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3
+ODc2Myw1MjIyOTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LD
+cxNzg3MzU1OCw4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5
+NDIyXX0=
 -->
