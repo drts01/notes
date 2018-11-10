@@ -372,8 +372,28 @@ _notes:
 
 
 ## MANIFEST<span></span>.in
+```ini
+# MANIFEST.in is still required because setuptools.setup(package_data=dict()) is a lie.
+# http://blog.codekills.net/2011/07/15/lies,-more-lies-and-python-packaging-documentation-on--package_data-/
+include *.rst
+include AUTHORS
+include CHANGELOG
+include LICENSE
+include requirements*
+recursive-include docs *
+recursive-include tests *
+```
 _notes:
 * includes files that are not in the py pkg dir
+
+```bash
+cd pkg-demo
+virtualenv venv
+. venv/bin/activate
+pip install -r requirements-dev.txt
+python setup.py sdist bdist_wheel
+twine upload -r testpypi dist/*
+```
 
 
 
@@ -518,11 +538,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk3NDY1ODcsLTIyMTY2NDUxLDEyOD
-c0MTMwNTUsMjAxNjM0MDY5NywtMjEyNDU2NTE2Nyw4ODY3OTQ1
-MzIsLTEzMTE0OTAyNjYsMjAwNzA3ODc2Myw1MjIyOTg0MjQsLT
-M4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3MzU1OCw4NzQwMzg4
-ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05NjgwMzgwNDYsLT
-c5ODczNjYzOSwtMTI0NDYyNjk2LC04OTIwMTExMTcsNDQ1NDQz
-NTE3XX0=
+eyJoaXN0b3J5IjpbMTk0NTM3OTMzNywtMTQzOTc0NjU4NywtMj
+IxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0NTY1
+MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3MDc4NzYzLD
+UyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEyMTExNzUsNzE3ODcz
+NTU4LDg3NDAzODg4OCwyMDQxNTEzODQxLC00NzYzNzk0MjIsLT
+k2ODAzODA0NiwtNzk4NzM2NjM5LC0xMjQ0NjI2OTYsLTg5MjAx
+MTExN119
 -->
