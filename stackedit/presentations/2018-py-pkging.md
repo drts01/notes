@@ -367,6 +367,7 @@ _notes:
 * metadata
 * options
 * universal wheel
+* entry_points
 
 
 
@@ -517,11 +518,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTY2NDUxLDEyODc0MTMwNTUsMjAxNj
-M0MDY5NywtMjEyNDU2NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAy
-NjYsMjAwNzA3ODc2Myw1MjIyOTg0MjQsLTM4MTA0MjcyNiwxOD
-YxMjExMTc1LDcxNzg3MzU1OCw4NzQwMzg4ODgsMjA0MTUxMzg0
-MSwtNDc2Mzc5NDIyLC05NjgwMzgwNDYsLTc5ODczNjYzOSwtMT
-I0NDYyNjk2LC04OTIwMTExMTcsNDQ1NDQzNTE3LC0xMTY4NzIy
-MzM5XX0=
+eyJoaXN0b3J5IjpbLTE0Mzk3NDY1ODcsLTIyMTY2NDUxLDEyOD
+c0MTMwNTUsMjAxNjM0MDY5NywtMjEyNDU2NTE2Nyw4ODY3OTQ1
+MzIsLTEzMTE0OTAyNjYsMjAwNzA3ODc2Myw1MjIyOTg0MjQsLT
+M4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3MzU1OCw4NzQwMzg4
+ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05NjgwMzgwNDYsLT
+c5ODczNjYzOSwtMTI0NDYyNjk2LC04OTIwMTExMTcsNDQ1NDQz
+NTE3XX0=
 -->
