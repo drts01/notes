@@ -600,7 +600,7 @@ pipenv publish
 ## def \_\_next\_\_(self):
 * Documentation
 * Automation (CI)
-* Signing Packages
+* Distribution Signing
 
 _notes:
 * any respectable project will have these
@@ -608,6 +608,7 @@ _notes:
 
 
 ## while True:
+![The Never Ending Story](https://api.pcloud.com/getpubthumb?code=XZupcM7Z3DAoyDbWcvfJYdC2tfFRCFoBEIwV&size=640x360)
 _notes:
 * the story isnt over
 * today nothing addresses everything completely
@@ -619,11 +620,11 @@ _notes:
 #### @digitalr00ts
 Questions?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODAwMjQ2NjYsLTQzNDI0NzAwNSw3Nj
-U0OTEzNTIsLTUzNTg1NTI2MSwxNTc4ODM4MTUzLDE5MTAyNjE1
-ODEsMTU4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMTQzOTc0NjU4Ny
-wtMjIxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0
-NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3MDc4Nz
-YzLDUyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEyMTExNzUsNzE3
-ODczNTU4XX0=
+eyJoaXN0b3J5IjpbLTMwOTk1MDcwMiwtMTU4MDAyNDY2NiwtND
+M0MjQ3MDA1LDc2NTQ5MTM1MiwtNTM1ODU1MjYxLDE1Nzg4Mzgx
+NTMsMTkxMDI2MTU4MSwxNTg3MjkyODM2LC0xODg3NzE5NjUyLC
+0xNDM5NzQ2NTg3LC0yMjE2NjQ1MSwxMjg3NDEzMDU1LDIwMTYz
+NDA2OTcsLTIxMjQ1NjUxNjcsODg2Nzk0NTMyLC0xMzExNDkwMj
+Y2LDIwMDcwNzg3NjMsNTIyMjk4NDI0LC0zODEwNDI3MjYsMTg2
+MTIxMTE3NV19
 -->
