@@ -512,8 +512,6 @@ cd pkg-demo
 pipenv install --dev
 pipenv build
 pipenv publish
-python setup.py sdist bdist_wheel
-twine upload dist/*
 ```
 _notes:
 using flit or poetry
@@ -556,6 +554,32 @@ _notes:
 
 
 
+## Pipfile
+```ini
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+# Abstract dependancies of this package should be maintained in setup.cfg.
+# Concrete dependancies should be defined here.
+# see, https://packaging.python.org/discussions/install-requires-vs-requirements/
+
+[dev-packages]
+"setuptools" = {version=">=40.5.0", index="pypi"}
+"wheel" = {version=">=0.32.2", index="pypi"}
+"pkg-demo" = {editable = true, path = "."}
+
+[requires]
+# Can define a Python version.
+
+[scripts]
+build = python setup.py sdist bdist_wheel
+publish = twine upload dist/*
+```
+
+
 ## More
 * Documentation
 * Automation (CI)
@@ -566,11 +590,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTg1NTI2MSwxNTc4ODM4MTUzLDE5MT
-AyNjE1ODEsMTU4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMTQzOTc0
-NjU4NywtMjIxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC
-0yMTI0NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3
-MDc4NzYzLDUyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEyMTExNz
-UsNzE3ODczNTU4LDg3NDAzODg4OCwyMDQxNTEzODQxLC00NzYz
-Nzk0MjJdfQ==
+eyJoaXN0b3J5IjpbLTU5OTM2MDgxLC01MzU4NTUyNjEsMTU3OD
+gzODE1MywxOTEwMjYxNTgxLDE1ODcyOTI4MzYsLTE4ODc3MTk2
+NTIsLTE0Mzk3NDY1ODcsLTIyMTY2NDUxLDEyODc0MTMwNTUsMj
+AxNjM0MDY5NywtMjEyNDU2NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0
+OTAyNjYsMjAwNzA3ODc2Myw1MjIyOTg0MjQsLTM4MTA0MjcyNi
+wxODYxMjExMTc1LDcxNzg3MzU1OCw4NzQwMzg4ODgsMjA0MTUx
+Mzg0MV19
 -->
