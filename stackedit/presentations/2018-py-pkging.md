@@ -494,8 +494,11 @@ _notes:
 ## Poetry
 "Python dependency management and packaging made easy."<small><small>[ref](https://poetry.eustace.io/)</small></small>
 ```bash
-cd awe
-poetry 
+cd awesome-pyproject
+poetry install
+poetry build
+poetry publish
+```
 
 _notes:
 * Similar to Flit
@@ -503,11 +506,9 @@ _notes:
 * superior dependency resolution to Pipenv
 
 
-
+not enough market share
 using flit or poetry will create a barrier to gain new collaborators
-## Worth Mentioning
-* Pip-tools???
-* Hatch
+
 
 
 
@@ -563,7 +564,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQ3MTM3NzMsMTU3ODgzODE1MywxOT
+eyJoaXN0b3J5IjpbLTE1MTU3MTkzNzQsMTU3ODgzODE1MywxOT
 EwMjYxNTgxLDE1ODcyOTI4MzYsLTE4ODc3MTk2NTIsLTE0Mzk3
 NDY1ODcsLTIyMTY2NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5Ny
 wtMjEyNDU2NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAw
