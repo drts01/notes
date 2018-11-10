@@ -306,6 +306,61 @@ _notes:
 
 
 
+## setup.cfg
+```ini
+[metadata]
+name = pkg-demo
+version = 0.1.0
+summary = An example of packing a python project.
+author = digitalr00ts
+author-email = example@digitalr00ts.com
+long_description = file: README.rst
+description-content-type = "text/x-rst; charset=UTF-8"
+url = https://test.pypi.org/project/pkg-demo/
+license = MIT
+project_urls =
+    Bug Tracker = https://gitlab.com/digitalr00ts-demos/pkg-demo/issues
+    Documentation = https://digitalr00ts-demos.gitlab.io/pkg-demo
+    Source Code = https://gitlab.com/digitalr00ts-demos/pkg-demo
+classifiers =
+    Development Status :: 3 - Alpha
+    Environment :: Console
+    Intended Audience :: Developers
+    License :: OSI Approved :: MIT License
+    Programming Language :: Python
+    Programming Language :: Python :: 2
+    Programming Language :: Python :: 2.7
+    Programming Language :: Python :: 3
+    Programming Language :: Python :: 3.4
+    Programming Language :: Python :: 3.5
+    Programming Language :: Python :: 3.6
+    Programming Language :: Python :: 3.7
+    Topic :: Software Development :: Libraries :: Python Modules
+keywords = digitalr00ts, demo, example
+
+[options]
+include_package_data = True
+install_requires =
+packages = find:
+package_dir =
+    = src
+zip_safe = False
+
+[options.packages.find]
+where = src
+
+[options.entry_points]
+console_scripts =
+    pkg-demo = pkg_demo.__main__:main
+
+[bdist_wheel]
+# If your project contains no C extensions and is expected to work on both Python 2 and 3:
+# https://wheel.readthedocs.io/en/stable/user_guide.html#building-wheels
+universal = 1
+```
+
+
+
 ## Changes from 2016
 * Pipfile - Endorsed by PyPA
 	* Pipenv
@@ -447,7 +502,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTc0MDgxNjEsODg2Nzk0NTMyLC0xMz
+eyJoaXN0b3J5IjpbLTE0NDA0NjcwNTEsODg2Nzk0NTMyLC0xMz
 ExNDkwMjY2LDIwMDcwNzg3NjMsNTIyMjk4NDI0LC0zODEwNDI3
 MjYsMTg2MTIxMTE3NSw3MTc4NzM1NTgsODc0MDM4ODg4LDIwND
 E1MTM4NDEsLTQ3NjM3OTQyMiwtOTY4MDM4MDQ2LC03OTg3MzY2
