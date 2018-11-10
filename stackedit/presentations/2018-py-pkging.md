@@ -307,6 +307,7 @@ wheel>=0.32.2
 ```
 _notes:
 * setup.py `install_requires` designed for shareable redistributable artifacts
+* concrete by calling from requirements.txt and specifying where to get them from.
 
 
 
@@ -540,11 +541,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxOTE1MjYsLTE0Mzk3NDY1ODcsLTIyMT
-Y2NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5NywtMjEyNDU2NTE2
-Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3ODc2Myw1Mj
-IyOTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3MzU1
-OCw4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05Nj
-gwMzgwNDYsLTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OTIwMTEx
-MTddfQ==
+eyJoaXN0b3J5IjpbLTE4ODc3MTk2NTIsLTE0Mzk3NDY1ODcsLT
+IyMTY2NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5NywtMjEyNDU2
+NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3ODc2My
+w1MjIyOTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3
+MzU1OCw4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC
+05NjgwMzgwNDYsLTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OTIw
+MTExMTddfQ==
 -->
