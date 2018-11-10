@@ -372,7 +372,7 @@ _notes:
 
 
 ## MANIFEST<span></span>.in
-```ini
+```python
 # MANIFEST.in is still required because setuptools.setup(package_data=dict()) is a lie.
 # http://blog.codekills.net/2011/07/15/lies,-more-lies-and-python-packaging-documentation-on--package_data-/
 include *.rst
@@ -410,7 +410,7 @@ _notes:
 
 
 ## Pipfile
-"Pipfile will be superior to requirements.txt"<sup> <small><small>[ref](https://github.com/pypa/pipfile/blob/c09b3d9f24c635aeaeaf8a9304a2f69e99c25e8a/README.rst)</small></small></sup>
+"Pipfile will be superior to requirements.txt"<small><small>[ref](https://github.com/pypa/pipfile/blob/c09b3d9f24c635aeaeaf8a9304a2f69e99c25e8a/README.rst)</small></small>
 
 Pipfile:
 ```ini
@@ -420,12 +420,10 @@ records = '>0.5.0'
 django = { git = 'https://github.com/django/django.git', ref = '1.11.4', editable = true }
 ```
 _notes:
-* Replaces requirements.txt
+* Replaces requirement.txt
 * Lock file for deterministic environments
 * TOML syntax
 * "under active design and development"
-* Intended for developer/sysadmins, concrete, dependencies for apps
-	* i.e. deploy on a server
 
 
 
@@ -538,11 +536,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTM3OTMzNywtMTQzOTc0NjU4NywtMj
-IxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0NTY1
-MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3MDc4NzYzLD
-UyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEyMTExNzUsNzE3ODcz
-NTU4LDg3NDAzODg4OCwyMDQxNTEzODQxLC00NzYzNzk0MjIsLT
-k2ODAzODA0NiwtNzk4NzM2NjM5LC0xMjQ0NjI2OTYsLTg5MjAx
-MTExN119
+eyJoaXN0b3J5IjpbLTE2NjQyMTk3MTAsLTE0Mzk3NDY1ODcsLT
+IyMTY2NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5NywtMjEyNDU2
+NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3ODc2My
+w1MjIyOTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3
+MzU1OCw4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC
+05NjgwMzgwNDYsLTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OTIw
+MTExMTddfQ==
 -->
