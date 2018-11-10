@@ -67,11 +67,10 @@ _notes:
 
 ## for pythonista in socalcodecamp:
 * Desiring to properly share Python libraries
-* New to Python packaging
 * Curious about newer standards and tooling
 
 _notes:
-* so this talk is for anyone who ^^^
+* new to py pkging
 * wants to take advantage of newer standards and tooling
 
 
@@ -370,7 +369,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzUzNTg1NywtNzk4NzM2NjM5LC0xMj
+eyJoaXN0b3J5IjpbLTk2ODAzODA0NiwtNzk4NzM2NjM5LC0xMj
 Q0NjI2OTYsLTg5MjAxMTExNyw0NDU0NDM1MTcsLTExNjg3MjIz
 MzksNTU1MjYwODEwLC0xNzAyNTM3ODU3LC05OTU5OTM4OTUsMz
 E0MDAxMjgyLC05MDk2MTk5NjYsMTg1MTkyNTQ3Miw0MzU3MTcw
