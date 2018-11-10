@@ -78,6 +78,9 @@ _notes:
 	1. Example of a Modern Workflow
 
 _notes:
+
+* 2 parts
+
 * going to go over tools
 * show a minimal example
 * (if you all can handle some more)
@@ -333,11 +336,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1NjgwNDI3LDMxNDAwMTI4MiwtOTA5Nj
-E5OTY2LDE4NTE5MjU0NzIsNDM1NzE3MDE2LC0xODMwNzE3Nzgx
-LC0zNjU0Mjc5NDEsNjU0MzE2OTk5LC04MTg1NDAzMjcsLTIxND
-I3NDM4NzcsMzk0OTA3MTkyLDM5MjQzNTIyMiwtMTAzNzIxMTYy
-MCw1MDgwNjU1ODYsMjA3MjMyMjg5MSwyMzQ1MTEyLDE0MjgxNj
-k5MTMsMTE1NTMwNjgwMywxNzkyMjY0NjY4LDI2MzY0MjExXX0=
+eyJoaXN0b3J5IjpbLTk5NTk5Mzg5NSwzMTQwMDEyODIsLTkwOT
+YxOTk2NiwxODUxOTI1NDcyLDQzNTcxNzAxNiwtMTgzMDcxNzc4
+MSwtMzY1NDI3OTQxLDY1NDMxNjk5OSwtODE4NTQwMzI3LC0yMT
+QyNzQzODc3LDM5NDkwNzE5MiwzOTI0MzUyMjIsLTEwMzcyMTE2
+MjAsNTA4MDY1NTg2LDIwNzIzMjI4OTEsMjM0NTExMiwxNDI4MT
+Y5OTEzLDExNTUzMDY4MDMsMTc5MjI2NDY2OCwyNjM2NDIxMV19
 
 -->
