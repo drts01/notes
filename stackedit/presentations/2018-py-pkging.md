@@ -90,7 +90,7 @@ _notes:
 ## .\. contents::
 1. Current (Legacy) Packaging Story
 	1. Overview of tooling
-	1. Example of a Minimal Python Distribution
+	1. Example of a Minimal Python Project
 1. Changes in Progress
 	1. Overview of tooling
 	1. Example of a Newer Workflow
@@ -98,10 +98,7 @@ _notes:
 _notes:
 
 * 2 parts
-* 
-* going to go over tools
-* show a minimal example
-* (if you all can handle some more)
+* discussion
 * go over upcoming changes  and tooling to
 * understand why I made choices
 * we will see how far we can go
@@ -368,11 +365,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcxMDAxOTEsLTk2ODAzODA0NiwtNz
-k4NzM2NjM5LC0xMjQ0NjI2OTYsLTg5MjAxMTExNyw0NDU0NDM1
-MTcsLTExNjg3MjIzMzksNTU1MjYwODEwLC0xNzAyNTM3ODU3LC
-05OTU5OTM4OTUsMzE0MDAxMjgyLC05MDk2MTk5NjYsMTg1MTky
-NTQ3Miw0MzU3MTcwMTYsLTE4MzA3MTc3ODEsLTM2NTQyNzk0MS
-w2NTQzMTY5OTksLTgxODU0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5
-MDcxOTJdfQ==
+eyJoaXN0b3J5IjpbMTM1NDk0MzA2NiwtOTY4MDM4MDQ2LC03OT
+g3MzY2MzksLTEyNDQ2MjY5NiwtODkyMDExMTE3LDQ0NTQ0MzUx
+NywtMTE2ODcyMjMzOSw1NTUyNjA4MTAsLTE3MDI1Mzc4NTcsLT
+k5NTk5Mzg5NSwzMTQwMDEyODIsLTkwOTYxOTk2NiwxODUxOTI1
+NDcyLDQzNTcxNzAxNiwtMTgzMDcxNzc4MSwtMzY1NDI3OTQxLD
+Y1NDMxNjk5OSwtODE4NTQwMzI3LC0yMTQyNzQzODc3LDM5NDkw
+NzE5Ml19
 -->
