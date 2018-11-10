@@ -97,12 +97,8 @@ _notes:
 
 _notes:
 
-* 2 parts
-* discussion
-* go over upcoming changes  and tooling to
-* understand why I made choices
-* we will see how far we can go
-* please ask questions during examples
+* 2 parts: traditional / upcoming
+* discussion during examples
 
 
 
@@ -365,11 +361,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDk0MzA2NiwtOTY4MDM4MDQ2LC03OT
-g3MzY2MzksLTEyNDQ2MjY5NiwtODkyMDExMTE3LDQ0NTQ0MzUx
-NywtMTE2ODcyMjMzOSw1NTUyNjA4MTAsLTE3MDI1Mzc4NTcsLT
-k5NTk5Mzg5NSwzMTQwMDEyODIsLTkwOTYxOTk2NiwxODUxOTI1
-NDcyLDQzNTcxNzAxNiwtMTgzMDcxNzc4MSwtMzY1NDI3OTQxLD
-Y1NDMxNjk5OSwtODE4NTQwMzI3LC0yMTQyNzQzODc3LDM5NDkw
-NzE5Ml19
+eyJoaXN0b3J5IjpbMjAwMDg3NDAxLC05NjgwMzgwNDYsLTc5OD
+czNjYzOSwtMTI0NDYyNjk2LC04OTIwMTExMTcsNDQ1NDQzNTE3
+LC0xMTY4NzIyMzM5LDU1NTI2MDgxMCwtMTcwMjUzNzg1NywtOT
+k1OTkzODk1LDMxNDAwMTI4MiwtOTA5NjE5OTY2LDE4NTE5MjU0
+NzIsNDM1NzE3MDE2LC0xODMwNzE3NzgxLC0zNjU0Mjc5NDEsNj
+U0MzE2OTk5LC04MTg1NDAzMjcsLTIxNDI3NDM4NzcsMzk0OTA3
+MTkyXX0=
 -->
