@@ -510,7 +510,7 @@ _notes:
 ```bash
 cd pkg-demo
 pipenv install --dev
-pipenv shell
+pipenv 
 python setup.py sdist bdist_wheel
 twine upload dist/*
 ```
@@ -551,7 +551,7 @@ pkg-demo/
 |   `-- __init__.py
 ```
 _notes:
-* Pipfile
+* Pipfile - no requirements.txt
 * Pipfile.lock
 * Make
 
@@ -566,7 +566,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjkzNzE0LDE1Nzg4MzgxNTMsMTkxMD
+eyJoaXN0b3J5IjpbMjkzMzEwNzA4LDE1Nzg4MzgxNTMsMTkxMD
 I2MTU4MSwxNTg3MjkyODM2LC0xODg3NzE5NjUyLC0xNDM5NzQ2
 NTg3LC0yMjE2NjQ1MSwxMjg3NDEzMDU1LDIwMTYzNDA2OTcsLT
 IxMjQ1NjUxNjcsODg2Nzk0NTMyLC0xMzExNDkwMjY2LDIwMDcw
