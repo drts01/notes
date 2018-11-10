@@ -308,7 +308,7 @@ _notes:
 
 ## setup.cfg
 ```ini
-# For setuptools configuration see https://setuptools.readthedocs.io
+# For setuptools configuration see https://setuptools.readthedocs.io.
 [metadata]
 name = pkg-demo
 version = 0.1.0
@@ -347,7 +347,7 @@ console_scripts =
     pkg-demo = pkg_demo.__main__:main
 
 [bdist_wheel]
-# If your project contains no C extensions and is expected to work on both Python 2 and 3:
+# If your project contains no C extensions and is expected to work on both Python 2 and 3.
 # For more details see the user guide at https://wheel.readthedocs.io/.
 universal = 1
 ```
@@ -495,7 +495,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTM5MDIwMCwtMjEyNDU2NTE2Nyw4OD
+eyJoaXN0b3J5IjpbLTUxNDIyMjM4NCwtMjEyNDU2NTE2Nyw4OD
 Y3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3ODc2Myw1MjIyOTg0
 MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3MzU1OCw4Nz
 QwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05NjgwMzgw
