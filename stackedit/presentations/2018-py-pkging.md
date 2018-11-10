@@ -568,6 +568,7 @@ name = "pypi"
 
 [dev-packages]
 "setuptools" = {version=">=40.5.0", index="pypi"}
+"twine" = {version=">=0.32.2", index="pypi"}
 "wheel" = {version=">=0.32.2", index="pypi"}
 "pkg-demo" = {editable = true, path = "."}
 
@@ -596,11 +597,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1NDkxMzUyLC01MzU4NTUyNjEsMTU3OD
-gzODE1MywxOTEwMjYxNTgxLDE1ODcyOTI4MzYsLTE4ODc3MTk2
-NTIsLTE0Mzk3NDY1ODcsLTIyMTY2NDUxLDEyODc0MTMwNTUsMj
-AxNjM0MDY5NywtMjEyNDU2NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0
-OTAyNjYsMjAwNzA3ODc2Myw1MjIyOTg0MjQsLTM4MTA0MjcyNi
-wxODYxMjExMTc1LDcxNzg3MzU1OCw4NzQwMzg4ODgsMjA0MTUx
-Mzg0MV19
+eyJoaXN0b3J5IjpbMjExMTU2MDczMiw3NjU0OTEzNTIsLTUzNT
+g1NTI2MSwxNTc4ODM4MTUzLDE5MTAyNjE1ODEsMTU4NzI5Mjgz
+NiwtMTg4NzcxOTY1MiwtMTQzOTc0NjU4NywtMjIxNjY0NTEsMT
+I4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0NTY1MTY3LDg4Njc5
+NDUzMiwtMTMxMTQ5MDI2NiwyMDA3MDc4NzYzLDUyMjI5ODQyNC
+wtMzgxMDQyNzI2LDE4NjEyMTExNzUsNzE3ODczNTU4LDg3NDAz
+ODg4OF19
 -->
