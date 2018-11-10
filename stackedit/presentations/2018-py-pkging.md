@@ -487,7 +487,6 @@ _notes:
 * Maintainer authored PEP-517
 * replaces setup<span></span>.py, setup.cfg, with pyproject.toml
 * dont think will work w/ sdist
-* doesnt address requirements.txt, still need pip for dev and concrete dependencies.
 
 
 
@@ -501,12 +500,9 @@ poetry publish
 ```
 
 _notes:
-* kind of Flit
+* combines Flit and Pipenv
 * created its own locking file
 * superior dependency resolution to Pipenv
-
-
-
 
 
 
@@ -522,6 +518,8 @@ _notes:
 using flit or poetry
 * not enough market share
 * will create a barrier to gain new collaborators
+* doesnt address requirements.txt, still need pip for dev and concrete dependencies.
+* pipenv streamlines the 
 
 
 
@@ -564,11 +562,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwMzA3ODEsMTU3ODgzODE1MywxOTEwMj
-YxNTgxLDE1ODcyOTI4MzYsLTE4ODc3MTk2NTIsLTE0Mzk3NDY1
-ODcsLTIyMTY2NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5NywtMj
-EyNDU2NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3
-ODc2Myw1MjIyOTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LD
-cxNzg3MzU1OCw4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5
-NDIyXX0=
+eyJoaXN0b3J5IjpbMTY4ODg1MTY2OSwxNTc4ODM4MTUzLDE5MT
+AyNjE1ODEsMTU4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMTQzOTc0
+NjU4NywtMjIxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC
+0yMTI0NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3
+MDc4NzYzLDUyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEyMTExNz
+UsNzE3ODczNTU4LDg3NDAzODg4OCwyMDQxNTEzODQxLC00NzYz
+Nzk0MjJdfQ==
 -->
