@@ -572,12 +572,16 @@ name = "pypi"
 "pkg-demo" = {editable = true, path = "."}
 
 [requires]
-# Can define a Python version.
+# Can define sp Python version.
 
 [scripts]
 build = python setup.py sdist bdist_wheel
 publish = twine upload dist/*
 ```
+_notes:
+* similar to requirements
+* can specify exact version of py
+* can define alias cmds
 
 
 ## More
@@ -590,11 +594,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTM2MDgxLC01MzU4NTUyNjEsMTU3OD
-gzODE1MywxOTEwMjYxNTgxLDE1ODcyOTI4MzYsLTE4ODc3MTk2
-NTIsLTE0Mzk3NDY1ODcsLTIyMTY2NDUxLDEyODc0MTMwNTUsMj
-AxNjM0MDY5NywtMjEyNDU2NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0
-OTAyNjYsMjAwNzA3ODc2Myw1MjIyOTg0MjQsLTM4MTA0MjcyNi
-wxODYxMjExMTc1LDcxNzg3MzU1OCw4NzQwMzg4ODgsMjA0MTUx
-Mzg0MV19
+eyJoaXN0b3J5IjpbMTQyNzc3Nzk3MywtNTM1ODU1MjYxLDE1Nz
+g4MzgxNTMsMTkxMDI2MTU4MSwxNTg3MjkyODM2LC0xODg3NzE5
+NjUyLC0xNDM5NzQ2NTg3LC0yMjE2NjQ1MSwxMjg3NDEzMDU1LD
+IwMTYzNDA2OTcsLTIxMjQ1NjUxNjcsODg2Nzk0NTMyLC0xMzEx
+NDkwMjY2LDIwMDcwNzg3NjMsNTIyMjk4NDI0LC0zODEwNDI3Mj
+YsMTg2MTIxMTE3NSw3MTc4NzM1NTgsODc0MDM4ODg4LDIwNDE1
+MTM4NDFdfQ==
 -->
