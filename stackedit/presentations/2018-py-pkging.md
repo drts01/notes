@@ -248,9 +248,11 @@ twine upload dist/*
 ```
 _notes:
 * minimal setup, i.e. no testing or docs
-* create env
+* init env
 * activate env
-* 
+* populate env
+* build artifacts
+* publish artifact
 
 
 
@@ -365,6 +367,10 @@ _notes:
 * metadata
 * options
 * universal wheel
+
+
+
+## MANIFEST.in
 
 
 
@@ -509,11 +515,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjMxNTAxMTEsMTI4NzQxMzA1NSwyMD
-E2MzQwNjk3LC0yMTI0NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5
-MDI2NiwyMDA3MDc4NzYzLDUyMjI5ODQyNCwtMzgxMDQyNzI2LD
-E4NjEyMTExNzUsNzE3ODczNTU4LDg3NDAzODg4OCwyMDQxNTEz
-ODQxLC00NzYzNzk0MjIsLTk2ODAzODA0NiwtNzk4NzM2NjM5LC
-0xMjQ0NjI2OTYsLTg5MjAxMTExNyw0NDU0NDM1MTcsLTExNjg3
-MjIzMzldfQ==
+eyJoaXN0b3J5IjpbLTU0NDgwMzgsMTI4NzQxMzA1NSwyMDE2Mz
+QwNjk3LC0yMTI0NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2
+NiwyMDA3MDc4NzYzLDUyMjI5ODQyNCwtMzgxMDQyNzI2LDE4Nj
+EyMTExNzUsNzE3ODczNTU4LDg3NDAzODg4OCwyMDQxNTEzODQx
+LC00NzYzNzk0MjIsLTk2ODAzODA0NiwtNzk4NzM2NjM5LC0xMj
+Q0NjI2OTYsLTg5MjAxMTExNyw0NDU0NDM1MTcsLTExNjg3MjIz
+MzldfQ==
 -->
