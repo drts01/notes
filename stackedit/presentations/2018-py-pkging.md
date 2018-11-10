@@ -366,6 +366,10 @@ _notes:
 
 
 ## A Modern Workflow
+```bash
+cd pkg-demo
+pipenv install
+
 _notes:
 * 
 
@@ -397,7 +401,8 @@ pkg-demo/
 _notes:
 * Pipfile
 * Pipfile.lock
-* 
+* Make
+
 
 
 ## D
@@ -405,11 +410,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDQ0MTg5OSw1MjIyOTg0MjQsLTM4MT
-A0MjcyNiwxODYxMjExMTc1LDcxNzg3MzU1OCw4NzQwMzg4ODgs
-MjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05NjgwMzgwNDYsLTc5OD
-czNjYzOSwtMTI0NDYyNjk2LC04OTIwMTExMTcsNDQ1NDQzNTE3
-LC0xMTY4NzIyMzM5LDU1NTI2MDgxMCwtMTcwMjUzNzg1NywtOT
-k1OTkzODk1LDMxNDAwMTI4MiwtOTA5NjE5OTY2LDE4NTE5MjU0
-NzJdfQ==
+eyJoaXN0b3J5IjpbLTIwMDgyNTU0OTUsNTIyMjk4NDI0LC0zOD
+EwNDI3MjYsMTg2MTIxMTE3NSw3MTc4NzM1NTgsODc0MDM4ODg4
+LDIwNDE1MTM4NDEsLTQ3NjM3OTQyMiwtOTY4MDM4MDQ2LC03OT
+g3MzY2MzksLTEyNDQ2MjY5NiwtODkyMDExMTE3LDQ0NTQ0MzUx
+NywtMTE2ODcyMjMzOSw1NTUyNjA4MTAsLTE3MDI1Mzc4NTcsLT
+k5NTk5Mzg5NSwzMTQwMDEyODIsLTkwOTYxOTk2NiwxODUxOTI1
+NDcyXX0=
 -->
