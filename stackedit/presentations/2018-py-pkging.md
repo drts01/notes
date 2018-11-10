@@ -49,11 +49,10 @@ _note:
 * create artifacts that can be reliably distributed
 * a git repo is not packaging
 * scp is not package distribution
-* why: usuable, versioning
+* why: usable, versioning
 
 
 ## for pythonista in socalcodecamp:
-Anyone:
 * Desiring to properly share Python libraries
 * New to Python packaging
 * Curious about newer standards and tooling
@@ -359,11 +358,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjA5MDEyNiwtNzk4NzM2NjM5LC0xMj
-Q0NjI2OTYsLTg5MjAxMTExNyw0NDU0NDM1MTcsLTExNjg3MjIz
-MzksNTU1MjYwODEwLC0xNzAyNTM3ODU3LC05OTU5OTM4OTUsMz
-E0MDAxMjgyLC05MDk2MTk5NjYsMTg1MTkyNTQ3Miw0MzU3MTcw
-MTYsLTE4MzA3MTc3ODEsLTM2NTQyNzk0MSw2NTQzMTY5OTksLT
-gxODU0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcxOTIsMzkyNDM1
-MjIyXX0=
+eyJoaXN0b3J5IjpbLTE1NDU1NDgxNDcsLTc5ODczNjYzOSwtMT
+I0NDYyNjk2LC04OTIwMTExMTcsNDQ1NDQzNTE3LC0xMTY4NzIy
+MzM5LDU1NTI2MDgxMCwtMTcwMjUzNzg1NywtOTk1OTkzODk1LD
+MxNDAwMTI4MiwtOTA5NjE5OTY2LDE4NTE5MjU0NzIsNDM1NzE3
+MDE2LC0xODMwNzE3NzgxLC0zNjU0Mjc5NDEsNjU0MzE2OTk5LC
+04MTg1NDAzMjcsLTIxNDI3NDM4NzcsMzk0OTA3MTkyLDM5MjQz
+NTIyMl19
 -->
