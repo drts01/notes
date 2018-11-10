@@ -589,7 +589,7 @@ _notes:
 
 
 
-## def __next__(self):
+## def \_\_next\_\_(self):
 * Documentation
 * Automation (CI)
 * Signing Packages
@@ -604,11 +604,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDAxMjM4LDc2NTQ5MTM1MiwtNTM1OD
-U1MjYxLDE1Nzg4MzgxNTMsMTkxMDI2MTU4MSwxNTg3MjkyODM2
-LC0xODg3NzE5NjUyLC0xNDM5NzQ2NTg3LC0yMjE2NjQ1MSwxMj
-g3NDEzMDU1LDIwMTYzNDA2OTcsLTIxMjQ1NjUxNjcsODg2Nzk0
-NTMyLC0xMzExNDkwMjY2LDIwMDcwNzg3NjMsNTIyMjk4NDI0LC
-0zODEwNDI3MjYsMTg2MTIxMTE3NSw3MTc4NzM1NTgsODc0MDM4
-ODg4XX0=
+eyJoaXN0b3J5IjpbMTA4MTcxMTM4Miw3NjU0OTEzNTIsLTUzNT
+g1NTI2MSwxNTc4ODM4MTUzLDE5MTAyNjE1ODEsMTU4NzI5Mjgz
+NiwtMTg4NzcxOTY1MiwtMTQzOTc0NjU4NywtMjIxNjY0NTEsMT
+I4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0NTY1MTY3LDg4Njc5
+NDUzMiwtMTMxMTQ5MDI2NiwyMDA3MDc4NzYzLDUyMjI5ODQyNC
+wtMzgxMDQyNzI2LDE4NjEyMTExNzUsNzE3ODczNTU4LDg3NDAz
+ODg4OF19
 -->
