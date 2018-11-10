@@ -57,15 +57,11 @@ _note:
 "A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a Release."<sup> <small><small>[ref](https://packaging.python.org/glossary/#term-distribution-package)</small></small></sup>
 * Source Distribution (sdist)
 * Built Distribution (bdist)
-	* Wheel Binary??? Package Format<sup> <small><small>[ref](https://www.python.org/dev/peps/pep-0427/)</small></small></sup>
 
 _notes:
-* Terminology:
-* dist
+* Py pgk = distrib
 * sdist: provides metadata and source files
 * bdist: removes the build step before installing
-* wheel: 2012, provides a simpler interface between the build system and the installer.
-* wheel is the current standard for a distribution
 
 
 
@@ -375,11 +371,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM4NzE0MDgsLTc5ODczNjYzOSwtMT
-I0NDYyNjk2LC04OTIwMTExMTcsNDQ1NDQzNTE3LC0xMTY4NzIy
-MzM5LDU1NTI2MDgxMCwtMTcwMjUzNzg1NywtOTk1OTkzODk1LD
-MxNDAwMTI4MiwtOTA5NjE5OTY2LDE4NTE5MjU0NzIsNDM1NzE3
-MDE2LC0xODMwNzE3NzgxLC0zNjU0Mjc5NDEsNjU0MzE2OTk5LC
-04MTg1NDAzMjcsLTIxNDI3NDM4NzcsMzk0OTA3MTkyLDM5MjQz
-NTIyMl19
+eyJoaXN0b3J5IjpbMTY3NTgzODgzOSwtNzk4NzM2NjM5LC0xMj
+Q0NjI2OTYsLTg5MjAxMTExNyw0NDU0NDM1MTcsLTExNjg3MjIz
+MzksNTU1MjYwODEwLC0xNzAyNTM3ODU3LC05OTU5OTM4OTUsMz
+E0MDAxMjgyLC05MDk2MTk5NjYsMTg1MTkyNTQ3Miw0MzU3MTcw
+MTYsLTE4MzA3MTc3ODEsLTM2NTQyNzk0MSw2NTQzMTY5OTksLT
+gxODU0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcxOTIsMzkyNDM1
+MjIyXX0=
 -->
