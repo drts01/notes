@@ -262,6 +262,7 @@ pkg-demo/
 |-- LICENSE
 |-- MANIFEST.in
 |-- README.rst
+|-- requirements-dev.txt
 |-- setup.cfg
 |-- setup.py
 |-- src
@@ -273,6 +274,12 @@ pkg-demo/
 ```
 _notes:
 * check in
+
+
+
+## requirements-dev.txt
+```
+
 
 
 
@@ -417,11 +424,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzA3ODc2Myw1MjIyOTg0MjQsLTM4MT
-A0MjcyNiwxODYxMjExMTc1LDcxNzg3MzU1OCw4NzQwMzg4ODgs
-MjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05NjgwMzgwNDYsLTc5OD
-czNjYzOSwtMTI0NDYyNjk2LC04OTIwMTExMTcsNDQ1NDQzNTE3
-LC0xMTY4NzIyMzM5LDU1NTI2MDgxMCwtMTcwMjUzNzg1NywtOT
-k1OTkzODk1LDMxNDAwMTI4MiwtOTA5NjE5OTY2LDE4NTE5MjU0
-NzJdfQ==
+eyJoaXN0b3J5IjpbLTEwOTk3Mjg1MzEsMjAwNzA3ODc2Myw1Mj
+IyOTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3MzU1
+OCw4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05Nj
+gwMzgwNDYsLTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OTIwMTEx
+MTcsNDQ1NDQzNTE3LC0xMTY4NzIyMzM5LDU1NTI2MDgxMCwtMT
+cwMjUzNzg1NywtOTk1OTkzODk1LDMxNDAwMTI4MiwtOTA5NjE5
+OTY2XX0=
 -->
