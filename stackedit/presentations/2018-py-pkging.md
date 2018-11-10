@@ -4,7 +4,8 @@
 # My [Mis]Adventures in Python Packaging
 [![Python Environment](https://imgs.xkcd.com/comics/python_environment.png)](https://xkcd.com/1987/)
 _notes:
-* 
+* started out as a rant about python packaging
+* i wanted to start distributing 
 
 d
 
@@ -333,11 +334,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTkyNTQ3Miw0MzU3MTcwMTYsLTE4Mz
-A3MTc3ODEsLTM2NTQyNzk0MSw2NTQzMTY5OTksLTgxODU0MDMy
-NywtMjE0Mjc0Mzg3NywzOTQ5MDcxOTIsMzkyNDM1MjIyLC0xMD
-M3MjExNjIwLDUwODA2NTU4NiwyMDcyMzIyODkxLDIzNDUxMTIs
-MTQyODE2OTkxMywxMTU1MzA2ODAzLDE3OTIyNjQ2NjgsMjYzNj
-QyMTEsMTU0MDE0NzIzMywxNDM4ODQzMjMyLC0xODk2NzIzODg4
-XX0=
+eyJoaXN0b3J5IjpbMTM0ODkwNjg2MiwxODUxOTI1NDcyLDQzNT
+cxNzAxNiwtMTgzMDcxNzc4MSwtMzY1NDI3OTQxLDY1NDMxNjk5
+OSwtODE4NTQwMzI3LC0yMTQyNzQzODc3LDM5NDkwNzE5MiwzOT
+I0MzUyMjIsLTEwMzcyMTE2MjAsNTA4MDY1NTg2LDIwNzIzMjI4
+OTEsMjM0NTExMiwxNDI4MTY5OTEzLDExNTUzMDY4MDMsMTc5Mj
+I2NDY2OCwyNjM2NDIxMSwxNTQwMTQ3MjMzLDE0Mzg4NDMyMzJd
+fQ==
 -->
