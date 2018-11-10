@@ -180,6 +180,7 @@ _notes:
 * https://packaging.python.org/discussions/pip-vs-easy-install/
 
 
+
 ## Python Packaging Authority
 "PyPA is a working group that maintains many of the relevant projects in Python packaging."<sup> <small><small>[ref](https://www.pypa.io)</small></small></sup><!-- .element: style="text-align:center" -->
 
@@ -217,6 +218,7 @@ _notes:
 * bdist: removes the build step before installing
 * wheel: 2012, provides a simpler interface between the build system and the installer.
 * wheel is the current standard for a distribution
+
 
 
 ## Publishing Today
@@ -331,11 +333,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTYxOTk2NiwxODUxOTI1NDcyLDQzNT
-cxNzAxNiwtMTgzMDcxNzc4MSwtMzY1NDI3OTQxLDY1NDMxNjk5
-OSwtODE4NTQwMzI3LC0yMTQyNzQzODc3LDM5NDkwNzE5MiwzOT
-I0MzUyMjIsLTEwMzcyMTE2MjAsNTA4MDY1NTg2LDIwNzIzMjI4
-OTEsMjM0NTExMiwxNDI4MTY5OTEzLDExNTUzMDY4MDMsMTc5Mj
-I2NDY2OCwyNjM2NDIxMSwxNTQwMTQ3MjMzLDE0Mzg4NDMyMzJd
-fQ==
+eyJoaXN0b3J5IjpbMzE0MDAxMjgyLC05MDk2MTk5NjYsMTg1MT
+kyNTQ3Miw0MzU3MTcwMTYsLTE4MzA3MTc3ODEsLTM2NTQyNzk0
+MSw2NTQzMTY5OTksLTgxODU0MDMyNywtMjE0Mjc0Mzg3NywzOT
+Q5MDcxOTIsMzkyNDM1MjIyLC0xMDM3MjExNjIwLDUwODA2NTU4
+NiwyMDcyMzIyODkxLDIzNDUxMTIsMTQyODE2OTkxMywxMTU1Mz
+A2ODAzLDE3OTIyNjQ2NjgsMjYzNjQyMTEsMTU0MDE0NzIzM119
+
 -->
