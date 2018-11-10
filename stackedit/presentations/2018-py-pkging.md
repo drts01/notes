@@ -278,10 +278,14 @@ _notes:
 
 
 ## requirements-dev.txt
-```
+```python
+# https://caremad.io/posts/2013/07/setup-vs-requirement/
 --index-url https://pypi.python.org/simple/
-
+setuptools>=40.5.0
+twine>=1.12.1
+wheel>=0.32.2
 -e .
+```
 
 
 
@@ -426,11 +430,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE0OTAyNjYsMjAwNzA3ODc2Myw1Mj
-IyOTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3MzU1
-OCw4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05Nj
-gwMzgwNDYsLTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OTIwMTEx
-MTcsNDQ1NDQzNTE3LC0xMTY4NzIyMzM5LDU1NTI2MDgxMCwtMT
-cwMjUzNzg1NywtOTk1OTkzODk1LDMxNDAwMTI4MiwtOTA5NjE5
-OTY2XX0=
+eyJoaXN0b3J5IjpbNDU2MjkzNDExLC0xMzExNDkwMjY2LDIwMD
+cwNzg3NjMsNTIyMjk4NDI0LC0zODEwNDI3MjYsMTg2MTIxMTE3
+NSw3MTc4NzM1NTgsODc0MDM4ODg4LDIwNDE1MTM4NDEsLTQ3Nj
+M3OTQyMiwtOTY4MDM4MDQ2LC03OTg3MzY2MzksLTEyNDQ2MjY5
+NiwtODkyMDExMTE3LDQ0NTQ0MzUxNywtMTE2ODcyMjMzOSw1NT
+UyNjA4MTAsLTE3MDI1Mzc4NTcsLTk5NTk5Mzg5NSwzMTQwMDEy
+ODJdfQ==
 -->
