@@ -537,7 +537,6 @@ pkg-demo/
 |-- docs
 |   `-- config.py
 |-- LICENSE
-|-- Makefile
 |-- MANIFEST.in
 |-- Pipfile
 |-- Pipfile.lock
@@ -554,7 +553,7 @@ pkg-demo/
 _notes:
 * Pipfile - no requirements.txt
 * Pipfile.lock
-* Make
+
 
 
 ## More
@@ -567,11 +566,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Mjc5OTk5LDE1Nzg4MzgxNTMsMTkxMD
-I2MTU4MSwxNTg3MjkyODM2LC0xODg3NzE5NjUyLC0xNDM5NzQ2
-NTg3LC0yMjE2NjQ1MSwxMjg3NDEzMDU1LDIwMTYzNDA2OTcsLT
-IxMjQ1NjUxNjcsODg2Nzk0NTMyLC0xMzExNDkwMjY2LDIwMDcw
-Nzg3NjMsNTIyMjk4NDI0LC0zODEwNDI3MjYsMTg2MTIxMTE3NS
-w3MTc4NzM1NTgsODc0MDM4ODg4LDIwNDE1MTM4NDEsLTQ3NjM3
-OTQyMl19
+eyJoaXN0b3J5IjpbLTUzNTg1NTI2MSwxNTc4ODM4MTUzLDE5MT
+AyNjE1ODEsMTU4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMTQzOTc0
+NjU4NywtMjIxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC
+0yMTI0NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3
+MDc4NzYzLDUyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEyMTExNz
+UsNzE3ODczNTU4LDg3NDAzODg4OCwyMDQxNTEzODQxLC00NzYz
+Nzk0MjJdfQ==
 -->
