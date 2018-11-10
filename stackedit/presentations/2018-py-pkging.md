@@ -224,7 +224,8 @@ _notes:
 
 
 
-## Wheel
+## PEP-427 Wheel
+### The Wheel Binary Package Format
 "A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a Release."<sup> <small><small>[ref](https://packaging.python.org/glossary/#term-distribution-package)</small></small></sup>
 * Source Distribution (sdist)
 * Built Distribution (bdist)
@@ -377,11 +378,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3ODczNTU4LDg3NDAzODg4OCwyMDQxNT
-EzODQxLC00NzYzNzk0MjIsLTk2ODAzODA0NiwtNzk4NzM2NjM5
-LC0xMjQ0NjI2OTYsLTg5MjAxMTExNyw0NDU0NDM1MTcsLTExNj
-g3MjIzMzksNTU1MjYwODEwLC0xNzAyNTM3ODU3LC05OTU5OTM4
-OTUsMzE0MDAxMjgyLC05MDk2MTk5NjYsMTg1MTkyNTQ3Miw0Mz
-U3MTcwMTYsLTE4MzA3MTc3ODEsLTM2NTQyNzk0MSw2NTQzMTY5
-OTldfQ==
+eyJoaXN0b3J5IjpbMjU3MTMxNzcwLDcxNzg3MzU1OCw4NzQwMz
+g4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05NjgwMzgwNDYs
+LTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OTIwMTExMTcsNDQ1ND
+QzNTE3LC0xMTY4NzIyMzM5LDU1NTI2MDgxMCwtMTcwMjUzNzg1
+NywtOTk1OTkzODk1LDMxNDAwMTI4MiwtOTA5NjE5OTY2LDE4NT
+E5MjU0NzIsNDM1NzE3MDE2LC0xODMwNzE3NzgxLC0zNjU0Mjc5
+NDFdfQ==
 -->
