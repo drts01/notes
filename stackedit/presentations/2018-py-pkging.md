@@ -445,11 +445,11 @@ _notes:
 
 _notes:
 * Pipfile reference implementation
-* Single interface for pip and virtualenv
+* Single interface for dependency management and environment isolation
 * dependency synchronization via lock file
 * 2017 PyPA recommend tooling
 * buggy
-* export to requirements.txt
+* generate requirements.txt
 
 
 
@@ -566,11 +566,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTk2NDgxMiwxNTc4ODM4MTUzLDE5MT
-AyNjE1ODEsMTU4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMTQzOTc0
-NjU4NywtMjIxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC
-0yMTI0NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3
-MDc4NzYzLDUyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEyMTExNz
-UsNzE3ODczNTU4LDg3NDAzODg4OCwyMDQxNTEzODQxLC00NzYz
-Nzk0MjJdfQ==
+eyJoaXN0b3J5IjpbMjExMjkzNzE0LDE1Nzg4MzgxNTMsMTkxMD
+I2MTU4MSwxNTg3MjkyODM2LC0xODg3NzE5NjUyLC0xNDM5NzQ2
+NTg3LC0yMjE2NjQ1MSwxMjg3NDEzMDU1LDIwMTYzNDA2OTcsLT
+IxMjQ1NjUxNjcsODg2Nzk0NTMyLC0xMzExNDkwMjY2LDIwMDcw
+Nzg3NjMsNTIyMjk4NDI0LC0zODEwNDI3MjYsMTg2MTIxMTE3NS
+w3MTc4NzM1NTgsODc0MDM4ODg4LDIwNDE1MTM4NDEsLTQ3NjM3
+OTQyMl19
 -->
