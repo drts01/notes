@@ -82,7 +82,7 @@ _notes:
 
 
 ## Distribution
-"A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a Release."<sup> <small><small>[ref](https://packaging.python.org/glossary/#term-distribution-package)</small></small></sup>
+"A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a Release."<small><small>[ref](https://packaging.python.org/glossary/#term-distribution-package)</small></small>
 * Source Distribution (sdist)
 * Built Distribution (bdist)
 
@@ -143,7 +143,7 @@ _notes:
 
 
 ## setuptools
-"An enhanced alternative to distutils"<sup> <small><small>[ref](https://docs.python.org/3/library/distutils.html)</small></small></sup><!-- .element: style="text-align:center" -->
+"An enhanced alternative to distutils"<small><small>[ref](https://docs.python.org/3/library/distutils.html)</small></small>
 ```python
 from setuptools import setup, find_packages
 setup(
@@ -160,7 +160,7 @@ _notes:
 
 
 ## Virtualenv
-"`virtualenv` is a tool to create isolated Python environments"<sup> <small><small>[ref](https://virtualenv.pypa.io)</small></small></sup><!-- .element: style="text-align:center" -->
+"`virtualenv` is a tool to create isolated Python environments" <small><small>[ref](https://virtualenv.pypa.io)</small></small>
 ```bash
 virtualenv venv
 . venv/bin/activate
@@ -222,7 +222,7 @@ _notes:
 
 
 ## Twine
-"A utility for publishing Python packages on PyPI."<sup> <small><small>[ref](https://github.com/pypa/twine)</small></small></sup><!-- .element: style="text-align:center" -->
+"A utility for publishing Python packages on PyPI."<small><small>[ref](https://github.com/pypa/twine)</small></small>
 ```bash
 twine upload dist/*
 ```
@@ -615,11 +615,11 @@ _notes:
 #### @digitalr00ts
 Questions?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3NDYxMTMsMTI1NDA5OTIwMCwtNzY3MT
-Y1NTYwLC0zMDk5NTA3MDIsLTE1ODAwMjQ2NjYsLTQzNDI0NzAw
-NSw3NjU0OTEzNTIsLTUzNTg1NTI2MSwxNTc4ODM4MTUzLDE5MT
-AyNjE1ODEsMTU4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMTQzOTc0
-NjU4NywtMjIxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC
-0yMTI0NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3
-MDc4NzYzXX0=
+eyJoaXN0b3J5IjpbLTEwNDMwNjk0Miw4Mjc0NjExMywxMjU0MD
+k5MjAwLC03NjcxNjU1NjAsLTMwOTk1MDcwMiwtMTU4MDAyNDY2
+NiwtNDM0MjQ3MDA1LDc2NTQ5MTM1MiwtNTM1ODU1MjYxLDE1Nz
+g4MzgxNTMsMTkxMDI2MTU4MSwxNTg3MjkyODM2LC0xODg3NzE5
+NjUyLC0xNDM5NzQ2NTg3LC0yMjE2NjQ1MSwxMjg3NDEzMDU1LD
+IwMTYzNDA2OTcsLTIxMjQ1NjUxNjcsODg2Nzk0NTMyLC0xMzEx
+NDkwMjY2XX0=
 -->
