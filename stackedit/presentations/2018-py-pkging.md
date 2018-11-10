@@ -330,6 +330,7 @@ _notes:
 * Similar to Flit
 * superiour dependency resolution to Pipenv
 * created its own locking file to use with pyproject.toml
+* takes over
 
 
 
@@ -343,7 +344,7 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzU2ODQ4OCwtODkyMDExMTE3LDQ0NT
+eyJoaXN0b3J5IjpbLTEyNDQ2MjY5NiwtODkyMDExMTE3LDQ0NT
 Q0MzUxNywtMTE2ODcyMjMzOSw1NTUyNjA4MTAsLTE3MDI1Mzc4
 NTcsLTk5NTk5Mzg5NSwzMTQwMDEyODIsLTkwOTYxOTk2NiwxOD
 UxOTI1NDcyLDQzNTcxNzAxNiwtMTgzMDcxNzc4MSwtMzY1NDI3
