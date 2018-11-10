@@ -519,6 +519,7 @@ using flit or poetry
 * doesnt address requirements.txt, still need pip for dev and concrete dependencies.
 
 pipenv:
+* stay within PyPA's recommendation
 * streamlines the virtualenv management
 * dependency locking
 * generate requirements.txt to be compatible w/ traditional workflows
@@ -568,7 +569,7 @@ name = "pypi"
 [dev-packages]
 "setuptools" = ">=40.5.0"
 "twine" = ">=1.12.1"
-"wheel" = version=">=0.32.2"
+"wheel" = ">=0.32.2"
 "pkg-demo" = {editable = true, path = "."}
 
 [requires]
@@ -617,7 +618,7 @@ _notes:
 #### @digitalr00ts
 Questions?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4ODE3NTA5LC00MzQyNDcwMDUsNzY1ND
+eyJoaXN0b3J5IjpbODg5Mzg3MTQ1LC00MzQyNDcwMDUsNzY1ND
 kxMzUyLC01MzU4NTUyNjEsMTU3ODgzODE1MywxOTEwMjYxNTgx
 LDE1ODcyOTI4MzYsLTE4ODc3MTk2NTIsLTE0Mzk3NDY1ODcsLT
 IyMTY2NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5NywtMjEyNDU2
