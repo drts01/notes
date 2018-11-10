@@ -37,6 +37,28 @@ _notes:
 
 
 
+## for pythonista in socalcodecamp:
+* Desiring to properly share Python libraries
+* Curious about newer standards and tooling
+
+_notes:
+* new to py pkging
+* wants to take advantage of newer standards and tooling
+
+
+
+## 'NoneType' object has no attribute 'get'
+* CI / CD
+* Testing
+* Documentation
+
+_notes:
+* these are important
+* focusing on the packaging and distribution process
+* but docs can be argued to be included
+
+
+
 ## Packaging
 "Packaging is the fine art of creating a distributable software artifact"
 
@@ -65,41 +87,18 @@ _notes:
 
 
 
-## for pythonista in socalcodecamp:
-* Desiring to properly share Python libraries
-* Curious about newer standards and tooling
-
-_notes:
-* new to py pkging
-* wants to take advantage of newer standards and tooling
-
-
-
-## 'NoneType' object has no attribute 'get'
-* CI / CD
-* Testing
-* Documentation
-
-_notes:
-* these are important
-* focusing on the packaging and distribution process
-* but docs can be argued to be included
-
-
-
 ## .\. contents::
 1. Current (Legacy) Packaging Story
 	1. Overview of tooling
 	1. Example of a Minimal Python Distribution
-1. 
-	1. Changes in Progress
+1. Changes in Progress
 	1. Overview of tooling
 	1. Example of a Newer Workflow
 
 _notes:
 
 * 2 parts
-
+* 
 * going to go over tools
 * show a minimal example
 * (if you all can handle some more)
@@ -369,11 +368,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODAzODA0NiwtNzk4NzM2NjM5LC0xMj
-Q0NjI2OTYsLTg5MjAxMTExNyw0NDU0NDM1MTcsLTExNjg3MjIz
-MzksNTU1MjYwODEwLC0xNzAyNTM3ODU3LC05OTU5OTM4OTUsMz
-E0MDAxMjgyLC05MDk2MTk5NjYsMTg1MTkyNTQ3Miw0MzU3MTcw
-MTYsLTE4MzA3MTc3ODEsLTM2NTQyNzk0MSw2NTQzMTY5OTksLT
-gxODU0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcxOTIsMzkyNDM1
-MjIyXX0=
+eyJoaXN0b3J5IjpbLTExMDcxMDAxOTEsLTk2ODAzODA0NiwtNz
+k4NzM2NjM5LC0xMjQ0NjI2OTYsLTg5MjAxMTExNyw0NDU0NDM1
+MTcsLTExNjg3MjIzMzksNTU1MjYwODEwLC0xNzAyNTM3ODU3LC
+05OTU5OTM4OTUsMzE0MDAxMjgyLC05MDk2MTk5NjYsMTg1MTky
+NTQ3Miw0MzU3MTcwMTYsLTE4MzA3MTc3ODEsLTM2NTQyNzk0MS
+w2NTQzMTY5OTksLTgxODU0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5
+MDcxOTJdfQ==
 -->
