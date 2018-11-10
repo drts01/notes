@@ -226,10 +226,7 @@ _notes:
 
 ## PEP-427 Wheel
 ### The Wheel Binary Package Format
-"a simpler interface between the build system and the installer. The wheel binary package format ... removes the need to install a build system in the target environment."<sup> <small><small>[ref](https://packaging.python.org/glossary/#term-distribution-package)</small></small></sup>
-* Source Distribution (sdist)
-* Built Distribution (bdist)
-	* Wheel Binary??? Package Format<sup> <small><small>[ref](https://www.python.org/dev/peps/pep-0427/)</small></small></sup>
+"a simpler interface between the build system and the installer. The wheel binary package format ... removes the need to install a build system in the target environment."<sup> <small><small>[ref](https://www.python.org/dev/peps/pep-0427/#id5)</small></small></sup>
 
 _notes:
 * dist is py artifact
@@ -378,11 +375,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ1NDYyMTgsNzE3ODczNTU4LDg3ND
-AzODg4OCwyMDQxNTEzODQxLC00NzYzNzk0MjIsLTk2ODAzODA0
-NiwtNzk4NzM2NjM5LC0xMjQ0NjI2OTYsLTg5MjAxMTExNyw0ND
-U0NDM1MTcsLTExNjg3MjIzMzksNTU1MjYwODEwLC0xNzAyNTM3
-ODU3LC05OTU5OTM4OTUsMzE0MDAxMjgyLC05MDk2MTk5NjYsMT
-g1MTkyNTQ3Miw0MzU3MTcwMTYsLTE4MzA3MTc3ODEsLTM2NTQy
-Nzk0MV19
+eyJoaXN0b3J5IjpbMTU4OTc1NjU5OSw3MTc4NzM1NTgsODc0MD
+M4ODg4LDIwNDE1MTM4NDEsLTQ3NjM3OTQyMiwtOTY4MDM4MDQ2
+LC03OTg3MzY2MzksLTEyNDQ2MjY5NiwtODkyMDExMTE3LDQ0NT
+Q0MzUxNywtMTE2ODcyMjMzOSw1NTUyNjA4MTAsLTE3MDI1Mzc4
+NTcsLTk5NTk5Mzg5NSwzMTQwMDEyODIsLTkwOTYxOTk2NiwxOD
+UxOTI1NDcyLDQzNTcxNzAxNiwtMTgzMDcxNzc4MSwtMzY1NDI3
+OTQxXX0=
 -->
