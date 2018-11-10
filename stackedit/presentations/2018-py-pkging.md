@@ -371,8 +371,9 @@ cd pkg-demo
 pipenv install --dev
 pipenv shell
 python setup.py sdist bdist_wheel
-twine upload 
+twine upload dist/*
 _notes:
+```
 * 
 
 
@@ -406,17 +407,21 @@ _notes:
 * Make
 
 
+## More
+* Documentation
+* Automation (CI)
+* Signing Packages
 
 ## D
 _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyMjQ1MTczLDUyMjI5ODQyNCwtMzgxMD
-QyNzI2LDE4NjEyMTExNzUsNzE3ODczNTU4LDg3NDAzODg4OCwy
-MDQxNTEzODQxLC00NzYzNzk0MjIsLTk2ODAzODA0NiwtNzk4Nz
-M2NjM5LC0xMjQ0NjI2OTYsLTg5MjAxMTExNyw0NDU0NDM1MTcs
-LTExNjg3MjIzMzksNTU1MjYwODEwLC0xNzAyNTM3ODU3LC05OT
-U5OTM4OTUsMzE0MDAxMjgyLC05MDk2MTk5NjYsMTg1MTkyNTQ3
-Ml19
+eyJoaXN0b3J5IjpbMjAwNzA3ODc2Myw1MjIyOTg0MjQsLTM4MT
+A0MjcyNiwxODYxMjExMTc1LDcxNzg3MzU1OCw4NzQwMzg4ODgs
+MjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05NjgwMzgwNDYsLTc5OD
+czNjYzOSwtMTI0NDYyNjk2LC04OTIwMTExMTcsNDQ1NDQzNTE3
+LC0xMTY4NzIyMzM5LDU1NTI2MDgxMCwtMTcwMjUzNzg1NywtOT
+k1OTkzODk1LDMxNDAwMTI4MiwtOTA5NjE5OTY2LDE4NTE5MjU0
+NzJdfQ==
 -->
