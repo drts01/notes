@@ -370,7 +370,9 @@ _notes:
 
 
 
-## MANIFEST.in
+## MANIFEST<span></span>.in
+_notes:
+* includes files that are not in the py pkg dir
 
 
 
@@ -515,11 +517,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDgwMzgsMTI4NzQxMzA1NSwyMDE2Mz
-QwNjk3LC0yMTI0NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2
-NiwyMDA3MDc4NzYzLDUyMjI5ODQyNCwtMzgxMDQyNzI2LDE4Nj
-EyMTExNzUsNzE3ODczNTU4LDg3NDAzODg4OCwyMDQxNTEzODQx
-LC00NzYzNzk0MjIsLTk2ODAzODA0NiwtNzk4NzM2NjM5LC0xMj
-Q0NjI2OTYsLTg5MjAxMTExNyw0NDU0NDM1MTcsLTExNjg3MjIz
-MzldfQ==
+eyJoaXN0b3J5IjpbLTIyMTY2NDUxLDEyODc0MTMwNTUsMjAxNj
+M0MDY5NywtMjEyNDU2NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAy
+NjYsMjAwNzA3ODc2Myw1MjIyOTg0MjQsLTM4MTA0MjcyNiwxOD
+YxMjExMTc1LDcxNzg3MzU1OCw4NzQwMzg4ODgsMjA0MTUxMzg0
+MSwtNDc2Mzc5NDIyLC05NjgwMzgwNDYsLTc5ODczNjYzOSwtMT
+I0NDYyNjk2LC04OTIwMTExMTcsNDQ1NDQzNTE3LC0xMTY4NzIy
+MzM5XX0=
 -->
