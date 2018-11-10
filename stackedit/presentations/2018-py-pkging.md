@@ -279,7 +279,9 @@ _notes:
 
 ## requirements-dev.txt
 ```
+--index-url https://pypi.python.org/simple/
 
+-e .
 
 
 
@@ -424,7 +426,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTk3Mjg1MzEsMjAwNzA3ODc2Myw1Mj
+eyJoaXN0b3J5IjpbLTEzMTE0OTAyNjYsMjAwNzA3ODc2Myw1Mj
 IyOTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3MzU1
 OCw4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05Nj
 gwMzgwNDYsLTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OTIwMTEx
