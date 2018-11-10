@@ -497,7 +497,7 @@ _notes:
 * takes over
 
 
-
+using flit or poetry will make colaboration 
 ## Worth Mentioning
 * Pip-tools???
 * Hatch
@@ -556,7 +556,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDc4Mzc4NSwxNTc4ODM4MTUzLDE5MT
+eyJoaXN0b3J5IjpbMTMzMjIxMjgzMywxNTc4ODM4MTUzLDE5MT
 AyNjE1ODEsMTU4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMTQzOTc0
 NjU4NywtMjIxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC
 0yMTI0NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3
