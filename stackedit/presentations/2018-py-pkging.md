@@ -229,10 +229,9 @@ _notes:
 "a simpler interface between the build system and the installer. The wheel binary package format ... removes the need to install a build system in the target environment."<sup> <small><small>[ref](https://www.python.org/dev/peps/pep-0427/#id5)</small></small></sup>
 
 _notes:
-* dist is py artifact
-* sdist: provides metadata and source files
-* bdist: removes the build step before installing
 * wheel: 2012, provides a simpler interface between the build system and the installer.
+* 2010
+* easier to install than sdist.
 * wheel is the current standard for a distribution
 
 
@@ -375,7 +374,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTc1NjU5OSw3MTc4NzM1NTgsODc0MD
+eyJoaXN0b3J5IjpbLTE2NjE2NDI2Myw3MTc4NzM1NTgsODc0MD
 M4ODg4LDIwNDE1MTM4NDEsLTQ3NjM3OTQyMiwtOTY4MDM4MDQ2
 LC03OTg3MzY2MzksLTEyNDQ2MjY5NiwtODkyMDExMTE3LDQ0NT
 Q0MzUxNywtMTE2ODcyMjMzOSw1NTUyNjA4MTAsLTE3MDI1Mzc4
