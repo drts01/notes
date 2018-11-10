@@ -190,8 +190,34 @@ pip install -r requirements.txt
 ```
 requirements.txt
 ```
-foo=>
-request=>1.5.0,<2
+pip freez
+appdirs==1.4.3
+atomicwrites==1.2.1
+attrs==18.2.0
+bleach==3.0.2
+certifi==2018.10.15
+chardet==3.0.4
+coverage==4.5.1
+docutils==0.14
+Glances==3.0.2
+idna==2.7
+pipenv==2018.10.13
+pkginfo==1.4.2
+pluggy==0.8.0
+psutil==5.4.7
+ptyprocess==0.6.0
+Pygments==2.2.0
+requests==2.20.0
+requests-toolbelt==0.8.0
+six==1.11.0
+sortedcontainers==2.0.5
+toml==0.10.0
+tqdm==4.28.1
+urllib3==1.24.1
+userpath==1.1.0
+virtualenv==16.1.0
+virtualenv-clone==0.4.0
+webencodings==0.5.1
 ```
 
 _notes:
@@ -362,11 +388,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjM3OTQyMiwtOTY4MDM4MDQ2LC03OT
-g3MzY2MzksLTEyNDQ2MjY5NiwtODkyMDExMTE3LDQ0NTQ0MzUx
-NywtMTE2ODcyMjMzOSw1NTUyNjA4MTAsLTE3MDI1Mzc4NTcsLT
-k5NTk5Mzg5NSwzMTQwMDEyODIsLTkwOTYxOTk2NiwxODUxOTI1
-NDcyLDQzNTcxNzAxNiwtMTgzMDcxNzc4MSwtMzY1NDI3OTQxLD
-Y1NDMxNjk5OSwtODE4NTQwMzI3LC0yMTQyNzQzODc3LDM5NDkw
-NzE5Ml19
+eyJoaXN0b3J5IjpbLTYzMjk0MjkzNywtNDc2Mzc5NDIyLC05Nj
+gwMzgwNDYsLTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OTIwMTEx
+MTcsNDQ1NDQzNTE3LC0xMTY4NzIyMzM5LDU1NTI2MDgxMCwtMT
+cwMjUzNzg1NywtOTk1OTkzODk1LDMxNDAwMTI4MiwtOTA5NjE5
+OTY2LDE4NTE5MjU0NzIsNDM1NzE3MDE2LC0xODMwNzE3NzgxLC
+0zNjU0Mjc5NDEsNjU0MzE2OTk5LC04MTg1NDAzMjcsLTIxNDI3
+NDM4NzddfQ==
 -->
