@@ -1,4 +1,8 @@
 # [Mis]Adventures in Python Packaging
+
+
+
+## __init__.py
 [![Python Environment](https://imgs.xkcd.com/comics/python_environment.png)](https://xkcd.com/1987/)
 _notes:
 * inspired me to talk: the struggle figure py pkg
@@ -620,11 +624,11 @@ _notes:
 #### @digitalr00ts
 Questions?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzE2NTU2MCwtMzA5OTUwNzAyLC0xNT
-gwMDI0NjY2LC00MzQyNDcwMDUsNzY1NDkxMzUyLC01MzU4NTUy
-NjEsMTU3ODgzODE1MywxOTEwMjYxNTgxLDE1ODcyOTI4MzYsLT
-E4ODc3MTk2NTIsLTE0Mzk3NDY1ODcsLTIyMTY2NDUxLDEyODc0
-MTMwNTUsMjAxNjM0MDY5NywtMjEyNDU2NTE2Nyw4ODY3OTQ1Mz
-IsLTEzMTE0OTAyNjYsMjAwNzA3ODc2Myw1MjIyOTg0MjQsLTM4
-MTA0MjcyNl19
+eyJoaXN0b3J5IjpbLTI5NjI0Mjg4NywtNzY3MTY1NTYwLC0zMD
+k5NTA3MDIsLTE1ODAwMjQ2NjYsLTQzNDI0NzAwNSw3NjU0OTEz
+NTIsLTUzNTg1NTI2MSwxNTc4ODM4MTUzLDE5MTAyNjE1ODEsMT
+U4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMTQzOTc0NjU4NywtMjIx
+NjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0NTY1MT
+Y3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3MDc4NzYzLDUy
+MjI5ODQyNF19
 -->
