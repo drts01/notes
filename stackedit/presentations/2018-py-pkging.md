@@ -407,10 +407,10 @@ twine upload -r testpypi dist/*
 
 
 
-## Changes from 2016
-* Pipfile - Endorsed by PyPA
+## Whats New?
+* `Pipfile` - Endorsed by PyPA
 	* Pipenv
-* pyproject.toml - PEP-518, PEP-517
+* `pyproject.toml` - PEP-518, PEP-517
 	* Flit
 	* Poetry
 
@@ -546,7 +546,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwMzIwMjU1LDE1ODcyOTI4MzYsLTE4OD
+eyJoaXN0b3J5IjpbLTI4OTQ5NzA1LDE1ODcyOTI4MzYsLTE4OD
 c3MTk2NTIsLTE0Mzk3NDY1ODcsLTIyMTY2NDUxLDEyODc0MTMw
 NTUsMjAxNjM0MDY5NywtMjEyNDU2NTE2Nyw4ODY3OTQ1MzIsLT
 EzMTE0OTAyNjYsMjAwNzA3ODc2Myw1MjIyOTg0MjQsLTM4MTA0
