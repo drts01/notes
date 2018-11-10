@@ -4,6 +4,11 @@
 # My [Mis]Adventures in Python Packaging
 [![Python Environment](https://imgs.xkcd.com/comics/python_environment.png)](https://xkcd.com/1987/)
 _notes:
+* inspired me to talk: the struggle
+* 
+*  rant
+* 
+
 * started out as a rant about python packaging
 * i wanted to start distributing 
 * I suffered so you dont have to
@@ -344,11 +349,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQ2MjY5NiwtODkyMDExMTE3LDQ0NT
-Q0MzUxNywtMTE2ODcyMjMzOSw1NTUyNjA4MTAsLTE3MDI1Mzc4
-NTcsLTk5NTk5Mzg5NSwzMTQwMDEyODIsLTkwOTYxOTk2NiwxOD
-UxOTI1NDcyLDQzNTcxNzAxNiwtMTgzMDcxNzc4MSwtMzY1NDI3
-OTQxLDY1NDMxNjk5OSwtODE4NTQwMzI3LC0yMTQyNzQzODc3LD
-M5NDkwNzE5MiwzOTI0MzUyMjIsLTEwMzcyMTE2MjAsNTA4MDY1
-NTg2XX0=
+eyJoaXN0b3J5IjpbLTE3NTA2NjUzNjIsLTEyNDQ2MjY5NiwtOD
+kyMDExMTE3LDQ0NTQ0MzUxNywtMTE2ODcyMjMzOSw1NTUyNjA4
+MTAsLTE3MDI1Mzc4NTcsLTk5NTk5Mzg5NSwzMTQwMDEyODIsLT
+kwOTYxOTk2NiwxODUxOTI1NDcyLDQzNTcxNzAxNiwtMTgzMDcx
+Nzc4MSwtMzY1NDI3OTQxLDY1NDMxNjk5OSwtODE4NTQwMzI3LC
+0yMTQyNzQzODc3LDM5NDkwNzE5MiwzOTI0MzUyMjIsLTEwMzcy
+MTE2MjBdfQ==
 -->
