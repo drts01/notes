@@ -305,6 +305,8 @@ twine>=1.12.1
 wheel>=0.32.2
 -e .
 ```
+_notes:
+* setup.py `install_requires` designed for shareable redistributable artifacts
 
 
 
@@ -315,7 +317,8 @@ from setuptools import setup
 setup()
 ```
 _notes:
-* no abritary code
+* no arbitrary code
+* config in setup.cfg
 
 
 
@@ -537,11 +540,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODYxMzI0NSwtMTQzOTc0NjU4NywtMj
-IxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0NTY1
-MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3MDc4NzYzLD
-UyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEyMTExNzUsNzE3ODcz
-NTU4LDg3NDAzODg4OCwyMDQxNTEzODQxLC00NzYzNzk0MjIsLT
-k2ODAzODA0NiwtNzk4NzM2NjM5LC0xMjQ0NjI2OTYsLTg5MjAx
-MTExN119
+eyJoaXN0b3J5IjpbOTQxOTE1MjYsLTE0Mzk3NDY1ODcsLTIyMT
+Y2NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5NywtMjEyNDU2NTE2
+Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3ODc2Myw1Mj
+IyOTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3MzU1
+OCw4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05Nj
+gwMzgwNDYsLTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OTIwMTEx
+MTddfQ==
 -->
