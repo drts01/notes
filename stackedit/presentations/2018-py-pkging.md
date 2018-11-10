@@ -198,11 +198,9 @@ virtualenv==16.1.0
 ```
 
 _notes:
-* 2008 -
-* installing from PyPI
+* 2008 - installing from PyPI
 * requirements.txt convention gave users the power to easily replicate environments.
 * 2014 included w/ Python
-* https://packaging.python.org/discussions/pip-vs-easy-install/
 
 
 
@@ -224,21 +222,19 @@ _notes:
 twine upload dist/*
 ```
 _notes:
-* may not be familiar w/ this tool if just learning to package
-* 2013 provided a secure way to publish to PyPI
-* PyPA recommend method to upload to PyPI
+* 2013 - a secure way to publish to PyPI
+* PyPA recommend
 
 
 
-## Distribution Types
+## Wheel
 "A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a Release."<sup> <small><small>[ref](https://packaging.python.org/glossary/#term-distribution-package)</small></small></sup>
 * Source Distribution (sdist)
 * Built Distribution (bdist)
 	* Wheel Binary??? Package Format<sup> <small><small>[ref](https://www.python.org/dev/peps/pep-0427/)</small></small></sup>
 
 _notes:
-* Terminology:
-* dist
+* dist is py artifact
 * sdist: provides metadata and source files
 * bdist: removes the build step before installing
 * wheel: 2012, provides a simpler interface between the build system and the installer.
@@ -365,11 +361,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0ODY0MDM2LC00NzYzNzk0MjIsLTk2OD
-AzODA0NiwtNzk4NzM2NjM5LC0xMjQ0NjI2OTYsLTg5MjAxMTEx
-Nyw0NDU0NDM1MTcsLTExNjg3MjIzMzksNTU1MjYwODEwLC0xNz
-AyNTM3ODU3LC05OTU5OTM4OTUsMzE0MDAxMjgyLC05MDk2MTk5
-NjYsMTg1MTkyNTQ3Miw0MzU3MTcwMTYsLTE4MzA3MTc3ODEsLT
-M2NTQyNzk0MSw2NTQzMTY5OTksLTgxODU0MDMyNywtMjE0Mjc0
-Mzg3N119
+eyJoaXN0b3J5IjpbMTc3OTMwOTI3MiwtNDc2Mzc5NDIyLC05Nj
+gwMzgwNDYsLTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OTIwMTEx
+MTcsNDQ1NDQzNTE3LC0xMTY4NzIyMzM5LDU1NTI2MDgxMCwtMT
+cwMjUzNzg1NywtOTk1OTkzODk1LDMxNDAwMTI4MiwtOTA5NjE5
+OTY2LDE4NTE5MjU0NzIsNDM1NzE3MDE2LC0xODMwNzE3NzgxLC
+0zNjU0Mjc5NDEsNjU0MzE2OTk5LC04MTg1NDAzMjcsLTIxNDI3
+NDM4NzddfQ==
 -->
