@@ -356,9 +356,9 @@ _notes:
 ## D
 _notes:
 * the story isnt over
-* there is 
+* still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDA4NTA3MSwtMTI0NDYyNjk2LC04OT
+eyJoaXN0b3J5IjpbLTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OT
 IwMTExMTcsNDQ1NDQzNTE3LC0xMTY4NzIyMzM5LDU1NTI2MDgx
 MCwtMTcwMjUzNzg1NywtOTk1OTkzODk1LDMxNDAwMTI4MiwtOT
 A5NjE5OTY2LDE4NTE5MjU0NzIsNDM1NzE3MDE2LC0xODMwNzE3
