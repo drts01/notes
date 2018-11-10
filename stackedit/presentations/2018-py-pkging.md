@@ -1,6 +1,3 @@
-
-
-
 # My [Mis]Adventures in Python Packaging
 [![Python Environment](https://imgs.xkcd.com/comics/python_environment.png)](https://xkcd.com/1987/)
 _notes:
@@ -175,7 +172,7 @@ virtualenv venv
 . venv/bin/activate
 
 which python
-~/ ... /venv/bin/python
+~/.../venv/bin/python
 ```
 _notes:
 * b4 break applications with different dependencies and versions, etc
@@ -380,11 +377,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0MDM4ODg4LDIwNDE1MTM4NDEsLTQ3Nj
-M3OTQyMiwtOTY4MDM4MDQ2LC03OTg3MzY2MzksLTEyNDQ2MjY5
-NiwtODkyMDExMTE3LDQ0NTQ0MzUxNywtMTE2ODcyMjMzOSw1NT
-UyNjA4MTAsLTE3MDI1Mzc4NTcsLTk5NTk5Mzg5NSwzMTQwMDEy
-ODIsLTkwOTYxOTk2NiwxODUxOTI1NDcyLDQzNTcxNzAxNiwtMT
-gzMDcxNzc4MSwtMzY1NDI3OTQxLDY1NDMxNjk5OSwtODE4NTQw
-MzI3XX0=
+eyJoaXN0b3J5IjpbNzE3ODczNTU4LDg3NDAzODg4OCwyMDQxNT
+EzODQxLC00NzYzNzk0MjIsLTk2ODAzODA0NiwtNzk4NzM2NjM5
+LC0xMjQ0NjI2OTYsLTg5MjAxMTExNyw0NDU0NDM1MTcsLTExNj
+g3MjIzMzksNTU1MjYwODEwLC0xNzAyNTM3ODU3LC05OTU5OTM4
+OTUsMzE0MDAxMjgyLC05MDk2MTk5NjYsMTg1MTkyNTQ3Miw0Mz
+U3MTcwMTYsLTE4MzA3MTc3ODEsLTM2NTQyNzk0MSw2NTQzMTY5
+OTldfQ==
 -->
