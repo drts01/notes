@@ -177,6 +177,12 @@ _notes:
 ```bash
 pip install -r requirements.txt
 ```
+requirements.txt
+```
+foo=>
+request=>1.5.0,<2
+```
+
 _notes:
 * 2008 -
 * requirements.txt convention gave users the power to easily replicate environments.
@@ -230,7 +236,6 @@ _notes:
 cd awesome-pyproject/
 virtualenv venv
 . venv/bin/activate
-pip install -r requirements.txt
 python setup.py sdist bdist_wheel
 twine upload dist/*
 ```
@@ -337,11 +342,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjg3MjIzMzksNTU1MjYwODEwLC0xNz
-AyNTM3ODU3LC05OTU5OTM4OTUsMzE0MDAxMjgyLC05MDk2MTk5
-NjYsMTg1MTkyNTQ3Miw0MzU3MTcwMTYsLTE4MzA3MTc3ODEsLT
-M2NTQyNzk0MSw2NTQzMTY5OTksLTgxODU0MDMyNywtMjE0Mjc0
-Mzg3NywzOTQ5MDcxOTIsMzkyNDM1MjIyLC0xMDM3MjExNjIwLD
-UwODA2NTU4NiwyMDcyMzIyODkxLDIzNDUxMTIsMTQyODE2OTkx
-M119
+eyJoaXN0b3J5IjpbNDQ1NDQzNTE3LC0xMTY4NzIyMzM5LDU1NT
+I2MDgxMCwtMTcwMjUzNzg1NywtOTk1OTkzODk1LDMxNDAwMTI4
+MiwtOTA5NjE5OTY2LDE4NTE5MjU0NzIsNDM1NzE3MDE2LC0xOD
+MwNzE3NzgxLC0zNjU0Mjc5NDEsNjU0MzE2OTk5LC04MTg1NDAz
+MjcsLTIxNDI3NDM4NzcsMzk0OTA3MTkyLDM5MjQzNTIyMiwtMT
+AzNzIxMTYyMCw1MDgwNjU1ODYsMjA3MjMyMjg5MSwyMzQ1MTEy
+XX0=
 -->
