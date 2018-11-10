@@ -4,8 +4,10 @@
 # My [Mis]Adventures in Python Packaging
 [![Python Environment](https://imgs.xkcd.com/comics/python_environment.png)](https://xkcd.com/1987/)
 _notes:
-* inspired me to talk: the struggle
-* 
+* inspired me to talk: the struggle figure py pkg
+* not best docs
+* broken features in tools
+* constantly changing
 *  rant
 * 
 
@@ -349,11 +351,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA2NjUzNjIsLTEyNDQ2MjY5NiwtOD
-kyMDExMTE3LDQ0NTQ0MzUxNywtMTE2ODcyMjMzOSw1NTUyNjA4
-MTAsLTE3MDI1Mzc4NTcsLTk5NTk5Mzg5NSwzMTQwMDEyODIsLT
-kwOTYxOTk2NiwxODUxOTI1NDcyLDQzNTcxNzAxNiwtMTgzMDcx
-Nzc4MSwtMzY1NDI3OTQxLDY1NDMxNjk5OSwtODE4NTQwMzI3LC
-0yMTQyNzQzODc3LDM5NDkwNzE5MiwzOTI0MzUyMjIsLTEwMzcy
-MTE2MjBdfQ==
+eyJoaXN0b3J5IjpbMTQzMjY3Nzk3MSwtMTI0NDYyNjk2LC04OT
+IwMTExMTcsNDQ1NDQzNTE3LC0xMTY4NzIyMzM5LDU1NTI2MDgx
+MCwtMTcwMjUzNzg1NywtOTk1OTkzODk1LDMxNDAwMTI4MiwtOT
+A5NjE5OTY2LDE4NTE5MjU0NzIsNDM1NzE3MDE2LC0xODMwNzE3
+NzgxLC0zNjU0Mjc5NDEsNjU0MzE2OTk5LC04MTg1NDAzMjcsLT
+IxNDI3NDM4NzcsMzk0OTA3MTkyLDM5MjQzNTIyMiwtMTAzNzIx
+MTYyMF19
 -->
