@@ -510,7 +510,8 @@ _notes:
 ```bash
 cd pkg-demo
 pipenv install --dev
-pipenv 
+pipenv build
+pipenv publish
 python setup.py sdist bdist_wheel
 twine upload dist/*
 ```
@@ -566,7 +567,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzMzEwNzA4LDE1Nzg4MzgxNTMsMTkxMD
+eyJoaXN0b3J5IjpbMTg5Mjc5OTk5LDE1Nzg4MzgxNTMsMTkxMD
 I2MTU4MSwxNTg3MjkyODM2LC0xODg3NzE5NjUyLC0xNDM5NzQ2
 NTg3LC0yMjE2NjQ1MSwxMjg3NDEzMDU1LDIwMTYzNDA2OTcsLT
 IxMjQ1NjUxNjcsODg2Nzk0NTMyLC0xMzExNDkwMjY2LDIwMDcw
