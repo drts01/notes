@@ -242,6 +242,7 @@ _notes:
 cd awesome-pyproject/
 virtualenv venv
 . venv/bin/activate
+pip install -r requirements-dev.txt
 python setup.py sdist bdist_wheel
 twine upload dist/*
 ```
@@ -505,11 +506,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU5NTA1MDgsMjAxNjM0MDY5NywtMj
-EyNDU2NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3
-ODc2Myw1MjIyOTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LD
-cxNzg3MzU1OCw4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5
-NDIyLC05NjgwMzgwNDYsLTc5ODczNjYzOSwtMTI0NDYyNjk2LC
-04OTIwMTExMTcsNDQ1NDQzNTE3LC0xMTY4NzIyMzM5LDU1NTI2
-MDgxMF19
+eyJoaXN0b3J5IjpbMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMT
+I0NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3MDc4
+NzYzLDUyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEyMTExNzUsNz
+E3ODczNTU4LDg3NDAzODg4OCwyMDQxNTEzODQxLC00NzYzNzk0
+MjIsLTk2ODAzODA0NiwtNzk4NzM2NjM5LC0xMjQ0NjI2OTYsLT
+g5MjAxMTExNyw0NDU0NDM1MTcsLTExNjg3MjIzMzksNTU1MjYw
+ODEwXX0=
 -->
