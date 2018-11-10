@@ -255,7 +255,7 @@ _notes:
 pkg-demo/
 |-- AUTHORS
 |-- CHANGELOG
-|-- CONTRIBUTING
+|-- CONTRIBUTING.rst
 |-- docs
 |   `-- config.py
 |-- LICENSE
@@ -279,8 +279,11 @@ _notes:
 ## Open Source
 * AUTHORS
 * CHANGELOG
+* CONTRIBUTING.rst
 * LICEN[C|S]E
 
+_notes:
+* g
 
 
 ## requirements-dev.txt
@@ -499,11 +502,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjM0MDY5NywtMjEyNDU2NTE2Nyw4OD
-Y3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3ODc2Myw1MjIyOTg0
-MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3MzU1OCw4Nz
-QwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05NjgwMzgw
-NDYsLTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OTIwMTExMTcsND
-Q1NDQzNTE3LC0xMTY4NzIyMzM5LDU1NTI2MDgxMCwtMTcwMjUz
-Nzg1N119
+eyJoaXN0b3J5IjpbLTExMDkwMTgzMDQsMjAxNjM0MDY5NywtMj
+EyNDU2NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3
+ODc2Myw1MjIyOTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LD
+cxNzg3MzU1OCw4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5
+NDIyLC05NjgwMzgwNDYsLTc5ODczNjYzOSwtMTI0NDYyNjk2LC
+04OTIwMTExMTcsNDQ1NDQzNTE3LC0xMTY4NzIyMzM5LDU1NTI2
+MDgxMF19
 -->
