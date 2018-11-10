@@ -196,6 +196,7 @@ request=>1.5.0,<2
 
 _notes:
 * 2008 -
+* installing from PyPI
 * requirements.txt convention gave users the power to easily replicate environments.
 * 2014 included w/ Python
 * https://packaging.python.org/discussions/pip-vs-easy-install/
@@ -361,11 +362,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDg3NDAxLC05NjgwMzgwNDYsLTc5OD
-czNjYzOSwtMTI0NDYyNjk2LC04OTIwMTExMTcsNDQ1NDQzNTE3
-LC0xMTY4NzIyMzM5LDU1NTI2MDgxMCwtMTcwMjUzNzg1NywtOT
-k1OTkzODk1LDMxNDAwMTI4MiwtOTA5NjE5OTY2LDE4NTE5MjU0
-NzIsNDM1NzE3MDE2LC0xODMwNzE3NzgxLC0zNjU0Mjc5NDEsNj
-U0MzE2OTk5LC04MTg1NDAzMjcsLTIxNDI3NDM4NzcsMzk0OTA3
-MTkyXX0=
+eyJoaXN0b3J5IjpbLTQ3NjM3OTQyMiwtOTY4MDM4MDQ2LC03OT
+g3MzY2MzksLTEyNDQ2MjY5NiwtODkyMDExMTE3LDQ0NTQ0MzUx
+NywtMTE2ODcyMjMzOSw1NTUyNjA4MTAsLTE3MDI1Mzc4NTcsLT
+k5NTk5Mzg5NSwzMTQwMDEyODIsLTkwOTYxOTk2NiwxODUxOTI1
+NDcyLDQzNTcxNzAxNiwtMTgzMDcxNzc4MSwtMzY1NDI3OTQxLD
+Y1NDMxNjk5OSwtODE4NTQwMzI3LC0yMTQyNzQzODc3LDM5NDkw
+NzE5Ml19
 -->
