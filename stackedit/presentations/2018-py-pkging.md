@@ -402,6 +402,8 @@ twine upload -r testpypi dist/*
 
 
 
+## DEMO?
+
 ## Changes from 2016
 * Pipfile - Endorsed by PyPA
 	* Pipenv
@@ -541,11 +543,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc3MTk2NTIsLTE0Mzk3NDY1ODcsLT
-IyMTY2NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5NywtMjEyNDU2
-NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3ODc2My
-w1MjIyOTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3
-MzU1OCw4NzQwMzg4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC
-05NjgwMzgwNDYsLTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OTIw
-MTExMTddfQ==
+eyJoaXN0b3J5IjpbLTE5NTk3MjQ2MTIsLTE4ODc3MTk2NTIsLT
+E0Mzk3NDY1ODcsLTIyMTY2NDUxLDEyODc0MTMwNTUsMjAxNjM0
+MDY5NywtMjEyNDU2NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNj
+YsMjAwNzA3ODc2Myw1MjIyOTg0MjQsLTM4MTA0MjcyNiwxODYx
+MjExMTc1LDcxNzg3MzU1OCw4NzQwMzg4ODgsMjA0MTUxMzg0MS
+wtNDc2Mzc5NDIyLC05NjgwMzgwNDYsLTc5ODczNjYzOSwtMTI0
+NDYyNjk2XX0=
 -->
