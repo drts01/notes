@@ -572,7 +572,7 @@ name = "pypi"
 "pkg-demo" = {editable = true, path = "."}
 
 [requires]
-# Can define sp Python version.
+# Can define specific Python version.
 
 [scripts]
 build = python setup.py sdist bdist_wheel
@@ -594,11 +594,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzc3Nzk3MywtNTM1ODU1MjYxLDE1Nz
-g4MzgxNTMsMTkxMDI2MTU4MSwxNTg3MjkyODM2LC0xODg3NzE5
-NjUyLC0xNDM5NzQ2NTg3LC0yMjE2NjQ1MSwxMjg3NDEzMDU1LD
-IwMTYzNDA2OTcsLTIxMjQ1NjUxNjcsODg2Nzk0NTMyLC0xMzEx
-NDkwMjY2LDIwMDcwNzg3NjMsNTIyMjk4NDI0LC0zODEwNDI3Mj
-YsMTg2MTIxMTE3NSw3MTc4NzM1NTgsODc0MDM4ODg4LDIwNDE1
-MTM4NDFdfQ==
+eyJoaXN0b3J5IjpbLTE2MzI1Njc4NzIsLTUzNTg1NTI2MSwxNT
+c4ODM4MTUzLDE5MTAyNjE1ODEsMTU4NzI5MjgzNiwtMTg4Nzcx
+OTY1MiwtMTQzOTc0NjU4NywtMjIxNjY0NTEsMTI4NzQxMzA1NS
+wyMDE2MzQwNjk3LC0yMTI0NTY1MTY3LDg4Njc5NDUzMiwtMTMx
+MTQ5MDI2NiwyMDA3MDc4NzYzLDUyMjI5ODQyNCwtMzgxMDQyNz
+I2LDE4NjEyMTExNzUsNzE3ODczNTU4LDg3NDAzODg4OCwyMDQx
+NTEzODQxXX0=
 -->
