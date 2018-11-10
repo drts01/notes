@@ -205,9 +205,9 @@ _notes:
 ## Python Packaging Authority
 "PyPA is a working group that maintains many of the relevant projects in Python packaging."<small><small>[ref](https://www.pypa.io)</small></small><!-- .element: style="text-align:center" -->
 
-* Python Packaging User Guide (PyPUG)
+* Python Packaging User Guide (PyPUG)\
 <small>https://packaging.python.org</small>
-* Tooling
+* Tooling\
 <small>https://github.com/pypa/</small>
 
 _notes:
@@ -546,11 +546,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMT
-QzOTc0NjU4NywtMjIxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQw
-Njk3LC0yMTI0NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2Ni
-wyMDA3MDc4NzYzLDUyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEy
-MTExNzUsNzE3ODczNTU4LDg3NDAzODg4OCwyMDQxNTEzODQxLC
-00NzYzNzk0MjIsLTk2ODAzODA0NiwtNzk4NzM2NjM5LC0xMjQ0
-NjI2OTZdfQ==
+eyJoaXN0b3J5IjpbNjIzNzU5NDYwLDE1ODcyOTI4MzYsLTE4OD
+c3MTk2NTIsLTE0Mzk3NDY1ODcsLTIyMTY2NDUxLDEyODc0MTMw
+NTUsMjAxNjM0MDY5NywtMjEyNDU2NTE2Nyw4ODY3OTQ1MzIsLT
+EzMTE0OTAyNjYsMjAwNzA3ODc2Myw1MjIyOTg0MjQsLTM4MTA0
+MjcyNiwxODYxMjExMTc1LDcxNzg3MzU1OCw4NzQwMzg4ODgsMj
+A0MTUxMzg0MSwtNDc2Mzc5NDIyLC05NjgwMzgwNDYsLTc5ODcz
+NjYzOV19
 -->
