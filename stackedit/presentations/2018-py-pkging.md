@@ -85,7 +85,7 @@ _notes:
 
 
 ## .\. contents::
-1. Current (Legacy) Packaging Story
+1. Current ("Classic") Packaging Story
 	1. Overview of tooling
 	1. Example of a Minimal Python Project
 1. Changes in Progress
@@ -93,7 +93,6 @@ _notes:
 	1. Example of a Newer Workflow
 
 _notes:
-
 * 2 parts: traditional / upcoming
 * discussion during examples
 
@@ -585,6 +584,11 @@ _notes:
 * can define alias cmds
 
 
+
+## DEMO?
+
+
+
 ## More
 * Documentation
 * Automation (CI)
@@ -597,7 +601,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTU2MDczMiw3NjU0OTEzNTIsLTUzNT
+eyJoaXN0b3J5IjpbLTYyNTUxNzgxOSw3NjU0OTEzNTIsLTUzNT
 g1NTI2MSwxNTc4ODM4MTUzLDE5MTAyNjE1ODEsMTU4NzI5Mjgz
 NiwtMTg4NzcxOTY1MiwtMTQzOTc0NjU4NywtMjIxNjY0NTEsMT
 I4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0NTY1MTY3LDg4Njc5
