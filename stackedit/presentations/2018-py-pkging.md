@@ -257,18 +257,14 @@ _notes:
 
 ## Example
 ```
-awsome-pyproject/
+pkg-demo/
 ├── AUTHORS
 ├── CHANGELOG
 ├── CONTRIBUTING
 ├── docs
 │   └── config.py
-├── .gitignore
 ├── LICENSE
-├── Makefile
 ├── MANIFEST.in
-├── Pipfile
-├── Pipfile.lock
 ├── README.rst
 ├── setup.cfg
 ├── setup.py
@@ -276,10 +272,8 @@ awsome-pyproject/
 │   └── pkg_demo
 │       ├── __init__.py
 │       └── __main__.py
-├── test
 └── tests
     └── __init__.py
-
 ```
 _notes:
 * check in
@@ -386,11 +380,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTAzNDQxNCwyMDQxNTEzODQxLC00Nz
-YzNzk0MjIsLTk2ODAzODA0NiwtNzk4NzM2NjM5LC0xMjQ0NjI2
-OTYsLTg5MjAxMTExNyw0NDU0NDM1MTcsLTExNjg3MjIzMzksNT
-U1MjYwODEwLC0xNzAyNTM3ODU3LC05OTU5OTM4OTUsMzE0MDAx
-MjgyLC05MDk2MTk5NjYsMTg1MTkyNTQ3Miw0MzU3MTcwMTYsLT
-E4MzA3MTc3ODEsLTM2NTQyNzk0MSw2NTQzMTY5OTksLTgxODU0
-MDMyN119
+eyJoaXN0b3J5IjpbODc0MDM4ODg4LDIwNDE1MTM4NDEsLTQ3Nj
+M3OTQyMiwtOTY4MDM4MDQ2LC03OTg3MzY2MzksLTEyNDQ2MjY5
+NiwtODkyMDExMTE3LDQ0NTQ0MzUxNywtMTE2ODcyMjMzOSw1NT
+UyNjA4MTAsLTE3MDI1Mzc4NTcsLTk5NTk5Mzg5NSwzMTQwMDEy
+ODIsLTkwOTYxOTk2NiwxODUxOTI1NDcyLDQzNTcxNzAxNiwtMT
+gzMDcxNzc4MSwtMzY1NDI3OTQxLDY1NDMxNjk5OSwtODE4NTQw
+MzI3XX0=
 -->
