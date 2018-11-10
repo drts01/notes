@@ -255,8 +255,7 @@ _notes:
 pkg-demo/
 |-- AUTHORS
 |-- CHANGELOG
-|-- CHANGELOG.rst
-|-- CONTRIBUTING.rst
+|-- CONTRIBUTING
 |-- docs
 |   `-- config.py
 |-- LICENSE
@@ -277,8 +276,15 @@ _notes:
 
 
 
+## Open Source
+* AUTHORS
+* CHANGELOG
+* LICEN[C|S]E
+
+
+
 ## requirements-dev.txt
-```python
+```bash
 # https://caremad.io/posts/2013/07/setup-vs-requirement/
 --index-url https://pypi.python.org/simple/
 setuptools>=40.5.0
@@ -430,7 +436,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2MjkzNDExLC0xMzExNDkwMjY2LDIwMD
+eyJoaXN0b3J5IjpbODg2Nzk0NTMyLC0xMzExNDkwMjY2LDIwMD
 cwNzg3NjMsNTIyMjk4NDI0LC0zODEwNDI3MjYsMTg2MTIxMTE3
 NSw3MTc4NzM1NTgsODc0MDM4ODg4LDIwNDE1MTM4NDEsLTQ3Nj
 M3OTQyMiwtOTY4MDM4MDQ2LC03OTg3MzY2MzksLTEyNDQ2MjY5
