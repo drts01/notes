@@ -39,6 +39,7 @@ _notes:
 
 ## Packaging
 "Packaging is the fine art of creating a distributable software artifact"
+
 <small>--["The Packaging Gradient", Mahmoud Hashemi](https://www.youtube.com/watch?v=iLVNWfPWAC8) [[slides](https://speakerd.s3.amazonaws.com/presentations/d655083f4a4c4199ae2f7066d5b8fc47/The_Packaging_Gradient_-_Mahmoud_Hashemi_PyBay_2017.pdf)]</small>
 * Turning code into a self-contained artifact
 * For reliable transfer to environments
@@ -358,7 +359,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTI3MzQ2OCwtNzk4NzM2NjM5LC0xMj
+eyJoaXN0b3J5IjpbMTY2MjA5MDEyNiwtNzk4NzM2NjM5LC0xMj
 Q0NjI2OTYsLTg5MjAxMTExNyw0NDU0NDM1MTcsLTExNjg3MjIz
 MzksNTU1MjYwODEwLC0xNzAyNTM3ODU3LC05OTU5OTM4OTUsMz
 E0MDAxMjgyLC05MDk2MTk5NjYsMTg1MTkyNTQ3Miw0MzU3MTcw
