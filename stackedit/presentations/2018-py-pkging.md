@@ -226,6 +226,7 @@ _notes:
 
 ## PEP-427 Wheel
 ### The Wheel Binary Package Format
+"a simpler interface between the build system and the installer. The wheel binary package format frees installers from having to know about the build system, saves time by amortizing compile time over many installations, and removes the need to install a build system in the target environment.
 "A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a Release."<sup> <small><small>[ref](https://packaging.python.org/glossary/#term-distribution-package)</small></small></sup>
 * Source Distribution (sdist)
 * Built Distribution (bdist)
@@ -378,11 +379,11 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3MTMxNzcwLDcxNzg3MzU1OCw4NzQwMz
-g4ODgsMjA0MTUxMzg0MSwtNDc2Mzc5NDIyLC05NjgwMzgwNDYs
-LTc5ODczNjYzOSwtMTI0NDYyNjk2LC04OTIwMTExMTcsNDQ1ND
-QzNTE3LC0xMTY4NzIyMzM5LDU1NTI2MDgxMCwtMTcwMjUzNzg1
-NywtOTk1OTkzODk1LDMxNDAwMTI4MiwtOTA5NjE5OTY2LDE4NT
-E5MjU0NzIsNDM1NzE3MDE2LC0xODMwNzE3NzgxLC0zNjU0Mjc5
-NDFdfQ==
+eyJoaXN0b3J5IjpbLTE3NzAxMjU3OSw3MTc4NzM1NTgsODc0MD
+M4ODg4LDIwNDE1MTM4NDEsLTQ3NjM3OTQyMiwtOTY4MDM4MDQ2
+LC03OTg3MzY2MzksLTEyNDQ2MjY5NiwtODkyMDExMTE3LDQ0NT
+Q0MzUxNywtMTE2ODcyMjMzOSw1NTUyNjA4MTAsLTE3MDI1Mzc4
+NTcsLTk5NTk5Mzg5NSwzMTQwMDEyODIsLTkwOTYxOTk2NiwxOD
+UxOTI1NDcyLDQzNTcxNzAxNiwtMTgzMDcxNzc4MSwtMzY1NDI3
+OTQxXX0=
 -->
