@@ -10,17 +10,6 @@ _notes:
 * broken features in tools
 * constantly changing, guides our out of date fast
 *  rant
-* 
-
-* started out as a rant about python packaging
-* i wanted to start distributing 
-* I suffered so you dont have to
-* make my code more shareable and professional
-* this sent me down a rabbit hole of pain
-    * py pkging evolving for 18 years & is still changing
-	* bad docs, broken tooling
-* in fact this comic is missing quite a bit
-* from my struggle, i want to share a clearer path on how to package python code.
 
 
 
@@ -624,11 +613,11 @@ _notes:
 #### @digitalr00ts
 Questions?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTU3OTY1NTEsLTc2NzE2NTU2MCwtMz
-A5OTUwNzAyLC0xNTgwMDI0NjY2LC00MzQyNDcwMDUsNzY1NDkx
-MzUyLC01MzU4NTUyNjEsMTU3ODgzODE1MywxOTEwMjYxNTgxLD
-E1ODcyOTI4MzYsLTE4ODc3MTk2NTIsLTE0Mzk3NDY1ODcsLTIy
-MTY2NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5NywtMjEyNDU2NT
-E2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3ODc2Myw1
-MjIyOTg0MjRdfQ==
+eyJoaXN0b3J5IjpbMTI1NDA5OTIwMCwtNzY3MTY1NTYwLC0zMD
+k5NTA3MDIsLTE1ODAwMjQ2NjYsLTQzNDI0NzAwNSw3NjU0OTEz
+NTIsLTUzNTg1NTI2MSwxNTc4ODM4MTUzLDE5MTAyNjE1ODEsMT
+U4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMTQzOTc0NjU4NywtMjIx
+NjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0NTY1MT
+Y3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3MDc4NzYzLDUy
+MjI5ODQyNF19
 -->
