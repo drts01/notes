@@ -566,9 +566,9 @@ name = "pypi"
 # see, https://packaging.python.org/discussions/install-requires-vs-requirements/
 
 [dev-packages]
-"setuptools" = version=">=40.5.0", index="pypi"}
-"twine" = ">=1.12.1", index="pypi"}
-"wheel" = version=">=0.32.2", index="pypi"}
+"setuptools" = ">=40.5.0"
+"twine" = ">=1.12.1"
+"wheel" = version=">=0.32.2"
 "pkg-demo" = {editable = true, path = "."}
 
 [requires]
@@ -617,7 +617,7 @@ _notes:
 #### @digitalr00ts
 Questions?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxMTI0ODMwLC00MzQyNDcwMDUsNzY1ND
+eyJoaXN0b3J5IjpbOTU4ODE3NTA5LC00MzQyNDcwMDUsNzY1ND
 kxMzUyLC01MzU4NTUyNjEsMTU3ODgzODE1MywxOTEwMjYxNTgx
 LDE1ODcyOTI4MzYsLTE4ODc3MTk2NTIsLTE0Mzk3NDY1ODcsLT
 IyMTY2NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5NywtMjEyNDU2
