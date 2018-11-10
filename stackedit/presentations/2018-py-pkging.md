@@ -594,14 +594,17 @@ _notes:
 * Automation (CI)
 * Signing Packages
 
+_notes:
+* any respectable project will have these
 
 
-## D
+
+## while True:
 _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTUxNzgxOSw3NjU0OTEzNTIsLTUzNT
+eyJoaXN0b3J5IjpbLTk1NDI3NTIzMiw3NjU0OTEzNTIsLTUzNT
 g1NTI2MSwxNTc4ODM4MTUzLDE5MTAyNjE1ODEsMTU4NzI5Mjgz
 NiwtMTg4NzcxOTY1MiwtMTQzOTc0NjU4NywtMjIxNjY0NTEsMT
 I4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0NTY1MTY3LDg4Njc5
