@@ -243,6 +243,7 @@ twine upload dist/*
 ```
 _notes:
 * minimal setup, i.e. no testing or docs
+* more complicated w/ "classical" tools that try to address short comings
 * init env
 * activate env
 * populate env
@@ -615,11 +616,11 @@ _notes:
 #### @digitalr00ts
 Questions?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5NzQ2NTcyLC0xMDQzMDY5NDIsODI3ND
-YxMTMsMTI1NDA5OTIwMCwtNzY3MTY1NTYwLC0zMDk5NTA3MDIs
-LTE1ODAwMjQ2NjYsLTQzNDI0NzAwNSw3NjU0OTEzNTIsLTUzNT
-g1NTI2MSwxNTc4ODM4MTUzLDE5MTAyNjE1ODEsMTU4NzI5Mjgz
-NiwtMTg4NzcxOTY1MiwtMTQzOTc0NjU4NywtMjIxNjY0NTEsMT
-I4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0NTY1MTY3LDg4Njc5
-NDUzMl19
+eyJoaXN0b3J5IjpbLTI4NzIwNDkyNSw1ODk3NDY1NzIsLTEwND
+MwNjk0Miw4Mjc0NjExMywxMjU0MDk5MjAwLC03NjcxNjU1NjAs
+LTMwOTk1MDcwMiwtMTU4MDAyNDY2NiwtNDM0MjQ3MDA1LDc2NT
+Q5MTM1MiwtNTM1ODU1MjYxLDE1Nzg4MzgxNTMsMTkxMDI2MTU4
+MSwxNTg3MjkyODM2LC0xODg3NzE5NjUyLC0xNDM5NzQ2NTg3LC
+0yMjE2NjQ1MSwxMjg3NDEzMDU1LDIwMTYzNDA2OTcsLTIxMjQ1
+NjUxNjddfQ==
 -->
