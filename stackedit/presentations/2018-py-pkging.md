@@ -566,17 +566,17 @@ name = "pypi"
 # see, https://packaging.python.org/discussions/install-requires-vs-requirements/
 
 [dev-packages]
-"setuptools" = {version=">=40.5.0", index="pypi"}
-"twine" = {version=">=0.32.2", index="pypi"}
-"wheel" = {version=">=0.32.2", index="pypi"}
+"setuptools" = version=">=40.5.0", index="pypi"}
+"twine" = ">=1.12.1", index="pypi"}
+"wheel" = version=">=0.32.2", index="pypi"}
 "pkg-demo" = {editable = true, path = "."}
 
 [requires]
-# Can define a specific version of Python.
+# Can define a specific verions of Python.
 
 [scripts]
-build = python setup.py sdist bdist_wheel
-publish = twine upload dist/*
+build = "python setup.py sdist bdist_wheel"
+publish = "twine upload -r testpypi dist/*"
 ```
 _notes:
 * similar to requirements
@@ -617,11 +617,11 @@ _notes:
 #### @digitalr00ts
 Questions?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDI0NzAwNSw3NjU0OTEzNTIsLTUzNT
-g1NTI2MSwxNTc4ODM4MTUzLDE5MTAyNjE1ODEsMTU4NzI5Mjgz
-NiwtMTg4NzcxOTY1MiwtMTQzOTc0NjU4NywtMjIxNjY0NTEsMT
-I4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0NTY1MTY3LDg4Njc5
-NDUzMiwtMTMxMTQ5MDI2NiwyMDA3MDc4NzYzLDUyMjI5ODQyNC
-wtMzgxMDQyNzI2LDE4NjEyMTExNzUsNzE3ODczNTU4LDg3NDAz
-ODg4OF19
+eyJoaXN0b3J5IjpbNjAxMTI0ODMwLC00MzQyNDcwMDUsNzY1ND
+kxMzUyLC01MzU4NTUyNjEsMTU3ODgzODE1MywxOTEwMjYxNTgx
+LDE1ODcyOTI4MzYsLTE4ODc3MTk2NTIsLTE0Mzk3NDY1ODcsLT
+IyMTY2NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5NywtMjEyNDU2
+NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3ODc2My
+w1MjIyOTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3
+MzU1OF19
 -->
