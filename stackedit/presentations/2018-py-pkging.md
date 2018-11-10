@@ -124,6 +124,7 @@ setup(name="foo",
 ```
 _notes:
 * 2000 - beginnings of modern Python packaging
+* more repeatable across different systems
 * b4 custom makefiles and hope for the best
 * standard interface to build and install
 * gave confidence code will build and run in diff envs
@@ -336,11 +337,11 @@ _notes:
 _notes:
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTgyODAyNzQsLTE3MDI1Mzc4NTcsLT
-k5NTk5Mzg5NSwzMTQwMDEyODIsLTkwOTYxOTk2NiwxODUxOTI1
-NDcyLDQzNTcxNzAxNiwtMTgzMDcxNzc4MSwtMzY1NDI3OTQxLD
-Y1NDMxNjk5OSwtODE4NTQwMzI3LC0yMTQyNzQzODc3LDM5NDkw
-NzE5MiwzOTI0MzUyMjIsLTEwMzcyMTE2MjAsNTA4MDY1NTg2LD
-IwNzIzMjI4OTEsMjM0NTExMiwxNDI4MTY5OTEzLDExNTUzMDY4
-MDNdfQ==
+eyJoaXN0b3J5IjpbNTU1MjYwODEwLC0xNzAyNTM3ODU3LC05OT
+U5OTM4OTUsMzE0MDAxMjgyLC05MDk2MTk5NjYsMTg1MTkyNTQ3
+Miw0MzU3MTcwMTYsLTE4MzA3MTc3ODEsLTM2NTQyNzk0MSw2NT
+QzMTY5OTksLTgxODU0MDMyNywtMjE0Mjc0Mzg3NywzOTQ5MDcx
+OTIsMzkyNDM1MjIyLC0xMDM3MjExNjIwLDUwODA2NTU4NiwyMD
+cyMzIyODkxLDIzNDUxMTIsMTQyODE2OTkxMywxMTU1MzA2ODAz
+XX0=
 -->
