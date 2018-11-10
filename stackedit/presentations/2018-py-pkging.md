@@ -217,7 +217,7 @@ _notes:
 
 
 ## PEP-427 Wheel
-### The Wheel Binary Package Format
+#### The Wheel Binary Package Format
 "A simpler interface between the build system and the installer. The wheel binary package format ... removes the need to install a build system in the target environment."<small><small>[ref](https://www.python.org/dev/peps/pep-0427/#id5)</small></small>
 
 _notes:
@@ -546,7 +546,7 @@ _notes:
 * the story isnt over
 * still incomplete, new things will have to address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIzNzU5NDYwLDE1ODcyOTI4MzYsLTE4OD
+eyJoaXN0b3J5IjpbNjgwMzIwMjU1LDE1ODcyOTI4MzYsLTE4OD
 c3MTk2NTIsLTE0Mzk3NDY1ODcsLTIyMTY2NDUxLDEyODc0MTMw
 NTUsMjAxNjM0MDY5NywtMjEyNDU2NTE2Nyw4ODY3OTQ1MzIsLT
 EzMTE0OTAyNjYsMjAwNzA3ODc2Myw1MjIyOTg0MjQsLTM4MTA0
