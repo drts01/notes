@@ -610,7 +610,8 @@ _notes:
 ## while True:
 _notes:
 * the story isnt over
-* still incomplete, new things will have to address
+* today nothing addresses everything completely
+* have competing tooling clouding up 
 
 
 
@@ -618,11 +619,11 @@ _notes:
 #### @digitalr00ts
 Questions?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5Mzg3MTQ1LC00MzQyNDcwMDUsNzY1ND
-kxMzUyLC01MzU4NTUyNjEsMTU3ODgzODE1MywxOTEwMjYxNTgx
-LDE1ODcyOTI4MzYsLTE4ODc3MTk2NTIsLTE0Mzk3NDY1ODcsLT
-IyMTY2NDUxLDEyODc0MTMwNTUsMjAxNjM0MDY5NywtMjEyNDU2
-NTE2Nyw4ODY3OTQ1MzIsLTEzMTE0OTAyNjYsMjAwNzA3ODc2My
-w1MjIyOTg0MjQsLTM4MTA0MjcyNiwxODYxMjExMTc1LDcxNzg3
-MzU1OF19
+eyJoaXN0b3J5IjpbLTEwODE2MjkzMjAsLTQzNDI0NzAwNSw3Nj
+U0OTEzNTIsLTUzNTg1NTI2MSwxNTc4ODM4MTUzLDE5MTAyNjE1
+ODEsMTU4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMTQzOTc0NjU4Ny
+wtMjIxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQwNjk3LC0yMTI0
+NTY1MTY3LDg4Njc5NDUzMiwtMTMxMTQ5MDI2NiwyMDA3MDc4Nz
+YzLDUyMjI5ODQyNCwtMzgxMDQyNzI2LDE4NjEyMTExNzUsNzE3
+ODczNTU4XX0=
 -->
