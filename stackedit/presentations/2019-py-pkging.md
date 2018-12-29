@@ -49,11 +49,6 @@ pip install helloworld
 ## Anatomy of a python project
 ```
 project/
-|-- AUTHORS
-|-- CHANGELOG
-|-- CONTRIBUTING.rst
-|-- docs
-    `-- config.py
 |-- LICENSE
 |-- MANIFEST.in
 |-- README.rst
@@ -68,7 +63,6 @@ project/
  ### Skipping
  - tests
  - docs
- - license
 
 asdf
 
@@ -95,8 +89,9 @@ asdf
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg2NTQ0OTQsMjAwMzI4OTc4OSwtMT
-k4Mzc2MjI0Miw4Mjc5MTE2MjIsLTE2NDg4MTYyMjMsNDY1MDU1
-Njk4LDczNjYzNDAzNSwxMjE1OTA1NzQ4LC01Mjc1NzU4NzksMj
-Q0NTc4NjEwLC0xNzgyMDIzNzIsLTMwNTEwNDE3NV19
+eyJoaXN0b3J5IjpbLTMzODY0MTQ5MSwtMjExODY1NDQ5NCwyMD
+AzMjg5Nzg5LC0xOTgzNzYyMjQyLDgyNzkxMTYyMiwtMTY0ODgx
+NjIyMyw0NjUwNTU2OTgsNzM2NjM0MDM1LDEyMTU5MDU3NDgsLT
+UyNzU3NTg3OSwyNDQ1Nzg2MTAsLTE3ODIwMjM3MiwtMzA1MTA0
+MTc1XX0=
 -->
