@@ -9,7 +9,7 @@
 
 
 ## getpass.getuser()
-![enter image description here](https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/12552979_10205639299965038_7979753503545406419_n.jpg?_nc_cat=103&_nc_ht=scontent-lax3-1.xx&oh=cad169a7025ee23ab4ba3002f0635223&oe=5C8E83F1)<!-- 
+![enter image description here](https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/12552979_10205639299965038_7979753503545406419_n.jpg?_nc_cat=103&_nc_ht=scontent-lax3-1.xx&oh=cad169a7025ee23ab4ba3002f0635223&oe=5C8E83F1)<!-- .element: style="height:50%" -->
 
 
 ## Why
@@ -43,6 +43,6 @@ Packages exist to be installed (or deployed)
  - twine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDI2ODY2LC01Mjc1NzU4NzksMjQ0NT
+eyJoaXN0b3J5IjpbNzM2NjM0MDM1LC01Mjc1NzU4NzksMjQ0NT
 c4NjEwLC0xNzgyMDIzNzIsLTMwNTEwNDE3NV19
 -->
