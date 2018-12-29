@@ -48,12 +48,12 @@ pip install helloworld
 
 ## Anatomy of a python project
 ```
-/
+project/
 |-- AUTHORS
 |-- CHANGELOG
 |-- CONTRIBUTING.rst
 |-- docs
-|   `-- config.py
+    `-- config.py
 |-- LICENSE
 |-- MANIFEST.in
 |-- README.rst
@@ -61,9 +61,10 @@ pip install helloworld
 |-- setup.cfg
 |-- setup.py
 |-- src
-|   `-- pkg_demo
-|       |-- __init__.py
-|       |-- __main__.py```
+    `-- project_package/
+        |-- __init__.py
+        |-- __main__.py
+```
  - setup.py / setup.cfg
  - requirements.txt
  - manifest.in
@@ -84,7 +85,7 @@ pip install helloworld
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Njg1MTkwNiwtMTk4Mzc2MjI0Miw4Mj
+eyJoaXN0b3J5IjpbMTg3ODY4NTAxOCwtMTk4Mzc2MjI0Miw4Mj
 c5MTE2MjIsLTE2NDg4MTYyMjMsNDY1MDU1Njk4LDczNjYzNDAz
 NSwxMjE1OTA1NzQ4LC01Mjc1NzU4NzksMjQ0NTc4NjEwLC0xNz
 gyMDIzNzIsLTMwNTEwNDE3NV19
