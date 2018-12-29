@@ -19,6 +19,8 @@ Share a Python software artifact using native packaging and distribution tools
 
 ## .\. contents::
 
+ 1. 
+
 
 
 ## Vocab
@@ -57,8 +59,8 @@ pip install helloworld
  - twine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTM2ODE0MjgsODI3OTExNjIyLC0xNj
-Q4ODE2MjIzLDQ2NTA1NTY5OCw3MzY2MzQwMzUsMTIxNTkwNTc0
-OCwtNTI3NTc1ODc5LDI0NDU3ODYxMCwtMTc4MjAyMzcyLC0zMD
-UxMDQxNzVdfQ==
+eyJoaXN0b3J5IjpbMTEyMTQ4MjE5NSw4Mjc5MTE2MjIsLTE2ND
+g4MTYyMjMsNDY1MDU1Njk4LDczNjYzNDAzNSwxMjE1OTA1NzQ4
+LC01Mjc1NzU4NzksMjQ0NTc4NjEwLC0xNzgyMDIzNzIsLTMwNT
+EwNDE3NV19
 -->
