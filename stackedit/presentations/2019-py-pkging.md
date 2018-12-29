@@ -3,6 +3,7 @@
 
 
 ## \_\_init\_\_.py
+"Packaging is the fine art of creating a distributable software artifact"
 
 
 
@@ -41,6 +42,6 @@ Packages exist to be installed (or deployed)
  - twine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzg4NTk3NCwtMTc4MjAyMzcyLC0zMD
+eyJoaXN0b3J5IjpbLTY3NTE2NjczNSwtMTc4MjAyMzcyLC0zMD
 UxMDQxNzVdfQ==
 -->
