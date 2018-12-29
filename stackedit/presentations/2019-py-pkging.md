@@ -58,9 +58,17 @@ pip install helloworld
  - PyPI
  - twine
 
+## Resources
+
+ -  Python Packaging User Guide (PyPUG)  
+<small>https://packaging.python.org</small>
+ -  Tooling  
+<small>https://github.com/pypa/</small>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTQ4MjE5NSw4Mjc5MTE2MjIsLTE2ND
-g4MTYyMjMsNDY1MDU1Njk4LDczNjYzNDAzNSwxMjE1OTA1NzQ4
-LC01Mjc1NzU4NzksMjQ0NTc4NjEwLC0xNzgyMDIzNzIsLTMwNT
-EwNDE3NV19
+eyJoaXN0b3J5IjpbLTExMDE2MTM3MjMsODI3OTExNjIyLC0xNj
+Q4ODE2MjIzLDQ2NTA1NTY5OCw3MzY2MzQwMzUsMTIxNTkwNTc0
+OCwtNTI3NTc1ODc5LDI0NDU3ODYxMCwtMTc4MjAyMzcyLC0zMD
+UxMDQxNzVdfQ==
 -->
