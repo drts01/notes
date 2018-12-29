@@ -259,7 +259,7 @@ pkg-demo/
 |-- CHANGELOG
 |-- CONTRIBUTING.rst
 |-- docs
-|   └-- config.py
+|   `-- config.py
 |-- LICENSE
 |-- MANIFEST.in
 |-- README.rst
@@ -268,7 +268,7 @@ pkg-demo/
 |-- setup.py
 |-- src
 |   `-- pkg_demo
-|       `-- __init__.py
+|       |-- __init__.py
 |       |-- __main__.py
 |-- tests
 |   `-- __init__.py
@@ -616,7 +616,7 @@ _notes:
 #### @digitalr00ts
 Questions?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDcwMzAxNywtMjg3MjA0OTI1LDU4OT
+eyJoaXN0b3J5IjpbMTY3MDIzNTE3NSwtMjg3MjA0OTI1LDU4OT
 c0NjU3MiwtMTA0MzA2OTQyLDgyNzQ2MTEzLDEyNTQwOTkyMDAs
 LTc2NzE2NTU2MCwtMzA5OTUwNzAyLC0xNTgwMDI0NjY2LC00Mz
 QyNDcwMDUsNzY1NDkxMzUyLC01MzU4NTUyNjEsMTU3ODgzODE1
