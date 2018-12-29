@@ -13,6 +13,7 @@
 
 
 ## Why
+Share a Python software artifact using 
 
 
 
@@ -56,7 +57,7 @@ pip install helloworld
  - twine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg4MTYyMjMsNDY1MDU1Njk4LDczNj
-YzNDAzNSwxMjE1OTA1NzQ4LC01Mjc1NzU4NzksMjQ0NTc4NjEw
-LC0xNzgyMDIzNzIsLTMwNTEwNDE3NV19
+eyJoaXN0b3J5IjpbNDQ4ODg3MDQsLTE2NDg4MTYyMjMsNDY1MD
+U1Njk4LDczNjYzNDAzNSwxMjE1OTA1NzQ4LC01Mjc1NzU4Nzks
+MjQ0NTc4NjEwLC0xNzgyMDIzNzIsLTMwNTEwNDE3NV19
 -->
