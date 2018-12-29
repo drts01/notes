@@ -29,7 +29,8 @@ Packages exist to be installed (or deployed)
 ### What is a module
 ### What is a distribution
  - Source
- - Wheel
+#### The Wheel Binary Package Format
+"A simpler interface between the build system and the installer. The wheel binary package format ... removes the need to install a build system in the target environment."<small><small>[ref](https://www.python.org/dev/peps/pep-0427/#id5)</small></small>
 
 
 
@@ -67,7 +68,7 @@ pip install helloworld
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDE2MTM3MjMsODI3OTExNjIyLC0xNj
+eyJoaXN0b3J5IjpbLTE5ODM3NjIyNDIsODI3OTExNjIyLC0xNj
 Q4ODE2MjIzLDQ2NTA1NTY5OCw3MzY2MzQwMzUsMTIxNTkwNTc0
 OCwtNTI3NTc1ODc5LDI0NDU3ODYxMCwtMTc4MjAyMzcyLC0zMD
 UxMDQxNzVdfQ==
