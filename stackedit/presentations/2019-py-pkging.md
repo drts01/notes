@@ -65,6 +65,12 @@ project/
         |-- __init__.py
         |-- __main__.py
 ```
+ ### Skipping
+ - tests
+ - docs
+
+asdf
+
  - setup.py / setup.cfg
  - requirements.txt
  - manifest.in
@@ -85,8 +91,8 @@ project/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzIzMTgyMjEsLTE5ODM3NjIyNDIsOD
-I3OTExNjIyLC0xNjQ4ODE2MjIzLDQ2NTA1NTY5OCw3MzY2MzQw
-MzUsMTIxNTkwNTc0OCwtNTI3NTc1ODc5LDI0NDU3ODYxMCwtMT
-c4MjAyMzcyLC0zMDUxMDQxNzVdfQ==
+eyJoaXN0b3J5IjpbLTY2MDQ4ODk2MywtMTk4Mzc2MjI0Miw4Mj
+c5MTE2MjIsLTE2NDg4MTYyMjMsNDY1MDU1Njk4LDczNjYzNDAz
+NSwxMjE1OTA1NzQ4LC01Mjc1NzU4NzksMjQ0NTc4NjEwLC0xNz
+gyMDIzNzIsLTMwNTEwNDE3NV19
 -->
