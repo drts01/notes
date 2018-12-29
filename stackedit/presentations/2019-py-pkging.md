@@ -7,6 +7,7 @@
 <small>--["The Packaging Gradient", Mahmoud Hashemi](https://www.youtube.com/watch?v=iLVNWfPWAC8) [[slides](https://speakerd.s3.amazonaws.com/presentations/d655083f4a4c4199ae2f7066d5b8fc47/The_Packaging_Gradient_-_Mahmoud_Hashemi_PyBay_2017.pdf)]</small>
 
 
+
 ## getpass.getuser()
 ![enter image description here](https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/12552979_10205639299965038_7979753503545406419_n.jpg?_nc_cat=103&_nc_ht=scontent-lax3-1.xx&oh=cad169a7025ee23ab4ba3002f0635223&oe=5C8E83F1 | height=100px)
 
@@ -42,6 +43,6 @@ Packages exist to be installed (or deployed)
  - twine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTE1ODA2NCwtNTI3NTc1ODc5LDI0ND
+eyJoaXN0b3J5IjpbMTU1Nzc3MTk3MCwtNTI3NTc1ODc5LDI0ND
 U3ODYxMCwtMTc4MjAyMzcyLC0zMDUxMDQxNzVdfQ==
 -->
