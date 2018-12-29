@@ -57,10 +57,10 @@ project/
 |-- LICENSE
 |-- MANIFEST.in
 |-- README.rst
-|-- requirements-dev.txt
+|-- requirements.txt
 |-- setup.cfg
 |-- setup.py
-|-- src
+|-- src/
     `-- project_package/
         |-- __init__.py
         |-- __main__.py
@@ -85,8 +85,8 @@ project/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODY4NTAxOCwtMTk4Mzc2MjI0Miw4Mj
-c5MTE2MjIsLTE2NDg4MTYyMjMsNDY1MDU1Njk4LDczNjYzNDAz
-NSwxMjE1OTA1NzQ4LC01Mjc1NzU4NzksMjQ0NTc4NjEwLC0xNz
-gyMDIzNzIsLTMwNTEwNDE3NV19
+eyJoaXN0b3J5IjpbLTEzNzIzMTgyMjEsLTE5ODM3NjIyNDIsOD
+I3OTExNjIyLC0xNjQ4ODE2MjIzLDQ2NTA1NTY5OCw3MzY2MzQw
+MzUsMTIxNTkwNTc0OCwtNTI3NTc1ODc5LDI0NDU3ODYxMCwtMT
+c4MjAyMzcyLC0zMDUxMDQxNzVdfQ==
 -->
