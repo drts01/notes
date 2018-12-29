@@ -31,6 +31,8 @@ Packages exist to be installed (or deployed)
 
 ## Anatomy of a python project
 
+### 
+
  - setup.py / setup.cfg
  - requirements.txt
  - manifest.in
@@ -43,6 +45,7 @@ Packages exist to be installed (or deployed)
  - twine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2NjM0MDM1LC01Mjc1NzU4NzksMjQ0NT
-c4NjEwLC0xNzgyMDIzNzIsLTMwNTEwNDE3NV19
+eyJoaXN0b3J5IjpbMTIxNTkwNTc0OCw3MzY2MzQwMzUsLTUyNz
+U3NTg3OSwyNDQ1Nzg2MTAsLTE3ODIwMjM3MiwtMzA1MTA0MTc1
+XX0=
 -->
