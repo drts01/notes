@@ -3,6 +3,14 @@
 
 
 ## \_\_init\_\_.py
+
+
+
+## getpass.getuser()
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQ1ODc1OTJdfQ==
+eyJoaXN0b3J5IjpbOTkyMTIwNjIxXX0=
 -->
