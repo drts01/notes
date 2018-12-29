@@ -34,10 +34,12 @@ Packages exist to be installed (or deployed)
 
 
 
-## Using a Python Distribution
+## Installing a Python Distribution
 ```bash
 pip install helloworld
 ```
+ - fetches from PyPI
+ - runs setup
 
 
 
@@ -88,9 +90,9 @@ asdf
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjA2OTIyLC0yMTE4NjU0NDk0LDIwMD
-MyODk3ODksLTE5ODM3NjIyNDIsODI3OTExNjIyLC0xNjQ4ODE2
-MjIzLDQ2NTA1NTY5OCw3MzY2MzQwMzUsMTIxNTkwNTc0OCwtNT
-I3NTc1ODc5LDI0NDU3ODYxMCwtMTc4MjAyMzcyLC0zMDUxMDQx
-NzVdfQ==
+eyJoaXN0b3J5IjpbMTY3MzExNjQwLDIxNDYwNjkyMiwtMjExOD
+Y1NDQ5NCwyMDAzMjg5Nzg5LC0xOTgzNzYyMjQyLDgyNzkxMTYy
+MiwtMTY0ODgxNjIyMyw0NjUwNTU2OTgsNzM2NjM0MDM1LDEyMT
+U5MDU3NDgsLTUyNzU3NTg3OSwyNDQ1Nzg2MTAsLTE3ODIwMjM3
+MiwtMzA1MTA0MTc1XX0=
 -->
