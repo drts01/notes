@@ -20,6 +20,7 @@
 
 ## Vocab
 ### What is a package
+Packages exist to be installed (or deployed)
 ### What is a module
 ### What is a distribution
  - Source
@@ -40,5 +41,6 @@
  - twine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODIwMjM3MiwtMzA1MTA0MTc1XX0=
+eyJoaXN0b3J5IjpbMTMxMzg4NTk3NCwtMTc4MjAyMzcyLC0zMD
+UxMDQxNzVdfQ==
 -->
