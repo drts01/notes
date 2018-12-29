@@ -37,8 +37,7 @@ pip install helloworld
 
 
 
-## X
-
+## PyPI
 
 
 
@@ -56,7 +55,7 @@ pip install helloworld
  - twine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTg5NDI0OCw3MzY2MzQwMzUsMTIxNT
+eyJoaXN0b3J5IjpbLTg2Nzc3OTI4NCw3MzY2MzQwMzUsMTIxNT
 kwNTc0OCwtNTI3NTc1ODc5LDI0NDU3ODYxMCwtMTc4MjAyMzcy
 LC0zMDUxMDQxNzVdfQ==
 -->
