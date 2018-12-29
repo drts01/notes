@@ -68,6 +68,7 @@ project/
  ### Skipping
  - tests
  - docs
+ - license
 
 asdf
 
@@ -91,7 +92,7 @@ asdf
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDQ4ODk2MywtMTk4Mzc2MjI0Miw4Mj
+eyJoaXN0b3J5IjpbMjAwMzI4OTc4OSwtMTk4Mzc2MjI0Miw4Mj
 c5MTE2MjIsLTE2NDg4MTYyMjMsNDY1MDU1Njk4LDczNjYzNDAz
 NSwxMjE1OTA1NzQ4LC01Mjc1NzU4NzksMjQ0NTc4NjEwLC0xNz
 gyMDIzNzIsLTMwNTEwNDE3NV19
