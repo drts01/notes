@@ -10,6 +10,12 @@
 
 
 
+## x
+### Why
+### Vocab
+
+
+
 ## Anatomy of a python project
 
  - setup.py / setup.cfg
@@ -24,5 +30,5 @@
  - twine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTEwNDE3NV19
+eyJoaXN0b3J5IjpbMjExODM2MDk4MCwtMzA1MTA0MTc1XX0=
 -->
