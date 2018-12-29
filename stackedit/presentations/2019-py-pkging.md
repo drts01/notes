@@ -90,10 +90,13 @@ asdf
  -  Tooling  
 <small>https://github.com/pypa/</small>
 
+### Tools
+ - check-manifest
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzI4OTc4OSwtMTk4Mzc2MjI0Miw4Mj
-c5MTE2MjIsLTE2NDg4MTYyMjMsNDY1MDU1Njk4LDczNjYzNDAz
-NSwxMjE1OTA1NzQ4LC01Mjc1NzU4NzksMjQ0NTc4NjEwLC0xNz
-gyMDIzNzIsLTMwNTEwNDE3NV19
+eyJoaXN0b3J5IjpbLTIxMTg2NTQ0OTQsMjAwMzI4OTc4OSwtMT
+k4Mzc2MjI0Miw4Mjc5MTE2MjIsLTE2NDg4MTYyMjMsNDY1MDU1
+Njk4LDczNjYzNDAzNSwxMjE1OTA1NzQ4LC01Mjc1NzU4NzksMj
+Q0NTc4NjEwLC0xNzgyMDIzNzIsLTMwNTEwNDE3NV19
 -->
