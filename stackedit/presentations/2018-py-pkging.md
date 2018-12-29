@@ -268,8 +268,8 @@ pkg-demo/
 |-- setup.py
 |-- src
 |   `-- pkg_demo
-|       |-- __init__.py
-|       `-- __main__.py
+|       `-- __init__.py
+|       |-- __main__.py
 |-- tests
 |   `-- __init__.py
 ```
@@ -616,11 +616,11 @@ _notes:
 #### @digitalr00ts
 Questions?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzIwNDkyNSw1ODk3NDY1NzIsLTEwND
-MwNjk0Miw4Mjc0NjExMywxMjU0MDk5MjAwLC03NjcxNjU1NjAs
-LTMwOTk1MDcwMiwtMTU4MDAyNDY2NiwtNDM0MjQ3MDA1LDc2NT
-Q5MTM1MiwtNTM1ODU1MjYxLDE1Nzg4MzgxNTMsMTkxMDI2MTU4
-MSwxNTg3MjkyODM2LC0xODg3NzE5NjUyLC0xNDM5NzQ2NTg3LC
-0yMjE2NjQ1MSwxMjg3NDEzMDU1LDIwMTYzNDA2OTcsLTIxMjQ1
-NjUxNjddfQ==
+eyJoaXN0b3J5IjpbNTA2NjA3MTE1LC0yODcyMDQ5MjUsNTg5Nz
+Q2NTcyLC0xMDQzMDY5NDIsODI3NDYxMTMsMTI1NDA5OTIwMCwt
+NzY3MTY1NTYwLC0zMDk5NTA3MDIsLTE1ODAwMjQ2NjYsLTQzND
+I0NzAwNSw3NjU0OTEzNTIsLTUzNTg1NTI2MSwxNTc4ODM4MTUz
+LDE5MTAyNjE1ODEsMTU4NzI5MjgzNiwtMTg4NzcxOTY1MiwtMT
+QzOTc0NjU4NywtMjIxNjY0NTEsMTI4NzQxMzA1NSwyMDE2MzQw
+Njk3XX0=
 -->
