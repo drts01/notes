@@ -55,8 +55,7 @@ project/
 |-- requirements.txt
 |-- setup.cfg
 |-- setup.py
-|-- src/
-    `-- project_package/
+|-- project_package/
         |-- __init__.py
         |-- __main__.py
 ```
@@ -89,9 +88,9 @@ asdf
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODY0MTQ5MSwtMjExODY1NDQ5NCwyMD
-AzMjg5Nzg5LC0xOTgzNzYyMjQyLDgyNzkxMTYyMiwtMTY0ODgx
-NjIyMyw0NjUwNTU2OTgsNzM2NjM0MDM1LDEyMTU5MDU3NDgsLT
-UyNzU3NTg3OSwyNDQ1Nzg2MTAsLTE3ODIwMjM3MiwtMzA1MTA0
-MTc1XX0=
+eyJoaXN0b3J5IjpbMjE0NjA2OTIyLC0yMTE4NjU0NDk0LDIwMD
+MyODk3ODksLTE5ODM3NjIyNDIsODI3OTExNjIyLC0xNjQ4ODE2
+MjIzLDQ2NTA1NTY5OCw3MzY2MzQwMzUsMTIxNTkwNTc0OCwtNT
+I3NTc1ODc5LDI0NDU3ODYxMCwtMTc4MjAyMzcyLC0zMDUxMDQx
+NzVdfQ==
 -->
