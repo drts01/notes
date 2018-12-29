@@ -13,7 +13,7 @@
 
 
 ## Why
-Share a Python software artifact using native distribution tools
+Share a Python software artifact using native packaging and distribution tools
 
 
 
@@ -57,7 +57,8 @@ pip install helloworld
  - twine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3OTExNjIyLC0xNjQ4ODE2MjIzLDQ2NT
-A1NTY5OCw3MzY2MzQwMzUsMTIxNTkwNTc0OCwtNTI3NTc1ODc5
-LDI0NDU3ODYxMCwtMTc4MjAyMzcyLC0zMDUxMDQxNzVdfQ==
+eyJoaXN0b3J5IjpbLTE5MTM2ODE0MjgsODI3OTExNjIyLC0xNj
+Q4ODE2MjIzLDQ2NTA1NTY5OCw3MzY2MzQwMzUsMTIxNTkwNTc0
+OCwtNTI3NTc1ODc5LDI0NDU3ODYxMCwtMTc4MjAyMzcyLC0zMD
+UxMDQxNzVdfQ==
 -->
