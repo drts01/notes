@@ -29,6 +29,19 @@ Packages exist to be installed (or deployed)
  - Wheel
 
 
+
+## Using a Python Distribution
+```bash
+pip install helloworld
+```
+
+
+
+## X
+
+
+
+
 ## Anatomy of a python project
 
  - setup.py / setup.cfg
@@ -43,7 +56,7 @@ Packages exist to be installed (or deployed)
  - twine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2NjM0MDM1LDEyMTU5MDU3NDgsNzM2Nj
-M0MDM1LC01Mjc1NzU4NzksMjQ0NTc4NjEwLC0xNzgyMDIzNzIs
-LTMwNTEwNDE3NV19
+eyJoaXN0b3J5IjpbLTUwOTg5NDI0OCw3MzY2MzQwMzUsMTIxNT
+kwNTc0OCwtNTI3NTc1ODc5LDI0NDU3ODYxMCwtMTc4MjAyMzcy
+LC0zMDUxMDQxNzVdfQ==
 -->
