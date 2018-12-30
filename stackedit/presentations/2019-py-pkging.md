@@ -87,11 +87,6 @@ Metadata-Version = 2.1
 name = python_project
 version = 0.1.0
 summary = A demo Python Project
-author = digitalr00ts
-author-email = demo@digitalr00ts.com
-long_description = file: README.rst
-description-content-type = "text/x-rst; charset=UTF-8"
-url = https://test.pypi.org/project/pkg-demo/
 license = MIT
 project_urls =
     Source Code = https://gitlab.com/digitalr00ts-demos/pkg-demo
@@ -149,11 +144,11 @@ abstract vs concrete
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzE3NzkxMywxODI5NjIxNzU1LC0yMT
-EzMTIzOTQ4LC0xODA4MTU1MTcsMjA0MTkxMDg1MSwtMjA5NDM5
-MTkwOSwtMjExMzI1NjUxMiwzOTk0MjE2NzYsMTY3MzExNjQwLD
-IxNDYwNjkyMiwtMjExODY1NDQ5NCwyMDAzMjg5Nzg5LC0xOTgz
-NzYyMjQyLDgyNzkxMTYyMiwtMTY0ODgxNjIyMyw0NjUwNTU2OT
-gsNzM2NjM0MDM1LDEyMTU5MDU3NDgsLTUyNzU3NTg3OSwyNDQ1
-Nzg2MTBdfQ==
+eyJoaXN0b3J5IjpbLTU3MTQ1OTU4OCwxNjYzMTc3OTEzLDE4Mj
+k2MjE3NTUsLTIxMTMxMjM5NDgsLTE4MDgxNTUxNywyMDQxOTEw
+ODUxLC0yMDk0MzkxOTA5LC0yMTEzMjU2NTEyLDM5OTQyMTY3Ni
+wxNjczMTE2NDAsMjE0NjA2OTIyLC0yMTE4NjU0NDk0LDIwMDMy
+ODk3ODksLTE5ODM3NjIyNDIsODI3OTExNjIyLC0xNjQ4ODE2Mj
+IzLDQ2NTA1NTY5OCw3MzY2MzQwMzUsMTIxNTkwNTc0OCwtNTI3
+NTc1ODc5XX0=
 -->
