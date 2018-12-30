@@ -71,19 +71,11 @@ project/
 ```python
 from setuptools import setup
 
-# Check for minimal version of setuptools
-SETUPTOOLS_VER = "30.4.0"
-try:
-    require("setuptools>=" + SETUPTOOLS_VER)
-except VersionConflict:
-    print("Error: version of setuptools is too old (<%s)!" % SETUPTOOLS_VER)
-    sys.exit(1)
-
-if __name__ == "__main__":
-    setup()
+setup()
 ```
 
 _notes:
+ - all settings moved to cfg
  - no arbitrary code
  - cookiecutter checks min ver
 
@@ -91,7 +83,7 @@ _notes:
 ### Setup<span></span>.cfg
 
 _notes:
- - simpler and easier to 
+ - simpler and easier to understand
 
 
 
@@ -130,10 +122,10 @@ abstract vs concrete
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODg2MjM0NjksMjA0MTkxMDg1MSwtMj
-A5NDM5MTkwOSwtMjExMzI1NjUxMiwzOTk0MjE2NzYsMTY3MzEx
-NjQwLDIxNDYwNjkyMiwtMjExODY1NDQ5NCwyMDAzMjg5Nzg5LC
-0xOTgzNzYyMjQyLDgyNzkxMTYyMiwtMTY0ODgxNjIyMyw0NjUw
-NTU2OTgsNzM2NjM0MDM1LDEyMTU5MDU3NDgsLTUyNzU3NTg3OS
-wyNDQ1Nzg2MTAsLTE3ODIwMjM3MiwtMzA1MTA0MTc1XX0=
+eyJoaXN0b3J5IjpbLTE4MDgxNTUxNywyMDQxOTEwODUxLC0yMD
+k0MzkxOTA5LC0yMTEzMjU2NTEyLDM5OTQyMTY3NiwxNjczMTE2
+NDAsMjE0NjA2OTIyLC0yMTE4NjU0NDk0LDIwMDMyODk3ODksLT
+E5ODM3NjIyNDIsODI3OTExNjIyLC0xNjQ4ODE2MjIzLDQ2NTA1
+NTY5OCw3MzY2MzQwMzUsMTIxNTkwNTc0OCwtNTI3NTc1ODc5LD
+I0NDU3ODYxMCwtMTc4MjAyMzcyLC0zMDUxMDQxNzVdfQ==
 -->
