@@ -47,6 +47,7 @@ pip install helloworld
 ![PyPI Screenshot](https://urlscan.io/liveshot/?url=http://pypi.python.org)
 
 _notes:
+ - a repository of software for the Python programming language.
  - Python Packaging Authority (PyPA)
 
 
@@ -93,7 +94,7 @@ asdf
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTEwOTMxNiwxNjczMTE2NDAsMjE0Nj
+eyJoaXN0b3J5IjpbLTI1MTI0MzMxNSwxNjczMTE2NDAsMjE0Nj
 A2OTIyLC0yMTE4NjU0NDk0LDIwMDMyODk3ODksLTE5ODM3NjIy
 NDIsODI3OTExNjIyLC0xNjQ4ODE2MjIzLDQ2NTA1NTY5OCw3Mz
 Y2MzQwMzUsMTIxNTkwNTc0OCwtNTI3NTc1ODc5LDI0NDU3ODYx
