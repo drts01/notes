@@ -67,10 +67,16 @@ project/
 ```
 
 
+### Requirements.txt
+`install_requires` vs ` requirements.txt`
+
+abstract vs concrete
+
+
+
 ### Other Files
  - License
  - Readme
-
 
  - setup.py / setup.cfg
  - requirements.txt
@@ -95,7 +101,7 @@ project/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2NTgwNjA5LDM5OTQyMTY3NiwxNjczMT
+eyJoaXN0b3J5IjpbNjUzNDM5NTcxLDM5OTQyMTY3NiwxNjczMT
 E2NDAsMjE0NjA2OTIyLC0yMTE4NjU0NDk0LDIwMDMyODk3ODks
 LTE5ODM3NjIyNDIsODI3OTExNjIyLC0xNjQ4ODE2MjIzLDQ2NT
 A1NTY5OCw3MzY2MzQwMzUsMTIxNTkwNTc0OCwtNTI3NTc1ODc5
