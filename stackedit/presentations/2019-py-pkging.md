@@ -67,11 +67,11 @@ project/
 ```
 
 
-### Setup.<span></span>py
+### Setup<span></span>.py
 
 
 
-### Setup<span></span>cfg
+### Setup<span></span>.cfg
 
 
 
@@ -109,7 +109,7 @@ abstract vs concrete
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU0Nzc5NjAsMzk5NDIxNjc2LDE2Nz
+eyJoaXN0b3J5IjpbLTIxMTMyNTY1MTIsMzk5NDIxNjc2LDE2Nz
 MxMTY0MCwyMTQ2MDY5MjIsLTIxMTg2NTQ0OTQsMjAwMzI4OTc4
 OSwtMTk4Mzc2MjI0Miw4Mjc5MTE2MjIsLTE2NDg4MTYyMjMsND
 Y1MDU1Njk4LDczNjYzNDAzNSwxMjE1OTA1NzQ4LC01Mjc1NzU4
