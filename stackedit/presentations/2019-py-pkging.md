@@ -68,7 +68,26 @@ project/
 
 
 ### Setup<span></span>.py
+```python
+import sys
 
+from pkg_resources import VersionConflict, require
+from setuptools import setup
+
+# Check for minimal version of setuptools
+SETUPTOOLS_VER = "30.4.0"
+try:
+    require("setuptools>=" + SETUPTOOLS_VER)
+except VersionConflict:
+    print("Error: version of setuptools is too old (<%s)!" % SETUPTOOLS_VER)
+    sys.exit(1)
+
+if __name__ == "__main__":
+    setup()
+```
+
+_notes:
+ - 
 
 
 ### Setup<span></span>.cfg
@@ -111,10 +130,10 @@ abstract vs concrete
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQzOTE5MDksLTIxMTMyNTY1MTIsMz
-k5NDIxNjc2LDE2NzMxMTY0MCwyMTQ2MDY5MjIsLTIxMTg2NTQ0
-OTQsMjAwMzI4OTc4OSwtMTk4Mzc2MjI0Miw4Mjc5MTE2MjIsLT
-E2NDg4MTYyMjMsNDY1MDU1Njk4LDczNjYzNDAzNSwxMjE1OTA1
-NzQ4LC01Mjc1NzU4NzksMjQ0NTc4NjEwLC0xNzgyMDIzNzIsLT
-MwNTEwNDE3NV19
+eyJoaXN0b3J5IjpbLTE0MDU2NzUyMTEsLTIwOTQzOTE5MDksLT
+IxMTMyNTY1MTIsMzk5NDIxNjc2LDE2NzMxMTY0MCwyMTQ2MDY5
+MjIsLTIxMTg2NTQ0OTQsMjAwMzI4OTc4OSwtMTk4Mzc2MjI0Mi
+w4Mjc5MTE2MjIsLTE2NDg4MTYyMjMsNDY1MDU1Njk4LDczNjYz
+NDAzNSwxMjE1OTA1NzQ4LC01Mjc1NzU4NzksMjQ0NTc4NjEwLC
+0xNzgyMDIzNzIsLTMwNTEwNDE3NV19
 -->
