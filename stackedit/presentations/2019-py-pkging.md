@@ -46,6 +46,9 @@ pip install helloworld
 ## Python Packaging Index
 ![PyPI Screenshot](https://urlscan.io/liveshot/?url=http://pypi.python.org)
 
+_notes:
+- where do packages comfr
+
 
 
 ## Anatomy of a python project
@@ -90,9 +93,9 @@ asdf
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzExNjQwLDIxNDYwNjkyMiwtMjExOD
-Y1NDQ5NCwyMDAzMjg5Nzg5LC0xOTgzNzYyMjQyLDgyNzkxMTYy
-MiwtMTY0ODgxNjIyMyw0NjUwNTU2OTgsNzM2NjM0MDM1LDEyMT
-U5MDU3NDgsLTUyNzU3NTg3OSwyNDQ1Nzg2MTAsLTE3ODIwMjM3
-MiwtMzA1MTA0MTc1XX0=
+eyJoaXN0b3J5IjpbNjg3MTc3MzM5LDE2NzMxMTY0MCwyMTQ2MD
+Y5MjIsLTIxMTg2NTQ0OTQsMjAwMzI4OTc4OSwtMTk4Mzc2MjI0
+Miw4Mjc5MTE2MjIsLTE2NDg4MTYyMjMsNDY1MDU1Njk4LDczNj
+YzNDAzNSwxMjE1OTA1NzQ4LC01Mjc1NzU4NzksMjQ0NTc4NjEw
+LC0xNzgyMDIzNzIsLTMwNTEwNDE3NV19
 -->
