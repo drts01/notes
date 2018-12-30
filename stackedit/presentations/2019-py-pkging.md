@@ -85,15 +85,15 @@ _notes:
 [metadata]
 name = python_project
 version = 0.1.0
-summary = think
-author = me
-author-email = me@p
+summary = A demo Python Project
+author = digitalr00ts
+author-email = demo@digitalr00ts.com
 long_description = file: README.rst
 description-content-type = "text/x-rst; charset=UTF-8"
 url = https://test.pypi.org/project/pkg-demo/
 license = MIT
 project_urls =
-    BugTracker = https://gitlab.com/digitalr00ts-demos/pkg-demo/issues
+    Bug Tracker = https://gitlab.com/digitalr00ts-demos/pkg-demo/issues
     Documentation = https://digitalr00ts-demos.gitlab.io/pkg-demo
     Source Code = https://gitlab.com/digitalr00ts-demos/pkg-demo
 classifiers =
@@ -150,11 +150,11 @@ abstract vs concrete
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzA4NzQxOSwtMTgwODE1NTE3LDIwND
-E5MTA4NTEsLTIwOTQzOTE5MDksLTIxMTMyNTY1MTIsMzk5NDIx
-Njc2LDE2NzMxMTY0MCwyMTQ2MDY5MjIsLTIxMTg2NTQ0OTQsMj
-AwMzI4OTc4OSwtMTk4Mzc2MjI0Miw4Mjc5MTE2MjIsLTE2NDg4
-MTYyMjMsNDY1MDU1Njk4LDczNjYzNDAzNSwxMjE1OTA1NzQ4LC
-01Mjc1NzU4NzksMjQ0NTc4NjEwLC0xNzgyMDIzNzIsLTMwNTEw
-NDE3NV19
+eyJoaXN0b3J5IjpbLTIxMTMxMjM5NDgsLTE4MDgxNTUxNywyMD
+QxOTEwODUxLC0yMDk0MzkxOTA5LC0yMTEzMjU2NTEyLDM5OTQy
+MTY3NiwxNjczMTE2NDAsMjE0NjA2OTIyLC0yMTE4NjU0NDk0LD
+IwMDMyODk3ODksLTE5ODM3NjIyNDIsODI3OTExNjIyLC0xNjQ4
+ODE2MjIzLDQ2NTA1NTY5OCw3MzY2MzQwMzUsMTIxNTkwNTc0OC
+wtNTI3NTc1ODc5LDI0NDU3ODYxMCwtMTc4MjAyMzcyLC0zMDUx
+MDQxNzVdfQ==
 -->
