@@ -83,6 +83,7 @@ _notes:
 ### Setup<span></span>.cfg
 ```ini
 [metadata]
+Metadata-Version = 2.1
 name = python_project
 version = 0.1.0
 summary = A demo Python Project
@@ -148,11 +149,11 @@ abstract vs concrete
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTYyMTc1NSwtMjExMzEyMzk0OCwtMT
-gwODE1NTE3LDIwNDE5MTA4NTEsLTIwOTQzOTE5MDksLTIxMTMy
-NTY1MTIsMzk5NDIxNjc2LDE2NzMxMTY0MCwyMTQ2MDY5MjIsLT
-IxMTg2NTQ0OTQsMjAwMzI4OTc4OSwtMTk4Mzc2MjI0Miw4Mjc5
-MTE2MjIsLTE2NDg4MTYyMjMsNDY1MDU1Njk4LDczNjYzNDAzNS
-wxMjE1OTA1NzQ4LC01Mjc1NzU4NzksMjQ0NTc4NjEwLC0xNzgy
-MDIzNzJdfQ==
+eyJoaXN0b3J5IjpbMTY2MzE3NzkxMywxODI5NjIxNzU1LC0yMT
+EzMTIzOTQ4LC0xODA4MTU1MTcsMjA0MTkxMDg1MSwtMjA5NDM5
+MTkwOSwtMjExMzI1NjUxMiwzOTk0MjE2NzYsMTY3MzExNjQwLD
+IxNDYwNjkyMiwtMjExODY1NDQ5NCwyMDAzMjg5Nzg5LC0xOTgz
+NzYyMjQyLDgyNzkxMTYyMiwtMTY0ODgxNjIyMyw0NjUwNTU2OT
+gsNzM2NjM0MDM1LDEyMTU5MDU3NDgsLTUyNzU3NTg3OSwyNDQ1
+Nzg2MTBdfQ==
 -->
