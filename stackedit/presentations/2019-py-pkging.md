@@ -87,7 +87,8 @@ if __name__ == "__main__":
 ```
 
 _notes:
- - 
+ - no arbutery code
+ - cookiecutter checks min ver
 
 
 ### Setup<span></span>.cfg
@@ -130,10 +131,10 @@ abstract vs concrete
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU2NzUyMTEsLTIwOTQzOTE5MDksLT
-IxMTMyNTY1MTIsMzk5NDIxNjc2LDE2NzMxMTY0MCwyMTQ2MDY5
-MjIsLTIxMTg2NTQ0OTQsMjAwMzI4OTc4OSwtMTk4Mzc2MjI0Mi
-w4Mjc5MTE2MjIsLTE2NDg4MTYyMjMsNDY1MDU1Njk4LDczNjYz
-NDAzNSwxMjE1OTA1NzQ4LC01Mjc1NzU4NzksMjQ0NTc4NjEwLC
-0xNzgyMDIzNzIsLTMwNTEwNDE3NV19
+eyJoaXN0b3J5IjpbMjA0MTkxMDg1MSwtMjA5NDM5MTkwOSwtMj
+ExMzI1NjUxMiwzOTk0MjE2NzYsMTY3MzExNjQwLDIxNDYwNjky
+MiwtMjExODY1NDQ5NCwyMDAzMjg5Nzg5LC0xOTgzNzYyMjQyLD
+gyNzkxMTYyMiwtMTY0ODgxNjIyMyw0NjUwNTU2OTgsNzM2NjM0
+MDM1LDEyMTU5MDU3NDgsLTUyNzU3NTg3OSwyNDQ1Nzg2MTAsLT
+E3ODIwMjM3MiwtMzA1MTA0MTc1XX0=
 -->
