@@ -82,7 +82,38 @@ _notes:
 
 ### Setup<span></span>.cfg
 ```ini
+[metadata]
+name = python_project
+version = 0.1.0
+summary = think
+author = me
+author-email = me@p
+long_description = file: README.rst
+description-content-type = "text/x-rst; charset=UTF-8"
+url = https://test.pypi.org/project/pkg-demo/
+license = MIT
+project_urls =
+    Bug Tracker = https://gitlab.com/digitalr00ts-demos/pkg-demo/issues
+    Documentation = https://digitalr00ts-demos.gitlab.io/pkg-demo
+    Source Code = https://gitlab.com/digitalr00ts-demos/pkg-demo
+classifiers =
+    Development Status :: 3 - Alpha
+    Environment :: Console
+    Intended Audience :: Developers
+    License :: OSI Approved :: MIT License
+    Programming Language :: Python
+    Programming Language :: Python :: 3.7
+    Topic :: Software Development :: Libraries :: Python Modules
+keywords = keyword
 
+[options]
+include_package_data = True
+install_requires =
+packages = find:
+
+[options.entry_points]
+console_scripts =
+    pkg-demo = pkg_demo.__main__:main
 ```
 _notes:
  - simpler and easier
@@ -125,11 +156,11 @@ abstract vs concrete
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0NDI1NjM3LC0xODA4MTU1MTcsMjA0MT
-kxMDg1MSwtMjA5NDM5MTkwOSwtMjExMzI1NjUxMiwzOTk0MjE2
-NzYsMTY3MzExNjQwLDIxNDYwNjkyMiwtMjExODY1NDQ5NCwyMD
-AzMjg5Nzg5LC0xOTgzNzYyMjQyLDgyNzkxMTYyMiwtMTY0ODgx
-NjIyMyw0NjUwNTU2OTgsNzM2NjM0MDM1LDEyMTU5MDU3NDgsLT
-UyNzU3NTg3OSwyNDQ1Nzg2MTAsLTE3ODIwMjM3MiwtMzA1MTA0
-MTc1XX0=
+eyJoaXN0b3J5IjpbLTM1NjUwNDI2MiwtMTgwODE1NTE3LDIwND
+E5MTA4NTEsLTIwOTQzOTE5MDksLTIxMTMyNTY1MTIsMzk5NDIx
+Njc2LDE2NzMxMTY0MCwyMTQ2MDY5MjIsLTIxMTg2NTQ0OTQsMj
+AwMzI4OTc4OSwtMTk4Mzc2MjI0Miw4Mjc5MTE2MjIsLTE2NDg4
+MTYyMjMsNDY1MDU1Njk4LDczNjYzNDAzNSwxMjE1OTA1NzQ4LC
+01Mjc1NzU4NzksMjQ0NTc4NjEwLC0xNzgyMDIzNzIsLTMwNTEw
+NDE3NV19
 -->
