@@ -81,9 +81,12 @@ _notes:
 
 
 ### Setup<span></span>.cfg
+```ini
 
+```
 _notes:
- - simpler and easier to understand
+ - simpler and easier
+ - less errors
 
 
 
@@ -122,10 +125,11 @@ abstract vs concrete
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDgxNTUxNywyMDQxOTEwODUxLC0yMD
-k0MzkxOTA5LC0yMTEzMjU2NTEyLDM5OTQyMTY3NiwxNjczMTE2
-NDAsMjE0NjA2OTIyLC0yMTE4NjU0NDk0LDIwMDMyODk3ODksLT
-E5ODM3NjIyNDIsODI3OTExNjIyLC0xNjQ4ODE2MjIzLDQ2NTA1
-NTY5OCw3MzY2MzQwMzUsMTIxNTkwNTc0OCwtNTI3NTc1ODc5LD
-I0NDU3ODYxMCwtMTc4MjAyMzcyLC0zMDUxMDQxNzVdfQ==
+eyJoaXN0b3J5IjpbNjU0NDI1NjM3LC0xODA4MTU1MTcsMjA0MT
+kxMDg1MSwtMjA5NDM5MTkwOSwtMjExMzI1NjUxMiwzOTk0MjE2
+NzYsMTY3MzExNjQwLDIxNDYwNjkyMiwtMjExODY1NDQ5NCwyMD
+AzMjg5Nzg5LC0xOTgzNzYyMjQyLDgyNzkxMTYyMiwtMTY0ODgx
+NjIyMyw0NjUwNTU2OTgsNzM2NjM0MDM1LDEyMTU5MDU3NDgsLT
+UyNzU3NTg3OSwyNDQ1Nzg2MTAsLTE3ODIwMjM3MiwtMzA1MTA0
+MTc1XX0=
 -->
