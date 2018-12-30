@@ -76,11 +76,13 @@ project/
 
 
 
-### Requirements.txt
+### Requirements<span></span>.txt
 `install_requires` vs ` requirements.txt`
 abstract vs concrete
 
 
+
+### Manifest<span></span>.in
 
 ### Other Files
  - License
@@ -109,9 +111,10 @@ abstract vs concrete
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTMyNTY1MTIsMzk5NDIxNjc2LDE2Nz
-MxMTY0MCwyMTQ2MDY5MjIsLTIxMTg2NTQ0OTQsMjAwMzI4OTc4
-OSwtMTk4Mzc2MjI0Miw4Mjc5MTE2MjIsLTE2NDg4MTYyMjMsND
-Y1MDU1Njk4LDczNjYzNDAzNSwxMjE1OTA1NzQ4LC01Mjc1NzU4
-NzksMjQ0NTc4NjEwLC0xNzgyMDIzNzIsLTMwNTEwNDE3NV19
+eyJoaXN0b3J5IjpbLTIwOTQzOTE5MDksLTIxMTMyNTY1MTIsMz
+k5NDIxNjc2LDE2NzMxMTY0MCwyMTQ2MDY5MjIsLTIxMTg2NTQ0
+OTQsMjAwMzI4OTc4OSwtMTk4Mzc2MjI0Miw4Mjc5MTE2MjIsLT
+E2NDg4MTYyMjMsNDY1MDU1Njk4LDczNjYzNDAzNSwxMjE1OTA1
+NzQ4LC01Mjc1NzU4NzksMjQ0NTc4NjEwLC0xNzgyMDIzNzIsLT
+MwNTEwNDE3NV19
 -->
