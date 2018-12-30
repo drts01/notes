@@ -93,8 +93,6 @@ description-content-type = "text/x-rst; charset=UTF-8"
 url = https://test.pypi.org/project/pkg-demo/
 license = MIT
 project_urls =
-    Bug Tracker = https://gitlab.com/digitalr00ts-demos/pkg-demo/issues
-    Documentation = https://digitalr00ts-demos.gitlab.io/pkg-demo
     Source Code = https://gitlab.com/digitalr00ts-demos/pkg-demo
 classifiers =
     License :: OSI Approved :: MIT License
@@ -150,11 +148,11 @@ abstract vs concrete
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTMxMjM5NDgsLTE4MDgxNTUxNywyMD
-QxOTEwODUxLC0yMDk0MzkxOTA5LC0yMTEzMjU2NTEyLDM5OTQy
-MTY3NiwxNjczMTE2NDAsMjE0NjA2OTIyLC0yMTE4NjU0NDk0LD
-IwMDMyODk3ODksLTE5ODM3NjIyNDIsODI3OTExNjIyLC0xNjQ4
-ODE2MjIzLDQ2NTA1NTY5OCw3MzY2MzQwMzUsMTIxNTkwNTc0OC
-wtNTI3NTc1ODc5LDI0NDU3ODYxMCwtMTc4MjAyMzcyLC0zMDUx
-MDQxNzVdfQ==
+eyJoaXN0b3J5IjpbMTgyOTYyMTc1NSwtMjExMzEyMzk0OCwtMT
+gwODE1NTE3LDIwNDE5MTA4NTEsLTIwOTQzOTE5MDksLTIxMTMy
+NTY1MTIsMzk5NDIxNjc2LDE2NzMxMTY0MCwyMTQ2MDY5MjIsLT
+IxMTg2NTQ0OTQsMjAwMzI4OTc4OSwtMTk4Mzc2MjI0Miw4Mjc5
+MTE2MjIsLTE2NDg4MTYyMjMsNDY1MDU1Njk4LDczNjYzNDAzNS
+wxMjE1OTA1NzQ4LC01Mjc1NzU4NzksMjQ0NTc4NjEwLC0xNzgy
+MDIzNzJdfQ==
 -->
