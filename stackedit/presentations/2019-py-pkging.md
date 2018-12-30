@@ -67,9 +67,17 @@ project/
 ```
 
 
+### Setup.<span></span>py
+
+
+
+### Setup<span></span>cfg
+
+
+
+
 ### Requirements.txt
 `install_requires` vs ` requirements.txt`
-
 abstract vs concrete
 
 
@@ -101,9 +109,9 @@ abstract vs concrete
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzNDM5NTcxLDM5OTQyMTY3NiwxNjczMT
-E2NDAsMjE0NjA2OTIyLC0yMTE4NjU0NDk0LDIwMDMyODk3ODks
-LTE5ODM3NjIyNDIsODI3OTExNjIyLC0xNjQ4ODE2MjIzLDQ2NT
-A1NTY5OCw3MzY2MzQwMzUsMTIxNTkwNTc0OCwtNTI3NTc1ODc5
-LDI0NDU3ODYxMCwtMTc4MjAyMzcyLC0zMDUxMDQxNzVdfQ==
+eyJoaXN0b3J5IjpbLTE2MTU0Nzc5NjAsMzk5NDIxNjc2LDE2Nz
+MxMTY0MCwyMTQ2MDY5MjIsLTIxMTg2NTQ0OTQsMjAwMzI4OTc4
+OSwtMTk4Mzc2MjI0Miw4Mjc5MTE2MjIsLTE2NDg4MTYyMjMsND
+Y1MDU1Njk4LDczNjYzNDAzNSwxMjE1OTA1NzQ4LC01Mjc1NzU4
+NzksMjQ0NTc4NjEwLC0xNzgyMDIzNzIsLTMwNTEwNDE3NV19
 -->
