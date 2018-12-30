@@ -65,11 +65,12 @@ project/
         |-- __init__.py
         |-- __main__.py
 ```
- ### Skipping
- - tests
- - docs
 
-asdf
+
+### Other Files
+ - License
+ - Readme
+
 
  - setup.py / setup.cfg
  - requirements.txt
@@ -94,9 +95,9 @@ asdf
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5NDIxNjc2LDE2NzMxMTY0MCwyMTQ2MD
-Y5MjIsLTIxMTg2NTQ0OTQsMjAwMzI4OTc4OSwtMTk4Mzc2MjI0
-Miw4Mjc5MTE2MjIsLTE2NDg4MTYyMjMsNDY1MDU1Njk4LDczNj
-YzNDAzNSwxMjE1OTA1NzQ4LC01Mjc1NzU4NzksMjQ0NTc4NjEw
-LC0xNzgyMDIzNzIsLTMwNTEwNDE3NV19
+eyJoaXN0b3J5IjpbOTg2NTgwNjA5LDM5OTQyMTY3NiwxNjczMT
+E2NDAsMjE0NjA2OTIyLC0yMTE4NjU0NDk0LDIwMDMyODk3ODks
+LTE5ODM3NjIyNDIsODI3OTExNjIyLC0xNjQ4ODE2MjIzLDQ2NT
+A1NTY5OCw3MzY2MzQwMzUsMTIxNTkwNTc0OCwtNTI3NTc1ODc5
+LDI0NDU3ODYxMCwtMTc4MjAyMzcyLC0zMDUxMDQxNzVdfQ==
 -->
