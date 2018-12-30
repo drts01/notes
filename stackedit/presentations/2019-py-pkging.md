@@ -69,9 +69,6 @@ project/
 
 ### Setup<span></span>.py
 ```python
-import sys
-
-from pkg_resources import VersionConflict, require
 from setuptools import setup
 
 # Check for minimal version of setuptools
@@ -87,12 +84,14 @@ if __name__ == "__main__":
 ```
 
 _notes:
- - no arbutery code
+ - no arbitrary code
  - cookiecutter checks min ver
 
 
 ### Setup<span></span>.cfg
 
+_notes:
+ - simpler and easier to 
 
 
 
@@ -131,10 +130,10 @@ abstract vs concrete
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTkxMDg1MSwtMjA5NDM5MTkwOSwtMj
-ExMzI1NjUxMiwzOTk0MjE2NzYsMTY3MzExNjQwLDIxNDYwNjky
-MiwtMjExODY1NDQ5NCwyMDAzMjg5Nzg5LC0xOTgzNzYyMjQyLD
-gyNzkxMTYyMiwtMTY0ODgxNjIyMyw0NjUwNTU2OTgsNzM2NjM0
-MDM1LDEyMTU5MDU3NDgsLTUyNzU3NTg3OSwyNDQ1Nzg2MTAsLT
-E3ODIwMjM3MiwtMzA1MTA0MTc1XX0=
+eyJoaXN0b3J5IjpbLTEwODg2MjM0NjksMjA0MTkxMDg1MSwtMj
+A5NDM5MTkwOSwtMjExMzI1NjUxMiwzOTk0MjE2NzYsMTY3MzEx
+NjQwLDIxNDYwNjkyMiwtMjExODY1NDQ5NCwyMDAzMjg5Nzg5LC
+0xOTgzNzYyMjQyLDgyNzkxMTYyMiwtMTY0ODgxNjIyMyw0NjUw
+NTU2OTgsNzM2NjM0MDM1LDEyMTU5MDU3NDgsLTUyNzU3NTg3OS
+wyNDQ1Nzg2MTAsLTE3ODIwMjM3MiwtMzA1MTA0MTc1XX0=
 -->
