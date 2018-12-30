@@ -93,21 +93,15 @@ description-content-type = "text/x-rst; charset=UTF-8"
 url = https://test.pypi.org/project/pkg-demo/
 license = MIT
 project_urls =
-    Bug Tracker = https://gitlab.com/digitalr00ts-demos/pkg-demo/issues
+    BugTracker = https://gitlab.com/digitalr00ts-demos/pkg-demo/issues
     Documentation = https://digitalr00ts-demos.gitlab.io/pkg-demo
     Source Code = https://gitlab.com/digitalr00ts-demos/pkg-demo
 classifiers =
-    Development Status :: 3 - Alpha
-    Environment :: Console
-    Intended Audience :: Developers
     License :: OSI Approved :: MIT License
-    Programming Language :: Python
     Programming Language :: Python :: 3.7
-    Topic :: Software Development :: Libraries :: Python Modules
-keywords = keyword
+keywords = keyword, demo, example
 
 [options]
-include_package_data = True
 install_requires =
 packages = find:
 
@@ -156,7 +150,7 @@ abstract vs concrete
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjUwNDI2MiwtMTgwODE1NTE3LDIwND
+eyJoaXN0b3J5IjpbLTMxNzA4NzQxOSwtMTgwODE1NTE3LDIwND
 E5MTA4NTEsLTIwOTQzOTE5MDksLTIxMTMyNTY1MTIsMzk5NDIx
 Njc2LDE2NzMxMTY0MCwyMTQ2MDY5MjIsLTIxMTg2NTQ0OTQsMj
 AwMzI4OTc4OSwtMTk4Mzc2MjI0Miw4Mjc5MTE2MjIsLTE2NDg4
