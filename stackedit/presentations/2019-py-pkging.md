@@ -117,6 +117,16 @@ wheel>=0.32.3
 
 
 ### Manifest<span></span>.in
+```python
+# MANIFEST.in is still required because setuptools.setup(package_data=dict()) is a lie.
+# http://blog.codekills.net/2011/07/15/lies,-more-lies-and-python-packaging-documentation-on--package_data-/
+include *.rst
+include LICENSE
+```
+_notes:
+* includes files that are not in the py pkg dir
+
+
 
 ### Other Files
  - License
@@ -150,7 +160,7 @@ requires = ["setuptools>=40.5.0", "wheel>=0.32.2"]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjE1MDE3OSwtMTUzODk5MTgxMiwtMT
+eyJoaXN0b3J5IjpbMTMyMTE1Nzg4NiwtMTUzODk5MTgxMiwtMT
 c2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2Mjgw
 NTIsLTU3MTQ1OTU4OCwxNjYzMTc3OTEzLDE4Mjk2MjE3NTUsLT
 IxMTMxMjM5NDgsLTE4MDgxNTUxNywyMDQxOTEwODUxLC0yMDk0
