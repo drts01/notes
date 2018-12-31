@@ -194,6 +194,9 @@ _notes:
  - Poetry
  - Flin
 
+_notes:
+ - staring to move further away from the "traditional" workflow
+
 
 
 ## There is more to do
@@ -211,6 +214,7 @@ _notes:
 
  - can get your project published/shared
 	 - setuptools
+	 - dependencies
 	 - twine
  - learned some of the newer changes to py packaging
 	 - pyproject.toml
@@ -226,11 +230,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1MDU1Nzc2LDE0NjYzOTU1OCwxNDkwMj
-E5OTYzLC0xNTM4OTkxODEyLC0xNzY1MzAwNTUsMTA1Mzg2MTA1
-Myw2ODQ1MTU5NzUsMTcwNzYyODA1MiwtNTcxNDU5NTg4LDE2Nj
-MxNzc5MTMsMTgyOTYyMTc1NSwtMjExMzEyMzk0OCwtMTgwODE1
-NTE3LDIwNDE5MTA4NTEsLTIwOTQzOTE5MDksLTIxMTMyNTY1MT
-IsMzk5NDIxNjc2LDE2NzMxMTY0MCwyMTQ2MDY5MjIsLTIxMTg2
-NTQ0OTRdfQ==
+eyJoaXN0b3J5IjpbLTk3ODMyNTA3MiwxNDY2Mzk1NTgsMTQ5MD
+IxOTk2MywtMTUzODk5MTgxMiwtMTc2NTMwMDU1LDEwNTM4NjEw
+NTMsNjg0NTE1OTc1LDE3MDc2MjgwNTIsLTU3MTQ1OTU4OCwxNj
+YzMTc3OTEzLDE4Mjk2MjE3NTUsLTIxMTMxMjM5NDgsLTE4MDgx
+NTUxNywyMDQxOTEwODUxLC0yMDk0MzkxOTA5LC0yMTEzMjU2NT
+EyLDM5OTQyMTY3NiwxNjczMTE2NDAsMjE0NjA2OTIyLC0yMTE4
+NjU0NDk0XX0=
 -->
