@@ -121,12 +121,9 @@ abstract vs concrete
  - License
  - Readme
 
- - setup.py / setup.cfg
- - requirements.txt
- - manifest.in
- - License
-
-
+_notes:
+ - lies
+ - inconsistency with whats included automatically between wheel and sdist 
 
 ## Publishing a Distribution
  - PyPI
@@ -144,11 +141,11 @@ abstract vs concrete
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTQ1OTU4OCwxNjYzMTc3OTEzLDE4Mj
-k2MjE3NTUsLTIxMTMxMjM5NDgsLTE4MDgxNTUxNywyMDQxOTEw
-ODUxLC0yMDk0MzkxOTA5LC0yMTEzMjU2NTEyLDM5OTQyMTY3Ni
-wxNjczMTE2NDAsMjE0NjA2OTIyLC0yMTE4NjU0NDk0LDIwMDMy
-ODk3ODksLTE5ODM3NjIyNDIsODI3OTExNjIyLC0xNjQ4ODE2Mj
-IzLDQ2NTA1NTY5OCw3MzY2MzQwMzUsMTIxNTkwNTc0OCwtNTI3
-NTc1ODc5XX0=
+eyJoaXN0b3J5IjpbMTcwNzYyODA1MiwtNTcxNDU5NTg4LDE2Nj
+MxNzc5MTMsMTgyOTYyMTc1NSwtMjExMzEyMzk0OCwtMTgwODE1
+NTE3LDIwNDE5MTA4NTEsLTIwOTQzOTE5MDksLTIxMTMyNTY1MT
+IsMzk5NDIxNjc2LDE2NzMxMTY0MCwyMTQ2MDY5MjIsLTIxMTg2
+NTQ0OTQsMjAwMzI4OTc4OSwtMTk4Mzc2MjI0Miw4Mjc5MTE2Mj
+IsLTE2NDg4MTYyMjMsNDY1MDU1Njk4LDczNjYzNDAzNSwxMjE1
+OTA1NzQ4XX0=
 -->
