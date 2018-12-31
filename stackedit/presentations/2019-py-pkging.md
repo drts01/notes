@@ -181,7 +181,7 @@ _notes:
 ```bash
 pipenv install --dev
 pipenv shell # replaces `. venv/bin/activate`
-pipenv lock --dev --requirements # generates requirements.tx
+pipenv lock --dev --requirements # generates requirements.txt
 ```
 
 _notes:
@@ -231,11 +231,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDEwMDMyNTksMTQ2NjM5NTU4LDE0OT
-AyMTk5NjMsLTE1Mzg5OTE4MTIsLTE3NjUzMDA1NSwxMDUzODYx
-MDUzLDY4NDUxNTk3NSwxNzA3NjI4MDUyLC01NzE0NTk1ODgsMT
-Y2MzE3NzkxMywxODI5NjIxNzU1LC0yMTEzMTIzOTQ4LC0xODA4
-MTU1MTcsMjA0MTkxMDg1MSwtMjA5NDM5MTkwOSwtMjExMzI1Nj
-UxMiwzOTk0MjE2NzYsMTY3MzExNjQwLDIxNDYwNjkyMiwtMjEx
-ODY1NDQ5NF19
+eyJoaXN0b3J5IjpbLTY1NjQ0OTQzOSwxNDY2Mzk1NTgsMTQ5MD
+IxOTk2MywtMTUzODk5MTgxMiwtMTc2NTMwMDU1LDEwNTM4NjEw
+NTMsNjg0NTE1OTc1LDE3MDc2MjgwNTIsLTU3MTQ1OTU4OCwxNj
+YzMTc3OTEzLDE4Mjk2MjE3NTUsLTIxMTMxMjM5NDgsLTE4MDgx
+NTUxNywyMDQxOTEwODUxLC0yMDk0MzkxOTA5LC0yMTEzMjU2NT
+EyLDM5OTQyMTY3NiwxNjczMTE2NDAsMjE0NjA2OTIyLC0yMTE4
+NjU0NDk0XX0=
 -->
