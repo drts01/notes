@@ -182,6 +182,11 @@ pipenv install --dev
 pipenv shell # replaces `. venv/bin/activate`
 ```
 
+_notes:
+ - understands Pipfile
+ - PyPA recommend tool
+ - manages virtualenv for a more li
+
 
 
 ## Resources
@@ -194,7 +199,7 @@ pipenv shell # replaces `. venv/bin/activate`
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2NDU4NjUzLC0xNTM4OTkxODEyLC0xNz
+eyJoaXN0b3J5IjpbOTgwMjg5Mjk4LC0xNTM4OTkxODEyLC0xNz
 Y1MzAwNTUsMTA1Mzg2MTA1Myw2ODQ1MTU5NzUsMTcwNzYyODA1
 MiwtNTcxNDU5NTg4LDE2NjMxNzc5MTMsMTgyOTYyMTc1NSwtMj
 ExMzEyMzk0OCwtMTgwODE1NTE3LDIwNDE5MTA4NTEsLTIwOTQz
