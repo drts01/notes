@@ -195,6 +195,17 @@ _notes:
 
 
 
+## There is more to do
+
+ - Testing
+ - Documentation
+ - CI / CD
+
+_notes:
+ - should also be included when making a package
+
+
+
 ## Resources
 
  -  Python Packaging User Guide (PyPUG)  
@@ -205,7 +216,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzYyMDEwNSwtMTUzODk5MTgxMiwtMT
+eyJoaXN0b3J5IjpbMTQ5MDIxOTk2MywtMTUzODk5MTgxMiwtMT
 c2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2Mjgw
 NTIsLTU3MTQ1OTU4OCwxNjYzMTc3OTEzLDE4Mjk2MjE3NTUsLT
 IxMTMxMjM5NDgsLTE4MDgxNTUxNywyMDQxOTEwODUxLC0yMDk0
