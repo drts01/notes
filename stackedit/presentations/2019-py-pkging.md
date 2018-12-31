@@ -91,14 +91,11 @@ description-content-type = text/x-rst
 [options]
 install_requires =
 packages = find:
-
-[options.entry_points]
-console_scripts =
-    pkg-demo = pkg_demo.__main__:main
 ```
 _notes:
  - simpler and easier
  - less errors
+ - `twine check dist/*`
 
 
 
@@ -141,7 +138,7 @@ _notes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDYwNDE5NiwxMDUzODYxMDUzLDY4ND
+eyJoaXN0b3J5IjpbLTE3NjUzMDA1NSwxMDUzODYxMDUzLDY4ND
 UxNTk3NSwxNzA3NjI4MDUyLC01NzE0NTk1ODgsMTY2MzE3Nzkx
 MywxODI5NjIxNzU1LC0yMTEzMTIzOTQ4LC0xODA4MTU1MTcsMj
 A0MTkxMDg1MSwtMjA5NDM5MTkwOSwtMjExMzI1NjUxMiwzOTk0
