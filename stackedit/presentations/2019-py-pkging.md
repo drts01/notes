@@ -66,6 +66,10 @@ project/
         |-- __main__.py
 ```
 
+_notes:
+ - minimal lib
+ - too minimal: tests, docs, changelog, etc
+
 
 ### Setup<span></span>.py
 ```python
@@ -138,11 +142,11 @@ _notes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjUzMDA1NSwxMDUzODYxMDUzLDY4ND
-UxNTk3NSwxNzA3NjI4MDUyLC01NzE0NTk1ODgsMTY2MzE3Nzkx
-MywxODI5NjIxNzU1LC0yMTEzMTIzOTQ4LC0xODA4MTU1MTcsMj
-A0MTkxMDg1MSwtMjA5NDM5MTkwOSwtMjExMzI1NjUxMiwzOTk0
-MjE2NzYsMTY3MzExNjQwLDIxNDYwNjkyMiwtMjExODY1NDQ5NC
-wyMDAzMjg5Nzg5LC0xOTgzNzYyMjQyLDgyNzkxMTYyMiwtMTY0
-ODgxNjIyM119
+eyJoaXN0b3J5IjpbLTE1Mzg5OTE4MTIsLTE3NjUzMDA1NSwxMD
+UzODYxMDUzLDY4NDUxNTk3NSwxNzA3NjI4MDUyLC01NzE0NTk1
+ODgsMTY2MzE3NzkxMywxODI5NjIxNzU1LC0yMTEzMTIzOTQ4LC
+0xODA4MTU1MTcsMjA0MTkxMDg1MSwtMjA5NDM5MTkwOSwtMjEx
+MzI1NjUxMiwzOTk0MjE2NzYsMTY3MzExNjQwLDIxNDYwNjkyMi
+wtMjExODY1NDQ5NCwyMDAzMjg5Nzg5LC0xOTgzNzYyMjQyLDgy
+NzkxMTYyMl19
 -->
