@@ -153,7 +153,7 @@ _notes:
 
 
 
-## Pipfile / Pipenv
+## Pipfile
 ```ini
 [[source]]
 url = "https://pypi.org/simple"
@@ -176,6 +176,13 @@ _notes:
 
 
 
+## Pipenv
+```bash
+pipenv 
+```
+
+
+
 ## Resources
 
  -  Python Packaging User Guide (PyPUG)  
@@ -186,11 +193,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzkzMDkzMSwtMTUzODk5MTgxMiwtMT
-c2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2Mjgw
-NTIsLTU3MTQ1OTU4OCwxNjYzMTc3OTEzLDE4Mjk2MjE3NTUsLT
-IxMTMxMjM5NDgsLTE4MDgxNTUxNywyMDQxOTEwODUxLC0yMDk0
-MzkxOTA5LC0yMTEzMjU2NTEyLDM5OTQyMTY3NiwxNjczMTE2ND
-AsMjE0NjA2OTIyLC0yMTE4NjU0NDk0LDIwMDMyODk3ODksLTE5
-ODM3NjIyNDJdfQ==
+eyJoaXN0b3J5IjpbMjIzNjM1NjU4LC0xNTM4OTkxODEyLC0xNz
+Y1MzAwNTUsMTA1Mzg2MTA1Myw2ODQ1MTU5NzUsMTcwNzYyODA1
+MiwtNTcxNDU5NTg4LDE2NjMxNzc5MTMsMTgyOTYyMTc1NSwtMj
+ExMzEyMzk0OCwtMTgwODE1NTE3LDIwNDE5MTA4NTEsLTIwOTQz
+OTE5MDksLTIxMTMyNTY1MTIsMzk5NDIxNjc2LDE2NzMxMTY0MC
+wyMTQ2MDY5MjIsLTIxMTg2NTQ0OTQsMjAwMzI4OTc4OSwtMTk4
+Mzc2MjI0Ml19
 -->
