@@ -138,16 +138,20 @@ _notes:
 
 
 ## Publishing a Distribution
- - PyPI
- - twine
+`
 
 
 
 ## pyproject<span></span>.toml
 ```ini
 [build-system]
-requires = ["setuptools>=40.5.0", "wheel>=0.32.2"]
+requires = ["setuptools>=40.5.0"]
 ```
+
+_notes:
+ - ensures min version of setuptools is available before running setup.py
+
+
 
 ## Resources
 
@@ -161,7 +165,7 @@ requires = ["setuptools>=40.5.0", "wheel>=0.32.2"]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNTIyODM3NCwtMTUzODk5MTgxMiwtMT
+eyJoaXN0b3J5IjpbLTQyMDcyMTg2NiwtMTUzODk5MTgxMiwtMT
 c2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2Mjgw
 NTIsLTU3MTQ1OTU4OCwxNjYzMTc3OTEzLDE4Mjk2MjE3NTUsLT
 IxMTMxMjM5NDgsLTE4MDgxNTUxNywyMDQxOTEwODUxLC0yMDk0
