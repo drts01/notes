@@ -132,7 +132,11 @@ _notes:
 
 
 
-## pyproject.toml
+## pyproject<span></span>.toml
+```ini
+[build-system]
+requires = ["setuptools>=40.5.0", "wheel>=0.32.2"]
+```
 
 ## Resources
 
@@ -146,7 +150,7 @@ _notes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTY3ODAzMCwtMTUzODk5MTgxMiwtMT
+eyJoaXN0b3J5IjpbMTA4MjE1MDE3OSwtMTUzODk5MTgxMiwtMT
 c2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2Mjgw
 NTIsLTU3MTQ1OTU4OCwxNjYzMTc3OTEzLDE4Mjk2MjE3NTUsLT
 IxMTMxMjM5NDgsLTE4MDgxNTUxNywyMDQxOTEwODUxLC0yMDk0
