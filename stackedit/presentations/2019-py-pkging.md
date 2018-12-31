@@ -125,6 +125,8 @@ include LICENSE
 ```
 _notes:
 * includes files that are not in the py pkg dir
+ - lies
+ - inconsistency with whats included automatically between wheel and sdist 
 
 
 
@@ -133,8 +135,7 @@ _notes:
  - Readme
 
 _notes:
- - lies
- - inconsistency with whats included automatically between wheel and sdist 
+
 
 ## Publishing a Distribution
  - PyPI
@@ -160,7 +161,7 @@ requires = ["setuptools>=40.5.0", "wheel>=0.32.2"]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTE1Nzg4NiwtMTUzODk5MTgxMiwtMT
+eyJoaXN0b3J5IjpbMTgwNTIyODM3NCwtMTUzODk5MTgxMiwtMT
 c2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2Mjgw
 NTIsLTU3MTQ1OTU4OCwxNjYzMTc3OTEzLDE4Mjk2MjE3NTUsLT
 IxMTMxMjM5NDgsLTE4MDgxNTUxNywyMDQxOTEwODUxLC0yMDk0
