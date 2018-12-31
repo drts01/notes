@@ -154,6 +154,23 @@ _notes:
 
 
 ## Pipfile / Pipenv
+```ini
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+# Abstract dependancies of this package should be maintained in setup.cfg.
+# Concrete dependancies should be defined here.
+# see, https://packaging.python.org/discussions/install-requires-vs-requirements/
+
+[dev-packages]
+"setuptools" = {version=">=40.5.0", index="pypi"}
+"twine" = {version=">=1.12.1", index="pypi"}
+"wheel" = {version=">=0.32.3", index="pypi"}
+"python_project" = {editable = true, path = "."}
+```
 
 
 
@@ -167,7 +184,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDA0NDIxOSwtMTUzODk5MTgxMiwtMT
+eyJoaXN0b3J5IjpbMTA4MTkyMzY4MywtMTUzODk5MTgxMiwtMT
 c2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2Mjgw
 NTIsLTU3MTQ1OTU4OCwxNjYzMTc3OTEzLDE4Mjk2MjE3NTUsLT
 IxMTMxMjM5NDgsLTE4MDgxNTUxNywyMDQxOTEwODUxLC0yMDk0
