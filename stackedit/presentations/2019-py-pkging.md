@@ -48,6 +48,10 @@ OR
 python setup.py .
 ```
 
+_notes:
+ - will install you application/lib and the dependencies specified
+
+
 
 ## Python Packaging Index
 ![PyPI Screenshot](https://urlscan.io/liveshot/?url=http://pypi.python.org)
@@ -247,11 +251,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQyNTYyMDksMTQ2NjM5NTU4LDE0OT
-AyMTk5NjMsLTE1Mzg5OTE4MTIsLTE3NjUzMDA1NSwxMDUzODYx
-MDUzLDY4NDUxNTk3NSwxNzA3NjI4MDUyLC01NzE0NTk1ODgsMT
-Y2MzE3NzkxMywxODI5NjIxNzU1LC0yMTEzMTIzOTQ4LC0xODA4
-MTU1MTcsMjA0MTkxMDg1MSwtMjA5NDM5MTkwOSwtMjExMzI1Nj
-UxMiwzOTk0MjE2NzYsMTY3MzExNjQwLDIxNDYwNjkyMiwtMjEx
-ODY1NDQ5NF19
+eyJoaXN0b3J5IjpbOTcwNDY3MTkxLDE0NjYzOTU1OCwxNDkwMj
+E5OTYzLC0xNTM4OTkxODEyLC0xNzY1MzAwNTUsMTA1Mzg2MTA1
+Myw2ODQ1MTU5NzUsMTcwNzYyODA1MiwtNTcxNDU5NTg4LDE2Nj
+MxNzc5MTMsMTgyOTYyMTc1NSwtMjExMzEyMzk0OCwtMTgwODE1
+NTE3LDIwNDE5MTA4NTEsLTIwOTQzOTE5MDksLTIxMTMyNTY1MT
+IsMzk5NDIxNjc2LDE2NzMxMTY0MCwyMTQ2MDY5MjIsLTIxMTg2
+NTQ0OTRdfQ==
 -->
