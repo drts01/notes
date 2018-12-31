@@ -83,17 +83,8 @@ _notes:
 ### Setup<span></span>.cfg
 ```ini
 [metadata]
-Metadata-Version = 2.1
 name = python_project
 version = 0.1.0
-summary = A demo Python Project
-license = MIT
-project_urls =
-    Source Code = https://gitlab.com/digitalr00ts-demos/pkg-demo
-classifiers =
-    License :: OSI Approved :: MIT License
-    Programming Language :: Python :: 3.7
-keywords = keyword, demo, example
 
 [options]
 install_requires =
@@ -148,11 +139,11 @@ _notes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0NTE1OTc1LDE3MDc2MjgwNTIsLTU3MT
-Q1OTU4OCwxNjYzMTc3OTEzLDE4Mjk2MjE3NTUsLTIxMTMxMjM5
-NDgsLTE4MDgxNTUxNywyMDQxOTEwODUxLC0yMDk0MzkxOTA5LC
-0yMTEzMjU2NTEyLDM5OTQyMTY3NiwxNjczMTE2NDAsMjE0NjA2
-OTIyLC0yMTE4NjU0NDk0LDIwMDMyODk3ODksLTE5ODM3NjIyND
-IsODI3OTExNjIyLC0xNjQ4ODE2MjIzLDQ2NTA1NTY5OCw3MzY2
-MzQwMzVdfQ==
+eyJoaXN0b3J5IjpbMTA1Mzg2MTA1Myw2ODQ1MTU5NzUsMTcwNz
+YyODA1MiwtNTcxNDU5NTg4LDE2NjMxNzc5MTMsMTgyOTYyMTc1
+NSwtMjExMzEyMzk0OCwtMTgwODE1NTE3LDIwNDE5MTA4NTEsLT
+IwOTQzOTE5MDksLTIxMTMyNTY1MTIsMzk5NDIxNjc2LDE2NzMx
+MTY0MCwyMTQ2MDY5MjIsLTIxMTg2NTQ0OTQsMjAwMzI4OTc4OS
+wtMTk4Mzc2MjI0Miw4Mjc5MTE2MjIsLTE2NDg4MTYyMjMsNDY1
+MDU1Njk4XX0=
 -->
