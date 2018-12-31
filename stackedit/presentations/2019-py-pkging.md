@@ -161,16 +161,15 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-# Abstract dependancies of this package should be maintained in setup.cfg.
-# Concrete dependancies should be defined here.
-# see, https://packaging.python.org/discussions/install-requires-vs-requirements/
 
 [dev-packages]
-"setuptools" = {version=">=40.5.0", index="pypi"}
+"setuptools" = {version=">=40.6.3", index="pypi"}
 "twine" = {version=">=1.12.1", index="pypi"}
 "wheel" = {version=">=0.32.3", index="pypi"}
 "python_project" = {editable = true, path = "."}
 ```
+
+_notes:
 
 
 
@@ -184,11 +183,11 @@ name = "pypi"
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTkyMzY4MywtMTUzODk5MTgxMiwtMT
-c2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2Mjgw
-NTIsLTU3MTQ1OTU4OCwxNjYzMTc3OTEzLDE4Mjk2MjE3NTUsLT
-IxMTMxMjM5NDgsLTE4MDgxNTUxNywyMDQxOTEwODUxLC0yMDk0
-MzkxOTA5LC0yMTEzMjU2NTEyLDM5OTQyMTY3NiwxNjczMTE2ND
-AsMjE0NjA2OTIyLC0yMTE4NjU0NDk0LDIwMDMyODk3ODksLTE5
-ODM3NjIyNDJdfQ==
+eyJoaXN0b3J5IjpbNTUzNzYzMTc1LC0xNTM4OTkxODEyLC0xNz
+Y1MzAwNTUsMTA1Mzg2MTA1Myw2ODQ1MTU5NzUsMTcwNzYyODA1
+MiwtNTcxNDU5NTg4LDE2NjMxNzc5MTMsMTgyOTYyMTc1NSwtMj
+ExMzEyMzk0OCwtMTgwODE1NTE3LDIwNDE5MTA4NTEsLTIwOTQz
+OTE5MDksLTIxMTMyNTY1MTIsMzk5NDIxNjc2LDE2NzMxMTY0MC
+wyMTQ2MDY5MjIsLTIxMTg2NTQ0OTQsMjAwMzI4OTc4OSwtMTk4
+Mzc2MjI0Ml19
 -->
