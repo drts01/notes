@@ -207,11 +207,14 @@ _notes:
 
 
 
-## d
+## Conclusion
 
  - can get your project published/shared
+	 - setuptools
+	 - twine
  - learned some of the newer changes to py packaging
- - 
+	 - pyproject.toml
+	 - Pipenv / Pipfile
 
 ## Resources
 
@@ -223,7 +226,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDM3ODM5LDE0NjYzOTU1OCwxNDkwMj
+eyJoaXN0b3J5IjpbMzY1MDU1Nzc2LDE0NjYzOTU1OCwxNDkwMj
 E5OTYzLC0xNTM4OTkxODEyLC0xNzY1MzAwNTUsMTA1Mzg2MTA1
 Myw2ODQ1MTU5NzUsMTcwNzYyODA1MiwtNTcxNDU5NTg4LDE2Nj
 MxNzc5MTMsMTgyOTYyMTc1NSwtMjExMzEyMzk0OCwtMTgwODE1
