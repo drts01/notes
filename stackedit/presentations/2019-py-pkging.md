@@ -138,7 +138,7 @@ _notes:
 
 
 ## Publishing a Distribution
-`
+`twine`
 
 
 
@@ -153,6 +153,10 @@ _notes:
 
 
 
+## Pipfile / Pipenv
+
+
+
 ## Resources
 
  -  Python Packaging User Guide (PyPUG)  
@@ -162,10 +166,8 @@ _notes:
 
 ### Tools
  - check-manifest
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDcyMTg2NiwtMTUzODk5MTgxMiwtMT
+eyJoaXN0b3J5IjpbMTA3MDA0NDIxOSwtMTUzODk5MTgxMiwtMT
 c2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2Mjgw
 NTIsLTU3MTQ1OTU4OCwxNjYzMTc3OTEzLDE4Mjk2MjE3NTUsLT
 IxMTMxMjM5NDgsLTE4MDgxNTUxNywyMDQxOTEwODUxLC0yMDk0
