@@ -191,6 +191,7 @@ _notes:
 
 ## Replace Setuptools
  - Poetry
+ - Flin
 
 
 
@@ -204,7 +205,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Njk5Nzg5MywtMTUzODk5MTgxMiwtMT
+eyJoaXN0b3J5IjpbLTg4MzYyMDEwNSwtMTUzODk5MTgxMiwtMT
 c2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2Mjgw
 NTIsLTU3MTQ1OTU4OCwxNjYzMTc3OTEzLDE4Mjk2MjE3NTUsLT
 IxMTMxMjM5NDgsLTE4MDgxNTUxNywyMDQxOTEwODUxLC0yMDk0
