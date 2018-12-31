@@ -115,29 +115,9 @@ abstract vs concrete
 ```
 -i https://pypi.org/simple
 -e .
-astroid==2.1.0
-bleach==3.0.2
-certifi==2018.11.29
-chardet==3.0.4
-docutils==0.14
-idna==2.8
-isort==4.3.4
-lazy-object-proxy==1.3.1
-mccabe==0.6.1
-pkginfo==1.4.2
-pygments==2.3.1
-pylint==2.2.2
-readme-renderer==24.0
-requests-toolbelt==0.8.0
-requests==2.21.0
 setuptools>=40.5.0
-six==1.12.0
-tqdm==4.28.1
-twine==1.12.1
-urllib3==1.24.1
-webencodings==0.5.1
-wheel==0.32.3
-wrapt==1.10.11
+twine>=1.12.1
+wheel>=0.32.3
 ```
 
 
@@ -168,11 +148,11 @@ _notes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjk5MTc1NSwxNzA3NjI4MDUyLC01Nz
-E0NTk1ODgsMTY2MzE3NzkxMywxODI5NjIxNzU1LC0yMTEzMTIz
-OTQ4LC0xODA4MTU1MTcsMjA0MTkxMDg1MSwtMjA5NDM5MTkwOS
-wtMjExMzI1NjUxMiwzOTk0MjE2NzYsMTY3MzExNjQwLDIxNDYw
-NjkyMiwtMjExODY1NDQ5NCwyMDAzMjg5Nzg5LC0xOTgzNzYyMj
-QyLDgyNzkxMTYyMiwtMTY0ODgxNjIyMyw0NjUwNTU2OTgsNzM2
-NjM0MDM1XX0=
+eyJoaXN0b3J5IjpbNjg0NTE1OTc1LDE3MDc2MjgwNTIsLTU3MT
+Q1OTU4OCwxNjYzMTc3OTEzLDE4Mjk2MjE3NTUsLTIxMTMxMjM5
+NDgsLTE4MDgxNTUxNywyMDQxOTEwODUxLC0yMDk0MzkxOTA5LC
+0yMTEzMjU2NTEyLDM5OTQyMTY3NiwxNjczMTE2NDAsMjE0NjA2
+OTIyLC0yMTE4NjU0NDk0LDIwMDMyODk3ODksLTE5ODM3NjIyND
+IsODI3OTExNjIyLC0xNjQ4ODE2MjIzLDQ2NTA1NTY5OCw3MzY2
+MzQwMzVdfQ==
 -->
