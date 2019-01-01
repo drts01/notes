@@ -17,6 +17,9 @@ _notes:
 ## Why
 Share a Python software artifact using native packaging and distribution tools
 
+_notes:
+ - can use
+
 
 
 ## .\. contents::
@@ -324,11 +327,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzODU4MTYsLTExODc5NDkxMzgsLTQ0OT
-Y1Nzk1Miw1ODMzODI5NSwtMTIyOTQxOTgyOSwtMTE5MDUxMTE1
-NCw3NTQyODg0NzcsMjAxMDMzNjE5NywtNzg5MjI5NzQ5LDM3OD
-M2NDgzMSwtMzY4MDAwMzEzLDE5NzAwMzgxODMsLTQ3NTI4MTI4
-MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2MywtMTUzODk5MTgxMiwtMT
-c2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2Mjgw
-NTJdfQ==
+eyJoaXN0b3J5IjpbLTM5NDc3MDU1MCw2MTM4NTgxNiwtMTE4Nz
+k0OTEzOCwtNDQ5NjU3OTUyLDU4MzM4Mjk1LC0xMjI5NDE5ODI5
+LC0xMTkwNTExMTU0LDc1NDI4ODQ3NywyMDEwMzM2MTk3LC03OD
+kyMjk3NDksMzc4MzY0ODMxLC0zNjgwMDAzMTMsMTk3MDAzODE4
+MywtNDc1MjgxMjgxLDE0NjYzOTU1OCwxNDkwMjE5OTYzLC0xNT
+M4OTkxODEyLC0xNzY1MzAwNTUsMTA1Mzg2MTA1Myw2ODQ1MTU5
+NzVdfQ==
 -->
