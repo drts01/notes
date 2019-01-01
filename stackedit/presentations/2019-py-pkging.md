@@ -33,16 +33,19 @@ A library, framework, script, plugin, application, or collection of data or othe
 
 ## Vocab
 #### What is a distribution [package]
-A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a Release.
+A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a snapshot of a project.
 <small><small>https://packaging.python.org/glossary/#term-distribution-package</small></small>
 
 _notes:
  - A distribution package is more commonly referred to with the single words “package” or “distribution”
 
 
+
 ## Vocab
 
 ### What is a module
+
+
 
 ## Vocab
 
@@ -294,7 +297,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzE2MTk2MywtNzg5MjI5NzQ5LDM3OD
+eyJoaXN0b3J5IjpbMTU4NDgwMzY4NywtNzg5MjI5NzQ5LDM3OD
 M2NDgzMSwtMzY4MDAwMzEzLDE5NzAwMzgxODMsLTQ3NTI4MTI4
 MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2MywtMTUzODk5MTgxMiwtMT
 c2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2Mjgw
