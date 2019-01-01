@@ -47,7 +47,7 @@ module.py
 
 ### [Import] package
 A Python module which can contain other modules or recursively, other packages.
-
+<small><small>https://packaging.python.org/glossary/#term-module</small></small>
 ```
 |-- python_package/
     |-- __init__.py
@@ -324,11 +324,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzAyOTc4OCwtMTE4Nzk0OTEzOCwtND
-Q5NjU3OTUyLDU4MzM4Mjk1LC0xMjI5NDE5ODI5LC0xMTkwNTEx
-MTU0LDc1NDI4ODQ3NywyMDEwMzM2MTk3LC03ODkyMjk3NDksMz
-c4MzY0ODMxLC0zNjgwMDAzMTMsMTk3MDAzODE4MywtNDc1Mjgx
-MjgxLDE0NjYzOTU1OCwxNDkwMjE5OTYzLC0xNTM4OTkxODEyLC
-0xNzY1MzAwNTUsMTA1Mzg2MTA1Myw2ODQ1MTU5NzUsMTcwNzYy
-ODA1Ml19
+eyJoaXN0b3J5IjpbNjEzODU4MTYsLTExODc5NDkxMzgsLTQ0OT
+Y1Nzk1Miw1ODMzODI5NSwtMTIyOTQxOTgyOSwtMTE5MDUxMTE1
+NCw3NTQyODg0NzcsMjAxMDMzNjE5NywtNzg5MjI5NzQ5LDM3OD
+M2NDgzMSwtMzY4MDAwMzEzLDE5NzAwMzgxODMsLTQ3NTI4MTI4
+MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2MywtMTUzODk5MTgxMiwtMT
+c2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2Mjgw
+NTJdfQ==
 -->
