@@ -289,8 +289,9 @@ pipenv lock --dev --requirements # generates requirements.txt
 
 _notes:
  - understands Pipfile
- - PyPA recommend tool
  - manages virtualenv for a more "bundler" or "npm" type experience.
+ - gen req.txt for compatible w/ 
+ - PyPA recommend tool
 
 
 
@@ -334,7 +335,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjI4NDE3OCw1OTYyODM0OSw2MTM4NT
+eyJoaXN0b3J5IjpbMTk2MTQyOTMxMCw1OTYyODM0OSw2MTM4NT
 gxNiwtMTE4Nzk0OTEzOCwtNDQ5NjU3OTUyLDU4MzM4Mjk1LC0x
 MjI5NDE5ODI5LC0xMTkwNTExMTU0LDc1NDI4ODQ3NywyMDEwMz
 M2MTk3LC03ODkyMjk3NDksMzc4MzY0ODMxLC0zNjgwMDAzMTMs
