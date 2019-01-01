@@ -37,6 +37,7 @@ A library, framework, script, plugin, application, or collection of data or othe
 ## Vocab
 
 ### What is a module
+
 ```
 python_project/
 |-- module.py
@@ -49,7 +50,6 @@ python_project/
 A Python module which can contain other modules or recursively, other packages.
 
 ```
-python_project/
 |-- python_package/
     |-- __init__.py
     |-- module.py
@@ -90,6 +90,9 @@ A distribution format that provides metadata and the essential source files.
 ### Built Distribution - Wheel
 A simpler interface between the build system and the installer. The wheel binary package format ... removes the need to install a build system in the target environment.
 <small><small>[https://www.python.org/dev/peps/pep-0427/#id5](https://www.python.org/dev/peps/pep-0427/#id5)</small></small>
+
+_notes:
+ - quickly copies files into place
 
 
 
@@ -321,7 +324,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTMzNjY3NywtMTE4Nzk0OTEzOCwtND
+eyJoaXN0b3J5IjpbMTE2NDQ2NzYzMiwtMTE4Nzk0OTEzOCwtND
 Q5NjU3OTUyLDU4MzM4Mjk1LC0xMjI5NDE5ODI5LC0xMTkwNTEx
 MTU0LDc1NDI4ODQ3NywyMDEwMzM2MTk3LC03ODkyMjk3NDksMz
 c4MzY0ODMxLC0zNjgwMDAzMTMsMTk3MDAzODE4MywtNDc1Mjgx
