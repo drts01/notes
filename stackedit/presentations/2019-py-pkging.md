@@ -41,7 +41,7 @@ pip install helloworld
  - fetches from PyPI
  - runs setup
 
-## Installing My Proje
+## Installing My Project
 ```bash
 pip install -e .
 ```
@@ -258,7 +258,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzE1ODA1OCwxOTcwMDM4MTgzLC00Nz
+eyJoaXN0b3J5IjpbLTM2ODAwMDMxMywxOTcwMDM4MTgzLC00Nz
 UyODEyODEsMTQ2NjM5NTU4LDE0OTAyMTk5NjMsLTE1Mzg5OTE4
 MTIsLTE3NjUzMDA1NSwxMDUzODYxMDUzLDY4NDUxNTk3NSwxNz
 A3NjI4MDUyLC01NzE0NTk1ODgsMTY2MzE3NzkxMywxODI5NjIx
