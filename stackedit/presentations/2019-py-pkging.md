@@ -37,7 +37,7 @@ A library, framework, script, plugin, application, or collection of data or othe
 ## Vocab
 
 ### What is a module
-
+The basic unit of code reusability in Python.
 ```
 module.py
 ```
@@ -324,11 +324,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjg3MjY4NzMsLTExODc5NDkxMzgsLT
-Q0OTY1Nzk1Miw1ODMzODI5NSwtMTIyOTQxOTgyOSwtMTE5MDUx
-MTE1NCw3NTQyODg0NzcsMjAxMDMzNjE5NywtNzg5MjI5NzQ5LD
-M3ODM2NDgzMSwtMzY4MDAwMzEzLDE5NzAwMzgxODMsLTQ3NTI4
-MTI4MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2MywtMTUzODk5MTgxMi
-wtMTc2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2
-MjgwNTJdfQ==
+eyJoaXN0b3J5IjpbLTE0NzAyOTc4OCwtMTE4Nzk0OTEzOCwtND
+Q5NjU3OTUyLDU4MzM4Mjk1LC0xMjI5NDE5ODI5LC0xMTkwNTEx
+MTU0LDc1NDI4ODQ3NywyMDEwMzM2MTk3LC03ODkyMjk3NDksMz
+c4MzY0ODMxLC0zNjgwMDAzMTMsMTk3MDAzODE4MywtNDc1Mjgx
+MjgxLDE0NjYzOTU1OCwxNDkwMjE5OTYzLC0xNTM4OTkxODEyLC
+0xNzY1MzAwNTUsMTA1Mzg2MTA1Myw2ODQ1MTU5NzUsMTcwNzYy
+ODA1Ml19
 -->
