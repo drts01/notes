@@ -255,7 +255,7 @@ requires = ["setuptools>=40.5.0"]
 _notes:
  - ensures min version of setuptools is available before running setup.py
  - toml
-
+ - can do more, check PEP
 
 
 ## Pipfile
@@ -276,7 +276,6 @@ name = "pypi"
 
 _notes:
  - replaces requirements.txt for concrete dependencies
- - Concrete dependencies should be defined here.
  - see, https://packaging.python.org/discussions/install-requires-vs-requirements/
 
 
@@ -335,11 +334,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM2NDE1NDgsNTk2MjgzNDksNjEzOD
-U4MTYsLTExODc5NDkxMzgsLTQ0OTY1Nzk1Miw1ODMzODI5NSwt
-MTIyOTQxOTgyOSwtMTE5MDUxMTE1NCw3NTQyODg0NzcsMjAxMD
-MzNjE5NywtNzg5MjI5NzQ5LDM3ODM2NDgzMSwtMzY4MDAwMzEz
-LDE5NzAwMzgxODMsLTQ3NTI4MTI4MSwxNDY2Mzk1NTgsMTQ5MD
-IxOTk2MywtMTUzODk5MTgxMiwtMTc2NTMwMDU1LDEwNTM4NjEw
-NTNdfQ==
+eyJoaXN0b3J5IjpbMTUzNjI4NDE3OCw1OTYyODM0OSw2MTM4NT
+gxNiwtMTE4Nzk0OTEzOCwtNDQ5NjU3OTUyLDU4MzM4Mjk1LC0x
+MjI5NDE5ODI5LC0xMTkwNTExMTU0LDc1NDI4ODQ3NywyMDEwMz
+M2MTk3LC03ODkyMjk3NDksMzc4MzY0ODMxLC0zNjgwMDAzMTMs
+MTk3MDAzODE4MywtNDc1MjgxMjgxLDE0NjYzOTU1OCwxNDkwMj
+E5OTYzLC0xNTM4OTkxODEyLC0xNzY1MzAwNTUsMTA1Mzg2MTA1
+M119
 -->
