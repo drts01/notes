@@ -39,8 +39,7 @@ A library, framework, script, plugin, application, or collection of data or othe
 ### What is a module
 
 ```
-python_project/
-|-- module.py
+module.py
 ```
 
 
@@ -324,11 +323,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDQ2NzYzMiwtMTE4Nzk0OTEzOCwtND
-Q5NjU3OTUyLDU4MzM4Mjk1LC0xMjI5NDE5ODI5LC0xMTkwNTEx
-MTU0LDc1NDI4ODQ3NywyMDEwMzM2MTk3LC03ODkyMjk3NDksMz
-c4MzY0ODMxLC0zNjgwMDAzMTMsMTk3MDAzODE4MywtNDc1Mjgx
-MjgxLDE0NjYzOTU1OCwxNDkwMjE5OTYzLC0xNTM4OTkxODEyLC
-0xNzY1MzAwNTUsMTA1Mzg2MTA1Myw2ODQ1MTU5NzUsMTcwNzYy
-ODA1Ml19
+eyJoaXN0b3J5IjpbODE2Mjk4NDAxLC0xMTg3OTQ5MTM4LC00ND
+k2NTc5NTIsNTgzMzgyOTUsLTEyMjk0MTk4MjksLTExOTA1MTEx
+NTQsNzU0Mjg4NDc3LDIwMTAzMzYxOTcsLTc4OTIyOTc0OSwzNz
+gzNjQ4MzEsLTM2ODAwMDMxMywxOTcwMDM4MTgzLC00NzUyODEy
+ODEsMTQ2NjM5NTU4LDE0OTAyMTk5NjMsLTE1Mzg5OTE4MTIsLT
+E3NjUzMDA1NSwxMDUzODYxMDUzLDY4NDUxNTk3NSwxNzA3NjI4
+MDUyXX0=
 -->
