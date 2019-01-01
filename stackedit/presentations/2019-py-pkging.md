@@ -296,8 +296,12 @@ _notes:
 
 
 ## Replace Setuptools
- - Poetry
- - Flin
+### Poetry
+```ini
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
+```
 
 _notes:
  - further away from the "traditional" workflow
@@ -335,11 +339,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzczNjcwOTUsNTk2MjgzNDksNjEzOD
-U4MTYsLTExODc5NDkxMzgsLTQ0OTY1Nzk1Miw1ODMzODI5NSwt
-MTIyOTQxOTgyOSwtMTE5MDUxMTE1NCw3NTQyODg0NzcsMjAxMD
-MzNjE5NywtNzg5MjI5NzQ5LDM3ODM2NDgzMSwtMzY4MDAwMzEz
-LDE5NzAwMzgxODMsLTQ3NTI4MTI4MSwxNDY2Mzk1NTgsMTQ5MD
-IxOTk2MywtMTUzODk5MTgxMiwtMTc2NTMwMDU1LDEwNTM4NjEw
-NTNdfQ==
+eyJoaXN0b3J5IjpbLTQ0NjY0ODkzMywtMTkzNzM2NzA5NSw1OT
+YyODM0OSw2MTM4NTgxNiwtMTE4Nzk0OTEzOCwtNDQ5NjU3OTUy
+LDU4MzM4Mjk1LC0xMjI5NDE5ODI5LC0xMTkwNTExMTU0LDc1ND
+I4ODQ3NywyMDEwMzM2MTk3LC03ODkyMjk3NDksMzc4MzY0ODMx
+LC0zNjgwMDAzMTMsMTk3MDAzODE4MywtNDc1MjgxMjgxLDE0Nj
+YzOTU1OCwxNDkwMjE5OTYzLC0xNTM4OTkxODEyLC0xNzY1MzAw
+NTVdfQ==
 -->
