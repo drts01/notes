@@ -81,6 +81,8 @@ python_project/
 A distribution format that provides metadata and the essential source files.
 <small><small>https://packaging.python.org/glossary/#term-source-distribution-or-sdist</small></small>
 
+
+
 ## Vocab - Distribution
 
 ### The Wheel Built Distribution Format
@@ -317,11 +319,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjk0MTk4MjksLTExOTA1MTExNTQsNz
-U0Mjg4NDc3LDIwMTAzMzYxOTcsLTc4OTIyOTc0OSwzNzgzNjQ4
-MzEsLTM2ODAwMDMxMywxOTcwMDM4MTgzLC00NzUyODEyODEsMT
-Q2NjM5NTU4LDE0OTAyMTk5NjMsLTE1Mzg5OTE4MTIsLTE3NjUz
-MDA1NSwxMDUzODYxMDUzLDY4NDUxNTk3NSwxNzA3NjI4MDUyLC
-01NzE0NTk1ODgsMTY2MzE3NzkxMywxODI5NjIxNzU1LC0yMTEz
-MTIzOTQ4XX0=
+eyJoaXN0b3J5IjpbMTMzMzg2MzkxOSwtMTIyOTQxOTgyOSwtMT
+E5MDUxMTE1NCw3NTQyODg0NzcsMjAxMDMzNjE5NywtNzg5MjI5
+NzQ5LDM3ODM2NDgzMSwtMzY4MDAwMzEzLDE5NzAwMzgxODMsLT
+Q3NTI4MTI4MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2MywtMTUzODk5
+MTgxMiwtMTc2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LD
+E3MDc2MjgwNTIsLTU3MTQ1OTU4OCwxNjYzMTc3OTEzLDE4Mjk2
+MjE3NTVdfQ==
 -->
