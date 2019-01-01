@@ -87,7 +87,7 @@ A distribution format that provides metadata and the essential source files.
 
 ## Vocab - Distribution
 
-### The Wheel Built Distribution Format
+### Built Distribution - Wheel
 A simpler interface between the build system and the installer. The wheel binary package format ... removes the need to install a build system in the target environment.
 <small><small>[https://www.python.org/dev/peps/pep-0427/#id5](https://www.python.org/dev/peps/pep-0427/#id5)</small></small>
 
@@ -321,11 +321,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODc5NDkxMzgsLTQ0OTY1Nzk1Miw1OD
-MzODI5NSwtMTIyOTQxOTgyOSwtMTE5MDUxMTE1NCw3NTQyODg0
-NzcsMjAxMDMzNjE5NywtNzg5MjI5NzQ5LDM3ODM2NDgzMSwtMz
-Y4MDAwMzEzLDE5NzAwMzgxODMsLTQ3NTI4MTI4MSwxNDY2Mzk1
-NTgsMTQ5MDIxOTk2MywtMTUzODk5MTgxMiwtMTc2NTMwMDU1LD
-EwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2MjgwNTIsLTU3MTQ1
-OTU4OF19
+eyJoaXN0b3J5IjpbMTQ5NTMzNjY3NywtMTE4Nzk0OTEzOCwtND
+Q5NjU3OTUyLDU4MzM4Mjk1LC0xMjI5NDE5ODI5LC0xMTkwNTEx
+MTU0LDc1NDI4ODQ3NywyMDEwMzM2MTk3LC03ODkyMjk3NDksMz
+c4MzY0ODMxLC0zNjgwMDAzMTMsMTk3MDAzODE4MywtNDc1Mjgx
+MjgxLDE0NjYzOTU1OCwxNDkwMjE5OTYzLC0xNTM4OTkxODEyLC
+0xNzY1MzAwNTUsMTA1Mzg2MTA1Myw2ODQ1MTU5NzUsMTcwNzYy
+ODA1Ml19
 -->
