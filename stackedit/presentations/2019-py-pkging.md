@@ -29,6 +29,15 @@ Share a Python software artifact using native packaging and distribution tools
 A library, framework, script, plugin, application, or collection of data or other resources, or some combination thereof that is intended to be packaged into a Distribution.
 <small><small>https://packaging.python.org/glossary/#term-project</small></small>
 
+
+
+## Vocab
+#### What is a distribution [package]
+A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a Release.
+<small><small>https://packaging.python.org/glossary/#term-distribution-package</small></small>
+
+
+
 ## Vocab
 
 ### What is a module
@@ -39,10 +48,8 @@ A library, framework, script, plugin, application, or collection of data or othe
 Packages exist to be installed (or deployed)
 #### What is a import package
 
-## Vocab
-#### What is a distribution [package]
-A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a Release.
-<small><small>https://packaging.python.org/glossary/#term-distribution-package</small></small>
+
+
 ## Vocab - Distribution
 
 ### Source Distribution
@@ -279,11 +286,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDY0ODU0NywtMzY4MDAwMzEzLDE5Nz
-AwMzgxODMsLTQ3NTI4MTI4MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2
-MywtMTUzODk5MTgxMiwtMTc2NTMwMDU1LDEwNTM4NjEwNTMsNj
-g0NTE1OTc1LDE3MDc2MjgwNTIsLTU3MTQ1OTU4OCwxNjYzMTc3
-OTEzLDE4Mjk2MjE3NTUsLTIxMTMxMjM5NDgsLTE4MDgxNTUxNy
-wyMDQxOTEwODUxLC0yMDk0MzkxOTA5LC0yMTEzMjU2NTEyLDM5
-OTQyMTY3Nl19
+eyJoaXN0b3J5IjpbMzc4MzY0ODMxLC0zNjgwMDAzMTMsMTk3MD
+AzODE4MywtNDc1MjgxMjgxLDE0NjYzOTU1OCwxNDkwMjE5OTYz
+LC0xNTM4OTkxODEyLC0xNzY1MzAwNTUsMTA1Mzg2MTA1Myw2OD
+Q1MTU5NzUsMTcwNzYyODA1MiwtNTcxNDU5NTg4LDE2NjMxNzc5
+MTMsMTgyOTYyMTc1NSwtMjExMzEyMzk0OCwtMTgwODE1NTE3LD
+IwNDE5MTA4NTEsLTIwOTQzOTE5MDksLTIxMTMyNTY1MTIsMzk5
+NDIxNjc2XX0=
 -->
