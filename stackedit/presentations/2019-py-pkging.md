@@ -139,9 +139,8 @@ wheel>=0.32.3
 
 
 ### Manifest<span></span>.in
-> package_data is a lie. Ignore it. Only use MANIFEST<span></span>.in.
-
-<small><sup>-- http://blog.codekills.net/2011/07/15/lies,-more-lies-and-python-packaging-documentation-on--package_data-/</sup></small>
+"`package_data` is a lie. Ignore it. Only use `MANIFEST.in`."
+<small>-- http://blog.codekills.net/2011/07/15/lies,-more-lies-and-python-packaging-documentation-on--package_data-/</small>
 
 ```
 include *.rst
@@ -259,7 +258,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODA1ODkwMiwxOTcwMDM4MTgzLC00Nz
+eyJoaXN0b3J5IjpbLTYzNjU2MzI2MiwxOTcwMDM4MTgzLC00Nz
 UyODEyODEsMTQ2NjM5NTU4LDE0OTAyMTk5NjMsLTE1Mzg5OTE4
 MTIsLTE3NjUzMDA1NSwxMDUzODYxMDUzLDY4NDUxNTk3NSwxNz
 A3NjI4MDUyLC01NzE0NTk1ODgsMTY2MzE3NzkxMywxODI5NjIx
