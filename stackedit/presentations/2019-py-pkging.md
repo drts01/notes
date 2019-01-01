@@ -128,7 +128,7 @@ python setup.py develop
 ### Requirements<span></span>.txt
 `install_requires` vs ` requirements.txt`
 abstract vs concrete
-```j
+```
 -i https://pypi.org/simple
 -e .
 setuptools>=40.5.0
@@ -139,12 +139,11 @@ wheel>=0.32.3
 
 
 ### Manifest<span></span>.in
-```python
-# MANIFEST.in is still required because setuptools.setup(package_data=dict()) is a lie.
-# http://blog.codekills.net/2011/07/15/lies,-more-lies-and-python-packaging-documentation-on--package_data-/
+```
 include *.rst
 include LICENSE
 ```
+
 _notes:
 * includes files that are not in the py pkg dir
  - lies
@@ -256,7 +255,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDY1OTU3MCwtNDc1MjgxMjgxLDE0Nj
+eyJoaXN0b3J5IjpbMTk3MDAzODE4MywtNDc1MjgxMjgxLDE0Nj
 YzOTU1OCwxNDkwMjE5OTYzLC0xNTM4OTkxODEyLC0xNzY1MzAw
 NTUsMTA1Mzg2MTA1Myw2ODQ1MTU5NzUsMTcwNzYyODA1MiwtNT
 cxNDU5NTg4LDE2NjMxNzc5MTMsMTgyOTYyMTc1NSwtMjExMzEy
