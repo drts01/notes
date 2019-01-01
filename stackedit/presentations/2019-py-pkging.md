@@ -47,7 +47,7 @@ _notes:
 Packages exist to be installed (or deployed)
 
 _notes:
- - both distibution packages and import packages are commonly kno 
+ - both distribution packages and import packages are commonly known as packages 
 
 
 
@@ -299,11 +299,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1MzUyOTQ5LC03ODkyMjk3NDksMzc4Mz
-Y0ODMxLC0zNjgwMDAzMTMsMTk3MDAzODE4MywtNDc1MjgxMjgx
-LDE0NjYzOTU1OCwxNDkwMjE5OTYzLC0xNTM4OTkxODEyLC0xNz
-Y1MzAwNTUsMTA1Mzg2MTA1Myw2ODQ1MTU5NzUsMTcwNzYyODA1
-MiwtNTcxNDU5NTg4LDE2NjMxNzc5MTMsMTgyOTYyMTc1NSwtMj
-ExMzEyMzk0OCwtMTgwODE1NTE3LDIwNDE5MTA4NTEsLTIwOTQz
-OTE5MDldfQ==
+eyJoaXN0b3J5IjpbMjAxMDMzNjE5NywtNzg5MjI5NzQ5LDM3OD
+M2NDgzMSwtMzY4MDAwMzEzLDE5NzAwMzgxODMsLTQ3NTI4MTI4
+MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2MywtMTUzODk5MTgxMiwtMT
+c2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2Mjgw
+NTIsLTU3MTQ1OTU4OCwxNjYzMTc3OTEzLDE4Mjk2MjE3NTUsLT
+IxMTMxMjM5NDgsLTE4MDgxNTUxNywyMDQxOTEwODUxLC0yMDk0
+MzkxOTA5XX0=
 -->
