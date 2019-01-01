@@ -103,6 +103,9 @@ name = python_project
 version = 0.1.0
 long_description = file: README.rst
 description-content-type = text/x-rst
+classifiers =
+    License :: OSI Approved :: MIT License
+    Programming Language :: Python :: 3
 
 [options]
 install_requires =
@@ -253,11 +256,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTI4MTI4MSwxNDY2Mzk1NTgsMTQ5MD
-IxOTk2MywtMTUzODk5MTgxMiwtMTc2NTMwMDU1LDEwNTM4NjEw
-NTMsNjg0NTE1OTc1LDE3MDc2MjgwNTIsLTU3MTQ1OTU4OCwxNj
-YzMTc3OTEzLDE4Mjk2MjE3NTUsLTIxMTMxMjM5NDgsLTE4MDgx
-NTUxNywyMDQxOTEwODUxLC0yMDk0MzkxOTA5LC0yMTEzMjU2NT
-EyLDM5OTQyMTY3NiwxNjczMTE2NDAsMjE0NjA2OTIyLC0yMTE4
-NjU0NDk0XX0=
+eyJoaXN0b3J5IjpbLTIyNjk5ODY0MiwtNDc1MjgxMjgxLDE0Nj
+YzOTU1OCwxNDkwMjE5OTYzLC0xNTM4OTkxODEyLC0xNzY1MzAw
+NTUsMTA1Mzg2MTA1Myw2ODQ1MTU5NzUsMTcwNzYyODA1MiwtNT
+cxNDU5NTg4LDE2NjMxNzc5MTMsMTgyOTYyMTc1NSwtMjExMzEy
+Mzk0OCwtMTgwODE1NTE3LDIwNDE5MTA4NTEsLTIwOTQzOTE5MD
+ksLTIxMTMyNTY1MTIsMzk5NDIxNjc2LDE2NzMxMTY0MCwyMTQ2
+MDY5MjJdfQ==
 -->
