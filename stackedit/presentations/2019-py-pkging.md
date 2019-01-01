@@ -27,14 +27,14 @@ Share a Python software artifact using native packaging and distribution tools
 ### What is a package
 Packages exist to be installed (or deployed)
 ### What is a module
-### What is a distribution
+### What is a distribution package
  - Source
 #### The Wheel Binary Package Format
 "A simpler interface between the build system and the installer. The wheel binary package format ... removes the need to install a build system in the target environment."<small><small>[ref](https://www.python.org/dev/peps/pep-0427/#id5)</small></small>
 
 
 
-## Installing a Python Distribution
+## Installing a Python Distribution Package
 ```bash
 pip install helloworld
 ```
@@ -258,11 +258,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODAwMDMxMywxOTcwMDM4MTgzLC00Nz
-UyODEyODEsMTQ2NjM5NTU4LDE0OTAyMTk5NjMsLTE1Mzg5OTE4
-MTIsLTE3NjUzMDA1NSwxMDUzODYxMDUzLDY4NDUxNTk3NSwxNz
-A3NjI4MDUyLC01NzE0NTk1ODgsMTY2MzE3NzkxMywxODI5NjIx
-NzU1LC0yMTEzMTIzOTQ4LC0xODA4MTU1MTcsMjA0MTkxMDg1MS
-wtMjA5NDM5MTkwOSwtMjExMzI1NjUxMiwzOTk0MjE2NzYsMTY3
-MzExNjQwXX0=
+eyJoaXN0b3J5IjpbLTY0Mjg0MjU4NSwtMzY4MDAwMzEzLDE5Nz
+AwMzgxODMsLTQ3NTI4MTI4MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2
+MywtMTUzODk5MTgxMiwtMTc2NTMwMDU1LDEwNTM4NjEwNTMsNj
+g0NTE1OTc1LDE3MDc2MjgwNTIsLTU3MTQ1OTU4OCwxNjYzMTc3
+OTEzLDE4Mjk2MjE3NTUsLTIxMTMxMjM5NDgsLTE4MDgxNTUxNy
+wyMDQxOTEwODUxLC0yMDk0MzkxOTA5LC0yMTEzMjU2NTEyLDM5
+OTQyMTY3Nl19
 -->
