@@ -34,9 +34,11 @@ A library, framework, script, plugin, application, or collection of data or othe
 Packages exist to be installed (or deployed)
 #### What is a import package
 #### What is a distribution [package]
+https://packaging.python.org/glossary/#term-distribution-package
  - Source
 ##### The Wheel Built Distribution Format
-"A simpler interface between the build system and the installer. The wheel binary package format ... removes the need to install a build system in the target environment."<small><small>[ref](https://www.python.org/dev/peps/pep-0427/#id5)</small></small>
+A simpler interface between the build system and the installer. The wheel binary package format ... removes the need to install a build system in the target environment.
+<small><small>[https://www.python.org/dev/peps/pep-0427/#id5](https://www.python.org/dev/peps/pep-0427/#id5)</small></small>
 
 
 
@@ -264,7 +266,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTgxMzM1MiwtMzY4MDAwMzEzLDE5Nz
+eyJoaXN0b3J5IjpbLTU2MzM2MzE4MywtMzY4MDAwMzEzLDE5Nz
 AwMzgxODMsLTQ3NTI4MTI4MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2
 MywtMTUzODk5MTgxMiwtMTc2NTMwMDU1LDEwNTM4NjEwNTMsNj
 g0NTE1OTc1LDE3MDc2MjgwNTIsLTU3MTQ1OTU4OCwxNjYzMTc3
