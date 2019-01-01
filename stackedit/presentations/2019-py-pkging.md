@@ -5,7 +5,9 @@
 <small>-- ["The Packaging Gradient", Mahmoud Hashemi](https://www.youtube.com/watch?v=iLVNWfPWAC8) [[slides](https://speakerd.s3.amazonaws.com/presentations/d655083f4a4c4199ae2f7066d5b8fc47/The_Packaging_Gradient_-_Mahmoud_Hashemi_PyBay_2017.pdf)]</small>
 
 _notes:
- - set out 
+ - set out create cookiecutter
+ - started w/ packaging, how hard could it be
+ - lost in outdated, error/missing documentation, evolving landscape
 
 
 ## getpass.getuser()
@@ -319,11 +321,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDkyNTM3MzAsNTgzMzgyOTUsLTEyMj
-k0MTk4MjksLTExOTA1MTExNTQsNzU0Mjg4NDc3LDIwMTAzMzYx
-OTcsLTc4OTIyOTc0OSwzNzgzNjQ4MzEsLTM2ODAwMDMxMywxOT
-cwMDM4MTgzLC00NzUyODEyODEsMTQ2NjM5NTU4LDE0OTAyMTk5
-NjMsLTE1Mzg5OTE4MTIsLTE3NjUzMDA1NSwxMDUzODYxMDUzLD
-Y4NDUxNTk3NSwxNzA3NjI4MDUyLC01NzE0NTk1ODgsMTY2MzE3
-NzkxM119
+eyJoaXN0b3J5IjpbLTQ0OTY1Nzk1Miw1ODMzODI5NSwtMTIyOT
+QxOTgyOSwtMTE5MDUxMTE1NCw3NTQyODg0NzcsMjAxMDMzNjE5
+NywtNzg5MjI5NzQ5LDM3ODM2NDgzMSwtMzY4MDAwMzEzLDE5Nz
+AwMzgxODMsLTQ3NTI4MTI4MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2
+MywtMTUzODk5MTgxMiwtMTc2NTMwMDU1LDEwNTM4NjEwNTMsNj
+g0NTE1OTc1LDE3MDc2MjgwNTIsLTU3MTQ1OTU4OCwxNjYzMTc3
+OTEzXX0=
 -->
