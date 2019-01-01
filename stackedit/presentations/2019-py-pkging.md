@@ -53,6 +53,8 @@ Packages exist to be installed (or deployed)
 ## Vocab - Distribution
 
 ### Source Distribution
+A distribution format that provides metadata and the essential source files.
+<small><small>https://packaging.python.org/glossary/#term-source-distribution-or-sdist</small></small>
 
 ## Vocab - Distribution
 
@@ -286,11 +288,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4MzY0ODMxLC0zNjgwMDAzMTMsMTk3MD
-AzODE4MywtNDc1MjgxMjgxLDE0NjYzOTU1OCwxNDkwMjE5OTYz
-LC0xNTM4OTkxODEyLC0xNzY1MzAwNTUsMTA1Mzg2MTA1Myw2OD
-Q1MTU5NzUsMTcwNzYyODA1MiwtNTcxNDU5NTg4LDE2NjMxNzc5
-MTMsMTgyOTYyMTc1NSwtMjExMzEyMzk0OCwtMTgwODE1NTE3LD
-IwNDE5MTA4NTEsLTIwOTQzOTE5MDksLTIxMTMyNTY1MTIsMzk5
-NDIxNjc2XX0=
+eyJoaXN0b3J5IjpbMTE5NjM3MjA1MSwzNzgzNjQ4MzEsLTM2OD
+AwMDMxMywxOTcwMDM4MTgzLC00NzUyODEyODEsMTQ2NjM5NTU4
+LDE0OTAyMTk5NjMsLTE1Mzg5OTE4MTIsLTE3NjUzMDA1NSwxMD
+UzODYxMDUzLDY4NDUxNTk3NSwxNzA3NjI4MDUyLC01NzE0NTk1
+ODgsMTY2MzE3NzkxMywxODI5NjIxNzU1LC0yMTEzMTIzOTQ4LC
+0xODA4MTU1MTcsMjA0MTkxMDg1MSwtMjA5NDM5MTkwOSwtMjEx
+MzI1NjUxMl19
 -->
