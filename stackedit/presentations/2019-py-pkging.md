@@ -139,6 +139,8 @@ wheel>=0.32.3
 
 
 ### Manifest<span></span>.in
+> package_data is a lie. Ignore it. Only use MANIFEST<span></span>.in.
+<small>-- http://blog.codekills.net/2011/07/15/lies,-more-lies-and-python-packaging-documentation-on--package_data-/</small>
 ```
 include *.rst
 include LICENSE
@@ -255,11 +257,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDAzODE4MywtNDc1MjgxMjgxLDE0Nj
-YzOTU1OCwxNDkwMjE5OTYzLC0xNTM4OTkxODEyLC0xNzY1MzAw
-NTUsMTA1Mzg2MTA1Myw2ODQ1MTU5NzUsMTcwNzYyODA1MiwtNT
-cxNDU5NTg4LDE2NjMxNzc5MTMsMTgyOTYyMTc1NSwtMjExMzEy
-Mzk0OCwtMTgwODE1NTE3LDIwNDE5MTA4NTEsLTIwOTQzOTE5MD
-ksLTIxMTMyNTY1MTIsMzk5NDIxNjc2LDE2NzMxMTY0MCwyMTQ2
-MDY5MjJdfQ==
+eyJoaXN0b3J5IjpbLTExNjczMDA0MjcsMTk3MDAzODE4MywtND
+c1MjgxMjgxLDE0NjYzOTU1OCwxNDkwMjE5OTYzLC0xNTM4OTkx
+ODEyLC0xNzY1MzAwNTUsMTA1Mzg2MTA1Myw2ODQ1MTU5NzUsMT
+cwNzYyODA1MiwtNTcxNDU5NTg4LDE2NjMxNzc5MTMsMTgyOTYy
+MTc1NSwtMjExMzEyMzk0OCwtMTgwODE1NTE3LDIwNDE5MTA4NT
+EsLTIwOTQzOTE5MDksLTIxMTMyNTY1MTIsMzk5NDIxNjc2LDE2
+NzMxMTY0MF19
 -->
