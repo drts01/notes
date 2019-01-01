@@ -83,7 +83,7 @@ python_project/
 
 _notes:
  - A distribution package is more commonly referred to with the single words “package” or “distribution”
- - tar and then scp
+ - tar and curl w/ versioning, aka pip
 
 
 
@@ -334,11 +334,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjIxOTU4LDYxMzg1ODE2LC0xMTg3OT
-Q5MTM4LC00NDk2NTc5NTIsNTgzMzgyOTUsLTEyMjk0MTk4Mjks
-LTExOTA1MTExNTQsNzU0Mjg4NDc3LDIwMTAzMzYxOTcsLTc4OT
-IyOTc0OSwzNzgzNjQ4MzEsLTM2ODAwMDMxMywxOTcwMDM4MTgz
-LC00NzUyODEyODEsMTQ2NjM5NTU4LDE0OTAyMTk5NjMsLTE1Mz
-g5OTE4MTIsLTE3NjUzMDA1NSwxMDUzODYxMDUzLDY4NDUxNTk3
-NV19
+eyJoaXN0b3J5IjpbNTk2MjgzNDksNjEzODU4MTYsLTExODc5ND
+kxMzgsLTQ0OTY1Nzk1Miw1ODMzODI5NSwtMTIyOTQxOTgyOSwt
+MTE5MDUxMTE1NCw3NTQyODg0NzcsMjAxMDMzNjE5NywtNzg5Mj
+I5NzQ5LDM3ODM2NDgzMSwtMzY4MDAwMzEzLDE5NzAwMzgxODMs
+LTQ3NTI4MTI4MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2MywtMTUzOD
+k5MTgxMiwtMTc2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1
+XX0=
 -->
