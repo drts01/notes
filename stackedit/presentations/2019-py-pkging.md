@@ -43,15 +43,15 @@ _notes:
 
 ## Vocab
 
-### What is a module
+### [Import] package
+Packages exist to be installed (or deployed)
+#### What is a import package
 
 
 
 ## Vocab
 
-### What is a package
-Packages exist to be installed (or deployed)
-#### What is a import package
+### What is a module
 
 
 
@@ -297,7 +297,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDgwMzY4NywtNzg5MjI5NzQ5LDM3OD
+eyJoaXN0b3J5IjpbLTczMTUyNDYzNywtNzg5MjI5NzQ5LDM3OD
 M2NDgzMSwtMzY4MDAwMzEzLDE5NzAwMzgxODMsLTQ3NTI4MTI4
 MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2MywtMTUzODk5MTgxMiwtMT
 c2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2Mjgw
