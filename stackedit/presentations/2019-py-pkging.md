@@ -68,8 +68,12 @@ A simpler interface between the build system and the installer. The wheel binary
 ```bash
 pip install helloworld
 ```
+
+_notes:
  - fetches from PyPI
  - runs setup
+
+
 
 ## Installing My Project
 ```bash
@@ -288,7 +292,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjM3MjA1MSwzNzgzNjQ4MzEsLTM2OD
+eyJoaXN0b3J5IjpbLTc4OTIyOTc0OSwzNzgzNjQ4MzEsLTM2OD
 AwMDMxMywxOTcwMDM4MTgzLC00NzUyODEyODEsMTQ2NjM5NTU4
 LDE0OTAyMTk5NjMsLTE1Mzg5OTE4MTIsLTE3NjUzMDA1NSwxMD
 UzODYxMDUzLDY4NDUxNTk3NSwxNzA3NjI4MDUyLC01NzE0NTk1
