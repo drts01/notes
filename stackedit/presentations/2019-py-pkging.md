@@ -47,6 +47,9 @@ The basic unit of code reusability in Python.
 module.py
 ```
 
+_notes:
+ - can scp or curl, no versioning
+
 
 ## Vocab
 
@@ -62,6 +65,7 @@ A Python module which can contain other modules or recursively, other packages.
 _notes:
  - both distribution packages and import packages are commonly known as packages 
  - Packages are a way of structuring Python’s module namespace
+ - can tar and then scp or curl, no versioning
 
 
 
@@ -79,6 +83,7 @@ python_project/
 
 _notes:
  - A distribution package is more commonly referred to with the single words “package” or “distribution”
+ - tar and then scp
 
 
 
@@ -329,7 +334,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzQyOTQxLDYxMzg1ODE2LC0xMTg3OT
+eyJoaXN0b3J5IjpbMTM0NjIxOTU4LDYxMzg1ODE2LC0xMTg3OT
 Q5MTM4LC00NDk2NTc5NTIsNTgzMzgyOTUsLTEyMjk0MTk4Mjks
 LTExOTA1MTExNTQsNzU0Mjg4NDc3LDIwMTAzMzYxOTcsLTc4OT
 IyOTc0OSwzNzgzNjQ4MzEsLTM2ODAwMDMxMywxOTcwMDM4MTgz
