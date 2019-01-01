@@ -47,7 +47,8 @@ _notes:
 A Python module which can contain other modules or recursively, other packages.
 
 ```
-pp_pkg
+py_pkg/
+|--__init
 ```
 
 _notes:
@@ -306,11 +307,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzA2MzE5Nyw3NTQyODg0NzcsMjAxMD
-MzNjE5NywtNzg5MjI5NzQ5LDM3ODM2NDgzMSwtMzY4MDAwMzEz
-LDE5NzAwMzgxODMsLTQ3NTI4MTI4MSwxNDY2Mzk1NTgsMTQ5MD
-IxOTk2MywtMTUzODk5MTgxMiwtMTc2NTMwMDU1LDEwNTM4NjEw
-NTMsNjg0NTE1OTc1LDE3MDc2MjgwNTIsLTU3MTQ1OTU4OCwxNj
-YzMTc3OTEzLDE4Mjk2MjE3NTUsLTIxMTMxMjM5NDgsLTE4MDgx
-NTUxN119
+eyJoaXN0b3J5IjpbNTUzNTQ2MzkxLDc1NDI4ODQ3NywyMDEwMz
+M2MTk3LC03ODkyMjk3NDksMzc4MzY0ODMxLC0zNjgwMDAzMTMs
+MTk3MDAzODE4MywtNDc1MjgxMjgxLDE0NjYzOTU1OCwxNDkwMj
+E5OTYzLC0xNTM4OTkxODEyLC0xNzY1MzAwNTUsMTA1Mzg2MTA1
+Myw2ODQ1MTU5NzUsMTcwNzYyODA1MiwtNTcxNDU5NTg4LDE2Nj
+MxNzc5MTMsMTgyOTYyMTc1NSwtMjExMzEyMzk0OCwtMTgwODE1
+NTE3XX0=
 -->
