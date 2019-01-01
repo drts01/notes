@@ -128,7 +128,7 @@ python setup.py develop
 ### Requirements<span></span>.txt
 `install_requires` vs ` requirements.txt`
 abstract vs concrete
-```
+```j
 -i https://pypi.org/simple
 -e .
 setuptools>=40.5.0
@@ -256,7 +256,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjk5ODY0MiwtNDc1MjgxMjgxLDE0Nj
+eyJoaXN0b3J5IjpbMTkwNDY1OTU3MCwtNDc1MjgxMjgxLDE0Nj
 YzOTU1OCwxNDkwMjE5OTYzLC0xNTM4OTkxODEyLC0xNzY1MzAw
 NTUsMTA1Mzg2MTA1Myw2ODQ1MTU5NzUsMTcwNzYyODA1MiwtNT
 cxNDU5NTg4LDE2NjMxNzc5MTMsMTgyOTYyMTc1NSwtMjExMzEy
