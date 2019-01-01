@@ -46,6 +46,10 @@ _notes:
 ### [Import] package
 A Python module which can contain other modules or recursively, other packages.
 
+```
+pp_pkg
+```
+
 _notes:
  - both distribution packages and import packages are commonly known as packages 
 
@@ -54,6 +58,9 @@ _notes:
 ## Vocab
 
 ### What is a module
+```
+module.py
+```
 
 
 
@@ -299,11 +306,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0Mjg4NDc3LDIwMTAzMzYxOTcsLTc4OT
-IyOTc0OSwzNzgzNjQ4MzEsLTM2ODAwMDMxMywxOTcwMDM4MTgz
-LC00NzUyODEyODEsMTQ2NjM5NTU4LDE0OTAyMTk5NjMsLTE1Mz
-g5OTE4MTIsLTE3NjUzMDA1NSwxMDUzODYxMDUzLDY4NDUxNTk3
-NSwxNzA3NjI4MDUyLC01NzE0NTk1ODgsMTY2MzE3NzkxMywxOD
-I5NjIxNzU1LC0yMTEzMTIzOTQ4LC0xODA4MTU1MTcsMjA0MTkx
-MDg1MV19
+eyJoaXN0b3J5IjpbLTczNzA2MzE5Nyw3NTQyODg0NzcsMjAxMD
+MzNjE5NywtNzg5MjI5NzQ5LDM3ODM2NDgzMSwtMzY4MDAwMzEz
+LDE5NzAwMzgxODMsLTQ3NTI4MTI4MSwxNDY2Mzk1NTgsMTQ5MD
+IxOTk2MywtMTUzODk5MTgxMiwtMTc2NTMwMDU1LDEwNTM4NjEw
+NTMsNjg0NTE1OTc1LDE3MDc2MjgwNTIsLTU3MTQ1OTU4OCwxNj
+YzMTc3OTEzLDE4Mjk2MjE3NTUsLTIxMTMxMjM5NDgsLTE4MDgx
+NTUxN119
 -->
