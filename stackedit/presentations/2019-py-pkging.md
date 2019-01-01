@@ -44,7 +44,7 @@ _notes:
 ## Vocab
 
 ### [Import] package
-Packages exist to be installed (or deployed)
+A Python module which can contain other modules or recursively, other packages.
 
 _notes:
  - both distribution packages and import packages are commonly known as packages 
@@ -299,11 +299,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDMzNjE5NywtNzg5MjI5NzQ5LDM3OD
-M2NDgzMSwtMzY4MDAwMzEzLDE5NzAwMzgxODMsLTQ3NTI4MTI4
-MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2MywtMTUzODk5MTgxMiwtMT
-c2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2Mjgw
-NTIsLTU3MTQ1OTU4OCwxNjYzMTc3OTEzLDE4Mjk2MjE3NTUsLT
-IxMTMxMjM5NDgsLTE4MDgxNTUxNywyMDQxOTEwODUxLC0yMDk0
-MzkxOTA5XX0=
+eyJoaXN0b3J5IjpbNzU0Mjg4NDc3LDIwMTAzMzYxOTcsLTc4OT
+IyOTc0OSwzNzgzNjQ4MzEsLTM2ODAwMDMxMywxOTcwMDM4MTgz
+LC00NzUyODEyODEsMTQ2NjM5NTU4LDE0OTAyMTk5NjMsLTE1Mz
+g5OTE4MTIsLTE3NjUzMDA1NSwxMDUzODYxMDUzLDY4NDUxNTk3
+NSwxNzA3NjI4MDUyLC01NzE0NTk1ODgsMTY2MzE3NzkxMywxOD
+I5NjIxNzU1LC0yMTEzMTIzOTQ4LC0xODA4MTU1MTcsMjA0MTkx
+MDg1MV19
 -->
