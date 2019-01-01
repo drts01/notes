@@ -27,6 +27,7 @@ Share a Python software artifact using native packaging and distribution tools
 
 ### Project
 A library, framework, script, plugin, application, or collection of data or other resources, or some combination thereof that is intended to be packaged into a Distribution.
+<small><small>https://packaging.python.org/glossary/#term-project</small></small>
 
 ## Vocab
 
@@ -278,11 +279,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE4MDQ1NzIsLTM2ODAwMDMxMywxOT
-cwMDM4MTgzLC00NzUyODEyODEsMTQ2NjM5NTU4LDE0OTAyMTk5
-NjMsLTE1Mzg5OTE4MTIsLTE3NjUzMDA1NSwxMDUzODYxMDUzLD
-Y4NDUxNTk3NSwxNzA3NjI4MDUyLC01NzE0NTk1ODgsMTY2MzE3
-NzkxMywxODI5NjIxNzU1LC0yMTEzMTIzOTQ4LC0xODA4MTU1MT
-csMjA0MTkxMDg1MSwtMjA5NDM5MTkwOSwtMjExMzI1NjUxMiwz
-OTk0MjE2NzZdfQ==
+eyJoaXN0b3J5IjpbLTYwNDY0ODU0NywtMzY4MDAwMzEzLDE5Nz
+AwMzgxODMsLTQ3NTI4MTI4MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2
+MywtMTUzODk5MTgxMiwtMTc2NTMwMDU1LDEwNTM4NjEwNTMsNj
+g0NTE1OTc1LDE3MDc2MjgwNTIsLTU3MTQ1OTU4OCwxNjYzMTc3
+OTEzLDE4Mjk2MjE3NTUsLTIxMTMxMjM5NDgsLTE4MDgxNTUxNy
+wyMDQxOTEwODUxLC0yMDk0MzkxOTA5LC0yMTEzMjU2NTEyLDM5
+OTQyMTY3Nl19
 -->
