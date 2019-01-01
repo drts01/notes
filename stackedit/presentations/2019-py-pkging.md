@@ -24,12 +24,15 @@ Share a Python software artifact using native packaging and distribution tools
 
 
 ## Vocab
+
+
+### What is a module
 ### What is a package
 Packages exist to be installed (or deployed)
-### What is a module
-### What is a distribution package
+#### What is a import package
+#### What is a distribution package
  - Source
-#### The Wheel Binary Package Format
+##### The Wheel Binary Package Format
 "A simpler interface between the build system and the installer. The wheel binary package format ... removes the need to install a build system in the target environment."<small><small>[ref](https://www.python.org/dev/peps/pep-0427/#id5)</small></small>
 
 
@@ -258,7 +261,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Mjg0MjU4NSwtMzY4MDAwMzEzLDE5Nz
+eyJoaXN0b3J5IjpbMTY5MTUxNTI2MSwtMzY4MDAwMzEzLDE5Nz
 AwMzgxODMsLTQ3NTI4MTI4MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2
 MywtMTUzODk5MTgxMiwtMTc2NTMwMDU1LDEwNTM4NjEwNTMsNj
 g0NTE1OTc1LDE3MDc2MjgwNTIsLTU3MTQ1OTU4OCwxNjYzMTc3
