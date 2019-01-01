@@ -35,6 +35,13 @@ A library, framework, script, plugin, application, or collection of data or othe
 #### What is a distribution [package]
 A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a snapshot of a project.
 <small><small>https://packaging.python.org/glossary/#term-distribution-package</small></small>
+```
+python_project/
+|-- setup.py
+|-- python_package/
+    |-- __init__.py
+    |-- module.py
+```
 
 _notes:
  - A distribution package is more commonly referred to with the single words “package” or “distribution”
@@ -49,8 +56,8 @@ A Python module which can contain other modules or recursively, other packages.
 ```
 python_project/
 |-- python_package/
-  |-- __init__.py
-  |-- module.py
+    |-- __init__.py
+    |-- module.py
 ```
 
 _notes:
@@ -310,11 +317,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTA1MTExNTQsNzU0Mjg4NDc3LDIwMT
-AzMzYxOTcsLTc4OTIyOTc0OSwzNzgzNjQ4MzEsLTM2ODAwMDMx
-MywxOTcwMDM4MTgzLC00NzUyODEyODEsMTQ2NjM5NTU4LDE0OT
-AyMTk5NjMsLTE1Mzg5OTE4MTIsLTE3NjUzMDA1NSwxMDUzODYx
-MDUzLDY4NDUxNTk3NSwxNzA3NjI4MDUyLC01NzE0NTk1ODgsMT
-Y2MzE3NzkxMywxODI5NjIxNzU1LC0yMTEzMTIzOTQ4LC0xODA4
-MTU1MTddfQ==
+eyJoaXN0b3J5IjpbLTEyMjk0MTk4MjksLTExOTA1MTExNTQsNz
+U0Mjg4NDc3LDIwMTAzMzYxOTcsLTc4OTIyOTc0OSwzNzgzNjQ4
+MzEsLTM2ODAwMDMxMywxOTcwMDM4MTgzLC00NzUyODEyODEsMT
+Q2NjM5NTU4LDE0OTAyMTk5NjMsLTE1Mzg5OTE4MTIsLTE3NjUz
+MDA1NSwxMDUzODYxMDUzLDY4NDUxNTk3NSwxNzA3NjI4MDUyLC
+01NzE0NTk1ODgsMTY2MzE3NzkxMywxODI5NjIxNzU1LC0yMTEz
+MTIzOTQ4XX0=
 -->
