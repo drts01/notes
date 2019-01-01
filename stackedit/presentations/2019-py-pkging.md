@@ -41,13 +41,13 @@ pip install helloworld
  - fetches from PyPI
  - runs setup
 
-## Installing My
+## Installing My Proje
 ```bash
-pip install .
+pip install -e .
 ```
 or
 ```bash
-python setup.py .
+python setup.py develop
 ```
 
 _notes:
@@ -258,11 +258,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0OTMxOTMxLDE5NzAwMzgxODMsLTQ3NT
-I4MTI4MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2MywtMTUzODk5MTgx
-MiwtMTc2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MD
-c2MjgwNTIsLTU3MTQ1OTU4OCwxNjYzMTc3OTEzLDE4Mjk2MjE3
-NTUsLTIxMTMxMjM5NDgsLTE4MDgxNTUxNywyMDQxOTEwODUxLC
-0yMDk0MzkxOTA5LC0yMTEzMjU2NTEyLDM5OTQyMTY3NiwxNjcz
-MTE2NDBdfQ==
+eyJoaXN0b3J5IjpbLTM0NzE1ODA1OCwxOTcwMDM4MTgzLC00Nz
+UyODEyODEsMTQ2NjM5NTU4LDE0OTAyMTk5NjMsLTE1Mzg5OTE4
+MTIsLTE3NjUzMDA1NSwxMDUzODYxMDUzLDY4NDUxNTk3NSwxNz
+A3NjI4MDUyLC01NzE0NTk1ODgsMTY2MzE3NzkxMywxODI5NjIx
+NzU1LC0yMTEzMTIzOTQ4LC0xODA4MTU1MTcsMjA0MTkxMDg1MS
+wtMjA5NDM5MTkwOSwtMjExMzI1NjUxMiwzOTk0MjE2NzYsMTY3
+MzExNjQwXX0=
 -->
