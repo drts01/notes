@@ -36,6 +36,8 @@ A library, framework, script, plugin, application, or collection of data or othe
 A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a Release.
 <small><small>https://packaging.python.org/glossary/#term-distribution-package</small></small>
 
+_notes:
+ - A distribution package is more commonly referred to with the single words “package” or “distribution”
 
 
 ## Vocab
@@ -292,11 +294,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTIyOTc0OSwzNzgzNjQ4MzEsLTM2OD
-AwMDMxMywxOTcwMDM4MTgzLC00NzUyODEyODEsMTQ2NjM5NTU4
-LDE0OTAyMTk5NjMsLTE1Mzg5OTE4MTIsLTE3NjUzMDA1NSwxMD
-UzODYxMDUzLDY4NDUxNTk3NSwxNzA3NjI4MDUyLC01NzE0NTk1
-ODgsMTY2MzE3NzkxMywxODI5NjIxNzU1LC0yMTEzMTIzOTQ4LC
-0xODA4MTU1MTcsMjA0MTkxMDg1MSwtMjA5NDM5MTkwOSwtMjEx
-MzI1NjUxMl19
+eyJoaXN0b3J5IjpbMTUwMzE2MTk2MywtNzg5MjI5NzQ5LDM3OD
+M2NDgzMSwtMzY4MDAwMzEzLDE5NzAwMzgxODMsLTQ3NTI4MTI4
+MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2MywtMTUzODk5MTgxMiwtMT
+c2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2Mjgw
+NTIsLTU3MTQ1OTU4OCwxNjYzMTc3OTEzLDE4Mjk2MjE3NTUsLT
+IxMTMxMjM5NDgsLTE4MDgxNTUxNywyMDQxOTEwODUxLC0yMDk0
+MzkxOTA5XX0=
 -->
