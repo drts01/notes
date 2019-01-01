@@ -56,6 +56,7 @@ A Python module which can contain other modules or recursively, other packages.
 
 _notes:
  - both distribution packages and import packages are commonly known as packages 
+ - Packages are a way of structuring Python’s module namespace
 
 
 
@@ -323,11 +324,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2Mjk4NDAxLC0xMTg3OTQ5MTM4LC00ND
-k2NTc5NTIsNTgzMzgyOTUsLTEyMjk0MTk4MjksLTExOTA1MTEx
-NTQsNzU0Mjg4NDc3LDIwMTAzMzYxOTcsLTc4OTIyOTc0OSwzNz
-gzNjQ4MzEsLTM2ODAwMDMxMywxOTcwMDM4MTgzLC00NzUyODEy
-ODEsMTQ2NjM5NTU4LDE0OTAyMTk5NjMsLTE1Mzg5OTE4MTIsLT
-E3NjUzMDA1NSwxMDUzODYxMDUzLDY4NDUxNTk3NSwxNzA3NjI4
-MDUyXX0=
+eyJoaXN0b3J5IjpbLTE1Mjg3MjY4NzMsLTExODc5NDkxMzgsLT
+Q0OTY1Nzk1Miw1ODMzODI5NSwtMTIyOTQxOTgyOSwtMTE5MDUx
+MTE1NCw3NTQyODg0NzcsMjAxMDMzNjE5NywtNzg5MjI5NzQ5LD
+M3ODM2NDgzMSwtMzY4MDAwMzEzLDE5NzAwMzgxODMsLTQ3NTI4
+MTI4MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2MywtMTUzODk5MTgxMi
+wtMTc2NTMwMDU1LDEwNTM4NjEwNTMsNjg0NTE1OTc1LDE3MDc2
+MjgwNTJdfQ==
 -->
