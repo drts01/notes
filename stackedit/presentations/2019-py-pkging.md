@@ -239,7 +239,7 @@ _notes:
 
 ## Publishing a Distribution
 ```bash
-
+python setup.py sdist bdist_wheel
 twine check
 twine push
 ```
@@ -335,7 +335,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzMwMDQxODEsNTk2MjgzNDksNjEzOD
+eyJoaXN0b3J5IjpbLTE4NDM2NDE1NDgsNTk2MjgzNDksNjEzOD
 U4MTYsLTExODc5NDkxMzgsLTQ0OTY1Nzk1Miw1ODMzODI5NSwt
 MTIyOTQxOTgyOSwtMTE5MDUxMTE1NCw3NTQyODg0NzcsMjAxMD
 MzNjE5NywtNzg5MjI5NzQ5LDM3ODM2NDgzMSwtMzY4MDAwMzEz
