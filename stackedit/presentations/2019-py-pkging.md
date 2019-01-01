@@ -1,11 +1,11 @@
 # [Mis]Adventures in Python Packaging
 
-
-
 ## \_\_init\_\_.py
 "Packaging is the fine art of creating a distributable software artifact"
 <small>-- ["The Packaging Gradient", Mahmoud Hashemi](https://www.youtube.com/watch?v=iLVNWfPWAC8) [[slides](https://speakerd.s3.amazonaws.com/presentations/d655083f4a4c4199ae2f7066d5b8fc47/The_Packaging_Gradient_-_Mahmoud_Hashemi_PyBay_2017.pdf)]</small>
 
+_notes:
+ - set out 
 
 
 ## getpass.getuser()
@@ -319,11 +319,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzMzgyOTUsLTEyMjk0MTk4MjksLTExOT
-A1MTExNTQsNzU0Mjg4NDc3LDIwMTAzMzYxOTcsLTc4OTIyOTc0
-OSwzNzgzNjQ4MzEsLTM2ODAwMDMxMywxOTcwMDM4MTgzLC00Nz
-UyODEyODEsMTQ2NjM5NTU4LDE0OTAyMTk5NjMsLTE1Mzg5OTE4
-MTIsLTE3NjUzMDA1NSwxMDUzODYxMDUzLDY4NDUxNTk3NSwxNz
-A3NjI4MDUyLC01NzE0NTk1ODgsMTY2MzE3NzkxMywxODI5NjIx
-NzU1XX0=
+eyJoaXN0b3J5IjpbLTEwNDkyNTM3MzAsNTgzMzgyOTUsLTEyMj
+k0MTk4MjksLTExOTA1MTExNTQsNzU0Mjg4NDc3LDIwMTAzMzYx
+OTcsLTc4OTIyOTc0OSwzNzgzNjQ4MzEsLTM2ODAwMDMxMywxOT
+cwMDM4MTgzLC00NzUyODEyODEsMTQ2NjM5NTU4LDE0OTAyMTk5
+NjMsLTE1Mzg5OTE4MTIsLTE3NjUzMDA1NSwxMDUzODYxMDUzLD
+Y4NDUxNTk3NSwxNzA3NjI4MDUyLC01NzE0NTk1ODgsMTY2MzE3
+NzkxM119
 -->
