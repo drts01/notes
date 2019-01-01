@@ -18,13 +18,15 @@ _notes:
 Share a Python software artifact using native packaging and distribution tools
 
 _notes:
- - can use
+ - can install and use as dependency
 
 
 
 ## .\. contents::
 
- 1. 
+ 1. Terminology
+ 2. Python Distribution Package Basics
+ 3. 
 
 
 
@@ -327,7 +329,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDc3MDU1MCw2MTM4NTgxNiwtMTE4Nz
+eyJoaXN0b3J5IjpbMTI1NzM4NjQ0MCw2MTM4NTgxNiwtMTE4Nz
 k0OTEzOCwtNDQ5NjU3OTUyLDU4MzM4Mjk1LC0xMjI5NDE5ODI5
 LC0xMTkwNTExMTU0LDc1NDI4ODQ3NywyMDEwMzM2MTk3LC03OD
 kyMjk3NDksMzc4MzY0ODMxLC0zNjgwMDAzMTMsMTk3MDAzODE4
