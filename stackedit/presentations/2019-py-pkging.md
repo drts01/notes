@@ -48,7 +48,8 @@ A Python module which can contain other modules or recursively, other packages.
 
 ```
 py_pkg/
-|--__init
+|-- __init__.py
+|-- module.py
 ```
 
 _notes:
@@ -60,6 +61,7 @@ _notes:
 
 ### What is a module
 ```
+/
 module.py
 ```
 
@@ -307,11 +309,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzNTQ2MzkxLDc1NDI4ODQ3NywyMDEwMz
-M2MTk3LC03ODkyMjk3NDksMzc4MzY0ODMxLC0zNjgwMDAzMTMs
-MTk3MDAzODE4MywtNDc1MjgxMjgxLDE0NjYzOTU1OCwxNDkwMj
-E5OTYzLC0xNTM4OTkxODEyLC0xNzY1MzAwNTUsMTA1Mzg2MTA1
-Myw2ODQ1MTU5NzUsMTcwNzYyODA1MiwtNTcxNDU5NTg4LDE2Nj
-MxNzc5MTMsMTgyOTYyMTc1NSwtMjExMzEyMzk0OCwtMTgwODE1
-NTE3XX0=
+eyJoaXN0b3J5IjpbLTEwNDM3MTUwMjQsNzU0Mjg4NDc3LDIwMT
+AzMzYxOTcsLTc4OTIyOTc0OSwzNzgzNjQ4MzEsLTM2ODAwMDMx
+MywxOTcwMDM4MTgzLC00NzUyODEyODEsMTQ2NjM5NTU4LDE0OT
+AyMTk5NjMsLTE1Mzg5OTE4MTIsLTE3NjUzMDA1NSwxMDUzODYx
+MDUzLDY4NDUxNTk3NSwxNzA3NjI4MDUyLC01NzE0NTk1ODgsMT
+Y2MzE3NzkxMywxODI5NjIxNzU1LC0yMTEzMTIzOTQ4LC0xODA4
+MTU1MTddfQ==
 -->
