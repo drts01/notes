@@ -122,6 +122,7 @@ _notes:
  - but how could your project be included in someone else's project?
 
 
+
 ## Python Packaging Index
 ![PyPI Screenshot](https://urlscan.io/liveshot/?url=http://pypi.python.org)
 
@@ -162,6 +163,7 @@ _notes:
  - all settings moved to cfg
  - no arbitrary code
  - cookiecutter checks min ver
+
 
 
 ## Setup<span></span>.cfg
@@ -222,6 +224,7 @@ _notes:
 _notes:
 
 
+
 ## Publishing a Distribution
 ```bash
 python setup.py sdist bdist_wheel
@@ -240,6 +243,7 @@ _notes:
  - ensures min version of setuptools is available before running setup.py
  - toml
  - can do more, check PEP
+
 
 
 ## Pipfile
@@ -313,6 +317,8 @@ _notes:
 	 - pyproject.toml
 	 - Pipenv / Pipfile
 
+
+
 ## Resources
 
  -  Python Packaging User Guide (PyPUG)  
@@ -323,11 +329,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyOTU3OTI4LC0yMTE0OTMzODYyLC00ND
-Y2NDg5MzMsLTE5MzczNjcwOTUsNTk2MjgzNDksNjEzODU4MTYs
-LTExODc5NDkxMzgsLTQ0OTY1Nzk1Miw1ODMzODI5NSwtMTIyOT
-QxOTgyOSwtMTE5MDUxMTE1NCw3NTQyODg0NzcsMjAxMDMzNjE5
-NywtNzg5MjI5NzQ5LDM3ODM2NDgzMSwtMzY4MDAwMzEzLDE5Nz
-AwMzgxODMsLTQ3NTI4MTI4MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2
-M119
+eyJoaXN0b3J5IjpbLTE1MDkyMjMzNTYsODkyOTU3OTI4LC0yMT
+E0OTMzODYyLC00NDY2NDg5MzMsLTE5MzczNjcwOTUsNTk2Mjgz
+NDksNjEzODU4MTYsLTExODc5NDkxMzgsLTQ0OTY1Nzk1Miw1OD
+MzODI5NSwtMTIyOTQxOTgyOSwtMTE5MDUxMTE1NCw3NTQyODg0
+NzcsMjAxMDMzNjE5NywtNzg5MjI5NzQ5LDM3ODM2NDgzMSwtMz
+Y4MDAwMzEzLDE5NzAwMzgxODMsLTQ3NTI4MTI4MSwxNDY2Mzk1
+NThdfQ==
 -->
