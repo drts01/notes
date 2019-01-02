@@ -21,6 +21,10 @@ Share a Python software artifact using native packaging and distribution tools
 
 _notes:
  - can install and use as dependency
+ - getting started had some hurdles
+	 - vocab / namespace collision
+	 - package_Da
+	 - evolving change landscape
 
 
 
@@ -201,7 +205,7 @@ wheel>=0.32.3
 ```
 
 _notes:
- - vs misad
+ - vs misadventure
 
 
 
@@ -334,11 +338,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDgzNjkwMTYsLTE1MDkyMjMzNTYsOD
-kyOTU3OTI4LC0yMTE0OTMzODYyLC00NDY2NDg5MzMsLTE5Mzcz
-NjcwOTUsNTk2MjgzNDksNjEzODU4MTYsLTExODc5NDkxMzgsLT
-Q0OTY1Nzk1Miw1ODMzODI5NSwtMTIyOTQxOTgyOSwtMTE5MDUx
-MTE1NCw3NTQyODg0NzcsMjAxMDMzNjE5NywtNzg5MjI5NzQ5LD
-M3ODM2NDgzMSwtMzY4MDAwMzEzLDE5NzAwMzgxODMsLTQ3NTI4
-MTI4MV19
+eyJoaXN0b3J5IjpbLTM0NTk4OTYwNiwtMTUwOTIyMzM1Niw4OT
+I5NTc5MjgsLTIxMTQ5MzM4NjIsLTQ0NjY0ODkzMywtMTkzNzM2
+NzA5NSw1OTYyODM0OSw2MTM4NTgxNiwtMTE4Nzk0OTEzOCwtND
+Q5NjU3OTUyLDU4MzM4Mjk1LC0xMjI5NDE5ODI5LC0xMTkwNTEx
+MTU0LDc1NDI4ODQ3NywyMDEwMzM2MTk3LC03ODkyMjk3NDksMz
+c4MzY0ODMxLC0zNjgwMDAzMTMsMTk3MDAzODE4MywtNDc1Mjgx
+MjgxXX0=
 -->
