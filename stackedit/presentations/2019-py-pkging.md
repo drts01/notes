@@ -10,8 +10,10 @@ _notes:
  - lost in outdated, error/missing documentation, evolving landscape
 
 
+
 ## getpass.getuser()
 ![enter image description here](https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/12552979_10205639299965038_7979753503545406419_n.jpg?_nc_cat=103&_nc_ht=scontent-lax3-1.xx&oh=cad169a7025ee23ab4ba3002f0635223&oe=5C8E83F1)<!-- .element: style="height:50%" -->
+
 
 
 ## Why
@@ -27,15 +29,6 @@ _notes:
  1. Terminology
  2. Python Distribution Package Basics
  3. Python Distribution Package Advancements
-
-
-
-## Vocab
-
-### Project
-A library, framework, script, plugin, application, or collection of data or other resources, or some combination thereof that is intended to be packaged into a Distribution.
-<small><small>https://packaging.python.org/glossary/#term-project</small></small>
-
 
 
 
@@ -339,11 +332,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NjY0ODkzMywtMTkzNzM2NzA5NSw1OT
-YyODM0OSw2MTM4NTgxNiwtMTE4Nzk0OTEzOCwtNDQ5NjU3OTUy
-LDU4MzM4Mjk1LC0xMjI5NDE5ODI5LC0xMTkwNTExMTU0LDc1ND
-I4ODQ3NywyMDEwMzM2MTk3LC03ODkyMjk3NDksMzc4MzY0ODMx
-LC0zNjgwMDAzMTMsMTk3MDAzODE4MywtNDc1MjgxMjgxLDE0Nj
-YzOTU1OCwxNDkwMjE5OTYzLC0xNTM4OTkxODEyLC0xNzY1MzAw
-NTVdfQ==
+eyJoaXN0b3J5IjpbLTU0Mzk0OTkyNSwtNDQ2NjQ4OTMzLC0xOT
+M3MzY3MDk1LDU5NjI4MzQ5LDYxMzg1ODE2LC0xMTg3OTQ5MTM4
+LC00NDk2NTc5NTIsNTgzMzgyOTUsLTEyMjk0MTk4MjksLTExOT
+A1MTExNTQsNzU0Mjg4NDc3LDIwMTAzMzYxOTcsLTc4OTIyOTc0
+OSwzNzgzNjQ4MzEsLTM2ODAwMDMxMywxOTcwMDM4MTgzLC00Nz
+UyODEyODEsMTQ2NjM5NTU4LDE0OTAyMTk5NjMsLTE1Mzg5OTE4
+MTJdfQ==
 -->
