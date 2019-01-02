@@ -44,6 +44,7 @@ _notes:
  - can scp or curl, no versioning
 
 
+
 ## Vocab
 
 ### [Import] package
@@ -152,7 +153,8 @@ _notes:
  - too minimal: tests, docs, changelog, etc
 
 
-### Setup<span></span>.py
+
+## Setup<span></span>.py
 ```python
 from setuptools import setup
 
@@ -165,7 +167,7 @@ _notes:
  - cookiecutter checks min ver
 
 
-### Setup<span></span>.cfg
+## Setup<span></span>.cfg
 ```ini
 [metadata]
 name = python_project
@@ -194,7 +196,7 @@ python setup.py develop
 
 
 
-### Requirements<span></span>.txt
+## Requirements<span></span>.txt
 `install_requires` vs ` requirements.txt`
 abstract vs concrete
 ```
@@ -207,7 +209,7 @@ wheel>=0.32.3
 
 
 
-### Manifest<span></span>.in
+## Manifest<span></span>.in
 "`package_data` is a lie. Ignore it. Only use `MANIFEST.in`."
 <small>-- http://blog.codekills.net/2011/07/15/lies,-more-lies-and-python-packaging-documentation-on--package_data-/</small>
 
@@ -223,7 +225,7 @@ _notes:
 
 
 
-### Other Files
+## Other Files
  - License
  - Readme
 
@@ -236,7 +238,6 @@ python setup.py sdist bdist_wheel
 twine check
 twine push
 ```
-
 
 
 ## pyproject<span></span>.toml
@@ -332,11 +333,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Mzk0OTkyNSwtNDQ2NjQ4OTMzLC0xOT
-M3MzY3MDk1LDU5NjI4MzQ5LDYxMzg1ODE2LC0xMTg3OTQ5MTM4
-LC00NDk2NTc5NTIsNTgzMzgyOTUsLTEyMjk0MTk4MjksLTExOT
-A1MTExNTQsNzU0Mjg4NDc3LDIwMTAzMzYxOTcsLTc4OTIyOTc0
-OSwzNzgzNjQ4MzEsLTM2ODAwMDMxMywxOTcwMDM4MTgzLC00Nz
-UyODEyODEsMTQ2NjM5NTU4LDE0OTAyMTk5NjMsLTE1Mzg5OTE4
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTIxMTQ5MzM4NjIsLTQ0NjY0ODkzMywtMT
+kzNzM2NzA5NSw1OTYyODM0OSw2MTM4NTgxNiwtMTE4Nzk0OTEz
+OCwtNDQ5NjU3OTUyLDU4MzM4Mjk1LC0xMjI5NDE5ODI5LC0xMT
+kwNTExMTU0LDc1NDI4ODQ3NywyMDEwMzM2MTk3LC03ODkyMjk3
+NDksMzc4MzY0ODMxLC0zNjgwMDAzMTMsMTk3MDAzODE4MywtND
+c1MjgxMjgxLDE0NjYzOTU1OCwxNDkwMjE5OTYzLC0xNTM4OTkx
+ODEyXX0=
 -->
