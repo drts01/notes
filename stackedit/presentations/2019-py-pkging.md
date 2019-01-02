@@ -23,7 +23,8 @@ _notes:
  - can install and use as dependency
  - getting started had some hurdles
 	 - vocab / namespace collision
-	 - package_Da
+	 - package_data
+	 - install_requires vs requirements.txt
 	 - evolving change landscape
 
 
@@ -338,7 +339,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTk4OTYwNiwtMTUwOTIyMzM1Niw4OT
+eyJoaXN0b3J5IjpbLTEzNTk1MzE1MywtMTUwOTIyMzM1Niw4OT
 I5NTc5MjgsLTIxMTQ5MzM4NjIsLTQ0NjY0ODkzMywtMTkzNzM2
 NzA5NSw1OTYyODM0OSw2MTM4NTgxNiwtMTE4Nzk0OTEzOCwtND
 Q5NjU3OTUyLDU4MzM4Mjk1LC0xMjI5NDE5ODI5LC0xMTkwNTEx
