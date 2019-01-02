@@ -34,7 +34,7 @@ _notes:
 
 ## Vocab
 
-### What is a module
+### Module
 The basic unit of code reusability in Python.
 ```
 module.py
@@ -48,8 +48,7 @@ _notes:
 ## Vocab
 
 ### [Import] package
-A Python module which can contain other modules or recursively, other packages.
-<small><small>https://packaging.python.org/glossary/#term-module</small></small>
+A Python module which can contain other modules or recursively, other packages.<br/><small><small>https://packaging.python.org/glossary/#term-module</small></small>
 ```
 |-- python_package/
     |-- __init__.py
@@ -64,7 +63,7 @@ _notes:
 
 
 ## Vocab
-#### What is a distribution [package]
+### Distribution [package]
 A versioned archive file that contains Python packages, modules, and other resource files that are used to distribute a snapshot of a project.
 <small><small>https://packaging.python.org/glossary/#term-distribution-package</small></small>
 ```
@@ -333,11 +332,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQ5MzM4NjIsLTQ0NjY0ODkzMywtMT
-kzNzM2NzA5NSw1OTYyODM0OSw2MTM4NTgxNiwtMTE4Nzk0OTEz
-OCwtNDQ5NjU3OTUyLDU4MzM4Mjk1LC0xMjI5NDE5ODI5LC0xMT
-kwNTExMTU0LDc1NDI4ODQ3NywyMDEwMzM2MTk3LC03ODkyMjk3
-NDksMzc4MzY0ODMxLC0zNjgwMDAzMTMsMTk3MDAzODE4MywtND
-c1MjgxMjgxLDE0NjYzOTU1OCwxNDkwMjE5OTYzLC0xNTM4OTkx
-ODEyXX0=
+eyJoaXN0b3J5IjpbMzU2MDg0NzEyLC0yMTE0OTMzODYyLC00ND
+Y2NDg5MzMsLTE5MzczNjcwOTUsNTk2MjgzNDksNjEzODU4MTYs
+LTExODc5NDkxMzgsLTQ0OTY1Nzk1Miw1ODMzODI5NSwtMTIyOT
+QxOTgyOSwtMTE5MDUxMTE1NCw3NTQyODg0NzcsMjAxMDMzNjE5
+NywtNzg5MjI5NzQ5LDM3ODM2NDgzMSwtMzY4MDAwMzEzLDE5Nz
+AwMzgxODMsLTQ3NTI4MTI4MSwxNDY2Mzk1NTgsMTQ5MDIxOTk2
+M119
 -->
