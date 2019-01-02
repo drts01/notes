@@ -42,6 +42,7 @@ module.py
 
 _notes:
  - can scp or curl, no versioning
+ - vocab misadventure
 
 
 
@@ -199,6 +200,9 @@ twine>=1.12.1
 wheel>=0.32.3
 ```
 
+_notes:
+ - vs misad
+
 
 
 ## Manifest<span></span>.in
@@ -213,7 +217,8 @@ include LICENSE
 _notes:
 * includes files that are not in the py pkg dir
  - lies
- - inconsistency with whats included automatically between wheel and sdist 
+ - inconsistency with whats included automatically between wheel and sdist
+ - package_data misadventure
 
 
 
@@ -329,11 +334,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDkyMjMzNTYsODkyOTU3OTI4LC0yMT
-E0OTMzODYyLC00NDY2NDg5MzMsLTE5MzczNjcwOTUsNTk2Mjgz
-NDksNjEzODU4MTYsLTExODc5NDkxMzgsLTQ0OTY1Nzk1Miw1OD
-MzODI5NSwtMTIyOTQxOTgyOSwtMTE5MDUxMTE1NCw3NTQyODg0
-NzcsMjAxMDMzNjE5NywtNzg5MjI5NzQ5LDM3ODM2NDgzMSwtMz
-Y4MDAwMzEzLDE5NzAwMzgxODMsLTQ3NTI4MTI4MSwxNDY2Mzk1
-NThdfQ==
+eyJoaXN0b3J5IjpbLTE2MDgzNjkwMTYsLTE1MDkyMjMzNTYsOD
+kyOTU3OTI4LC0yMTE0OTMzODYyLC00NDY2NDg5MzMsLTE5Mzcz
+NjcwOTUsNTk2MjgzNDksNjEzODU4MTYsLTExODc5NDkxMzgsLT
+Q0OTY1Nzk1Miw1ODMzODI5NSwtMTIyOTQxOTgyOSwtMTE5MDUx
+MTE1NCw3NTQyODg0NzcsMjAxMDMzNjE5NywtNzg5MjI5NzQ5LD
+M3ODM2NDgzMSwtMzY4MDAwMzEzLDE5NzAwMzgxODMsLTQ3NTI4
+MTI4MV19
 -->
