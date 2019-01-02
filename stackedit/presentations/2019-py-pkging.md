@@ -83,16 +83,14 @@ _notes:
 ## Vocab - Distribution
 
 ### Source Distribution
-A distribution format that provides metadata and the essential source files.
-<small><small>https://packaging.python.org/glossary/#term-source-distribution-or-sdist</small></small>
+A distribution format that provides metadata and the essential source files.<br/><small><small>https://packaging.python.org/glossary/#term-source-distribution-or-sdist</small></small>
 
 
 
 ## Vocab - Distribution
 
 ### Built Distribution - Wheel
-A simpler interface between the build system and the installer. The wheel binary package format ... removes the need to install a build system in the target environment.
-<small><small>[https://www.python.org/dev/peps/pep-0427/#id5](https://www.python.org/dev/peps/pep-0427/#id5)</small></small>
+A simpler interface between the build system and the installer. The wheel binary package format ... removes the need to install a build system in the target environment.<br/><small><small>[https://www.python.org/dev/peps/pep-0427/#id5](https://www.python.org/dev/peps/pep-0427/#id5)</small></small>
 
 _notes:
  - quickly copies files into place
@@ -185,13 +183,6 @@ _notes:
  - simpler and easier
  - less errors
  - `twine check dist/*`
-
-
-
-### f
-```bash
-python setup.py develop
-```
 
 
 
@@ -332,7 +323,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2MDg0NzEyLC0yMTE0OTMzODYyLC00ND
+eyJoaXN0b3J5IjpbODkyOTU3OTI4LC0yMTE0OTMzODYyLC00ND
 Y2NDg5MzMsLTE5MzczNjcwOTUsNTk2MjgzNDksNjEzODU4MTYs
 LTExODc5NDkxMzgsLTQ0OTY1Nzk1Miw1ODMzODI5NSwtMTIyOT
 QxOTgyOSwtMTE5MDUxMTE1NCw3NTQyODg0NzcsMjAxMDMzNjE5
