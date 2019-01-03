@@ -184,9 +184,9 @@ classifiers =
     Programming Language :: Python :: 3
 
 [options]
+include_package_data = True
 install_requires =
 packages = find:
-include_package_data = True
 ```
 _notes:
  - simpler and easier
@@ -356,11 +356,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzE5OTYxNSwxNTA4NjYxNTEwLC0zMT
-gzNDEzODMsLTM0NjE5OTk4NCwtMTM1OTUzMTUzLC0xNTA5MjIz
-MzU2LDg5Mjk1NzkyOCwtMjExNDkzMzg2MiwtNDQ2NjQ4OTMzLC
-0xOTM3MzY3MDk1LDU5NjI4MzQ5LDYxMzg1ODE2LC0xMTg3OTQ5
-MTM4LC00NDk2NTc5NTIsNTgzMzgyOTUsLTEyMjk0MTk4MjksLT
-ExOTA1MTExNTQsNzU0Mjg4NDc3LDIwMTAzMzYxOTcsLTc4OTIy
-OTc0OV19
+eyJoaXN0b3J5IjpbNDE0MDYyMjc1LDE1MDg2NjE1MTAsLTMxOD
+M0MTM4MywtMzQ2MTk5OTg0LC0xMzU5NTMxNTMsLTE1MDkyMjMz
+NTYsODkyOTU3OTI4LC0yMTE0OTMzODYyLC00NDY2NDg5MzMsLT
+E5MzczNjcwOTUsNTk2MjgzNDksNjEzODU4MTYsLTExODc5NDkx
+MzgsLTQ0OTY1Nzk1Miw1ODMzODI5NSwtMTIyOTQxOTgyOSwtMT
+E5MDUxMTE1NCw3NTQyODg0NzcsMjAxMDMzNjE5NywtNzg5MjI5
+NzQ5XX0=
 -->
