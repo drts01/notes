@@ -198,7 +198,7 @@ _notes:
 ```ini
 [options.entry_points]
 console_scripts =
-    python-project-command = pkg_demo.__main__:main
+    python-project-command = project_package.__main__:main
 ```
 
 
@@ -347,11 +347,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzM3NzMzNCwtMTM1OTUzMTUzLC0xNT
-A5MjIzMzU2LDg5Mjk1NzkyOCwtMjExNDkzMzg2MiwtNDQ2NjQ4
-OTMzLC0xOTM3MzY3MDk1LDU5NjI4MzQ5LDYxMzg1ODE2LC0xMT
-g3OTQ5MTM4LC00NDk2NTc5NTIsNTgzMzgyOTUsLTEyMjk0MTk4
-MjksLTExOTA1MTExNTQsNzU0Mjg4NDc3LDIwMTAzMzYxOTcsLT
-c4OTIyOTc0OSwzNzgzNjQ4MzEsLTM2ODAwMDMxMywxOTcwMDM4
-MTgzXX0=
+eyJoaXN0b3J5IjpbLTEwNzQ0MDg0NzgsLTEzNTk1MzE1MywtMT
+UwOTIyMzM1Niw4OTI5NTc5MjgsLTIxMTQ5MzM4NjIsLTQ0NjY0
+ODkzMywtMTkzNzM2NzA5NSw1OTYyODM0OSw2MTM4NTgxNiwtMT
+E4Nzk0OTEzOCwtNDQ5NjU3OTUyLDU4MzM4Mjk1LC0xMjI5NDE5
+ODI5LC0xMTkwNTExMTU0LDc1NDI4ODQ3NywyMDEwMzM2MTk3LC
+03ODkyMjk3NDksMzc4MzY0ODMxLC0zNjgwMDAzMTMsMTk3MDAz
+ODE4M119
 -->
