@@ -221,7 +221,7 @@ _notes:
 
 ## Manifest<span></span>.in
 "A `MANIFEST.in` is needed when you need to package additional files that are not automatically included"
-<small><small></small></small>
+<small><small>https://packaging.python.org/guides/distributing-packages-using-setuptools/#manifest-in</small></small>
 "`package_data` is a lie. Ignore it. Only use `MANIFEST.in`."
 <small>-- http://blog.codekills.net/2011/07/15/lies,-more-lies-and-python-packaging-documentation-on--package_data-/</small>
 
@@ -350,7 +350,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDUzMjQ2MSwtMzQ2MTk5OTg0LC0xMz
+eyJoaXN0b3J5IjpbLTMxODM0MTM4MywtMzQ2MTk5OTg0LC0xMz
 U5NTMxNTMsLTE1MDkyMjMzNTYsODkyOTU3OTI4LC0yMTE0OTMz
 ODYyLC00NDY2NDg5MzMsLTE5MzczNjcwOTUsNTk2MjgzNDksNj
 EzODU4MTYsLTExODc5NDkxMzgsLTQ0OTY1Nzk1Miw1ODMzODI5
