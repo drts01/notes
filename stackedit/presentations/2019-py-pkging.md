@@ -220,6 +220,8 @@ _notes:
 
 
 ## Manifest<span></span>.in
+"A `MANIFEST.in` is needed when you need to package additional files that are not automatically included"
+<small><small></small></small>
 "`package_data` is a lie. Ignore it. Only use `MANIFEST.in`."
 <small>-- http://blog.codekills.net/2011/07/15/lies,-more-lies-and-python-packaging-documentation-on--package_data-/</small>
 
@@ -348,11 +350,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjE5OTk4NCwtMTM1OTUzMTUzLC0xNT
-A5MjIzMzU2LDg5Mjk1NzkyOCwtMjExNDkzMzg2MiwtNDQ2NjQ4
-OTMzLC0xOTM3MzY3MDk1LDU5NjI4MzQ5LDYxMzg1ODE2LC0xMT
-g3OTQ5MTM4LC00NDk2NTc5NTIsNTgzMzgyOTUsLTEyMjk0MTk4
-MjksLTExOTA1MTExNTQsNzU0Mjg4NDc3LDIwMTAzMzYxOTcsLT
-c4OTIyOTc0OSwzNzgzNjQ4MzEsLTM2ODAwMDMxMywxOTcwMDM4
-MTgzXX0=
+eyJoaXN0b3J5IjpbMTcxNDUzMjQ2MSwtMzQ2MTk5OTg0LC0xMz
+U5NTMxNTMsLTE1MDkyMjMzNTYsODkyOTU3OTI4LC0yMTE0OTMz
+ODYyLC00NDY2NDg5MzMsLTE5MzczNjcwOTUsNTk2MjgzNDksNj
+EzODU4MTYsLTExODc5NDkxMzgsLTQ0OTY1Nzk1Miw1ODMzODI5
+NSwtMTIyOTQxOTgyOSwtMTE5MDUxMTE1NCw3NTQyODg0NzcsMj
+AxMDMzNjE5NywtNzg5MjI5NzQ5LDM3ODM2NDgzMSwtMzY4MDAw
+MzEzXX0=
 -->
