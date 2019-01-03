@@ -194,6 +194,14 @@ _notes:
 
 
 
+## Setup<span></span>.cfg - CLI
+```ini
+[options.entry_points]
+console_scripts =
+    python_project_cli = pkg_demo.__main__:main
+```
+
+
 ## Requirements<span></span>.txt
 `install_requires` vs ` requirements.txt`
 abstract vs concrete
@@ -339,11 +347,11 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk1MzE1MywtMTUwOTIyMzM1Niw4OT
-I5NTc5MjgsLTIxMTQ5MzM4NjIsLTQ0NjY0ODkzMywtMTkzNzM2
-NzA5NSw1OTYyODM0OSw2MTM4NTgxNiwtMTE4Nzk0OTEzOCwtND
-Q5NjU3OTUyLDU4MzM4Mjk1LC0xMjI5NDE5ODI5LC0xMTkwNTEx
-MTU0LDc1NDI4ODQ3NywyMDEwMzM2MTk3LC03ODkyMjk3NDksMz
-c4MzY0ODMxLC0zNjgwMDAzMTMsMTk3MDAzODE4MywtNDc1Mjgx
-MjgxXX0=
+eyJoaXN0b3J5IjpbLTI3NzU1Nzc4NywtMTM1OTUzMTUzLC0xNT
+A5MjIzMzU2LDg5Mjk1NzkyOCwtMjExNDkzMzg2MiwtNDQ2NjQ4
+OTMzLC0xOTM3MzY3MDk1LDU5NjI4MzQ5LDYxMzg1ODE2LC0xMT
+g3OTQ5MTM4LC00NDk2NTc5NTIsNTgzMzgyOTUsLTEyMjk0MTk4
+MjksLTExOTA1MTExNTQsNzU0Mjg4NDc3LDIwMTAzMzYxOTcsLT
+c4OTIyOTc0OSwzNzgzNjQ4MzEsLTM2ODAwMDMxMywxOTcwMDM4
+MTgzXX0=
 -->
