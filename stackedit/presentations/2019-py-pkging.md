@@ -198,7 +198,7 @@ _notes:
 ```ini
 [options.entry_points]
 console_scripts =
-    python_project_cli = pkg_demo.__main__:main
+    python-project-command = pkg_demo.__main__:main
 ```
 
 
@@ -347,7 +347,7 @@ _notes:
 ### Tools
  - check-manifest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzU1Nzc4NywtMTM1OTUzMTUzLC0xNT
+eyJoaXN0b3J5IjpbMjA4MzM3NzMzNCwtMTM1OTUzMTUzLC0xNT
 A5MjIzMzU2LDg5Mjk1NzkyOCwtMjExNDkzMzg2MiwtNDQ2NjQ4
 OTMzLC0xOTM3MzY3MDk1LDU5NjI4MzQ5LDYxMzg1ODE2LC0xMT
 g3OTQ5MTM4LC00NDk2NTc5NTIsNTgzMzgyOTUsLTEyMjk0MTk4
