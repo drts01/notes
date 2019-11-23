@@ -9,7 +9,6 @@
 ### Base
 * pyenv
 * pipx
-
 ### User
 * Pipenv
 
@@ -22,5 +21,5 @@
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzEyMDcyNV19
+eyJoaXN0b3J5IjpbNDU4MzA0MTMxXX0=
 -->
