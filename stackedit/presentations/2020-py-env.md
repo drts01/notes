@@ -1,5 +1,6 @@
 # Python Environment
 
+Have you ever been working on a Python project and discovered you broke the dependenci
 
 
 ---
@@ -21,5 +22,5 @@
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3Mjk4MzExXX0=
+eyJoaXN0b3J5IjpbMjAzNTI1MDQ1Nyw2OTcyOTgzMTFdfQ==
 -->
