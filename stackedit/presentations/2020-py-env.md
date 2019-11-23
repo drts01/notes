@@ -1,5 +1,5 @@
-
 # Python Environment
+
 
 
 ---
@@ -21,5 +21,5 @@
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTYyNjg3M119
+eyJoaXN0b3J5IjpbNjk3Mjk4MzExXX0=
 -->
