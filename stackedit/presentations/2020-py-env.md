@@ -1,10 +1,15 @@
 # Python Environment
 
-Have you ever been working on a Python project and discovered you broke the dependencies of another project. Or even worse, borked you system's Python? It does not have to be like this, there is a better way.
+## Abstract
+When working with Python, have things stopped working as expected? The system's Python gets hosed? Dependency versions are inconsistent between environments? It does not have to be like this, there is a better way.
 
-We will go over managing multiple versions of Python on you system and isolating packages with virtual environments. A few tools to help you keep your sanity when working with Python will also be included.
+We will go over managing multiple versions of Python and isolating packages with virtual environments. Also, we will cover a few tools and a workflow that will help you keep your sanity when working with Python.
 
-This is applicable to both, developers and system engineers.
+This talk applies to both developers and system engineers.
+
+## Outline
+
+1. 
 
 You dont have to live like this
 
@@ -29,6 +34,6 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzcyNTgyNSwxMjY4NTA2MTk4LDg0Mz
-g1MjY5Niw2OTcyOTgzMTFdfQ==
+eyJoaXN0b3J5IjpbMTAzNTIxMjYyNywtMzIzNzI1ODI1LDEyNj
+g1MDYxOTgsODQzODUyNjk2LDY5NzI5ODMxMV19
 -->
