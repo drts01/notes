@@ -2,7 +2,7 @@
 
 Have you ever been working on a Python project and discovered you broke the dependencies of another project. Or even worse, borked you system's Python? It does not have to be like this, there is a better way.
 
-We will go over managing multiple versions of Python on you system and isolating packages with virtual environments.  few tools to help you keep your sanity when working with Python.
+We will go over managing multiple versions of Python on you system and isolating packages with virtual environments. A few tools to help you keep your sanity when working with Python will also be included.
 
 This is applicable to both, developers and system engineers.
 
@@ -29,6 +29,6 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzcwNTgyNiwxMjY4NTA2MTk4LDg0Mz
+eyJoaXN0b3J5IjpbLTMyMzcyNTgyNSwxMjY4NTA2MTk4LDg0Mz
 g1MjY5Niw2OTcyOTgzMTFdfQ==
 -->
