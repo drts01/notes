@@ -16,18 +16,18 @@ After years of working with Python, the tools available are finally coming toget
 	1. Problem
 	2. Why Me
 2. Installing Python (8 min)
-	1. pyenv
+	1. pyenv (p
 		1. What and Why
 		2. Installing and Compiling
 	2. Setting up environment
 		1. bashrc
 		1. Default Python(s)
 3. Virtual Environments (15 min)
-	1. What and Why
-	2. Pipx
+	1. What and Why (3 min)
+	2. Pipx (6 min)
 		1. What and Why
 		2. How
-	3. Pipenv / Pipfile
+	3. Pipenv / Pipfile (6 min)
 		1. What and Why
 		2. How
 4. Examples
@@ -66,6 +66,6 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDgzOTUwNDcsLTMyMzcyNTgyNSwxMj
-Y4NTA2MTk4LDg0Mzg1MjY5Niw2OTcyOTgzMTFdfQ==
+eyJoaXN0b3J5IjpbMTM4MTkyMjM3MywtMzIzNzI1ODI1LDEyNj
+g1MDYxOTgsODQzODUyNjk2LDY5NzI5ODMxMV19
 -->
