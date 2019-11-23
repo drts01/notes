@@ -40,7 +40,8 @@ After years of working with Python, the tools available are finally coming toget
 		* Salt / Ansible
 		* AWS CLI / SAWS
 5. Conclusion
-        1.
+	1. Summary - pyenv + pipx + pipenv
+	2. Q&A
 
 You dont have to live like this
 
@@ -65,6 +66,6 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzY3NjczMywtMzIzNzI1ODI1LDEyNj
-g1MDYxOTgsODQzODUyNjk2LDY5NzI5ODMxMV19
+eyJoaXN0b3J5IjpbLTE0MDgzOTUwNDcsLTMyMzcyNTgyNSwxMj
+Y4NTA2MTk4LDg0Mzg1MjY5Niw2OTcyOTgzMTFdfQ==
 -->
