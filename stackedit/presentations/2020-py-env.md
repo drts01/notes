@@ -12,9 +12,10 @@ This talk applies to both developers and system engineers.
 1. Intro
 2. Installing Python
 	1. pyenv
+		1. What and W
 	2. Setting up environment
-		* bashrc
-		* default [
+		1. bashrc
+		1. Default Python(s)
 3. Virtual Environments
 4. Examples
 	1. Developer
@@ -49,6 +50,6 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1MDg4MjMyLC0zMjM3MjU4MjUsMTI2OD
-UwNjE5OCw4NDM4NTI2OTYsNjk3Mjk4MzExXX0=
+eyJoaXN0b3J5IjpbLTI2NDE0NzUxNiwtMzIzNzI1ODI1LDEyNj
+g1MDYxOTgsODQzODUyNjk2LDY5NzI5ODMxMV19
 -->
