@@ -9,7 +9,12 @@ This talk applies to both developers and system engineers.
 
 ## Outline
 
-1. 
+1. Intro
+2. Installing Python
+3. Virtual Environments
+4. Examples
+	1. Developer
+		*  
 
 You dont have to live like this
 
@@ -34,6 +39,6 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTIxMjYyNywtMzIzNzI1ODI1LDEyNj
-g1MDYxOTgsODQzODUyNjk2LDY5NzI5ODMxMV19
+eyJoaXN0b3J5IjpbLTE1NzM2Mzg2MTgsLTMyMzcyNTgyNSwxMj
+Y4NTA2MTk4LDg0Mzg1MjY5Niw2OTcyOTgzMTFdfQ==
 -->
