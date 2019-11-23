@@ -14,7 +14,13 @@ This talk applies to both developers and system engineers.
 3. Virtual Environments
 4. Examples
 	1. Developer
-		*  
+		* Cookie Cutter
+		* Tox
+		* Sample Proc
+	2. Systems Engineer
+		* Docker Compose
+		* Salt / Ansible
+		* AWS CLI / SAWS 
 
 You dont have to live like this
 
@@ -39,6 +45,6 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzM2Mzg2MTgsLTMyMzcyNTgyNSwxMj
+eyJoaXN0b3J5IjpbLTIwMDA2NzUxMTQsLTMyMzcyNTgyNSwxMj
 Y4NTA2MTk4LDg0Mzg1MjY5Niw2OTcyOTgzMTFdfQ==
 -->
