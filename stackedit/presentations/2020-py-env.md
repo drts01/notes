@@ -5,6 +5,8 @@ When working with Python, have things stopped working as expected? The system's 
 
 We will go over managing multiple versions of Python and isolating packages with virtual environments. Also, we will cover a few tools and a workflow that will help you keep your sanity when working with Python.
 
+
+
 This talk applies to both developers and system engineers.
 
 ## Outline
@@ -12,11 +14,13 @@ This talk applies to both developers and system engineers.
 1. Intro
 2. Installing Python
 	1. pyenv
-		1. What and W
+		1. What and Why
+		2. Installing and Compiling
 	2. Setting up environment
 		1. bashrc
 		1. Default Python(s)
 3. Virtual Environments
+	1. What and Why
 4. Examples
 	1. Developer
 		* Cookie Cutter
@@ -50,6 +54,6 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDE0NzUxNiwtMzIzNzI1ODI1LDEyNj
+eyJoaXN0b3J5IjpbLTQzMDQ2MzMwNywtMzIzNzI1ODI1LDEyNj
 g1MDYxOTgsODQzODUyNjk2LDY5NzI5ODMxMV19
 -->
