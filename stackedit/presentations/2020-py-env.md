@@ -13,7 +13,7 @@
 * Pipenv
 
 ## Use Cases
-### Devlopers
+### Developer
 * Tox
 * cookie-cutter
 ### System Engineers
@@ -21,5 +21,5 @@
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4MzA0MTMxXX0=
+eyJoaXN0b3J5IjpbLTc3NTYyNjg3M119
 -->
