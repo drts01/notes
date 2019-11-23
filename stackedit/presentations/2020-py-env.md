@@ -5,9 +5,10 @@ When working with Python, have things stopped working as expected? The system's 
 
 We will go over managing multiple versions of Python and isolating packages with virtual environments. Also, we will cover a few tools and a workflow that will help you keep your sanity when working with Python.
 
-
-
 This talk applies to both developers and system engineers.
+
+## Long
+After years of working with Python
 
 ## Outline
 
@@ -54,6 +55,6 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDQ2MzMwNywtMzIzNzI1ODI1LDEyNj
+eyJoaXN0b3J5IjpbMTQ0NjU5MjYzMywtMzIzNzI1ODI1LDEyNj
 g1MDYxOTgsODQzODUyNjk2LDY5NzI5ODMxMV19
 -->
