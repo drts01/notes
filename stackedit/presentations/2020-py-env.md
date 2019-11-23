@@ -8,7 +8,7 @@ We will go over managing multiple versions of Python and isolating packages with
 This talk applies to both developers and system engineers.
 
 ## Long
-After years of working with Python
+After years of working with Python, the tools available are finally coming together to work symbiotically.
 
 ## Outline
 
@@ -22,6 +22,9 @@ After years of working with Python
 		1. Default Python(s)
 3. Virtual Environments
 	1. What and Why
+	2. Pipenv / Pipfile
+		1. What and Why
+		2. 
 4. Examples
 	1. Developer
 		* Cookie Cutter
@@ -55,6 +58,6 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjU5MjYzMywtMzIzNzI1ODI1LDEyNj
+eyJoaXN0b3J5IjpbLTEwMTM5NTYxMywtMzIzNzI1ODI1LDEyNj
 g1MDYxOTgsODQzODUyNjk2LDY5NzI5ODMxMV19
 -->
