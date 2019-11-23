@@ -12,13 +12,15 @@
 
 ### User
 * Pipenv
-* Tox
 
 ## Use Cases
 ### Devlopers
+* Tox
+* cookie-cutter
 ### System Engineers
 * Salt / Ansible
 * SAWS / AWS
+* docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTAzMDUyOTZdfQ==
+eyJoaXN0b3J5IjpbMTk0NzEyMDcyNV19
 -->
