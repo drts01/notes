@@ -1,6 +1,8 @@
 # Python Environment
 
-Have you ever been working on a Python project and discovered you broke the dependenci
+Have you ever been working on a Python project and discovered you broke the dependencies of another project. Or even worse, borked you system's Python? It does not have to be 
+
+You dont have to live like this
 
 
 ---
@@ -22,5 +24,5 @@ Have you ever been working on a Python project and discovered you broke the depe
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTI1MDQ1Nyw2OTcyOTgzMTFdfQ==
+eyJoaXN0b3J5IjpbLTEwOTkzMjQ5MDIsNjk3Mjk4MzExXX0=
 -->
