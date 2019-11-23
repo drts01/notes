@@ -16,10 +16,10 @@ After years of working with Python, the tools available are finally coming toget
 	1. Problem
 	2. Why Me
 2. Installing Python (8 min)
-	1. pyenv (p
+	1. pyenv (5 min)
 		1. What and Why
 		2. Installing and Compiling
-	2. Setting up environment
+	2. Setting up environment (3 min)
 		1. bashrc
 		1. Default Python(s)
 3. Virtual Environments (15 min)
@@ -30,8 +30,8 @@ After years of working with Python, the tools available are finally coming toget
 	3. Pipenv / Pipfile (6 min)
 		1. What and Why
 		2. How
-4. Examples
-	1. Developer (15 min)
+4. Examples (15 min)
+	1. Developer (10 min)
 		* Cookie Cutter
 		* Tox
 		* A Sample Project
@@ -39,8 +39,8 @@ After years of working with Python, the tools available are finally coming toget
 		* Docker Compose
 		* Salt / Ansible
 		* AWS CLI / SAWS
-5. Conclusion
-	1. Summary - pyenv + pipx + pipenv
+5. Conclusion ()
+	1. Summary - pyenv + pipx + pipenv (3 min)
 	2. Q&A
 
 You dont have to live like this
@@ -66,6 +66,6 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTkyMjM3MywtMzIzNzI1ODI1LDEyNj
-g1MDYxOTgsODQzODUyNjk2LDY5NzI5ODMxMV19
+eyJoaXN0b3J5IjpbLTE4NDk3MDcwMTIsLTMyMzcyNTgyNSwxMj
+Y4NTA2MTk4LDg0Mzg1MjY5Niw2OTcyOTgzMTFdfQ==
 -->
