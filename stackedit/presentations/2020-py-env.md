@@ -1,7 +1,13 @@
 
-# Python Enviro
+# Python Environment
 
-> Written with [StackEdit](https://stackedit.io/).
+
+---
+# Notes
+
+## Tools
+* pyenv
+* pipx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzA3NTIzNl19
+eyJoaXN0b3J5IjpbMzA4MTg0MTU1XX0=
 -->
