@@ -12,7 +12,7 @@ After years of working with Python, the tools available are finally coming toget
 
 ## Outline
 
-1. Intro 
+1. Intro (3 min)
 	1. Problem
 	2. Why Me
 2. Installing Python (8 min)
@@ -22,7 +22,7 @@ After years of working with Python, the tools available are finally coming toget
 	2. Setting up environment
 		1. bashrc
 		1. Default Python(s)
-3. Virtual Environments (17 min)
+3. Virtual Environments (15 min)
 	1. What and Why
 	2. Pipx
 		1. What and Why
@@ -38,7 +38,9 @@ After years of working with Python, the tools available are finally coming toget
 	2. Systems Engineer (5 min)
 		* Docker Compose
 		* Salt / Ansible
-		* AWS CLI / SAWS 
+		* AWS CLI / SAWS
+5. Conclusion
+        1.
 
 You dont have to live like this
 
@@ -63,6 +65,6 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDQ0ODQ5MCwtMzIzNzI1ODI1LDEyNj
+eyJoaXN0b3J5IjpbLTY4NzY3NjczMywtMzIzNzI1ODI1LDEyNj
 g1MDYxOTgsODQzODUyNjk2LDY5NzI5ODMxMV19
 -->
