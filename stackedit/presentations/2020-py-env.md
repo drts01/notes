@@ -23,10 +23,11 @@ You dont have to live like this
 ### Developer
 * Tox
 * cookie-cutter
+* \<sample-project>
 ### System Engineers
 * Salt / Ansible
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzOTY3NDA0LDY5NzI5ODMxMV19
+eyJoaXN0b3J5IjpbODQzODUyNjk2LDY5NzI5ODMxMV19
 -->
