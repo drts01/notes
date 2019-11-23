@@ -13,18 +13,21 @@ After years of working with Python, the tools available are finally coming toget
 ## Outline
 
 1. Intro
-2. Installing Python
+2. Installing Python (10 min)
 	1. pyenv
 		1. What and Why
 		2. Installing and Compiling
 	2. Setting up environment
 		1. bashrc
 		1. Default Python(s)
-3. Virtual Environments
+3. Virtual Environments (20 min)
 	1. What and Why
-	2. Pipenv / Pipfile
+	2. Pipx
 		1. What and Why
-		2. 
+		2. How
+	3. Pipenv / Pipfile
+		1. What and Why
+		2. How
 4. Examples
 	1. Developer
 		* Cookie Cutter
@@ -58,6 +61,6 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTM5NTYxMywtMzIzNzI1ODI1LDEyNj
+eyJoaXN0b3J5IjpbMTQ0MjA2NzkzNiwtMzIzNzI1ODI1LDEyNj
 g1MDYxOTgsODQzODUyNjk2LDY5NzI5ODMxMV19
 -->
