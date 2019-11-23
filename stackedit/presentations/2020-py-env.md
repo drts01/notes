@@ -11,12 +11,16 @@ This talk applies to both developers and system engineers.
 
 1. Intro
 2. Installing Python
+	1. pyenv
+	2. Setting up environment
+		* bashrc
+		* default [
 3. Virtual Environments
 4. Examples
 	1. Developer
 		* Cookie Cutter
 		* Tox
-		* Sample Proc
+		* A Sample Project
 	2. Systems Engineer
 		* Docker Compose
 		* Salt / Ansible
@@ -45,6 +49,6 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDA2NzUxMTQsLTMyMzcyNTgyNSwxMj
-Y4NTA2MTk4LDg0Mzg1MjY5Niw2OTcyOTgzMTFdfQ==
+eyJoaXN0b3J5IjpbMjQ1MDg4MjMyLC0zMjM3MjU4MjUsMTI2OD
+UwNjE5OCw4NDM4NTI2OTYsNjk3Mjk4MzExXX0=
 -->
