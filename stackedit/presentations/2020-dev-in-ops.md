@@ -25,7 +25,12 @@ If we want to truly empower Operations and DevOps, true coding work must be inte
 		2. VSCode / Codium
 		3. PyCharm (paid?)
 5. Conclusion
+
+## Notes
+
+### Links
+* https://realpython.com/intro-to-pyenv/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODM3Njc5MSwxNjUwODk2MDUsNzQ4OT
-Q5NTExXX0=
+eyJoaXN0b3J5IjpbLTQ5ODAwMDk2NywxMjM4Mzc2NzkxLDE2NT
+A4OTYwNSw3NDg5NDk1MTFdfQ==
 -->
