@@ -7,9 +7,14 @@ If we want to truly empower Operations and DevOps, true coding work must be inte
 ## Outline
 1. Intro
 	1. Problem
-2. Applied
+2. 
+3. Applied
 	* Playbooks
-* Demos
+	* Demos / Presentation / Documentation
+4. Further Options
+	* Bash
+	* Ruby
+5. Conclusion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDAxODcwNiw3NDg5NDk1MTFdfQ==
+eyJoaXN0b3J5IjpbMTczMzEwOTEwMyw3NDg5NDk1MTFdfQ==
 -->
