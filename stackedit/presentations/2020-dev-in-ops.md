@@ -24,7 +24,10 @@ If we want to truly empower Operations and DevOps, true coding work must be inte
 		1. Native WebUI
 		2. VSCode / Codium
 		3. PyCharm (paid?)
-5. Conclusion
+5. Advance - Multiuser
+	* PIPX_BIN_DIR
+	* /opt
+6. Conclusion
 
 ## Notes
 
@@ -35,6 +38,7 @@ If we want to truly empower Operations and DevOps, true coding work must be inte
 
 * ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDc5NTQ2NiwtNDk4MDAwOTY3LDEyMz
-gzNzY3OTEsMTY1MDg5NjA1LDc0ODk0OTUxMV19
+eyJoaXN0b3J5IjpbLTc0MzE5NDUzMCwtODIwNzk1NDY2LC00OT
+gwMDA5NjcsMTIzODM3Njc5MSwxNjUwODk2MDUsNzQ4OTQ5NTEx
+XX0=
 -->
