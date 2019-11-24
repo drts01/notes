@@ -8,6 +8,7 @@ If we want to truly empower Operations and DevOps, true coding work must be inte
 1. Intro
 	1. Problem
 2. How
+	3. 
 3. Applied
 	* Playbooks
 	* Demos / Presentation / Documentation
@@ -16,5 +17,6 @@ If we want to truly empower Operations and DevOps, true coding work must be inte
 	* Ruby
 5. Conclusion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDg5NjA1LDc0ODk0OTUxMV19
+eyJoaXN0b3J5IjpbLTE3MzQ1NTIyOCwxNjUwODk2MDUsNzQ4OT
+Q5NTExXX0=
 -->
