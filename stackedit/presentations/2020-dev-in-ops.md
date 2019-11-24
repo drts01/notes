@@ -6,8 +6,10 @@ If we want to truly empower Operations and DevOps, true coding work must be inte
 
 ## Outline
 1. Intro
-* Playbooks
+	1. Problem
+2. Applied
+	* Playbooks
 * Demos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NjIzMTMxOSw3NDg5NDk1MTFdfQ==
+eyJoaXN0b3J5IjpbLTY1NDAxODcwNiw3NDg5NDk1MTFdfQ==
 -->
