@@ -20,9 +20,12 @@ If we want to truly empower Operations and DevOps, true coding work must be inte
 	1. Kernels / Languages
 		* Bash
 		* Ruby
-	1. 
+	2. Editor
+		1. Native WebUI
+		2. VSCode / Codium
+		3. PyCharm (paid?)
 5. Conclusion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTUxOTE3MCwxNjUwODk2MDUsNzQ4OT
+eyJoaXN0b3J5IjpbMTIzODM3Njc5MSwxNjUwODk2MDUsNzQ4OT
 Q5NTExXX0=
 -->
