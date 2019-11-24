@@ -11,17 +11,18 @@ If we want to truly empower Operations and DevOps, true coding work must be inte
 	3. Small bits of scripts (Python)
 	4. Jupyter
 		1. Why
-			* 
 			* Presentation
 			* Servers as examples
 3. Applied
 	* Playbooks
 	* Demos / Presentation / Documentation
 4. Further Options
-	* Bash
-	* Ruby
+	1. Kernels / Languages
+		* Bash
+		* Ruby
+	1. 
 5. Conclusion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQzNjE2MzIsMTY1MDg5NjA1LDc0OD
-k0OTUxMV19
+eyJoaXN0b3J5IjpbLTQ3NTUxOTE3MCwxNjUwODk2MDUsNzQ4OT
+Q5NTExXX0=
 -->
