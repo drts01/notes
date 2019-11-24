@@ -30,7 +30,11 @@ If we want to truly empower Operations and DevOps, true coding work must be inte
 
 ### Links
 * https://realpython.com/intro-to-pyenv/
+
+### Rnd
+
+* ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODAwMDk2NywxMjM4Mzc2NzkxLDE2NT
-A4OTYwNSw3NDg5NDk1MTFdfQ==
+eyJoaXN0b3J5IjpbLTgyMDc5NTQ2NiwtNDk4MDAwOTY3LDEyMz
+gzNzY3OTEsMTY1MDg5NjA1LDc0ODk0OTUxMV19
 -->
