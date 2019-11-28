@@ -5,7 +5,8 @@ Not much develop actually occurs in devops. We pretend that giving the operation
 If we want to truly empower Operations and DevOps, true coding work must be integrated. A path to the promise land can be walked with Jupyter Notebooks
 
 ---
-Many teams sysa
+Development within operations teams frequently leaves 
+Many systems engineers 
 
 ## Outline
 1. Intro
@@ -43,7 +44,8 @@ Many teams sysa
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczNDkzNjE2LC0xMTkwMzI5ODE3LC0xMT
-E2NjUwODI4LC03NDMxOTQ1MzAsLTgyMDc5NTQ2NiwtNDk4MDAw
-OTY3LDEyMzgzNzY3OTEsMTY1MDg5NjA1LDc0ODk0OTUxMV19
+eyJoaXN0b3J5IjpbLTExMTk4OTY1MDEsLTExOTAzMjk4MTcsLT
+ExMTY2NTA4MjgsLTc0MzE5NDUzMCwtODIwNzk1NDY2LC00OTgw
+MDA5NjcsMTIzODM3Njc5MSwxNjUwODk2MDUsNzQ4OTQ5NTExXX
+0=
 -->
