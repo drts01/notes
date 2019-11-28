@@ -38,8 +38,9 @@ If we want to truly empower Operations and DevOps, true coding work must be inte
 
 * ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
 * Jupyter is to disseminate information
+* publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTY2NTA4MjgsLTc0MzE5NDUzMCwtOD
-IwNzk1NDY2LC00OTgwMDA5NjcsMTIzODM3Njc5MSwxNjUwODk2
-MDUsNzQ4OTQ5NTExXX0=
+eyJoaXN0b3J5IjpbLTExOTAzMjk4MTcsLTExMTY2NTA4MjgsLT
+c0MzE5NDUzMCwtODIwNzk1NDY2LC00OTgwMDA5NjcsMTIzODM3
+Njc5MSwxNjUwODk2MDUsNzQ4OTQ5NTExXX0=
 -->
