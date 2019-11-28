@@ -11,7 +11,7 @@ A bridge to transition an operation team to an development team for infrastructu
 
 small, incremental, digestible bits of code at a time
 
-Produce shareable, repeatable, auditable (peer-review) playbooks. As the operation team becomes more comfortable writing code, they will want to solve more problems in this manner. 
+Produce shareable, repeatable, auditable (peer-review) playbooks. As the operation team becomes more comfortable writing code, they will want to solve more problems in this manner. Code will repeat and patterns will
 
 
 ## Outline
@@ -50,8 +50,8 @@ Produce shareable, repeatable, auditable (peer-review) playbooks. As the operati
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTY2Nzk3ODEsLTExOTAzMjk4MTcsLT
-ExMTY2NTA4MjgsLTc0MzE5NDUzMCwtODIwNzk1NDY2LC00OTgw
-MDA5NjcsMTIzODM3Njc5MSwxNjUwODk2MDUsNzQ4OTQ5NTExXX
-0=
+eyJoaXN0b3J5IjpbMjA2MzU3ODY3OSwtMTE5MDMyOTgxNywtMT
+ExNjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3OTU0NjYsLTQ5ODAw
+MDk2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNSw3NDg5NDk1MTFdfQ
+==
 -->
