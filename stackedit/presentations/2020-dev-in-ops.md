@@ -7,6 +7,7 @@ If we want to truly empower Operations and DevOps, true coding work must be inte
 ## Outline
 1. Intro
 	1. Problem
+	2. My Experiance
 2. How
 	3. Small bits of scripts (Python)
 	4. Jupyter
@@ -40,7 +41,8 @@ If we want to truly empower Operations and DevOps, true coding work must be inte
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTAzMjk4MTcsLTExMTY2NTA4MjgsLT
-c0MzE5NDUzMCwtODIwNzk1NDY2LC00OTgwMDA5NjcsMTIzODM3
-Njc5MSwxNjUwODk2MDUsNzQ4OTQ5NTExXX0=
+eyJoaXN0b3J5IjpbMTA0Nzc5NzA3MSwtMTE5MDMyOTgxNywtMT
+ExNjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3OTU0NjYsLTQ5ODAw
+MDk2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNSw3NDg5NDk1MTFdfQ
+==
 -->
