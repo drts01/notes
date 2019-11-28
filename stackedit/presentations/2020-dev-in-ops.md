@@ -5,7 +5,8 @@ Not much develop actually occurs in devops. We pretend that giving the operation
 If we want to truly empower Operations and DevOps, true coding work must be integrated. A path to the promise land can be walked with Jupyter Notebooks
 
 ---
-Development within operations teams is frequently is minimal if any. Many organization claim to being doing the DevOps. This may consist of updating YAML files with, at best, partial automation. 
+Development within operations teams is frequently is minimal if any. Many organization claim to being doing the DevOps. This may consist of updating YAML files with, at best, partial automation. Or it may be systems administrator of Jenkins nodes or a K8s cluster. The result is the continuation of 
+
 Many systems engineers 
 
 ## Outline
@@ -44,7 +45,8 @@ Many systems engineers
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyMTAwMDk4LC0xMTkwMzI5ODE3LC0xMT
-E2NjUwODI4LC03NDMxOTQ1MzAsLTgyMDc5NTQ2NiwtNDk4MDAw
-OTY3LDEyMzgzNzY3OTEsMTY1MDg5NjA1LDc0ODk0OTUxMV19
+eyJoaXN0b3J5IjpbLTExMDE4Mjk0NDAsLTExOTAzMjk4MTcsLT
+ExMTY2NTA4MjgsLTc0MzE5NDUzMCwtODIwNzk1NDY2LC00OTgw
+MDA5NjcsMTIzODM3Njc5MSwxNjUwODk2MDUsNzQ4OTQ5NTExXX
+0=
 -->
