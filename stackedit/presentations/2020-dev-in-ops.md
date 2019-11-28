@@ -4,6 +4,9 @@ Not much develop actually occurs in devops. We pretend that giving the operation
 
 If we want to truly empower Operations and DevOps, true coding work must be integrated. A path to the promise land can be walked with Jupyter Notebooks
 
+---
+Many teams sysa
+
 ## Outline
 1. Intro
 	1. Problem
@@ -25,8 +28,8 @@ If we want to truly empower Operations and DevOps, true coding work must be inte
 		1. Native WebUI
 		2. VSCode / Codium
 		3. PyCharm (paid?)
-5. Advance - Kern
-	* Creating
+5. Advance
+	* Creating Kernels
 6. Conclusion
 
 ## Notes
@@ -40,8 +43,7 @@ If we want to truly empower Operations and DevOps, true coding work must be inte
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDUxOTMwMSwtMTE5MDMyOTgxNywtMT
-ExNjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3OTU0NjYsLTQ5ODAw
-MDk2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNSw3NDg5NDk1MTFdfQ
-==
+eyJoaXN0b3J5IjpbNjczNDkzNjE2LC0xMTkwMzI5ODE3LC0xMT
+E2NjUwODI4LC03NDMxOTQ1MzAsLTgyMDc5NTQ2NiwtNDk4MDAw
+OTY3LDEyMzgzNzY3OTEsMTY1MDg5NjA1LDc0ODk0OTUxMV19
 -->
