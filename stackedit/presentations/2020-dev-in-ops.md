@@ -11,6 +11,8 @@ A bridge to transition an operation team to an development team for infrastructu
 
 small, incremental, digestible bits of code at a time
 
+Produce shareable, repeatable, auditable (peer-review) playbooks. This lays the foundation to tran
+
 
 ## Outline
 1. Intro
@@ -48,8 +50,7 @@ small, incremental, digestible bits of code at a time
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDIyMDYxNiwtMTE5MDMyOTgxNywtMT
-ExNjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3OTU0NjYsLTQ5ODAw
-MDk2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNSw3NDg5NDk1MTFdfQ
-==
+eyJoaXN0b3J5IjpbNTg2NDQyNDM0LC0xMTkwMzI5ODE3LC0xMT
+E2NjUwODI4LC03NDMxOTQ1MzAsLTgyMDc5NTQ2NiwtNDk4MDAw
+OTY3LDEyMzgzNzY3OTEsMTY1MDg5NjA1LDc0ODk0OTUxMV19
 -->
