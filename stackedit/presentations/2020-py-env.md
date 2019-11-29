@@ -10,6 +10,13 @@ This talk applies to both developers and system engineers.
 ## Long
 After years of working with Python, the tools available are finally coming together to work symbiotically.
 
+
+---
+
+T
+
+
+
 ## Outline
 
 1. Intro (3 min)
@@ -69,7 +76,7 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4NTE3ODkzLC0zMzY0NDM0ODYsLTMyMz
-cyNTgyNSwxMjY4NTA2MTk4LDg0Mzg1MjY5Niw2OTcyOTgzMTFd
-fQ==
+eyJoaXN0b3J5IjpbMTI2MzU1MjcxMiwzNjg1MTc4OTMsLTMzNj
+Q0MzQ4NiwtMzIzNzI1ODI1LDEyNjg1MDYxOTgsODQzODUyNjk2
+LDY5NzI5ODMxMV19
 -->
