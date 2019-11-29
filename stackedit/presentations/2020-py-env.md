@@ -15,7 +15,7 @@ After years of working with Python, the tools available are finally coming toget
 
 The Python ecosystem has evolved over the years. Concepts like packaging did  not always exist in the Python ecosystem. And without packing and dependancy tracking, there was no need for project isolation. This coupled with the quick iteration of the language, w/ breaking changes, has made Python difficult to work with when doing anything more than simple glue code.
 
-Many find writing Python code a pleasure, but when it
+Many find writing Python code a pleasure, but when it comes to dealing with dependancies and different 
 
 
 
@@ -78,7 +78,7 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU3MzEyNzEsLTE2MDAxOTE1NCwzNj
-g1MTc4OTMsLTMzNjQ0MzQ4NiwtMzIzNzI1ODI1LDEyNjg1MDYx
-OTgsODQzODUyNjk2LDY5NzI5ODMxMV19
+eyJoaXN0b3J5IjpbNTU0MDQ0NzU0LC0xNjAwMTkxNTQsMzY4NT
+E3ODkzLC0zMzY0NDM0ODYsLTMyMzcyNTgyNSwxMjY4NTA2MTk4
+LDg0Mzg1MjY5Niw2OTcyOTgzMTFdfQ==
 -->
