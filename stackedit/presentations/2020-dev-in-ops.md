@@ -15,7 +15,7 @@ Produce shareable, repeatable, auditable (peer-review) playbooks. As the operati
 
 ---
 
-Many system administors are being pressured into 
+Many system administrators are being pressured into learning how to code. This is a major leap for tradition operation teams. This is a nontrivial ask while also continuing to keep the ship running with new serv
 
 ## Outline
 1. Intro
@@ -53,7 +53,7 @@ Many system administors are being pressured into
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjgzMjMxMDgsMTU2MDM5NDMwOCwtMT
+eyJoaXN0b3J5IjpbLTExMDc5MTEzMTMsMTU2MDM5NDMwOCwtMT
 E5MDMyOTgxNywtMTExNjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3
 OTU0NjYsLTQ5ODAwMDk2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNS
 w3NDg5NDk1MTFdfQ==
