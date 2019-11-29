@@ -24,7 +24,7 @@ Many devops teams function as operation teams for platforms, such as Jenkins or 
 ## Outline
 1. Intro
 	1. Problem
-	2. My Experiance
+	2. My Experience
 2. How
 	3. Small bits of scripts (Python)
 	4. Jupyter
@@ -57,8 +57,8 @@ Many devops teams function as operation teams for platforms, such as Jenkins or 
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzQ3ODg0OCwxNTYwMzk0MzA4LC0xMT
-kwMzI5ODE3LC0xMTE2NjUwODI4LC03NDMxOTQ1MzAsLTgyMDc5
-NTQ2NiwtNDk4MDAwOTY3LDEyMzgzNzY3OTEsMTY1MDg5NjA1LD
-c0ODk0OTUxMV19
+eyJoaXN0b3J5IjpbLTM3NDg2MTUwOCwtNzAzNDc4ODQ4LDE1Nj
+AzOTQzMDgsLTExOTAzMjk4MTcsLTExMTY2NTA4MjgsLTc0MzE5
+NDUzMCwtODIwNzk1NDY2LC00OTgwMDA5NjcsMTIzODM3Njc5MS
+wxNjUwODk2MDUsNzQ4OTQ5NTExXX0=
 -->
