@@ -13,6 +13,9 @@ small, incremental, digestible bits of code at a time
 
 Produce shareable, repeatable, auditable (peer-review) playbooks. As the operation team becomes more comfortable writing code, they will want to solve more problems in this manner. Patterns will emerge and code will repeat among the Notebooks. Eventually, the team will want to develop their own library or tool (around a process). It will also behoove the stakeholder to encourage this as it will make the team more efficient and process consistent.
 
+---
+
+Many system administors are being pressured into 
 
 ## Outline
 1. Intro
@@ -50,8 +53,8 @@ Produce shareable, repeatable, auditable (peer-review) playbooks. As the operati
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDM5NDMwOCwtMTE5MDMyOTgxNywtMT
-ExNjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3OTU0NjYsLTQ5ODAw
-MDk2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNSw3NDg5NDk1MTFdfQ
-==
+eyJoaXN0b3J5IjpbLTE2MjgzMjMxMDgsMTU2MDM5NDMwOCwtMT
+E5MDMyOTgxNywtMTExNjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3
+OTU0NjYsLTQ5ODAwMDk2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNS
+w3NDg5NDk1MTFdfQ==
 -->
