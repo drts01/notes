@@ -22,7 +22,8 @@ Many find writing Python code a pleasure. But dealing with dependencies and seve
 ---
 
 Python does not prescribe a way to setup one's environment. This has leads to many headaches and frustrations for even seasoned Pythonistas.
-Updating dependencies overwriting the
+Updating dependencies overwriting the system packages.
+
 Install over the system's packages.
 From mangling the system's Python. conflicting dependencies from installed applications and projects in development.
 
@@ -87,8 +88,8 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNTUzOTE3MSwtNDI0ODAxMDIyLC0yNz
-k2MzAxNDksMTgzNjIyMjY4NCwtMTYwMDE5MTU0LDM2ODUxNzg5
-MywtMzM2NDQzNDg2LC0zMjM3MjU4MjUsMTI2ODUwNjE5OCw4ND
-M4NTI2OTYsNjk3Mjk4MzExXX0=
+eyJoaXN0b3J5IjpbLTE0MzQwNTAwMTcsLTQyNDgwMTAyMiwtMj
+c5NjMwMTQ5LDE4MzYyMjI2ODQsLTE2MDAxOTE1NCwzNjg1MTc4
+OTMsLTMzNjQ0MzQ4NiwtMzIzNzI1ODI1LDEyNjg1MDYxOTgsOD
+QzODUyNjk2LDY5NzI5ODMxMV19
 -->
