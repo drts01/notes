@@ -17,7 +17,7 @@ Produce shareable, repeatable, auditable (peer-review) playbooks. As the operati
 
 Many system administrators are being pressured into becoming developers. This is a major leap for tradition operation teams. This is a nontrivial ask while also continuing to keep the ship running with new services to maintain coming online all the time. A plan for success incorporates incremental coding opportunities.
 
-Many devops teams function as operation teams for platforms, such as Jenkins or K8s. There may use of tool like Infrastructure-as-Code, i.e. updating YAML files. But this is not coding, and there is ample opportunity to do more. Because of this gap, there continues to be playbooks and ma
+Many devops teams function as operation teams for platforms, such as Jenkins or K8s. There may use of tool like Infrastructure-as-Code, i.e. updating YAML files. But this is not coding, and there is ample opportunity to do more. Because of this gap, there continues to be playbooks and manual intervention.
 
 
 
@@ -57,7 +57,7 @@ Many devops teams function as operation teams for platforms, such as Jenkins or 
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODYyNTQxNywxNTYwMzk0MzA4LC0xMT
+eyJoaXN0b3J5IjpbLTcwMzQ3ODg0OCwxNTYwMzk0MzA4LC0xMT
 kwMzI5ODE3LC0xMTE2NjUwODI4LC03NDMxOTQ1MzAsLTgyMDc5
 NTQ2NiwtNDk4MDAwOTY3LDEyMzgzNzY3OTEsMTY1MDg5NjA1LD
 c0ODk0OTUxMV19
