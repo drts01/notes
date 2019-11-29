@@ -25,7 +25,7 @@ Python does not prescribe a way to setup one's environment. This has leads to ma
 
 Have you ever switched between projects to find one has suddenly stop working after updating the dependencies of the other? Or updating the dependencies resulted in the system packages. Have you discovered that the version of Python on your workstation, on your teammates' workstations, production all differ.
 
-Pythonistas do not have to live like this. There is a better way.
+Pythonistas do not have to live like this. There is a better way. We will explore tools to manage a Python environment to
 
 Install over the system's packages.
 From mangling the system's Python. conflicting dependencies from installed applications and projects in development.
@@ -93,7 +93,7 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTY5Njc4MCwtMTI0NzY3NzcxNiwtND
+eyJoaXN0b3J5IjpbLTk4NjQ2MjEwOSwtMTI0NzY3NzcxNiwtND
 I0ODAxMDIyLC0yNzk2MzAxNDksMTgzNjIyMjY4NCwtMTYwMDE5
 MTU0LDM2ODUxNzg5MywtMzM2NDQzNDg2LC0zMjM3MjU4MjUsMT
 I2ODUwNjE5OCw4NDM4NTI2OTYsNjk3Mjk4MzExXX0=
