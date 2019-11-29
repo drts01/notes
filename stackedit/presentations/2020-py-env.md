@@ -61,11 +61,12 @@ From mangling the system's Python. conflicting dependencies from installed appli
 		* Docker Compose
 		* Salt / Ansible
 		* AWS CLI / SAWS
-1. Advance - Multiuser
+5. Advance - Multiuser
 	* PIPX_BIN_DIR
 	* /opt
-	* 
-5. Conclusion (8 min)
+6. No
+	1. pip-tools
+7. Conclusion (8 min)
 	1. Summary - pyenv + pipx + pipenv (3 min)
 	2. Q&A (5 min)
 
@@ -92,7 +93,7 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTQ0NTA5MywtMTI0NzY3NzcxNiwtND
+eyJoaXN0b3J5IjpbMTIxMTY5Njc4MCwtMTI0NzY3NzcxNiwtND
 I0ODAxMDIyLC0yNzk2MzAxNDksMTgzNjIyMjY4NCwtMTYwMDE5
 MTU0LDM2ODUxNzg5MywtMzM2NDQzNDg2LC0zMjM3MjU4MjUsMT
 I2ODUwNjE5OCw4NDM4NTI2OTYsNjk3Mjk4MzExXX0=
