@@ -21,7 +21,9 @@ Many find writing Python code a pleasure. But dealing with dependencies and seve
 
 ---
 
-Python does not prescribe a way to setup one's environment. This leads to many headaches for even seasoned Pythonistas. From mangling the system's Python. conflicting dependencies from installed applications and projects in development.
+Python does not prescribe a way to setup one's environment. This leads to many headaches for even seasoned Pythonistas. 
+Many of us, at some point, have managed to ins
+From mangling the system's Python. conflicting dependencies from installed applications and projects in development.
 
 
 
@@ -84,7 +86,7 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDkxMjc1MiwtMjc5NjMwMTQ5LDE4Mz
+eyJoaXN0b3J5IjpbMTcwMDY4MTM2NSwtMjc5NjMwMTQ5LDE4Mz
 YyMjI2ODQsLTE2MDAxOTE1NCwzNjg1MTc4OTMsLTMzNjQ0MzQ4
 NiwtMzIzNzI1ODI1LDEyNjg1MDYxOTgsODQzODUyNjk2LDY5Nz
 I5ODMxMV19
