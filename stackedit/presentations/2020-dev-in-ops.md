@@ -24,7 +24,11 @@ Notebooks provide an opertunity to write small bits of code, lowering any intimi
 
 Rather than trying to script something in all BASH or Python, it can be mixed.
 
-Visualize data along the way.
+Visualize data, variables, along the way.
+
+Share playbooks/process
+
+Provide examples to supplent documentation
 
 
 
@@ -66,8 +70,8 @@ Visualize data along the way.
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjM3NjU1MSwtMzc0ODYxNTA4LC03MD
-M0Nzg4NDgsMTU2MDM5NDMwOCwtMTE5MDMyOTgxNywtMTExNjY1
-MDgyOCwtNzQzMTk0NTMwLC04MjA3OTU0NjYsLTQ5ODAwMDk2Ny
-wxMjM4Mzc2NzkxLDE2NTA4OTYwNSw3NDg5NDk1MTFdfQ==
+eyJoaXN0b3J5IjpbLTE5Njk4MDcxOTUsLTM3NDg2MTUwOCwtNz
+AzNDc4ODQ4LDE1NjAzOTQzMDgsLTExOTAzMjk4MTcsLTExMTY2
+NTA4MjgsLTc0MzE5NDUzMCwtODIwNzk1NDY2LC00OTgwMDA5Nj
+csMTIzODM3Njc5MSwxNjUwODk2MDUsNzQ4OTQ5NTExXX0=
 -->
