@@ -23,9 +23,10 @@ Many find writing Python code a pleasure. But dealing with dependencies and seve
 
 Python does not prescribe a way to setup one's environment. This has leads to many headaches and frustrations for even seasoned Pythonistas.
 
-Have you ever switched between projects to find one has suddenly stop working after updating the dependencies of the other? Or updating the dependencies resulted in the system packages.
+Have you ever switched between projects to find one has suddenly stop working after updating the dependencies of the other? Or updating the dependencies resulted in the system packages. Have you discovered that the version of Python on your workstation, on your teammates' workstations, production all differ.
 
-Have you discovered that the version of Python on your workstation, on your teammates' workstations, production all differ.
+Pythonistas do not have to live like this. There is a better way.
+
 Install over the system's packages.
 From mangling the system's Python. conflicting dependencies from installed applications and projects in development.
 
@@ -90,7 +91,7 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1Nzg2NzYyMSwtMTI0NzY3NzcxNiwtND
+eyJoaXN0b3J5IjpbLTgxNzYwMzUxNSwtMTI0NzY3NzcxNiwtND
 I0ODAxMDIyLC0yNzk2MzAxNDksMTgzNjIyMjY4NCwtMTYwMDE5
 MTU0LDM2ODUxNzg5MywtMzM2NDQzNDg2LC0zMjM3MjU4MjUsMT
 I2ODUwNjE5OCw4NDM4NTI2OTYsNjk3Mjk4MzExXX0=
