@@ -15,7 +15,7 @@ After years of working with Python, the tools available are finally coming toget
 
 The Python ecosystem has evolved over the years. Concepts like packaging did  not always exist in the Python ecosystem. And without packing and dependancy tracking, there was no need for project isolation. This coupled with the quick iteration of the language, w/ breaking changes, has made Python difficult to work with when doing anything more than simple glue code.
 
-Many find writing Python code a pleasure. But dealing with dependencies and different Python versions, it can become quite frustrating.
+Many find writing Python code a pleasure. But dealing with dependencies and different Python versions, it can become quite frustrating. But there does exist a few tools to make this painless.
 We will cover how to manage multiple Python versions; isolating projects and application.
 
 
@@ -79,7 +79,7 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA2MzY3NTEsLTE2MDAxOTE1NCwzNj
-g1MTc4OTMsLTMzNjQ0MzQ4NiwtMzIzNzI1ODI1LDEyNjg1MDYx
-OTgsODQzODUyNjk2LDY5NzI5ODMxMV19
+eyJoaXN0b3J5IjpbMTgzNjIyMjY4NCwtMTYwMDE5MTU0LDM2OD
+UxNzg5MywtMzM2NDQzNDg2LC0zMjM3MjU4MjUsMTI2ODUwNjE5
+OCw4NDM4NTI2OTYsNjk3Mjk4MzExXX0=
 -->
