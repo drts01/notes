@@ -19,6 +19,8 @@ Many system administrators are being pressured into becoming developers. This is
 
 Many devops teams function as operation teams for platforms, such as Jenkins or K8s. There may use of tool like Infrastructure-as-Code, i.e. updating YAML files. But this is not coding, and there is ample opportunity to do more. Because of this gap, there continues to be playbooks and manual intervention.
 
+We will go over how Jupyter Notebooks can help 
+
 
 
 ## Outline
@@ -57,8 +59,8 @@ Many devops teams function as operation teams for platforms, such as Jenkins or 
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDg2MTUwOCwtNzAzNDc4ODQ4LDE1Nj
-AzOTQzMDgsLTExOTAzMjk4MTcsLTExMTY2NTA4MjgsLTc0MzE5
-NDUzMCwtODIwNzk1NDY2LC00OTgwMDA5NjcsMTIzODM3Njc5MS
-wxNjUwODk2MDUsNzQ4OTQ5NTExXX0=
+eyJoaXN0b3J5IjpbLTI1MjUxMzk4OCwtMzc0ODYxNTA4LC03MD
+M0Nzg4NDgsMTU2MDM5NDMwOCwtMTE5MDMyOTgxNywtMTExNjY1
+MDgyOCwtNzQzMTk0NTMwLC04MjA3OTU0NjYsLTQ5ODAwMDk2Ny
+wxMjM4Mzc2NzkxLDE2NTA4OTYwNSw3NDg5NDk1MTFdfQ==
 -->
