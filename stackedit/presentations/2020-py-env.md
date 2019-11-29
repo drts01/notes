@@ -19,8 +19,9 @@ The Python ecosystem has evolved over the years. Concepts like packaging did  no
 Many find writing Python code a pleasure. But dealing with dependencies and several Python versions, it can become quite frustrating. But there does exist a few tools to make this painless. You will learn how to manage multiple Python versions; isolating projects and application. This is beneficial to developers and systems engineers, of novice and moderate expertise with Python.
 
 
+---
 
-
+Python does not prescribe a
 
 
 
@@ -83,7 +84,8 @@ You dont have to live like this
 * SAWS / AWS
 * docker-compose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTYzMDE0OSwxODM2MjIyNjg0LC0xNj
-AwMTkxNTQsMzY4NTE3ODkzLC0zMzY0NDM0ODYsLTMyMzcyNTgy
-NSwxMjY4NTA2MTk4LDg0Mzg1MjY5Niw2OTcyOTgzMTFdfQ==
+eyJoaXN0b3J5IjpbLTQxNDk3NzMxMiwtMjc5NjMwMTQ5LDE4Mz
+YyMjI2ODQsLTE2MDAxOTE1NCwzNjg1MTc4OTMsLTMzNjQ0MzQ4
+NiwtMzIzNzI1ODI1LDEyNjg1MDYxOTgsODQzODUyNjk2LDY5Nz
+I5ODMxMV19
 -->
