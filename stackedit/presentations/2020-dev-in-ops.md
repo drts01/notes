@@ -19,7 +19,10 @@ Many system administrators are being pressured into becoming developers. This is
 
 Many devops teams function as operation teams for platforms, such as Jenkins or K8s. There may use of tool like Infrastructure-as-Code, i.e. updating YAML files. But this is not coding, and there is ample opportunity to do more. Because of this gap, there continues to be playbooks and manual intervention.
 
-We will go over how Jupyter Notebooks can help transition sysadmins, and gain incremental coding opertunities.
+We will go over how Jupyter Notebooks can help transition sysadmins, and gain incremental coding opertunities. 
+Notebooks provide an opertunity to write small bits of code, lowering any intimidation to coding.
+
+
 
 
 
@@ -61,8 +64,8 @@ We will go over how Jupyter Notebooks can help transition sysadmins, and gain in
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDM2NDUxNywtMzc0ODYxNTA4LC03MD
-M0Nzg4NDgsMTU2MDM5NDMwOCwtMTE5MDMyOTgxNywtMTExNjY1
-MDgyOCwtNzQzMTk0NTMwLC04MjA3OTU0NjYsLTQ5ODAwMDk2Ny
-wxMjM4Mzc2NzkxLDE2NTA4OTYwNSw3NDg5NDk1MTFdfQ==
+eyJoaXN0b3J5IjpbLTkzNjMyNzAsLTM3NDg2MTUwOCwtNzAzND
+c4ODQ4LDE1NjAzOTQzMDgsLTExOTAzMjk4MTcsLTExMTY2NTA4
+MjgsLTc0MzE5NDUzMCwtODIwNzk1NDY2LC00OTgwMDA5NjcsMT
+IzODM3Njc5MSwxNjUwODk2MDUsNzQ4OTQ5NTExXX0=
 -->
