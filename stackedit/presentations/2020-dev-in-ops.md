@@ -17,7 +17,9 @@ Produce shareable, repeatable, auditable (peer-review) playbooks. As the operati
 
 Many system administrators are being pressured into becoming developers. This is a major leap for tradition operation teams. This is a nontrivial ask while also continuing to keep the ship running with new services to maintain coming online all the time. A plan for success incorporates incremental coding opportunities.
 
-Many devops teams actual operations teams for platforms such as Jenkins or K8s. The may update mark
+Many devops teams actual operations teams for platforms such as Jenkins or K8s. The may update markup files, i.e. YAML, to make changes to the infrastructure. But this is not coding, and there is ample opportunity to do more.
+
+
 
 ## Outline
 1. Intro
@@ -55,7 +57,7 @@ Many devops teams actual operations teams for platforms such as Jenkins or K8s. 
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQwMjIxNTYsMTU2MDM5NDMwOCwtMT
+eyJoaXN0b3J5IjpbLTE2MTMyMTcwMDIsMTU2MDM5NDMwOCwtMT
 E5MDMyOTgxNywtMTExNjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3
 OTU0NjYsLTQ5ODAwMDk2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNS
 w3NDg5NDk1MTFdfQ==
