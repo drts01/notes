@@ -15,7 +15,9 @@ Produce shareable, repeatable, auditable (peer-review) playbooks. As the operati
 
 ---
 
-Many system administrators are being pressured into learning how to code. This is a major leap for tradition operation teams. This is a nontrivial ask while also continuing to keep the ship running with new services to maintain coming online all the time. A plan for success involve more incremental 
+Many system administrators are being pressured into becoming developers. This is a major leap for tradition operation teams. This is a nontrivial ask while also continuing to keep the ship running with new services to maintain coming online all the time. A plan for success incorporates incremental coding opportunities.
+
+Curr
 
 ## Outline
 1. Intro
@@ -53,8 +55,8 @@ Many system administrators are being pressured into learning how to code. This i
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjg1NDQzNCwxNTYwMzk0MzA4LC0xMT
-kwMzI5ODE3LC0xMTE2NjUwODI4LC03NDMxOTQ1MzAsLTgyMDc5
-NTQ2NiwtNDk4MDAwOTY3LDEyMzgzNzY3OTEsMTY1MDg5NjA1LD
-c0ODk0OTUxMV19
+eyJoaXN0b3J5IjpbLTE0MjcwMDI0MDksMTU2MDM5NDMwOCwtMT
+E5MDMyOTgxNywtMTExNjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3
+OTU0NjYsLTQ5ODAwMDk2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNS
+w3NDg5NDk1MTFdfQ==
 -->
