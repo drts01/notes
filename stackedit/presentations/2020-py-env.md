@@ -48,7 +48,7 @@ Eventually you have dozens of Python packages on system. Suddenly, things are no
 
 Python is no longer as fun as it used to be. And you are starting to question you life choices. But it did not have to be like this. Today there is a better way.
 
-Python did not always have packaging. It has taken time for Python to evolve tools to address dependencies and project isolation.
+Python did not always have packaging. It has taken time for Python to evolve tools to address dependencies and project isolation. Pythonistas can now get similar experience as Ruby developers do with, or Node.js with nvm npm.
 
 includes recommendations of the Python Packaging Authority (PyPA),
 
@@ -123,10 +123,10 @@ You dont have to live like this
 * pyenv - rbenv/rvm - nvm
 * pipenv - bundler - npm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODEzMDcwLDExNzg5OTA0NjIsMjc4Nj
-cyODMsMTE3NjcxMTEwMywtOTA3Mjg5MDY4LC0xOTU3ODE2ODc3
-LDc0NzQ3MzQ4MiwtMTI0NzY3NzcxNiwtNDI0ODAxMDIyLC0yNz
-k2MzAxNDksMTgzNjIyMjY4NCwtMTYwMDE5MTU0LDM2ODUxNzg5
-MywtMzM2NDQzNDg2LC0zMjM3MjU4MjUsMTI2ODUwNjE5OCw4ND
-M4NTI2OTYsNjk3Mjk4MzExXX0=
+eyJoaXN0b3J5IjpbLTYyMTEwNjMxNSwtOTc4MTMwNzAsMTE3OD
+k5MDQ2MiwyNzg2NzI4MywxMTc2NzExMTAzLC05MDcyODkwNjgs
+LTE5NTc4MTY4NzcsNzQ3NDczNDgyLC0xMjQ3Njc3NzE2LC00Mj
+Q4MDEwMjIsLTI3OTYzMDE0OSwxODM2MjIyNjg0LC0xNjAwMTkx
+NTQsMzY4NTE3ODkzLC0zMzY0NDM0ODYsLTMyMzcyNTgyNSwxMj
+Y4NTA2MTk4LDg0Mzg1MjY5Niw2OTcyOTgzMTFdfQ==
 -->
