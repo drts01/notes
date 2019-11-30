@@ -33,7 +33,7 @@ From mangling the system's Python. conflicting dependencies from installed appli
 ---
 ---
 
-Writing Python code is quite enjoyable. This until you realize that one project's dependencies are not compatible with another's. Or when a Python application expects a different version of Python3 then 
+Writing Python code is quite enjoyable. This until you realize that one project's dependencies are not compatible with another's. Or the version of Python differs from your l
 
 --
 
@@ -105,9 +105,9 @@ You dont have to live like this
 * ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
 * * https://realpython.com/intro-to-pyenv/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDExMDM0NjAsLTE5NTc4MTY4NzcsNz
-Q3NDczNDgyLC0xMjQ3Njc3NzE2LC00MjQ4MDEwMjIsLTI3OTYz
-MDE0OSwxODM2MjIyNjg0LC0xNjAwMTkxNTQsMzY4NTE3ODkzLC
-0zMzY0NDM0ODYsLTMyMzcyNTgyNSwxMjY4NTA2MTk4LDg0Mzg1
-MjY5Niw2OTcyOTgzMTFdfQ==
+eyJoaXN0b3J5IjpbLTQzODc4MjA5MiwtMTk1NzgxNjg3Nyw3ND
+c0NzM0ODIsLTEyNDc2Nzc3MTYsLTQyNDgwMTAyMiwtMjc5NjMw
+MTQ5LDE4MzYyMjI2ODQsLTE2MDAxOTE1NCwzNjg1MTc4OTMsLT
+MzNjQ0MzQ4NiwtMzIzNzI1ODI1LDEyNjg1MDYxOTgsODQzODUy
+Njk2LDY5NzI5ODMxMV19
 -->
