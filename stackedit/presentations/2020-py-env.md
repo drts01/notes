@@ -54,7 +54,8 @@ We will explore three tools that work synergisticly. They will help manage multi
 
 You will wonder how you Python-ed without them.
 
-includes recommendations of the Python Packaging Authority (PyPA),
+Developers and systems engineers, of novice and moderate expertise with Python will all benifit from this talk. And leave wondering how they ever Python-ed
+
 
 
 
@@ -127,7 +128,7 @@ You dont have to live like this
 * pyenv - rbenv/rvm - nvm
 * pipenv - bundler - npm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODE1MDk5MiwtOTc4MTMwNzAsMTE3OD
+eyJoaXN0b3J5IjpbLTIzNDczOTI3NSwtOTc4MTMwNzAsMTE3OD
 k5MDQ2MiwyNzg2NzI4MywxMTc2NzExMTAzLC05MDcyODkwNjgs
 LTE5NTc4MTY4NzcsNzQ3NDczNDgyLC0xMjQ3Njc3NzE2LC00Mj
 Q4MDEwMjIsLTI3OTYzMDE0OSwxODM2MjIyNjg0LC0xNjAwMTkx
