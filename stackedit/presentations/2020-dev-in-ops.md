@@ -52,7 +52,8 @@ But to ask team to switch to a development focus is a nontrivial request. Especi
 Jupyter Notebooks can be used to help non-development teams make the transition to writing more code as part of their normal process. With Jupyter, small bits of code can be written, executed, and introspected, thus making learning to write code less daunting.
 Further more Jupyter Notebooks are a great way to initally codify a task into a repeatable, shareable, auditable, and versionable playbook.
 
-Any data and staticis collected can also be easily visualized with Jupyter Notebooks. This is great for any on the fly data collect
+Any data collected durning the exectution of the Notebook can al
+Any data and staticis collected can also be easily visualized with Jupyter Notebooks. This is great for any on the fly data collec
 
 Eventually patterns will emerge from these notebooks. Then code can be extracted in to their own library or tool.
 
@@ -100,7 +101,7 @@ With the ability to develop, operation teams can gather and make sense of infras
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzY0MTY1NiwxNjQ1MTg2MDYsLTE2OT
+eyJoaXN0b3J5IjpbMTk5NDgxNjMzNywxNjQ1MTg2MDYsLTE2OT
 Y3NDgzMTAsNDMzNTEzNTg5LC0yMTQ0MDEyMzY4LDE4OTc5MTAy
 MTAsLTE5Njk4MDcxOTUsLTM3NDg2MTUwOCwtNzAzNDc4ODQ4LD
 E1NjAzOTQzMDgsLTExOTAzMjk4MTcsLTExMTY2NTA4MjgsLTc0
