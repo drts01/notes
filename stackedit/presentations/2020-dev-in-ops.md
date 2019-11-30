@@ -45,7 +45,7 @@ With such a large opertunity to imporve
 
 Everyday more teams and organizations are moving toward doing the DevOps. This usually includes leveraging Infrastructure-as-Code, build pipelines, containerization, etc. (Ansible/Saltstack, Jenkins/Gitlab, Docker/K8s). But there is not much actually coding.
 
-Because of the lack of active development work, manual intervention and playbooks
+Because of the lack of development in these team, manual intervention and playbooks persist to fill the gaps of the tool
 
 
 
@@ -88,9 +88,9 @@ Because of the lack of active development work, manual intervention and playbook
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTg4MTUwOSwxODk3OTEwMjEwLC0xOT
-Y5ODA3MTk1LC0zNzQ4NjE1MDgsLTcwMzQ3ODg0OCwxNTYwMzk0
-MzA4LC0xMTkwMzI5ODE3LC0xMTE2NjUwODI4LC03NDMxOTQ1Mz
-AsLTgyMDc5NTQ2NiwtNDk4MDAwOTY3LDEyMzgzNzY3OTEsMTY1
-MDg5NjA1LDc0ODk0OTUxMV19
+eyJoaXN0b3J5IjpbLTEzOTc1ODM0NTEsMTg5NzkxMDIxMCwtMT
+k2OTgwNzE5NSwtMzc0ODYxNTA4LC03MDM0Nzg4NDgsMTU2MDM5
+NDMwOCwtMTE5MDMyOTgxNywtMTExNjY1MDgyOCwtNzQzMTk0NT
+MwLC04MjA3OTU0NjYsLTQ5ODAwMDk2NywxMjM4Mzc2NzkxLDE2
+NTA4OTYwNSw3NDg5NDk1MTFdfQ==
 -->
