@@ -72,7 +72,9 @@ Operations teams that can use development are 10x
 Everyday more teams and organizations are attempting to do the DevOps. This  includes leveraging Infrastructure-as-Code (Ansible/Saltstack), build pipelines (Jenkins/Gitlab), containerization (Docker/K8s), etc .  But, there is not much actual coding.
 The lack of development within these team leads to manual playbooks and intervention to fill the gaps of the tools. This is inefficient, results in inconsistencies, and impedes the ability to scale.
 
-Asking a team to shift towards a development focus is a nontrivial request. The team cannot abandon existing responsibilities, such as maintaining the existing infrastructure and on-board new services. This results in little bandwidth to foster coding skills and  But, there is a more gradual, less intimidating approach to embrace coding.Jupyter Notebooks are not only for data scientist. Non-development teams can leverage Notebooks to incrementally write more code. With Jupyter, small bits of code can be written, executed, and introspected. This makes learning to write code less daunting.
+Asking a team to shift towards a development focus is a nontrivial request. The team cannot abandon existing responsibilities, such as maintaining the existing infrastructure and on-board new services. Little bandwidth is left to foster coding skills which results in a negative feedback loop preventing fosting. But, there is a more gradual, less intimidating approach to embrace coding.
+
+Jupyter Notebooks are not only for data scientist. Non-development teams can leverage Notebooks to incrementally write more code. With Jupyter, small bits of code can be written, executed, and introspected. This makes learning to write code less daunting.
 
 Further more, Jupyter Notebooks are a great way to initially codify a task. They are shareable, repeatable, auditable, and versionable playbook. Notebooks can also server as supplemental examples to documentation.
 
@@ -121,7 +123,7 @@ With the ability to develop, the effectiveness of the team increases. Now the fo
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzkxMTg2NywtMTgxOTU0MjY4LC01OT
+eyJoaXN0b3J5IjpbLTQ0NzY1MDgzOSwtMTgxOTU0MjY4LC01OT
 c3Mjc4NTYsMTY0NTE4NjA2LC0xNjk2NzQ4MzEwLDQzMzUxMzU4
 OSwtMjE0NDAxMjM2OCwxODk3OTEwMjEwLC0xOTY5ODA3MTk1LC
 0zNzQ4NjE1MDgsLTcwMzQ3ODg0OCwxNTYwMzk0MzA4LC0xMTkw
