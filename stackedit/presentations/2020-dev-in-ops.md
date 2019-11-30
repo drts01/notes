@@ -85,7 +85,7 @@ With the ability to develop, operation teams can gather and make sense of infras
 ## Notes
 
 ### Links
-
+* https://medium.com/netflix-techblog/notebook-innovation-591ee3221233
 
 ### Rnd
 
@@ -93,9 +93,10 @@ With the ability to develop, operation teams can gather and make sense of infras
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzNTEzNTg5LC0yMTQ0MDEyMzY4LDE4OT
-c5MTAyMTAsLTE5Njk4MDcxOTUsLTM3NDg2MTUwOCwtNzAzNDc4
-ODQ4LDE1NjAzOTQzMDgsLTExOTAzMjk4MTcsLTExMTY2NTA4Mj
-gsLTc0MzE5NDUzMCwtODIwNzk1NDY2LC00OTgwMDA5NjcsMTIz
-ODM3Njc5MSwxNjUwODk2MDUsNzQ4OTQ5NTExXX0=
+eyJoaXN0b3J5IjpbMTM1Mjk4NTk5Niw0MzM1MTM1ODksLTIxND
+QwMTIzNjgsMTg5NzkxMDIxMCwtMTk2OTgwNzE5NSwtMzc0ODYx
+NTA4LC03MDM0Nzg4NDgsMTU2MDM5NDMwOCwtMTE5MDMyOTgxNy
+wtMTExNjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3OTU0NjYsLTQ5
+ODAwMDk2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNSw3NDg5NDk1MT
+FdfQ==
 -->
