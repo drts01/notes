@@ -54,7 +54,7 @@ Further more Jupyter Notebooks are a great way to initally codify a task into a 
 
 Any data collected during the execution of the Notebook can easily be visualized. This can empower engineers to make sense of a metric that is not currently being feed into an ELK cluster, Graphana, or Permethious.
 
-Eventually patterns will emerge from these notebooks. Then code can be extracted in to their own library or tool.
+Eventually patterns will emerge from these notebooks. Then code can be extracted in to their own library or tool. Now the team is starting to look more like a development team. The data from previously executed Notebooks can also 
 
 With the ability to develop, operation teams can gather and make sense of infrastructure data, increase speed, and improve reliability.
 
@@ -100,10 +100,10 @@ With the ability to develop, operation teams can gather and make sense of infras
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDExNDc1NSwxNjQ1MTg2MDYsLTE2OT
-Y3NDgzMTAsNDMzNTEzNTg5LC0yMTQ0MDEyMzY4LDE4OTc5MTAy
-MTAsLTE5Njk4MDcxOTUsLTM3NDg2MTUwOCwtNzAzNDc4ODQ4LD
-E1NjAzOTQzMDgsLTExOTAzMjk4MTcsLTExMTY2NTA4MjgsLTc0
-MzE5NDUzMCwtODIwNzk1NDY2LC00OTgwMDA5NjcsMTIzODM3Nj
-c5MSwxNjUwODk2MDUsNzQ4OTQ5NTExXX0=
+eyJoaXN0b3J5IjpbMjY5OTgzMTUsMTY0NTE4NjA2LC0xNjk2Nz
+Q4MzEwLDQzMzUxMzU4OSwtMjE0NDAxMjM2OCwxODk3OTEwMjEw
+LC0xOTY5ODA3MTk1LC0zNzQ4NjE1MDgsLTcwMzQ3ODg0OCwxNT
+YwMzk0MzA4LC0xMTkwMzI5ODE3LC0xMTE2NjUwODI4LC03NDMx
+OTQ1MzAsLTgyMDc5NTQ2NiwtNDk4MDAwOTY3LDEyMzgzNzY3OT
+EsMTY1MDg5NjA1LDc0ODk0OTUxMV19
 -->
