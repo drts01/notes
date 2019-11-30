@@ -63,7 +63,7 @@ With the ability to develop, operation teams can gather and make sense of infras
 
 
 
-
+We live in an era of DevOps, but the reality is that minimal development is happening in operations. Opportunities to improve efficiency and reliability are being missed. There is a push to change this in many organizations. But, operations teams do not receive addition bandwidth to make this transition. A path to success is introducing small chunks of coding to the existing workload. Jupyter Notebooks is a tool that can advance the adoption of devolvement in operations.
 
 
 --
@@ -123,11 +123,11 @@ With the ability to develop, the effectiveness of the team increases. Now the fo
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDI5MDgyNSwtMTk3MzI4MzY4NiwtMT
-Y4ODA0Nzg2LC0xODE5NTQyNjgsLTU5NzcyNzg1NiwxNjQ1MTg2
-MDYsLTE2OTY3NDgzMTAsNDMzNTEzNTg5LC0yMTQ0MDEyMzY4LD
-E4OTc5MTAyMTAsLTE5Njk4MDcxOTUsLTM3NDg2MTUwOCwtNzAz
-NDc4ODQ4LDE1NjAzOTQzMDgsLTExOTAzMjk4MTcsLTExMTY2NT
-A4MjgsLTc0MzE5NDUzMCwtODIwNzk1NDY2LC00OTgwMDA5Njcs
-MTIzODM3Njc5MV19
+eyJoaXN0b3J5IjpbOTQ0MTc3ODE5LC00MjQyOTA4MjUsLTE5Nz
+MyODM2ODYsLTE2ODgwNDc4NiwtMTgxOTU0MjY4LC01OTc3Mjc4
+NTYsMTY0NTE4NjA2LC0xNjk2NzQ4MzEwLDQzMzUxMzU4OSwtMj
+E0NDAxMjM2OCwxODk3OTEwMjEwLC0xOTY5ODA3MTk1LC0zNzQ4
+NjE1MDgsLTcwMzQ3ODg0OCwxNTYwMzk0MzA4LC0xMTkwMzI5OD
+E3LC0xMTE2NjUwODI4LC03NDMxOTQ1MzAsLTgyMDc5NTQ2Niwt
+NDk4MDAwOTY3XX0=
 -->
