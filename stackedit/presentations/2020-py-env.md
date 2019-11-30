@@ -38,21 +38,21 @@ From mangling the system's Python. conflicting dependencies from installed appli
 
 Writing Python code is quite enjoyable. This until you realize a project's dependencies are not compatible with another's. Or, the version of Python differs from your laptop to production. This is a frustrating experience. It does not have to be like this. Today there a few tools, when combined, can prevent this pain.
 
-Pythonistas, developers, and systems engineers, of novice and intermediate expertise with Python can benefit from this presentation.
+Pythonistas, developers, and systems engineers, of novice and intermediate expertise with Python, can benefit from this presentation.
 
 --
 
 Writing Python code is an enjoyable experience. Many great tools are written in Python, such as Ansible and Pandas.
 
-Eventually you have dozens of Python packages on system. Suddenly, things are no longer working. You discover, a library has clobber the dependencies of another. In an effort to quickly remedy the situation, you attempt to update all you package. Then you realize that you have just mangled you system's Python. You switch to developing on a production box, as one does. Only to find out, that production is running a version of Python incompatible with HEAD of the project repo.
+Over time, dozens of Python packages accumulate on your system. Then suddenly, things are no longer working. You discover, a library has clobbered the dependencies of another. In an effort to quickly remedy the situation, you attempt to update all your packages. Then you realize that you have mangled your system's Python. You switch to developing on a production box, as one does. Now you find out, that production is running a version of Python incompatible with HEAD of the project repo.
 
-Python is no longer as fun and easy as it once was. And you are starting to question you life choices. But it did not have to be like this. Today there is a better way.
+Python is no longer as fun and easy as it once was. And you are starting to question your life choices. But it did not have to be like this. There is a better way.
 
-Python did not always have packaging. It has taken time for Python to evolve tools to address dependencies and project isolation. Pythonistas can now get similar experience as Ruby developers do with RVM and Bundler, or Node.js developers with NVM and npm.
+Python did not always have packaging. It has taken time for Python to evolve tools to address dependencies and project isolation. But today, Pythonistas can now get a similar experience as Ruby developers do with RVM and Bundler, or Node.js developers with NVM and npm.
 
-We will explore three tools that work synergisticly. They will help manage multiple versions of Python, virtual environments, and installing project dependencies. 
+We will explore three tools that synergistically work together. They help manage multiple versions of Python, virtual environments, and installing project dependencies. 
 
-Developers and systems engineers, of novice and moderate expertise with Python will all benifit from this talk. And leave wondering how they ever able Python before. 
+Developers and systems engineers, of novice and moderate expertise with Python, will all benefit from this talk. And they will leave wondering how they were ever able Python before. 
 
 
 
@@ -126,10 +126,11 @@ You dont have to live like this
 * pyenv - rbenv/rvm - nvm
 * pipenv - bundler - npm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0Njc0MzAzLC05NzgxMzA3MCwxMTc4OT
-kwNDYyLDI3ODY3MjgzLDExNzY3MTExMDMsLTkwNzI4OTA2OCwt
-MTk1NzgxNjg3Nyw3NDc0NzM0ODIsLTEyNDc2Nzc3MTYsLTQyND
-gwMTAyMiwtMjc5NjMwMTQ5LDE4MzYyMjI2ODQsLTE2MDAxOTE1
-NCwzNjg1MTc4OTMsLTMzNjQ0MzQ4NiwtMzIzNzI1ODI1LDEyNj
-g1MDYxOTgsODQzODUyNjk2LDY5NzI5ODMxMV19
+eyJoaXN0b3J5IjpbLTExMjE2MjgzMTgsODE0Njc0MzAzLC05Nz
+gxMzA3MCwxMTc4OTkwNDYyLDI3ODY3MjgzLDExNzY3MTExMDMs
+LTkwNzI4OTA2OCwtMTk1NzgxNjg3Nyw3NDc0NzM0ODIsLTEyND
+c2Nzc3MTYsLTQyNDgwMTAyMiwtMjc5NjMwMTQ5LDE4MzYyMjI2
+ODQsLTE2MDAxOTE1NCwzNjg1MTc4OTMsLTMzNjQ0MzQ4NiwtMz
+IzNzI1ODI1LDEyNjg1MDYxOTgsODQzODUyNjk2LDY5NzI5ODMx
+MV19
 -->
