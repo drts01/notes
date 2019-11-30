@@ -47,7 +47,7 @@ Everyday more teams and organizations are moving toward doing the DevOps. This u
 
 Because of the lack of development in these team, manual intervention and playbooks persist to fill the gaps of the tool. This results in inconsistencies and impedes the ability to scale.
 
-But to ask team to switch to a development focus is a non
+But to ask team to switch to a development focus is a nontrivial request. Especially as they attempt to maintain the existing infrastructure and continue to on-board new services being deployed. But there is
 
 With the ability to develop, operation teams can gather and make sense of infrastructure data, increase speed, and improve reliability.
 
@@ -92,7 +92,7 @@ With the ability to develop, operation teams can gather and make sense of infras
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTk4NTg4MywxODk3OTEwMjEwLC0xOT
+eyJoaXN0b3J5IjpbLTMyNTcyNDA5NywxODk3OTEwMjEwLC0xOT
 Y5ODA3MTk1LC0zNzQ4NjE1MDgsLTcwMzQ3ODg0OCwxNTYwMzk0
 MzA4LC0xMTkwMzI5ODE3LC0xMTE2NjUwODI4LC03NDMxOTQ1Mz
 AsLTgyMDc5NTQ2NiwtNDk4MDAwOTY3LDEyMzgzNzY3OTEsMTY1
