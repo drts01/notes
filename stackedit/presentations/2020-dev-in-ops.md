@@ -74,22 +74,23 @@ Because of the lack of active development work, manual intervention and playbook
 		3. PyCharm (paid?)
 5. Advance
 	* Creating Kernels
+	* https://github.com/nteract/papermill
 6. Conclusion
 
 ## Notes
 
 ### Links
-* https://realpython.com/intro-to-pyenv/
+
 
 ### Rnd
 
-* ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
+
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NzkxMDIxMCwtMTk2OTgwNzE5NSwtMz
-c0ODYxNTA4LC03MDM0Nzg4NDgsMTU2MDM5NDMwOCwtMTE5MDMy
-OTgxNywtMTExNjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3OTU0Nj
-YsLTQ5ODAwMDk2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNSw3NDg5
-NDk1MTFdfQ==
+eyJoaXN0b3J5IjpbMjA2NTg4MTUwOSwxODk3OTEwMjEwLC0xOT
+Y5ODA3MTk1LC0zNzQ4NjE1MDgsLTcwMzQ3ODg0OCwxNTYwMzk0
+MzA4LC0xMTkwMzI5ODE3LC0xMTE2NjUwODI4LC03NDMxOTQ1Mz
+AsLTgyMDc5NTQ2NiwtNDk4MDAwOTY3LDEyMzgzNzY3OTEsMTY1
+MDg5NjA1LDc0ODk0OTUxMV19
 -->
