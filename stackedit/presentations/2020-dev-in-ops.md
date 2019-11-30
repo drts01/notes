@@ -61,7 +61,7 @@ With the ability to develop, operation teams can gather and make sense of infras
 ---
 ---
 
-Many organizations are demanding that 
+Many organizations are demanding that their operations teams to do development work.
 
 --
 
@@ -116,7 +116,7 @@ With the ability to develop, the effectiveness of the team increases. Now the fo
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTAwNTI0OCwtNTk3NzI3ODU2LDE2ND
+eyJoaXN0b3J5IjpbLTY3NTIxMTUzNiwtNTk3NzI3ODU2LDE2ND
 UxODYwNiwtMTY5Njc0ODMxMCw0MzM1MTM1ODksLTIxNDQwMTIz
 NjgsMTg5NzkxMDIxMCwtMTk2OTgwNzE5NSwtMzc0ODYxNTA4LC
 03MDM0Nzg4NDgsMTU2MDM5NDMwOCwtMTE5MDMyOTgxNywtMTEx
