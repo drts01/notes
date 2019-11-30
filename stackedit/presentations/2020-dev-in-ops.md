@@ -71,7 +71,7 @@ With the ability to develop, operation teams can gather and make sense of infras
 
 We live in an era of DevOps, but the reality is that minimal development is happening in operations. Opportunities to improve efficiency and reliability are being missed. There is a push to change this in many organizations. But, operations teams do not receive addition bandwidth to make this transition. A path to empowering these teams is introducing small chunks of coding to the existing workload. Jupyter Notebooks can facilitate this and the adoption of development in operations.
 
-System administrators and operation leads will learn
+System administrators and operation leads will learn how to use 
 
 
 --
@@ -131,7 +131,7 @@ With the ability to develop, the effectiveness of the team increases. Now the fo
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjYzMzE1NzYsMjAzOTY2MDg2OSwtMT
+eyJoaXN0b3J5IjpbLTIwODIxMDQ3MTAsMjAzOTY2MDg2OSwtMT
 A0ODA4ODk4OSw5NDQxNzc4MTksLTQyNDI5MDgyNSwtMTk3MzI4
 MzY4NiwtMTY4ODA0Nzg2LC0xODE5NTQyNjgsLTU5NzcyNzg1Ni
 wxNjQ1MTg2MDYsLTE2OTY3NDgzMTAsNDMzNTEzNTg5LC0yMTQ0
