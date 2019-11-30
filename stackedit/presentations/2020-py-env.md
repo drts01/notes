@@ -38,12 +38,11 @@ From mangling the system's Python. conflicting dependencies from installed appli
 
 Writing Python code is quite enjoyable. This until you realize that one project's dependencies are not compatible with another's. Or, the version of Python differs from your laptop to production. This is a frustrating experience. It does not have to be like this. Today there a few tools, when combined, can prevent this pain.
 
-This presentation will preserve the sanity of developers and systems engineers, of novice and intermediate expertise with Python.
-Pythonistas, novice to intermediate, system engineers and developers can all have their sanity preserved by this presentation.
+Pythonistas, developers, and systems engineers, of novice and intermediate expertise with Python can benefit from this presentation.
 
 --
 
-Writing Python code is an enjoyable experience. Many great tools are written in Python, such as Ansible and Pandas. 
+Writing Python code is an enjoyable experience. Many great tools are written in Python, such as Ansible and Pandas. Even
 
 
 
@@ -112,7 +111,7 @@ You dont have to live like this
 * ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
 * * https://realpython.com/intro-to-pyenv/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE2MTU1ODQsMTE3NjcxMTEwMywtOT
+eyJoaXN0b3J5IjpbLTE0MDg3MTc0NjQsMTE3NjcxMTEwMywtOT
 A3Mjg5MDY4LC0xOTU3ODE2ODc3LDc0NzQ3MzQ4MiwtMTI0NzY3
 NzcxNiwtNDI0ODAxMDIyLC0yNzk2MzAxNDksMTgzNjIyMjY4NC
 wtMTYwMDE5MTU0LDM2ODUxNzg5MywtMzM2NDQzNDg2LC0zMjM3
