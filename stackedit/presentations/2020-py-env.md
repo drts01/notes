@@ -33,7 +33,11 @@ From mangling the system's Python. conflicting dependencies from installed appli
 ---
 ---
 
-Writing Python code is quite enjoyable. But 
+Writing Python code is quite enjoyable. This until you realize that one project's dependencies are not compatible with another's. O
+
+--
+
+
 
 
 ## Outline
@@ -101,7 +105,7 @@ You dont have to live like this
 * ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
 * * https://realpython.com/intro-to-pyenv/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA0MDkyMTAsLTE5NTc4MTY4NzcsNz
+eyJoaXN0b3J5IjpbLTEzNTcwNjg2NDIsLTE5NTc4MTY4NzcsNz
 Q3NDczNDgyLC0xMjQ3Njc3NzE2LC00MjQ4MDEwMjIsLTI3OTYz
 MDE0OSwxODM2MjIyNjg0LC0xNjAwMTkxNTQsMzY4NTE3ODkzLC
 0zMzY0NDM0ODYsLTMyMzcyNTgyNSwxMjY4NTA2MTk4LDg0Mzg1
