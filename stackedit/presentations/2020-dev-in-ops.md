@@ -50,7 +50,7 @@ Because of the lack of development in these team, manual intervention and playbo
 But to ask team to switch to a development focus is a nontrivial request. Especially as they attempt to maintain the existing infrastructure and continue to on-board new services being deployed. But there is a more incremental and less daunting approach than leaping into a new paradigm.
 
 Jupyter Notebooks can be used to help non-development teams make the transition to writing more code as part of their normal process. With Jupyter, small bits of code can be written, executed, and introspected, thus making learning to write code less daunting.
-Further more Jupyter Notebooks are a great way to initally codify a task into a repeatable, shareable, auditable, and versionable playbook. Notebooks can also server as supplental
+Further more Jupyter Notebooks are a great way to initally codify a task into a repeatable, shareable, auditable, and versionable playbook. Notebooks can also server as supplemental examples to documentation.
 
 Any data collected during the execution of the Notebook can easily be visualized. This can empower engineers to make sense of a metric that is not currently being feed into an ELK cluster, Graphana, or Permethious.
 
@@ -100,7 +100,7 @@ With the ability to develop, operation teams can gather and make sense of infras
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTAzNDcyNywxNjQ1MTg2MDYsLTE2OT
+eyJoaXN0b3J5IjpbMTEwMDExNDc1NSwxNjQ1MTg2MDYsLTE2OT
 Y3NDgzMTAsNDMzNTEzNTg5LC0yMTQ0MDEyMzY4LDE4OTc5MTAy
 MTAsLTE5Njk4MDcxOTUsLTM3NDg2MTUwOCwtNzAzNDc4ODQ4LD
 E1NjAzOTQzMDgsLTExOTAzMjk4MTcsLTExMTY2NTA4MjgsLTc0
