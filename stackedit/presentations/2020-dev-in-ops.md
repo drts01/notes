@@ -2,7 +2,9 @@
 
 ## Titles
 
+* The Dev in Ops Transition
 
+## Abstract
 
 Not much develop actually occurs in devops. We pretend that giving the operation team new responsibilities such as maintaining a Jenkins box or migration Bash scripts to YAML for configuration management is dev work.
 
@@ -127,11 +129,11 @@ With the ability to develop, the effectiveness of the team increases. Now the fo
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM0MjY3MTQsMjAzOTY2MDg2OSwtMT
-A0ODA4ODk4OSw5NDQxNzc4MTksLTQyNDI5MDgyNSwtMTk3MzI4
-MzY4NiwtMTY4ODA0Nzg2LC0xODE5NTQyNjgsLTU5NzcyNzg1Ni
-wxNjQ1MTg2MDYsLTE2OTY3NDgzMTAsNDMzNTEzNTg5LC0yMTQ0
-MDEyMzY4LDE4OTc5MTAyMTAsLTE5Njk4MDcxOTUsLTM3NDg2MT
-UwOCwtNzAzNDc4ODQ4LDE1NjAzOTQzMDgsLTExOTAzMjk4MTcs
-LTExMTY2NTA4MjhdfQ==
+eyJoaXN0b3J5IjpbMTE2NjA1ODcxMCwyMDM5NjYwODY5LC0xMD
+Q4MDg4OTg5LDk0NDE3NzgxOSwtNDI0MjkwODI1LC0xOTczMjgz
+Njg2LC0xNjg4MDQ3ODYsLTE4MTk1NDI2OCwtNTk3NzI3ODU2LD
+E2NDUxODYwNiwtMTY5Njc0ODMxMCw0MzM1MTM1ODksLTIxNDQw
+MTIzNjgsMTg5NzkxMDIxMCwtMTk2OTgwNzE5NSwtMzc0ODYxNT
+A4LC03MDM0Nzg4NDgsMTU2MDM5NDMwOCwtMTE5MDMyOTgxNywt
+MTExNjY1MDgyOF19
 -->
