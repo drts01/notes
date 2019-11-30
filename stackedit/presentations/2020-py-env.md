@@ -37,7 +37,7 @@ Writing Python code is quite enjoyable. This until you realize that one project'
 
 --
 
-Writing Python code is an enjoyable experience. Many great tools are written in Python, Ansible. And many great libraries, such as Pandas.
+Writing Python code is an enjoyable experience. Many great tools are written in Python, such as Ansible and Pandas. 
 
 
 
@@ -106,7 +106,7 @@ You dont have to live like this
 * ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
 * * https://realpython.com/intro-to-pyenv/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDc3ODA5MCwtOTA3Mjg5MDY4LC0xOT
+eyJoaXN0b3J5IjpbMTQzODM3NzI2MSwtOTA3Mjg5MDY4LC0xOT
 U3ODE2ODc3LDc0NzQ3MzQ4MiwtMTI0NzY3NzcxNiwtNDI0ODAx
 MDIyLC0yNzk2MzAxNDksMTgzNjIyMjY4NCwtMTYwMDE5MTU0LD
 M2ODUxNzg5MywtMzM2NDQzNDg2LC0zMjM3MjU4MjUsMTI2ODUw
