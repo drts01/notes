@@ -52,7 +52,7 @@ Python did not always have packaging. It has taken time for Python to evolve too
 
 We will explore three tools that synergistically work together. They help manage multiple versions of Python, virtual environments, and installing project dependencies. 
 
-Developers and systems engineers, of novice and moderate expertise with Python, will all benefit from this talk. And they will leave wondering how they were ever able Python before. 
+Developers and systems engineers, of novice and moderate expertise with Python, will all benefit from this talk. And everyone will leave wondering how they were ever able Python before. 
 
 
 
@@ -126,7 +126,7 @@ You dont have to live like this
 * pyenv - rbenv/rvm - nvm
 * pipenv - bundler - npm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjE2MjgzMTgsODE0Njc0MzAzLC05Nz
+eyJoaXN0b3J5IjpbLTE1MzAwMzk3MDcsODE0Njc0MzAzLC05Nz
 gxMzA3MCwxMTc4OTkwNDYyLDI3ODY3MjgzLDExNzY3MTExMDMs
 LTkwNzI4OTA2OCwtMTk1NzgxNjg3Nyw3NDc0NzM0ODIsLTEyND
 c2Nzc3MTYsLTQyNDgwMTAyMiwtMjc5NjMwMTQ5LDE4MzYyMjI2
