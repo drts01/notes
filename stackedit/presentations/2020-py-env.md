@@ -50,6 +50,8 @@ Python is no longer as fun and easy as it once was. And you are starting to ques
 
 Python did not always have packaging. It has taken time for Python to evolve tools to address dependencies and project isolation. Pythonistas can now get similar experience as Ruby developers do with RVM and Bundler, or Node.js developers with NVM and npm.
 
+We will expl
+
 includes recommendations of the Python Packaging Authority (PyPA),
 
 
@@ -123,10 +125,10 @@ You dont have to live like this
 * pyenv - rbenv/rvm - nvm
 * pipenv - bundler - npm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxMjkyMTEzLC05NzgxMzA3MCwxMTc4OT
-kwNDYyLDI3ODY3MjgzLDExNzY3MTExMDMsLTkwNzI4OTA2OCwt
-MTk1NzgxNjg3Nyw3NDc0NzM0ODIsLTEyNDc2Nzc3MTYsLTQyND
-gwMTAyMiwtMjc5NjMwMTQ5LDE4MzYyMjI2ODQsLTE2MDAxOTE1
-NCwzNjg1MTc4OTMsLTMzNjQ0MzQ4NiwtMzIzNzI1ODI1LDEyNj
-g1MDYxOTgsODQzODUyNjk2LDY5NzI5ODMxMV19
+eyJoaXN0b3J5IjpbLTUwMjk1NzUwMiwtOTc4MTMwNzAsMTE3OD
+k5MDQ2MiwyNzg2NzI4MywxMTc2NzExMTAzLC05MDcyODkwNjgs
+LTE5NTc4MTY4NzcsNzQ3NDczNDgyLC0xMjQ3Njc3NzE2LC00Mj
+Q4MDEwMjIsLTI3OTYzMDE0OSwxODM2MjIyNjg0LC0xNjAwMTkx
+NTQsMzY4NTE3ODkzLC0zMzY0NDM0ODYsLTMyMzcyNTgyNSwxMj
+Y4NTA2MTk4LDg0Mzg1MjY5Niw2OTcyOTgzMTFdfQ==
 -->
