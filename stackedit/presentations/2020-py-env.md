@@ -46,7 +46,7 @@ Writing Python code is an enjoyable experience. Many great tools are written in 
 
 Eventually you have dozens of Python packages on system. Suddenly, things are no longer working. You discover, a library has clobber the dependencies of another. In an effort to quickly remedy the situation, you attempt to update all you package. Then you realize that you have just mangled you system's Python.
 
-You are starting to question you life choices. 
+Python is no longer as fun as it used to be. And you are starting to question you life choices. 
 
 
 
@@ -115,10 +115,10 @@ You dont have to live like this
 * ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
 * * https://realpython.com/intro-to-pyenv/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjYzMjc1OSwxMTc2NzExMTAzLC05MD
-cyODkwNjgsLTE5NTc4MTY4NzcsNzQ3NDczNDgyLC0xMjQ3Njc3
-NzE2LC00MjQ4MDEwMjIsLTI3OTYzMDE0OSwxODM2MjIyNjg0LC
-0xNjAwMTkxNTQsMzY4NTE3ODkzLC0zMzY0NDM0ODYsLTMyMzcy
-NTgyNSwxMjY4NTA2MTk4LDg0Mzg1MjY5Niw2OTcyOTgzMTFdfQ
-==
+eyJoaXN0b3J5IjpbLTE0NjAwMzg5MjEsMTE3NjcxMTEwMywtOT
+A3Mjg5MDY4LC0xOTU3ODE2ODc3LDc0NzQ3MzQ4MiwtMTI0NzY3
+NzcxNiwtNDI0ODAxMDIyLC0yNzk2MzAxNDksMTgzNjIyMjY4NC
+wtMTYwMDE5MTU0LDM2ODUxNzg5MywtMzM2NDQzNDg2LC0zMjM3
+MjU4MjUsMTI2ODUwNjE5OCw4NDM4NTI2OTYsNjk3Mjk4MzExXX
+0=
 -->
