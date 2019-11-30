@@ -33,7 +33,7 @@ From mangling the system's Python. conflicting dependencies from installed appli
 ---
 ---
 
-Writing Python code is quite enjoyable. This until you realize that one project's dependencies are not compatible with another's. Or, the version of Python differs from your laptop to production. This is a frustrating experience. There is a better way.
+Writing Python code is quite enjoyable. This until you realize that one project's dependencies are not compatible with another's. Or, the version of Python differs from your laptop to production. This is a frustrating experience. It does not have to be like this. Today there a few tools, when combined, can 
 
 --
 
@@ -106,7 +106,7 @@ You dont have to live like this
 * ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
 * * https://realpython.com/intro-to-pyenv/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODM3NzI2MSwtOTA3Mjg5MDY4LC0xOT
+eyJoaXN0b3J5IjpbLTMyMzM5ODk1MSwtOTA3Mjg5MDY4LC0xOT
 U3ODE2ODc3LDc0NzQ3MzQ4MiwtMTI0NzY3NzcxNiwtNDI0ODAx
 MDIyLC0yNzk2MzAxNDksMTgzNjIyMjY4NCwtMTYwMDE5MTU0LD
 M2ODUxNzg5MywtMzM2NDQzNDg2LC0zMjM3MjU4MjUsMTI2ODUw
