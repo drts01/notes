@@ -61,13 +61,14 @@ With the ability to develop, operation teams can gather and make sense of infras
 ---
 ---
 
-Many organizations are demanding that their operations teams to transition to doing more development work. And there is good reason for this. T
+
+
 
 
 
 --
 
-Everyday more teams and organizations are attempting to do the DevOps. This  includes leveraging Infrastructure-as-Code (Ansible/Saltstack), build pipelines (Jenkins/Gitlab), containerization (Docker/K8s), etc .  But, there is not significant development work occurring.
+Everyday more teams and organizations are attempting to do the DevOps. This  includes leveraging Infrastructure-as-Code (Ansible/Saltstack), build pipelines (Jenkins/Gitlab), containerization (Docker/K8s), etc. But, there is not significant development work being performed.
 
 Many organizations are asking operation teams to shift towards a development focus. There are good reasons for this including reliably and the ability to scale. But this is a nontrivial request. Existing workload and responsibilities are not offloaded. Little bandwidth is available for transforming a team. 
 
@@ -122,7 +123,7 @@ With the ability to develop, the effectiveness of the team increases. Now the fo
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTkzNDQyMzgsLTE5NzMyODM2ODYsLT
+eyJoaXN0b3J5IjpbLTEwNDQxNjMwNDAsLTE5NzMyODM2ODYsLT
 E2ODgwNDc4NiwtMTgxOTU0MjY4LC01OTc3Mjc4NTYsMTY0NTE4
 NjA2LC0xNjk2NzQ4MzEwLDQzMzUxMzU4OSwtMjE0NDAxMjM2OC
 wxODk3OTEwMjEwLC0xOTY5ODA3MTk1LC0zNzQ4NjE1MDgsLTcw
