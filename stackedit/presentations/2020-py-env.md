@@ -1,7 +1,7 @@
 # Python Environment
 
 ## Title
-* A Python Environment 
+* A Python Environment for preserving sanity
 
 ## Abstract
 When working with Python, have things stopped working as expected? The system's Python gets hosed? Dependency versions are inconsistent between environments? It does not have to be like this, there is a better way.
@@ -50,7 +50,7 @@ Python is no longer as fun and easy as it once was. And you are starting to ques
 
 Python did not always have packaging. It has taken time for Python to evolve tools to address dependencies and project isolation. Pythonistas can now get similar experience as Ruby developers do with RVM and Bundler, or Node.js developers with NVM and npm.
 
-We will expl
+We will explore three tools that work synergisticly 
 
 includes recommendations of the Python Packaging Authority (PyPA),
 
@@ -125,7 +125,7 @@ You dont have to live like this
 * pyenv - rbenv/rvm - nvm
 * pipenv - bundler - npm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjk1NzUwMiwtOTc4MTMwNzAsMTE3OD
+eyJoaXN0b3J5IjpbMTIxMjkxNzQ3MiwtOTc4MTMwNzAsMTE3OD
 k5MDQ2MiwyNzg2NzI4MywxMTc2NzExMTAzLC05MDcyODkwNjgs
 LTE5NTc4MTY4NzcsNzQ3NDczNDgyLC0xMjQ3Njc3NzE2LC00Mj
 Q4MDEwMjIsLTI3OTYzMDE0OSwxODM2MjIyNjg0LC0xNjAwMTkx
