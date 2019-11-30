@@ -30,6 +30,10 @@ Pythonistas do not have to live like this. There is a better way. We will explor
 Install over the system's packages.
 From mangling the system's Python. conflicting dependencies from installed applications and projects in development.
 
+---
+---
+
+
 
 
 ## Outline
@@ -97,9 +101,9 @@ You dont have to live like this
 * ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
 * * https://realpython.com/intro-to-pyenv/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTc4MTY4NzcsNzQ3NDczNDgyLC0xMj
-Q3Njc3NzE2LC00MjQ4MDEwMjIsLTI3OTYzMDE0OSwxODM2MjIy
-Njg0LC0xNjAwMTkxNTQsMzY4NTE3ODkzLC0zMzY0NDM0ODYsLT
-MyMzcyNTgyNSwxMjY4NTA2MTk4LDg0Mzg1MjY5Niw2OTcyOTgz
-MTFdfQ==
+eyJoaXN0b3J5IjpbNjUwMzg3MDg3LC0xOTU3ODE2ODc3LDc0Nz
+Q3MzQ4MiwtMTI0NzY3NzcxNiwtNDI0ODAxMDIyLC0yNzk2MzAx
+NDksMTgzNjIyMjY4NCwtMTYwMDE5MTU0LDM2ODUxNzg5MywtMz
+M2NDQzNDg2LC0zMjM3MjU4MjUsMTI2ODUwNjE5OCw4NDM4NTI2
+OTYsNjk3Mjk4MzExXX0=
 -->
