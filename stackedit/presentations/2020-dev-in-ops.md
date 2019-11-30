@@ -1,5 +1,9 @@
 # Dev in Ops
 
+## Titles
+
+
+
 Not much develop actually occurs in devops. We pretend that giving the operation team new responsibilities such as maintaining a Jenkins box or migration Bash scripts to YAML for configuration management is dev work.
 
 If we want to truly empower Operations and DevOps, true coding work must be integrated. A path to the promise land can be walked with Jupyter Notebooks
@@ -123,11 +127,11 @@ With the ability to develop, the effectiveness of the team increases. Now the fo
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTY2MDg2OSwtMTA0ODA4ODk4OSw5ND
-QxNzc4MTksLTQyNDI5MDgyNSwtMTk3MzI4MzY4NiwtMTY4ODA0
-Nzg2LC0xODE5NTQyNjgsLTU5NzcyNzg1NiwxNjQ1MTg2MDYsLT
-E2OTY3NDgzMTAsNDMzNTEzNTg5LC0yMTQ0MDEyMzY4LDE4OTc5
-MTAyMTAsLTE5Njk4MDcxOTUsLTM3NDg2MTUwOCwtNzAzNDc4OD
-Q4LDE1NjAzOTQzMDgsLTExOTAzMjk4MTcsLTExMTY2NTA4Mjgs
-LTc0MzE5NDUzMF19
+eyJoaXN0b3J5IjpbLTEzMTM0MjY3MTQsMjAzOTY2MDg2OSwtMT
+A0ODA4ODk4OSw5NDQxNzc4MTksLTQyNDI5MDgyNSwtMTk3MzI4
+MzY4NiwtMTY4ODA0Nzg2LC0xODE5NTQyNjgsLTU5NzcyNzg1Ni
+wxNjQ1MTg2MDYsLTE2OTY3NDgzMTAsNDMzNTEzNTg5LC0yMTQ0
+MDEyMzY4LDE4OTc5MTAyMTAsLTE5Njk4MDcxOTUsLTM3NDg2MT
+UwOCwtNzAzNDc4ODQ4LDE1NjAzOTQzMDgsLTExOTAzMjk4MTcs
+LTExMTY2NTA4MjhdfQ==
 -->
