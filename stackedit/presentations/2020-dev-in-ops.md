@@ -58,6 +58,22 @@ Eventually patterns will emerge from these notebooks. Then code can be extracted
 
 With the ability to develop, operation teams can gather and make sense of infrastructure data, increase speed, improve reliability, and find optimizations.
 
+---
+---
+
+
+
+--
+
+Everyday more teams and organizations are attempting to do the DevOps. This  includes leveraging Infrastructure-as-Code (Ansible/Saltstack), build pipelines (Jenkins/Gitlab), containerization (Docker/K8s), etc .  But, there is not much actual coding.
+The lack of development within these team leads to manual playbooks and intervention to fill the gaps of the tools. This is inefficient, results in inconsistencies, and impedes the ability to scale.
+
+Asking a team to shift towards a development focus is a nontrivial request. The team cannot abandon existing responsibilities, such as maintaining the existing infrastructure and on-board new services. This results in little bandwidth to foster coding skills. But, there is a more gradual, less intimidating approach to embrace coding.Jupyter Notebooks are not only for data scientist. Non-development teams can leverage Notebooks to incrementally write more code. With Jupyter, small bits of code can be written, executed, and introspected. This makes learning to write code less daunting.
+Further more, Jupyter Notebooks are a great way to initially codify a task. They are shareable, repeatable, auditable, and versionable playbook. Notebooks can also server as supplemental examples to documentation.
+
+Patterns will emerge from the notebooks. Code can then be extracted in to their own library or tool. Previously executed Notebooks can provide test-cases and test-data. Now the team is on the path to a culture of development practices.
+
+With the ability to develop, the effectiveness of the team increases. Now the focus the team can shift towards preventive and optimization work.
 
 
 ## Outline
@@ -100,10 +116,11 @@ With the ability to develop, operation teams can gather and make sense of infras
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzcyNzg1NiwxNjQ1MTg2MDYsLTE2OT
-Y3NDgzMTAsNDMzNTEzNTg5LC0yMTQ0MDEyMzY4LDE4OTc5MTAy
-MTAsLTE5Njk4MDcxOTUsLTM3NDg2MTUwOCwtNzAzNDc4ODQ4LD
-E1NjAzOTQzMDgsLTExOTAzMjk4MTcsLTExMTY2NTA4MjgsLTc0
-MzE5NDUzMCwtODIwNzk1NDY2LC00OTgwMDA5NjcsMTIzODM3Nj
-c5MSwxNjUwODk2MDUsNzQ4OTQ5NTExXX0=
+eyJoaXN0b3J5IjpbMTAzNzExMjk1NywtNTk3NzI3ODU2LDE2ND
+UxODYwNiwtMTY5Njc0ODMxMCw0MzM1MTM1ODksLTIxNDQwMTIz
+NjgsMTg5NzkxMDIxMCwtMTk2OTgwNzE5NSwtMzc0ODYxNTA4LC
+03MDM0Nzg4NDgsMTU2MDM5NDMwOCwtMTE5MDMyOTgxNywtMTEx
+NjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3OTU0NjYsLTQ5ODAwMD
+k2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNSw3NDg5NDk1MTFdfQ==
+
 -->
