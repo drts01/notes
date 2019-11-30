@@ -118,14 +118,15 @@ You dont have to live like this
 ## RND
 * ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
 * * https://realpython.com/intro-to-pyenv/
+* https://medium.com/expedia-group-tech/simplify-your-python-developer-environment-aba90f32dddb
 
 * pyenv - rbenv/rvm - nvm
 * pipenv - bundler - npm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODk5MDQ2MiwyNzg2NzI4MywxMTc2Nz
-ExMTAzLC05MDcyODkwNjgsLTE5NTc4MTY4NzcsNzQ3NDczNDgy
-LC0xMjQ3Njc3NzE2LC00MjQ4MDEwMjIsLTI3OTYzMDE0OSwxOD
-M2MjIyNjg0LC0xNjAwMTkxNTQsMzY4NTE3ODkzLC0zMzY0NDM0
-ODYsLTMyMzcyNTgyNSwxMjY4NTA2MTk4LDg0Mzg1MjY5Niw2OT
-cyOTgzMTFdfQ==
+eyJoaXN0b3J5IjpbLTk3ODEzMDcwLDExNzg5OTA0NjIsMjc4Nj
+cyODMsMTE3NjcxMTEwMywtOTA3Mjg5MDY4LC0xOTU3ODE2ODc3
+LDc0NzQ3MzQ4MiwtMTI0NzY3NzcxNiwtNDI0ODAxMDIyLC0yNz
+k2MzAxNDksMTgzNjIyMjY4NCwtMTYwMDE5MTU0LDM2ODUxNzg5
+MywtMzM2NDQzNDg2LC0zMjM3MjU4MjUsMTI2ODUwNjE5OCw4ND
+M4NTI2OTYsNjk3Mjk4MzExXX0=
 -->
