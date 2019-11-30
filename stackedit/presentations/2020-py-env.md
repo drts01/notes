@@ -48,7 +48,7 @@ Eventually you have dozens of Python packages on system. Suddenly, things are no
 
 Python is no longer as fun as it used to be. And you are starting to question you life choices. Bud it did not have to be like this. Today there is a better way.
 
-Python did not always have packaging. Which means it has taken time for Python to gain tools and work
+Python did not always have packaging. It has taken time for Python to evolve tools to address dependencies and project isolation. 
 
 
 
@@ -117,9 +117,10 @@ You dont have to live like this
 * ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
 * * https://realpython.com/intro-to-pyenv/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4OTcxNzkwLDExNzY3MTExMDMsLTkwNz
-I4OTA2OCwtMTk1NzgxNjg3Nyw3NDc0NzM0ODIsLTEyNDc2Nzc3
-MTYsLTQyNDgwMTAyMiwtMjc5NjMwMTQ5LDE4MzYyMjI2ODQsLT
-E2MDAxOTE1NCwzNjg1MTc4OTMsLTMzNjQ0MzQ4NiwtMzIzNzI1
-ODI1LDEyNjg1MDYxOTgsODQzODUyNjk2LDY5NzI5ODMxMV19
+eyJoaXN0b3J5IjpbMTYyOTE1NTg2NSwxMTc2NzExMTAzLC05MD
+cyODkwNjgsLTE5NTc4MTY4NzcsNzQ3NDczNDgyLC0xMjQ3Njc3
+NzE2LC00MjQ4MDEwMjIsLTI3OTYzMDE0OSwxODM2MjIyNjg0LC
+0xNjAwMTkxNTQsMzY4NTE3ODkzLC0zMzY0NDM0ODYsLTMyMzcy
+NTgyNSwxMjY4NTA2MTk4LDg0Mzg1MjY5Niw2OTcyOTgzMTFdfQ
+==
 -->
