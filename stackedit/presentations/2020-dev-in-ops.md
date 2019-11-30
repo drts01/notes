@@ -49,7 +49,7 @@ Because of the lack of development in these team, manual intervention and playbo
 
 But to ask team to switch to a development focus is a nontrivial request. Especially as they attempt to maintain the existing infrastructure and continue to on-board new services being deployed. But there is a more incremental and less daunting approach than leaping into a new paradigm.
 
-With Jupyter Notebooks we can create and run playbooks and even parametarize them. This is a great way codify a process 
+With Jupyter Notebooks we can create and run playbooks and even parametarize them. This is a great way to initially codify a process.
 
 With the ability to develop, operation teams can gather and make sense of infrastructure data, increase speed, and improve reliability.
 
@@ -95,10 +95,10 @@ With the ability to develop, operation teams can gather and make sense of infras
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY3NDgzMTAsNDMzNTEzNTg5LC0yMT
-Q0MDEyMzY4LDE4OTc5MTAyMTAsLTE5Njk4MDcxOTUsLTM3NDg2
-MTUwOCwtNzAzNDc4ODQ4LDE1NjAzOTQzMDgsLTExOTAzMjk4MT
-csLTExMTY2NTA4MjgsLTc0MzE5NDUzMCwtODIwNzk1NDY2LC00
-OTgwMDA5NjcsMTIzODM3Njc5MSwxNjUwODk2MDUsNzQ4OTQ5NT
-ExXX0=
+eyJoaXN0b3J5IjpbMTY0NTE4NjA2LC0xNjk2NzQ4MzEwLDQzMz
+UxMzU4OSwtMjE0NDAxMjM2OCwxODk3OTEwMjEwLC0xOTY5ODA3
+MTk1LC0zNzQ4NjE1MDgsLTcwMzQ3ODg0OCwxNTYwMzk0MzA4LC
+0xMTkwMzI5ODE3LC0xMTE2NjUwODI4LC03NDMxOTQ1MzAsLTgy
+MDc5NTQ2NiwtNDk4MDAwOTY3LDEyMzgzNzY3OTEsMTY1MDg5Nj
+A1LDc0ODk0OTUxMV19
 -->
