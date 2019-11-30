@@ -34,7 +34,7 @@ Provide examples to supplent documentation
 
 We live in an era of DevOps, but the reality is that minimal development is happening in operations. There are growing pressures for operation teams to do more coding. Reason include, repeatably, constancy, scale, gathering and making sense of infrastructure data, efficiently, and speed.
 
-Even DevOps teams, 
+Even DevOps teams are not doing development work. They may be responsible for maintain Jenkins nodes and 
 
 
 
@@ -76,9 +76,9 @@ Even DevOps teams,
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTcxNjA3MywtMTk2OTgwNzE5NSwtMz
-c0ODYxNTA4LC03MDM0Nzg4NDgsMTU2MDM5NDMwOCwtMTE5MDMy
-OTgxNywtMTExNjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3OTU0Nj
-YsLTQ5ODAwMDk2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNSw3NDg5
-NDk1MTFdfQ==
+eyJoaXN0b3J5IjpbMzQ1OTA0Njk5LC0xOTY5ODA3MTk1LC0zNz
+Q4NjE1MDgsLTcwMzQ3ODg0OCwxNTYwMzk0MzA4LC0xMTkwMzI5
+ODE3LC0xMTE2NjUwODI4LC03NDMxOTQ1MzAsLTgyMDc5NTQ2Ni
+wtNDk4MDAwOTY3LDEyMzgzNzY3OTEsMTY1MDg5NjA1LDc0ODk0
+OTUxMV19
 -->
