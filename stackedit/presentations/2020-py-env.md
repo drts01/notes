@@ -46,7 +46,7 @@ Writing Python code is an enjoyable experience. Many great tools are written in 
 
 Eventually you have dozens of Python packages on system. Suddenly, things are no longer working. You discover, a library has clobber the dependencies of another. In an effort to quickly remedy the situation, you attempt to update all you package. Then you realize that you have just mangled you system's Python. You switch to developing on a production box, as one does. Only to find out, that production is running a version of Python incompatible with HEAD of the project repo.
 
-Python is no longer as fun as it used to be. And you are starting to question you life choices. Bud it did not have to be like this. Today there is a better way.
+Python is no longer as fun as it used to be. And you are starting to question you life choices. But it did not have to be like this. Today there is a better way.
 
 Python did not always have packaging. It has taken time for Python to evolve tools to address dependencies and project isolation.
 
@@ -122,7 +122,7 @@ You dont have to live like this
 * pyenv - rbenv/rvm - nvm
 * pipenv - bundler - npm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODQ2NzY5OCwyNzg2NzI4MywxMTc2Nz
+eyJoaXN0b3J5IjpbMTE3ODk5MDQ2MiwyNzg2NzI4MywxMTc2Nz
 ExMTAzLC05MDcyODkwNjgsLTE5NTc4MTY4NzcsNzQ3NDczNDgy
 LC0xMjQ3Njc3NzE2LC00MjQ4MDEwMjIsLTI3OTYzMDE0OSwxOD
 M2MjIyNjg0LC0xNjAwMTkxNTQsMzY4NTE3ODkzLC0zMzY0NDM0
