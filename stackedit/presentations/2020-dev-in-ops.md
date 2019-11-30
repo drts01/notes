@@ -68,17 +68,17 @@ We live in an era of DevOps, but the reality is that minimal development is happ
 
 --
 
-Everyday more teams and organizations are attempting to do the DevOps. This  includes leveraging Infrastructure-as-Code (Ansible/Saltstack), build pipelines (Jenkins/Gitlab), containerization (Docker/K8s), etc. But, there is not significant development work occurring.
+Every day more teams and organizations are attempting to do the DevOps. This includes leveraging Infrastructure-as-Code (Ansible/Saltstack), build pipelines (Jenkins/Gitlab), containerization (Docker/K8s), etc. But, there is no significant development work occurring.
 
-Many organizations are asking operation teams to shift towards a development focus. There are good reasons for this including reliably and the ability to scale. But this is a nontrivial request. Existing workload and responsibilities are not offloaded. Little bandwidth is available for transforming a team. 
+Many organizations are asking operation teams to shift towards a development focus. There are good reasons for this including reliably and the ability to scale. But this is a nontrivial request. Existing workloads and responsibilities are not offloaded. Little bandwidth is available for transforming a team. 
 
-The lack of development within these team leads to manual playbooks and intervention to fill the gaps of the tools. This is inefficient and error prone. The result is a negative feedback loop, preventing the fostering coding skills. But, there is a more gradual, less disruptive approach to embrace coding.
+The lack of development within these teams leads to manual playbooks and intervention to fill the gaps in their tools. This is inefficient and error-prone. The result is a negative feedback loop, preventing fostering coding skills. But, there is a more gradual, less disruptive approach to embrace coding.
 
-Jupyter Notebooks are not only for data scientist. Non-development teams can leverage Notebooks to incrementally write more code. With Jupyter, small bits of code can be written, executed, and introspected. This makes learning to write code less daunting.
+Jupyter Notebooks are not only for data scientists. Non-development teams can leverage Notebooks to incrementally write more code. With Jupyter, small bits of code can be written, executed, and introspected. This makes learning to write code less daunting.
 
-Further more, Jupyter Notebooks are a great way to initially codify a task. They are shareable, repeatable, auditable, and versionable playbook. Notebooks can also server as supplemental examples to documentation.
+Furthermore, Jupyter Notebooks are a great way to initially codify a task. They are shareable, repeatable, auditable, and versionable playbook. Notebooks can also server as supplemental examples to documentation.
 
-Patterns will emerge from the notebooks. Code can then be extracted in to their own library or tool. Previously executed Notebooks can provide test-cases and test-data. Now the team is on the path to success and a culture of development practices.
+Patterns will emerge from the notebooks. Code can then be extracted into their own library or tool. Previously executed Notebooks can provide test-cases and test-data. Now the team is on the path to success and a culture of development practices.
 
 With the ability to develop, the effectiveness of the team increases. Now the focus the team can shift towards preventive and optimization work.
 
@@ -123,11 +123,11 @@ With the ability to develop, the effectiveness of the team increases. Now the fo
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDgwODg5ODksOTQ0MTc3ODE5LC00Mj
-QyOTA4MjUsLTE5NzMyODM2ODYsLTE2ODgwNDc4NiwtMTgxOTU0
-MjY4LC01OTc3Mjc4NTYsMTY0NTE4NjA2LC0xNjk2NzQ4MzEwLD
-QzMzUxMzU4OSwtMjE0NDAxMjM2OCwxODk3OTEwMjEwLC0xOTY5
-ODA3MTk1LC0zNzQ4NjE1MDgsLTcwMzQ3ODg0OCwxNTYwMzk0Mz
-A4LC0xMTkwMzI5ODE3LC0xMTE2NjUwODI4LC03NDMxOTQ1MzAs
-LTgyMDc5NTQ2Nl19
+eyJoaXN0b3J5IjpbMjAzOTY2MDg2OSwtMTA0ODA4ODk4OSw5ND
+QxNzc4MTksLTQyNDI5MDgyNSwtMTk3MzI4MzY4NiwtMTY4ODA0
+Nzg2LC0xODE5NTQyNjgsLTU5NzcyNzg1NiwxNjQ1MTg2MDYsLT
+E2OTY3NDgzMTAsNDMzNTEzNTg5LC0yMTQ0MDEyMzY4LDE4OTc5
+MTAyMTAsLTE5Njk4MDcxOTUsLTM3NDg2MTUwOCwtNzAzNDc4OD
+Q4LDE1NjAzOTQzMDgsLTExOTAzMjk4MTcsLTExMTY2NTA4Mjgs
+LTc0MzE5NDUzMF19
 -->
