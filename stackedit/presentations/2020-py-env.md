@@ -118,10 +118,14 @@ You dont have to live like this
 ## RND
 * ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
 * * https://realpython.com/intro-to-pyenv/
+
+* pyenv - rbenv/rvm - nvm
+* pipenv - bundler - npm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4NjcyODMsMTE3NjcxMTEwMywtOTA3Mj
-g5MDY4LC0xOTU3ODE2ODc3LDc0NzQ3MzQ4MiwtMTI0NzY3Nzcx
-NiwtNDI0ODAxMDIyLC0yNzk2MzAxNDksMTgzNjIyMjY4NCwtMT
-YwMDE5MTU0LDM2ODUxNzg5MywtMzM2NDQzNDg2LC0zMjM3MjU4
-MjUsMTI2ODUwNjE5OCw4NDM4NTI2OTYsNjk3Mjk4MzExXX0=
+eyJoaXN0b3J5IjpbLTk1ODQ2NzY5OCwyNzg2NzI4MywxMTc2Nz
+ExMTAzLC05MDcyODkwNjgsLTE5NTc4MTY4NzcsNzQ3NDczNDgy
+LC0xMjQ3Njc3NzE2LC00MjQ4MDEwMjIsLTI3OTYzMDE0OSwxOD
+M2MjIyNjg0LC0xNjAwMTkxNTQsMzY4NTE3ODkzLC0zMzY0NDM0
+ODYsLTMyMzcyNTgyNSwxMjY4NTA2MTk4LDg0Mzg1MjY5Niw2OT
+cyOTgzMTFdfQ==
 -->
