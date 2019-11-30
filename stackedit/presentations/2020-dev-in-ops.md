@@ -68,7 +68,7 @@ With the ability to develop, operation teams can gather and make sense of infras
 
 --
 
-Everyday more teams and organizations are attempting to do the DevOps. This  includes leveraging Infrastructure-as-Code (Ansible/Saltstack), build pipelines (Jenkins/Gitlab), containerization (Docker/K8s), etc. But, there is not significant development work being performed.
+Everyday more teams and organizations are attempting to do the DevOps. This  includes leveraging Infrastructure-as-Code (Ansible/Saltstack), build pipelines (Jenkins/Gitlab), containerization (Docker/K8s), etc. But, there is not significant development work occurring.
 
 Many organizations are asking operation teams to shift towards a development focus. There are good reasons for this including reliably and the ability to scale. But this is a nontrivial request. Existing workload and responsibilities are not offloaded. Little bandwidth is available for transforming a team. 
 
@@ -78,7 +78,7 @@ Jupyter Notebooks are not only for data scientist. Non-development teams can lev
 
 Further more, Jupyter Notebooks are a great way to initially codify a task. They are shareable, repeatable, auditable, and versionable playbook. Notebooks can also server as supplemental examples to documentation.
 
-Patterns will emerge from the notebooks. Code can then be extracted in to their own library or tool. Previously executed Notebooks can provide test-cases and test-data. Now the team is on the path to a culture of development practices.
+Patterns will emerge from the notebooks. Code can then be extracted in to their own library or tool. Previously executed Notebooks can provide test-cases and test-data. Now the team is on the path to success and a culture of development practices.
 
 With the ability to develop, the effectiveness of the team increases. Now the focus the team can shift towards preventive and optimization work.
 
@@ -123,11 +123,11 @@ With the ability to develop, the effectiveness of the team increases. Now the fo
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQxNjMwNDAsLTE5NzMyODM2ODYsLT
-E2ODgwNDc4NiwtMTgxOTU0MjY4LC01OTc3Mjc4NTYsMTY0NTE4
-NjA2LC0xNjk2NzQ4MzEwLDQzMzUxMzU4OSwtMjE0NDAxMjM2OC
-wxODk3OTEwMjEwLC0xOTY5ODA3MTk1LC0zNzQ4NjE1MDgsLTcw
-MzQ3ODg0OCwxNTYwMzk0MzA4LC0xMTkwMzI5ODE3LC0xMTE2Nj
-UwODI4LC03NDMxOTQ1MzAsLTgyMDc5NTQ2NiwtNDk4MDAwOTY3
-LDEyMzgzNzY3OTFdfQ==
+eyJoaXN0b3J5IjpbLTQyNDI5MDgyNSwtMTk3MzI4MzY4NiwtMT
+Y4ODA0Nzg2LC0xODE5NTQyNjgsLTU5NzcyNzg1NiwxNjQ1MTg2
+MDYsLTE2OTY3NDgzMTAsNDMzNTEzNTg5LC0yMTQ0MDEyMzY4LD
+E4OTc5MTAyMTAsLTE5Njk4MDcxOTUsLTM3NDg2MTUwOCwtNzAz
+NDc4ODQ4LDE1NjAzOTQzMDgsLTExOTAzMjk4MTcsLTExMTY2NT
+A4MjgsLTc0MzE5NDUzMCwtODIwNzk1NDY2LC00OTgwMDA5Njcs
+MTIzODM3Njc5MV19
 -->
