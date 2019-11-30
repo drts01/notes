@@ -50,6 +50,8 @@ Python is no longer as fun as it used to be. And you are starting to question yo
 
 Python did not always have packaging. It has taken time for Python to evolve tools to address dependencies and project isolation. Unfortunately, there is still not a standard prescribed solution.
 
+Combining my years of experiences with Python and the recommendation of the Python Packaging Authority (Py
+
 
 
 ## Outline
@@ -117,7 +119,7 @@ You dont have to live like this
 * ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
 * * https://realpython.com/intro-to-pyenv/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDA4ODQ2MCwxMTc2NzExMTAzLC05MD
+eyJoaXN0b3J5IjpbMTk5Mjk5MjE2NCwxMTc2NzExMTAzLC05MD
 cyODkwNjgsLTE5NTc4MTY4NzcsNzQ3NDczNDgyLC0xMjQ3Njc3
 NzE2LC00MjQ4MDEwMjIsLTI3OTYzMDE0OSwxODM2MjIyNjg0LC
 0xNjAwMTkxNTQsMzY4NTE3ODkzLC0zMzY0NDM0ODYsLTMyMzcy
