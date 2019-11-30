@@ -2,7 +2,7 @@
 
 ## Titles
 
-* The Dev in Ops Transition
+* The Dev in Ops Transition / Transformation 
 
 ## Abstract
 
@@ -131,11 +131,11 @@ With the ability to develop, the effectiveness of the team increases. Now the fo
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTQ4MTM5MiwyMDM5NjYwODY5LC0xMD
-Q4MDg4OTg5LDk0NDE3NzgxOSwtNDI0MjkwODI1LC0xOTczMjgz
-Njg2LC0xNjg4MDQ3ODYsLTE4MTk1NDI2OCwtNTk3NzI3ODU2LD
-E2NDUxODYwNiwtMTY5Njc0ODMxMCw0MzM1MTM1ODksLTIxNDQw
-MTIzNjgsMTg5NzkxMDIxMCwtMTk2OTgwNzE5NSwtMzc0ODYxNT
-A4LC03MDM0Nzg4NDgsMTU2MDM5NDMwOCwtMTE5MDMyOTgxNywt
-MTExNjY1MDgyOF19
+eyJoaXN0b3J5IjpbNzAzNjI0NzQsMTQ4MTQ4MTM5MiwyMDM5Nj
+YwODY5LC0xMDQ4MDg4OTg5LDk0NDE3NzgxOSwtNDI0MjkwODI1
+LC0xOTczMjgzNjg2LC0xNjg4MDQ3ODYsLTE4MTk1NDI2OCwtNT
+k3NzI3ODU2LDE2NDUxODYwNiwtMTY5Njc0ODMxMCw0MzM1MTM1
+ODksLTIxNDQwMTIzNjgsMTg5NzkxMDIxMCwtMTk2OTgwNzE5NS
+wtMzc0ODYxNTA4LC03MDM0Nzg4NDgsMTU2MDM5NDMwOCwtMTE5
+MDMyOTgxN119
 -->
