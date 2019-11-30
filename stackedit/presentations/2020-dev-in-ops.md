@@ -49,8 +49,8 @@ Because of the lack of development in these team, manual intervention and playbo
 
 But to ask team to switch to a development focus is a nontrivial request. Especially as they attempt to maintain the existing infrastructure and continue to on-board new services being deployed. But there is a more incremental and less daunting approach than leaping into a new paradigm.
 
-Jupyter Notebooks can be used to help non-development teams make the transition to writing more code as part of their normal process. With Jupyter, small bits of code can be written, executed, and introspected, thus making the effort t
-
+Jupyter Notebooks can be used to help non-development teams make the transition to writing more code as part of their normal process. With Jupyter, small bits of code can be written, executed, and introspected, thus making learning to write code less daunting.
+Further more Jupyter Notebooks are a great way to i
 With Jupyter Notebooks we can create and run playbooks and even parametarize them. This is a great way to initially codify a process.
 
 With the ability to develop, operation teams can gather and make sense of infrastructure data, increase speed, and improve reliability.
@@ -97,10 +97,10 @@ With the ability to develop, operation teams can gather and make sense of infras
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzY0MTAxMSwxNjQ1MTg2MDYsLTE2OT
-Y3NDgzMTAsNDMzNTEzNTg5LC0yMTQ0MDEyMzY4LDE4OTc5MTAy
-MTAsLTE5Njk4MDcxOTUsLTM3NDg2MTUwOCwtNzAzNDc4ODQ4LD
-E1NjAzOTQzMDgsLTExOTAzMjk4MTcsLTExMTY2NTA4MjgsLTc0
-MzE5NDUzMCwtODIwNzk1NDY2LC00OTgwMDA5NjcsMTIzODM3Nj
-c5MSwxNjUwODk2MDUsNzQ4OTQ5NTExXX0=
+eyJoaXN0b3J5IjpbMTY5NjA0MTMzLDE2NDUxODYwNiwtMTY5Nj
+c0ODMxMCw0MzM1MTM1ODksLTIxNDQwMTIzNjgsMTg5NzkxMDIx
+MCwtMTk2OTgwNzE5NSwtMzc0ODYxNTA4LC03MDM0Nzg4NDgsMT
+U2MDM5NDMwOCwtMTE5MDMyOTgxNywtMTExNjY1MDgyOCwtNzQz
+MTk0NTMwLC04MjA3OTU0NjYsLTQ5ODAwMDk2NywxMjM4Mzc2Nz
+kxLDE2NTA4OTYwNSw3NDg5NDk1MTFdfQ==
 -->
