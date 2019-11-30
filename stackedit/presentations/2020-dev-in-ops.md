@@ -56,7 +56,7 @@ Any data collected during the execution of the Notebook can easily be visualized
 
 Eventually patterns will emerge from these notebooks. Then code can be extracted in to their own library or tool. Now the team is starting to look more like a development team. The data from previously executed Notebooks can also serve as test data for the team's new product and services.
 
-With the ability to develop, operation teams can gather and make sense of infrastructure data, increase speed, and improve reliability.
+With the ability to develop, operation teams can gather and make sense of infrastructure data, increase speed, improve reliability, and find .
 
 
 
@@ -100,10 +100,10 @@ With the ability to develop, operation teams can gather and make sense of infras
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDAyMzMzOSwxNjQ1MTg2MDYsLTE2OT
-Y3NDgzMTAsNDMzNTEzNTg5LC0yMTQ0MDEyMzY4LDE4OTc5MTAy
-MTAsLTE5Njk4MDcxOTUsLTM3NDg2MTUwOCwtNzAzNDc4ODQ4LD
-E1NjAzOTQzMDgsLTExOTAzMjk4MTcsLTExMTY2NTA4MjgsLTc0
-MzE5NDUzMCwtODIwNzk1NDY2LC00OTgwMDA5NjcsMTIzODM3Nj
-c5MSwxNjUwODk2MDUsNzQ4OTQ5NTExXX0=
+eyJoaXN0b3J5IjpbNjE4NTA1NjA4LDE2NDUxODYwNiwtMTY5Nj
+c0ODMxMCw0MzM1MTM1ODksLTIxNDQwMTIzNjgsMTg5NzkxMDIx
+MCwtMTk2OTgwNzE5NSwtMzc0ODYxNTA4LC03MDM0Nzg4NDgsMT
+U2MDM5NDMwOCwtMTE5MDMyOTgxNywtMTExNjY1MDgyOCwtNzQz
+MTk0NTMwLC04MjA3OTU0NjYsLTQ5ODAwMDk2NywxMjM4Mzc2Nz
+kxLDE2NTA4OTYwNSw3NDg5NDk1MTFdfQ==
 -->
