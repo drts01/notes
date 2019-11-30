@@ -43,7 +43,9 @@ With such a large opertunity to imporve
 
 ---
 
-Everyday more teams and organizations are moving toward doing the DevOps. This usually includes leveraging Infrastructure-as-Code, build pipelines, containerization, etc. (Ansible/Saltstack, Jenkins/Gitlab, Docker/K8s)
+Everyday more teams and organizations are moving toward doing the DevOps. This usually includes leveraging Infrastructure-as-Code, build pipelines, containerization, etc. (Ansible/Saltstack, Jenkins/Gitlab, Docker/K8s). But there is not much actually coding.
+
+Because of the lack of active development work, manual processes and interf
 
 
 
@@ -85,9 +87,9 @@ Everyday more teams and organizations are moving toward doing the DevOps. This u
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODE4NTQ4NzYsLTE5Njk4MDcxOTUsLT
-M3NDg2MTUwOCwtNzAzNDc4ODQ4LDE1NjAzOTQzMDgsLTExOTAz
-Mjk4MTcsLTExMTY2NTA4MjgsLTc0MzE5NDUzMCwtODIwNzk1ND
-Y2LC00OTgwMDA5NjcsMTIzODM3Njc5MSwxNjUwODk2MDUsNzQ4
-OTQ5NTExXX0=
+eyJoaXN0b3J5IjpbMjAxMzYyMzEyMCwtMTk2OTgwNzE5NSwtMz
+c0ODYxNTA4LC03MDM0Nzg4NDgsMTU2MDM5NDMwOCwtMTE5MDMy
+OTgxNywtMTExNjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3OTU0Nj
+YsLTQ5ODAwMDk2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNSw3NDg5
+NDk1MTFdfQ==
 -->
