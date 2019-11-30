@@ -72,7 +72,8 @@ Operations teams that can use development are 10x
 Everyday more teams and organizations are attempting to do the DevOps. This  includes leveraging Infrastructure-as-Code (Ansible/Saltstack), build pipelines (Jenkins/Gitlab), containerization (Docker/K8s), etc .  But, there is not much actual coding.
 The lack of development within these team leads to manual playbooks and intervention to fill the gaps of the tools. This is inefficient, results in inconsistencies, and impedes the ability to scale.
 
-Asking a team to shift towards a development focus is a nontrivial request. The team cannot abandon existing responsibilities, such as maintaining the existing infrastructure and on-board new services. This results in little bandwidth to foster coding skills. But, there is a more gradual, less intimidating approach to embrace coding.Jupyter Notebooks are not only for data scientist. Non-development teams can leverage Notebooks to incrementally write more code. With Jupyter, small bits of code can be written, executed, and introspected. This makes learning to write code less daunting.
+Asking a team to shift towards a development focus is a nontrivial request. The team cannot abandon existing responsibilities, such as maintaining the existing infrastructure and on-board new services. This results in little bandwidth to foster coding skills and  But, there is a more gradual, less intimidating approach to embrace coding.Jupyter Notebooks are not only for data scientist. Non-development teams can leverage Notebooks to incrementally write more code. With Jupyter, small bits of code can be written, executed, and introspected. This makes learning to write code less daunting.
+
 Further more, Jupyter Notebooks are a great way to initially codify a task. They are shareable, repeatable, auditable, and versionable playbook. Notebooks can also server as supplemental examples to documentation.
 
 Patterns will emerge from the notebooks. Code can then be extracted in to their own library or tool. Previously executed Notebooks can provide test-cases and test-data. Now the team is on the path to a culture of development practices.
@@ -120,11 +121,11 @@ With the ability to develop, the effectiveness of the team increases. Now the fo
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTk1NDI2OCwtNTk3NzI3ODU2LDE2ND
-UxODYwNiwtMTY5Njc0ODMxMCw0MzM1MTM1ODksLTIxNDQwMTIz
-NjgsMTg5NzkxMDIxMCwtMTk2OTgwNzE5NSwtMzc0ODYxNTA4LC
-03MDM0Nzg4NDgsMTU2MDM5NDMwOCwtMTE5MDMyOTgxNywtMTEx
-NjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3OTU0NjYsLTQ5ODAwMD
-k2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNSw3NDg5NDk1MTFdfQ==
-
+eyJoaXN0b3J5IjpbMTIwNzkxMTg2NywtMTgxOTU0MjY4LC01OT
+c3Mjc4NTYsMTY0NTE4NjA2LC0xNjk2NzQ4MzEwLDQzMzUxMzU4
+OSwtMjE0NDAxMjM2OCwxODk3OTEwMjEwLC0xOTY5ODA3MTk1LC
+0zNzQ4NjE1MDgsLTcwMzQ3ODg0OCwxNTYwMzk0MzA4LC0xMTkw
+MzI5ODE3LC0xMTE2NjUwODI4LC03NDMxOTQ1MzAsLTgyMDc5NT
+Q2NiwtNDk4MDAwOTY3LDEyMzgzNzY3OTEsMTY1MDg5NjA1LDc0
+ODk0OTUxMV19
 -->
