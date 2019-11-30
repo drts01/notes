@@ -61,19 +61,17 @@ With the ability to develop, operation teams can gather and make sense of infras
 ---
 ---
 
-Many organizations are demanding that their operations teams to do development work.
-
-Operations teams that can use development are 10x
+Many organizations are demanding that their operations teams to transition to doing more development work. And
 
 
 
 --
 
-Everyday more teams and organizations are attempting to do the DevOps. This  includes leveraging Infrastructure-as-Code (Ansible/Saltstack), build pipelines (Jenkins/Gitlab), containerization (Docker/K8s), etc. But, there is not much actual coding.
+Everyday more teams and organizations are attempting to do the DevOps. This  includes leveraging Infrastructure-as-Code (Ansible/Saltstack), build pipelines (Jenkins/Gitlab), containerization (Docker/K8s), etc .  But, there is not significant development work occurring.
 
-The lack of development within these team leads to manual playbooks and intervention to fill the gaps of the tools. This is inefficient, results in inconsistencies, and impedes the ability to scale.
+Many organizations are asking operation teams to shift towards a development focus. But this is a nontrivial request. Existing workload and responsibilities are not offloaded. Little bandwidth is available for transforming a team. 
 
-Asking a team to shift towards a development focus is a nontrivial request. Unless existing workload and responsibilities are offloaded, little bandwidth for transforming a team. The result is a negative feedback loop, preventing fostering coding skills. But, there is a more gradual, less disruptive approach to embrace coding.
+The lack of development within these team leads to manual playbooks and intervention to fill the gaps of the tools. This is inefficient with inconsistencies and impedes the ability to scale. The result is a negative feedback loop, preventing the fostering coding skills. But, there is a more gradual, less disruptive approach to embrace coding.
 
 Jupyter Notebooks are not only for data scientist. Non-development teams can leverage Notebooks to incrementally write more code. With Jupyter, small bits of code can be written, executed, and introspected. This makes learning to write code less daunting.
 
@@ -124,11 +122,11 @@ With the ability to develop, the effectiveness of the team increases. Now the fo
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzMyODM2ODYsLTE2ODgwNDc4NiwtMT
-gxOTU0MjY4LC01OTc3Mjc4NTYsMTY0NTE4NjA2LC0xNjk2NzQ4
-MzEwLDQzMzUxMzU4OSwtMjE0NDAxMjM2OCwxODk3OTEwMjEwLC
-0xOTY5ODA3MTk1LC0zNzQ4NjE1MDgsLTcwMzQ3ODg0OCwxNTYw
-Mzk0MzA4LC0xMTkwMzI5ODE3LC0xMTE2NjUwODI4LC03NDMxOT
-Q1MzAsLTgyMDc5NTQ2NiwtNDk4MDAwOTY3LDEyMzgzNzY3OTEs
-MTY1MDg5NjA1XX0=
+eyJoaXN0b3J5IjpbLTE2MTI4MTMwODMsLTE5NzMyODM2ODYsLT
+E2ODgwNDc4NiwtMTgxOTU0MjY4LC01OTc3Mjc4NTYsMTY0NTE4
+NjA2LC0xNjk2NzQ4MzEwLDQzMzUxMzU4OSwtMjE0NDAxMjM2OC
+wxODk3OTEwMjEwLC0xOTY5ODA3MTk1LC0zNzQ4NjE1MDgsLTcw
+MzQ3ODg0OCwxNTYwMzk0MzA4LC0xMTkwMzI5ODE3LC0xMTE2Nj
+UwODI4LC03NDMxOTQ1MzAsLTgyMDc5NTQ2NiwtNDk4MDAwOTY3
+LDEyMzgzNzY3OTFdfQ==
 -->
