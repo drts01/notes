@@ -33,7 +33,7 @@ From mangling the system's Python. conflicting dependencies from installed appli
 ---
 ---
 
-
+Writing Python code is quite enjoyable. But 
 
 
 ## Outline
@@ -101,9 +101,9 @@ You dont have to live like this
 * ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
 * * https://realpython.com/intro-to-pyenv/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwMzg3MDg3LC0xOTU3ODE2ODc3LDc0Nz
-Q3MzQ4MiwtMTI0NzY3NzcxNiwtNDI0ODAxMDIyLC0yNzk2MzAx
-NDksMTgzNjIyMjY4NCwtMTYwMDE5MTU0LDM2ODUxNzg5MywtMz
-M2NDQzNDg2LC0zMjM3MjU4MjUsMTI2ODUwNjE5OCw4NDM4NTI2
-OTYsNjk3Mjk4MzExXX0=
+eyJoaXN0b3J5IjpbLTExNzA0MDkyMTAsLTE5NTc4MTY4NzcsNz
+Q3NDczNDgyLC0xMjQ3Njc3NzE2LC00MjQ4MDEwMjIsLTI3OTYz
+MDE0OSwxODM2MjIyNjg0LC0xNjAwMTkxNTQsMzY4NTE3ODkzLC
+0zMzY0NDM0ODYsLTMyMzcyNTgyNSwxMjY4NTA2MTk4LDg0Mzg1
+MjY5Niw2OTcyOTgzMTFdfQ==
 -->
