@@ -44,11 +44,11 @@ Pythonistas, developers, and systems engineers, of novice and intermediate exper
 
 Writing Python code is an enjoyable experience. Many great tools are written in Python, such as Ansible and Pandas.
 
-Eventually you have dozens of Python packages on system. Suddenly, things are no longer working. You discover, a library has clobber the dependencies of another. In an effort to quickly remedy the situation, you attempt to update all you package. Then you realize that you have just mangled you system's Python.
+Eventually you have dozens of Python packages on system. Suddenly, things are no longer working. You discover, a library has clobber the dependencies of another. In an effort to quickly remedy the situation, you attempt to update all you package. Then you realize that you have just mangled you system's Python. You switch to developing on a production box, as one does. Only to find out, that production is running a version of Python incompatible with HEAD of the project repo.
 
-You switch to developing on a production box, as one does. Only to find out, that production is running a version of Python incompatible with HEAD of the project repo.
+Python is no longer as fun as it used to be. And you are starting to question you life choices. Bud it did not have to be like this. Today there is a better way.
 
-Python is no longer as fun as it used to be. And you are starting to question you life choices. 
+Python did not always have packaging. Which means it has taken time for Python to gain tools and work
 
 
 
@@ -117,10 +117,9 @@ You dont have to live like this
 * ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
 * * https://realpython.com/intro-to-pyenv/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDU4MjM1MjgsMTE3NjcxMTEwMywtOT
-A3Mjg5MDY4LC0xOTU3ODE2ODc3LDc0NzQ3MzQ4MiwtMTI0NzY3
-NzcxNiwtNDI0ODAxMDIyLC0yNzk2MzAxNDksMTgzNjIyMjY4NC
-wtMTYwMDE5MTU0LDM2ODUxNzg5MywtMzM2NDQzNDg2LC0zMjM3
-MjU4MjUsMTI2ODUwNjE5OCw4NDM4NTI2OTYsNjk3Mjk4MzExXX
-0=
+eyJoaXN0b3J5IjpbOTQ4OTcxNzkwLDExNzY3MTExMDMsLTkwNz
+I4OTA2OCwtMTk1NzgxNjg3Nyw3NDc0NzM0ODIsLTEyNDc2Nzc3
+MTYsLTQyNDgwMTAyMiwtMjc5NjMwMTQ5LDE4MzYyMjI2ODQsLT
+E2MDAxOTE1NCwzNjg1MTc4OTMsLTMzNjQ0MzQ4NiwtMzIzNzI1
+ODI1LDEyNjg1MDYxOTgsODQzODUyNjk2LDY5NzI5ODMxMV19
 -->
