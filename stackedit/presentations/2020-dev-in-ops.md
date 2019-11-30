@@ -32,7 +32,7 @@ Provide examples to supplent documentation
 
 ---
 
-We live 
+We live in an era of DevOps, but the reality is that minimal development is happening in operations. There
 
 
 
@@ -74,9 +74,9 @@ We live
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTY1ODk0NiwtMTk2OTgwNzE5NSwtMz
-c0ODYxNTA4LC03MDM0Nzg4NDgsMTU2MDM5NDMwOCwtMTE5MDMy
-OTgxNywtMTExNjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3OTU0Nj
-YsLTQ5ODAwMDk2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNSw3NDg5
-NDk1MTFdfQ==
+eyJoaXN0b3J5IjpbLTIwODk2OTY0NTIsLTE5Njk4MDcxOTUsLT
+M3NDg2MTUwOCwtNzAzNDc4ODQ4LDE1NjAzOTQzMDgsLTExOTAz
+Mjk4MTcsLTExMTY2NTA4MjgsLTc0MzE5NDUzMCwtODIwNzk1ND
+Y2LC00OTgwMDA5NjcsMTIzODM3Njc5MSwxNjUwODk2MDUsNzQ4
+OTQ5NTExXX0=
 -->
