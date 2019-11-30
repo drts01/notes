@@ -50,7 +50,7 @@ Python is no longer as fun as it used to be. And you are starting to question yo
 
 Python did not always have packaging. It has taken time for Python to evolve tools to address dependencies and project isolation. Unfortunately, there is still not a standard prescribed solution.
 
-Combining my years of experiences with Python and the recommendation of the Python Packaging Authority (Py
+includes recommendations of the Python Packaging Authority (PyPA),
 
 
 
@@ -119,10 +119,9 @@ You dont have to live like this
 * ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
 * * https://realpython.com/intro-to-pyenv/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Mjk5MjE2NCwxMTc2NzExMTAzLC05MD
-cyODkwNjgsLTE5NTc4MTY4NzcsNzQ3NDczNDgyLC0xMjQ3Njc3
-NzE2LC00MjQ4MDEwMjIsLTI3OTYzMDE0OSwxODM2MjIyNjg0LC
-0xNjAwMTkxNTQsMzY4NTE3ODkzLC0zMzY0NDM0ODYsLTMyMzcy
-NTgyNSwxMjY4NTA2MTk4LDg0Mzg1MjY5Niw2OTcyOTgzMTFdfQ
-==
+eyJoaXN0b3J5IjpbOTI3OTUxODAsMTE3NjcxMTEwMywtOTA3Mj
+g5MDY4LC0xOTU3ODE2ODc3LDc0NzQ3MzQ4MiwtMTI0NzY3Nzcx
+NiwtNDI0ODAxMDIyLC0yNzk2MzAxNDksMTgzNjIyMjY4NCwtMT
+YwMDE5MTU0LDM2ODUxNzg5MywtMzM2NDQzNDg2LC0zMjM3MjU4
+MjUsMTI2ODUwNjE5OCw4NDM4NTI2OTYsNjk3Mjk4MzExXX0=
 -->
