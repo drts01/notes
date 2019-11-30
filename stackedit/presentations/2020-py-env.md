@@ -36,7 +36,7 @@ From mangling the system's Python. conflicting dependencies from installed appli
 ---
 ---
 
-Writing Python code is quite enjoyable. This until you realize that one project's dependencies are not compatible with another's. Or, the version of Python differs from your laptop to production. This is a frustrating experience. It does not have to be like this. Today there a few tools, when combined, can prevent this pain.
+Writing Python code is quite enjoyable. This until you realize a project's dependencies are not compatible with another's. Or, the version of Python differs from your laptop to production. This is a frustrating experience. It does not have to be like this. Today there a few tools, when combined, can prevent this pain.
 
 Pythonistas, developers, and systems engineers, of novice and intermediate expertise with Python can benefit from this presentation.
 
@@ -125,7 +125,7 @@ You dont have to live like this
 * pyenv - rbenv/rvm - nvm
 * pipenv - bundler - npm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjkxNzQ3MiwtOTc4MTMwNzAsMTE3OD
+eyJoaXN0b3J5IjpbMTcxODM5NzYzNiwtOTc4MTMwNzAsMTE3OD
 k5MDQ2MiwyNzg2NzI4MywxMTc2NzExMTAzLC05MDcyODkwNjgs
 LTE5NTc4MTY4NzcsNzQ3NDczNDgyLC0xMjQ3Njc3NzE2LC00Mj
 Q4MDEwMjIsLTI3OTYzMDE0OSwxODM2MjIyNjg0LC0xNjAwMTkx
