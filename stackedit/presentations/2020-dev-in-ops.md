@@ -43,7 +43,7 @@ With such a large opertunity to imporve
 
 ---
 
-Man
+Everyday more teams and organizations are moving toward doing the DevOps.
 
 
 
@@ -85,9 +85,9 @@ Man
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyNDQ5MDc2LC0xOTY5ODA3MTk1LC0zNz
-Q4NjE1MDgsLTcwMzQ3ODg0OCwxNTYwMzk0MzA4LC0xMTkwMzI5
-ODE3LC0xMTE2NjUwODI4LC03NDMxOTQ1MzAsLTgyMDc5NTQ2Ni
-wtNDk4MDAwOTY3LDEyMzgzNzY3OTEsMTY1MDg5NjA1LDc0ODk0
-OTUxMV19
+eyJoaXN0b3J5IjpbMTE1NjU1Mzg0NywtMTk2OTgwNzE5NSwtMz
+c0ODYxNTA4LC03MDM0Nzg4NDgsMTU2MDM5NDMwOCwtMTE5MDMy
+OTgxNywtMTExNjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3OTU0Nj
+YsLTQ5ODAwMDk2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNSw3NDg5
+NDk1MTFdfQ==
 -->
