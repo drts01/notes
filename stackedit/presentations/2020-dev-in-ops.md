@@ -19,8 +19,8 @@ Many system administrators are being pressured into becoming developers. This is
 
 Many devops teams function as operation teams for platforms, such as Jenkins or K8s. There may use of tool like Infrastructure-as-Code, i.e. updating YAML files. But this is not coding, and there is ample opportunity to do more. Because of this gap, there continues to be playbooks and manual intervention.
 
-We will go over how Jupyter Notebooks can help transition sysadmins, and gain incremental coding opertunities. 
-Notebooks provide an opertunity to write small bits of code, lowering any intimidation to coding.
+We will go over how Jupyter Notebooks can help transition sysadmins, and gain incremental coding opportunities. 
+Notebooks provide an opportunity to write small bits of code, lowering any intimidation to coding.
 
 Rather than trying to script something in all BASH or Python, it can be mixed.
 
@@ -29,6 +29,10 @@ Visualize data, variables, along the way.
 Share playbooks/process
 
 Provide examples to supplent documentation
+
+---
+
+We live 
 
 
 
@@ -70,8 +74,9 @@ Provide examples to supplent documentation
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njk4MDcxOTUsLTM3NDg2MTUwOCwtNz
-AzNDc4ODQ4LDE1NjAzOTQzMDgsLTExOTAzMjk4MTcsLTExMTY2
-NTA4MjgsLTc0MzE5NDUzMCwtODIwNzk1NDY2LC00OTgwMDA5Nj
-csMTIzODM3Njc5MSwxNjUwODk2MDUsNzQ4OTQ5NTExXX0=
+eyJoaXN0b3J5IjpbMTY3NTY1ODk0NiwtMTk2OTgwNzE5NSwtMz
+c0ODYxNTA4LC03MDM0Nzg4NDgsMTU2MDM5NDMwOCwtMTE5MDMy
+OTgxNywtMTExNjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3OTU0Nj
+YsLTQ5ODAwMDk2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNSw3NDg5
+NDk1MTFdfQ==
 -->
