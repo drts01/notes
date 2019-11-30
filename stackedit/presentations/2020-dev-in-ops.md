@@ -79,6 +79,7 @@ With the ability to develop, operation teams can gather and make sense of infras
 5. Advance
 	* Creating Kernels
 	* https://github.com/nteract/papermill
+	* https://github.com/nteract/nteract
 6. Conclusion
 
 ## Notes
@@ -92,9 +93,9 @@ With the ability to develop, operation teams can gather and make sense of infras
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQwMTIzNjgsMTg5NzkxMDIxMCwtMT
-k2OTgwNzE5NSwtMzc0ODYxNTA4LC03MDM0Nzg4NDgsMTU2MDM5
-NDMwOCwtMTE5MDMyOTgxNywtMTExNjY1MDgyOCwtNzQzMTk0NT
-MwLC04MjA3OTU0NjYsLTQ5ODAwMDk2NywxMjM4Mzc2NzkxLDE2
-NTA4OTYwNSw3NDg5NDk1MTFdfQ==
+eyJoaXN0b3J5IjpbNDMzNTEzNTg5LC0yMTQ0MDEyMzY4LDE4OT
+c5MTAyMTAsLTE5Njk4MDcxOTUsLTM3NDg2MTUwOCwtNzAzNDc4
+ODQ4LDE1NjAzOTQzMDgsLTExOTAzMjk4MTcsLTExMTY2NTA4Mj
+gsLTc0MzE5NDUzMCwtODIwNzk1NDY2LC00OTgwMDA5NjcsMTIz
+ODM3Njc5MSwxNjUwODk2MDUsNzQ4OTQ5NTExXX0=
 -->
