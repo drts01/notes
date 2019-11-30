@@ -47,7 +47,7 @@ Everyday more teams and organizations are moving toward doing the DevOps. This u
 
 Because of the lack of development in these team, manual intervention and playbooks persist to fill the gaps of the tool. This results in inconsistencies and impedes the ability to scale.
 
-W
+With the ability to develop, operation teams can gather and make sense of infrastructure data, increase speed, and improve reliability.
 
 
 
@@ -90,7 +90,7 @@ W
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTIyNjA2MCwxODk3OTEwMjEwLC0xOT
+eyJoaXN0b3J5IjpbLTU4OTc2Mzk5NSwxODk3OTEwMjEwLC0xOT
 Y5ODA3MTk1LC0zNzQ4NjE1MDgsLTcwMzQ3ODg0OCwxNTYwMzk0
 MzA4LC0xMTkwMzI5ODE3LC0xMTE2NjUwODI4LC03NDMxOTQ1Mz
 AsLTgyMDc5NTQ2NiwtNDk4MDAwOTY3LDEyMzgzNzY3OTEsMTY1
