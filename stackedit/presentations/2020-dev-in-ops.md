@@ -34,6 +34,8 @@ Provide examples to supplent documentation
 
 We live in an era of DevOps, but the reality is that minimal development is happening in operations. There are growing pressures for operation teams to do more coding. Reason include, repeatably, constancy, scale, gathering and making sense of infrastructure data, efficiently, and speed.
 
+Even DevOps teams, 
+
 
 
 ## Outline
@@ -74,7 +76,7 @@ We live in an era of DevOps, but the reality is that minimal development is happ
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjMyMDA1MCwtMTk2OTgwNzE5NSwtMz
+eyJoaXN0b3J5IjpbMTExNTcxNjA3MywtMTk2OTgwNzE5NSwtMz
 c0ODYxNTA4LC03MDM0Nzg4NDgsMTU2MDM5NDMwOCwtMTE5MDMy
 OTgxNywtMTExNjY1MDgyOCwtNzQzMTk0NTMwLC04MjA3OTU0Nj
 YsLTQ5ODAwMDk2NywxMjM4Mzc2NzkxLDE2NTA4OTYwNSw3NDg5
