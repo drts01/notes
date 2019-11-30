@@ -1,5 +1,8 @@
 # Python Environment
 
+## Title
+* A Python Environment 
+
 ## Abstract
 When working with Python, have things stopped working as expected? The system's Python gets hosed? Dependency versions are inconsistent between environments? It does not have to be like this, there is a better way.
 
@@ -106,7 +109,7 @@ You dont have to live like this
 * ```CONFIGURE_OPTS=--enable-optimizations pyenv install 3.8```
 * * https://realpython.com/intro-to-pyenv/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzM5ODk1MSwtOTA3Mjg5MDY4LC0xOT
+eyJoaXN0b3J5IjpbMTE3NjcxMTEwMywtOTA3Mjg5MDY4LC0xOT
 U3ODE2ODc3LDc0NzQ3MzQ4MiwtMTI0NzY3NzcxNiwtNDI0ODAx
 MDIyLC0yNzk2MzAxNDksMTgzNjIyMjY4NCwtMTYwMDE5MTU0LD
 M2ODUxNzg5MywtMzM2NDQzNDg2LC0zMjM3MjU4MjUsMTI2ODUw
