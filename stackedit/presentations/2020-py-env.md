@@ -59,7 +59,7 @@ Developers and systems engineers, of novice and moderate expertise with Python, 
 ---
 
 ## Short
-Writing Python code is quite enjoyable. That is until you realize one project's dependencies are not compatible with another's. Or, the version of Python differs from your laptop to production. This is a frustrating experience, but it does not have to be like this. Today there are a few tools, that when combined, can prevent this pain.
+Writing Python code is quite enjoyable. That is until you realize one project's dependencies are not compatible with another's. Or, the version of Python differs from your laptop to production. This is a frustrating experience, but it does not have to be like this. Today there are a few tools when combined, can prevent this pain.
 
 Pythonistas, developers, and systems engineers, of novice and intermediate expertise with Python, can benefit from this presentation.
 
@@ -145,11 +145,11 @@ You dont have to live like this
 * pyenv - rbenv/rvm - nvm
 * pipenv - bundler - npm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDUxNDgzMDMsLTE1MzAwMzk3MDcsOD
-E0Njc0MzAzLC05NzgxMzA3MCwxMTc4OTkwNDYyLDI3ODY3Mjgz
-LDExNzY3MTExMDMsLTkwNzI4OTA2OCwtMTk1NzgxNjg3Nyw3ND
-c0NzM0ODIsLTEyNDc2Nzc3MTYsLTQyNDgwMTAyMiwtMjc5NjMw
-MTQ5LDE4MzYyMjI2ODQsLTE2MDAxOTE1NCwzNjg1MTc4OTMsLT
-MzNjQ0MzQ4NiwtMzIzNzI1ODI1LDEyNjg1MDYxOTgsODQzODUy
-Njk2XX0=
+eyJoaXN0b3J5IjpbNDE0NTAxMDE0LC0xNTMwMDM5NzA3LDgxND
+Y3NDMwMywtOTc4MTMwNzAsMTE3ODk5MDQ2MiwyNzg2NzI4Mywx
+MTc2NzExMTAzLC05MDcyODkwNjgsLTE5NTc4MTY4NzcsNzQ3ND
+czNDgyLC0xMjQ3Njc3NzE2LC00MjQ4MDEwMjIsLTI3OTYzMDE0
+OSwxODM2MjIyNjg0LC0xNjAwMTkxNTQsMzY4NTE3ODkzLC0zMz
+Y0NDM0ODYsLTMyMzcyNTgyNSwxMjY4NTA2MTk4LDg0Mzg1MjY5
+Nl19
 -->
