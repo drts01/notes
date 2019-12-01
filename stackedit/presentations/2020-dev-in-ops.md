@@ -2,7 +2,8 @@
 
 ## Titles
 
-* The Dev in Ops Transition / Transformation 
+* The Dev in Ops Transition / Transformation
+* You Got Dev In My Ops
 
 ## Abstract
 
@@ -158,11 +159,11 @@ Any team that desires to leverage code to create solutions will benefit from thi
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTY0MzY0MCwxNzAzODg4OTc2LC02Mz
-A0NDMwNjAsODI4MjIxODYsNzAzNjI0NzQsMTQ4MTQ4MTM5Miwy
-MDM5NjYwODY5LC0xMDQ4MDg4OTg5LDk0NDE3NzgxOSwtNDI0Mj
-kwODI1LC0xOTczMjgzNjg2LC0xNjg4MDQ3ODYsLTE4MTk1NDI2
-OCwtNTk3NzI3ODU2LDE2NDUxODYwNiwtMTY5Njc0ODMxMCw0Mz
-M1MTM1ODksLTIxNDQwMTIzNjgsMTg5NzkxMDIxMCwtMTk2OTgw
-NzE5NV19
+eyJoaXN0b3J5IjpbLTE1MTUwNzEzMzcsLTM5MTY0MzY0MCwxNz
+AzODg4OTc2LC02MzA0NDMwNjAsODI4MjIxODYsNzAzNjI0NzQs
+MTQ4MTQ4MTM5MiwyMDM5NjYwODY5LC0xMDQ4MDg4OTg5LDk0ND
+E3NzgxOSwtNDI0MjkwODI1LC0xOTczMjgzNjg2LC0xNjg4MDQ3
+ODYsLTE4MTk1NDI2OCwtNTk3NzI3ODU2LDE2NDUxODYwNiwtMT
+Y5Njc0ODMxMCw0MzM1MTM1ODksLTIxNDQwMTIzNjgsMTg5Nzkx
+MDIxMF19
 -->
