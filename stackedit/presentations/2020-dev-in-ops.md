@@ -90,6 +90,21 @@ Patterns will emerge from the notebooks. Code can then be extracted into their o
 
 With the ability to develop, the effectiveness of the team increases. Now the focus the team can shift towards preventive and optimization work.
 
+---
+---
+---
+## Short
+
+We live in an era of DevOps, but the reality is that minimal development is happening in operations. Opportunities to improve efficiency and reliability are being missed. There is a push to change this in many organizations. But, operations teams do not receive addition bandwidth to make this transition. A path to empower these teams is introducing small chunks of coding to the existing workload. Jupyter Notebooks can facilitate this and the adoption of development in operations.
+
+System administrators, operation leads will learn how to leverage Jupyter Notebooks for fun and profit.
+
+## Long
+Every day more teams and organizations are attempting to do The DevOps. This includes leveraging Infrastructure-as-Code (Ansible/Saltstack), build pipelines (Jenkins/Gitlab), containerization (Docker/K8s), etc. But, there is not a significant amount of development work occurring.Many organizations are asking operation teams to shift towards a development focus. There are good reasons for this including reliably and the ability to scale. But this is a nontrivial request. Existing workloads and responsibilities are not offloaded. Little bandwidth is available for transforming a team. The lack of development within these teams leads to manual playbooks and intervention to fill the gaps in their tools. This is inefficient and error-prone. The result is a negative feedback loop, preventing the fostering of coding skills. But, there is a more gradual, less disruptive approach to embrace coding.Jupyter Notebooks are not only for data scientists. Non-development teams can leverage Notebooks to incrementally write more code. With Jupyter, small bits of code can be written, executed, and evaluated. This makes learning to develop less daunting.Furthermore, Jupyter Notebooks are a great way to initially codify a task. They are shareable, repeatable, auditable, and versionable playbook. Notebooks can also serve as supplemental examples of documentation.Patterns will emerge from the notebooks. The code can then be extracted into their own library or tool. Previously executed Notebooks can provide test-cases and test-data. Now the team is on the path to success and a culture of development practices.With the ability to develop, the effectiveness of the team increases. Now the focus the team can shift towards preventive and data-driven optimizations.
+
+Any team that desires to leverage code to create solutions will benefit from this talk. While many examples will center around System Administrators,  the patterns presented are applicable to Information Security, Compliance, NOC, etc.
+
+
 
 ## Outline
 1. Intro
@@ -131,11 +146,11 @@ With the ability to develop, the effectiveness of the team increases. Now the fo
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4MjIxODYsNzAzNjI0NzQsMTQ4MTQ4MT
-M5MiwyMDM5NjYwODY5LC0xMDQ4MDg4OTg5LDk0NDE3NzgxOSwt
-NDI0MjkwODI1LC0xOTczMjgzNjg2LC0xNjg4MDQ3ODYsLTE4MT
-k1NDI2OCwtNTk3NzI3ODU2LDE2NDUxODYwNiwtMTY5Njc0ODMx
-MCw0MzM1MTM1ODksLTIxNDQwMTIzNjgsMTg5NzkxMDIxMCwtMT
-k2OTgwNzE5NSwtMzc0ODYxNTA4LC03MDM0Nzg4NDgsMTU2MDM5
-NDMwOF19
+eyJoaXN0b3J5IjpbLTE1Mzg1MzUzNTgsODI4MjIxODYsNzAzNj
+I0NzQsMTQ4MTQ4MTM5MiwyMDM5NjYwODY5LC0xMDQ4MDg4OTg5
+LDk0NDE3NzgxOSwtNDI0MjkwODI1LC0xOTczMjgzNjg2LC0xNj
+g4MDQ3ODYsLTE4MTk1NDI2OCwtNTk3NzI3ODU2LDE2NDUxODYw
+NiwtMTY5Njc0ODMxMCw0MzM1MTM1ODksLTIxNDQwMTIzNjgsMT
+g5NzkxMDIxMCwtMTk2OTgwNzE5NSwtMzc0ODYxNTA4LC03MDM0
+Nzg4NDhdfQ==
 -->
