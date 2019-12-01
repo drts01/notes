@@ -58,14 +58,25 @@ Developers and systems engineers, of novice and moderate expertise with Python, 
 ---
 ---
 
-# Short
+## Short
 Writing Python code is quite enjoyable. That is until you realize one project's dependencies are not compatible with another's. Or, the version of Python differs from your laptop to production. This is a frustrating experience, but it does not have to be like this. Today there are a few tools, that when combined, can prevent this pain.
 
 Pythonistas, developers, and systems engineers, of novice and intermediate expertise with Python, can benefit from this presentation.
 
-LongWriting Python code is an enjoyable experience. Many great tools are written in Python, such as Ansible and Pandas.Over time, dozens of Python packages accumulate on your system. Then suddenly, things are no longer working. You discover that a library has clobbered the dependencies of another. In an effort to quickly remedy the situation, you attempt to update all your packages. Then you realize that you have mangled your system's Python. You switch to developing on a production box, as one does. Only to discover that production is running a version of Python incompatible with HEAD of the project repo.Now, Python is no longer as fun and easy as it once was. And you are starting to question your life choices. But it does not have to be like this. There is a better way.Python did not always have packaging. It has taken time for Python to evolve tools to address dependencies and project isolation. But today, Pythonistas can now get a similar experience as Ruby developers do with RVM and Bundler, or Node.js developers with NVM and npm.We will explore three tools that synergistically work together. They manage multiple versions of Python, virtual environments, and the installation of project dependencies. Developers and systems engineers, of novice and moderate expertise with Python, will all benefit from attending. Everyone will leave wondering how they were ever able to Python before this talk. 
+## Long
+Writing Python code is an enjoyable experience. Many great tools are written in Python, such as Ansible and Pandas.Over time, dozens of Python packages accumulate on your system. Then suddenly, things are no longer working.
 
-## Outline
+You discover that a library has clobbered the dependencies of another. In an effort to quickly remedy the situation, you attempt to update all your packages. Then you realize that you have mangled your system's Python. You switch to developing on a production box, as one does. Only to discover that production is running a version of Python incompatible with HEAD of the project repo.
+
+Now, Python is no longer as fun and easy as it once was. And you are starting to question your life choices. But it does not have to be like this. There is a better way.Python did not always have packaging.
+
+It has taken time for Python to evolve tools to address dependencies and project isolation. But today, Pythonistas can now get a similar experience as Ruby developers do with RVM and Bundler, or Node.js developers with NVM and npm.
+
+We will explore three tools that synergistically work together. They manage multiple versions of Python, virtual environments, and the installation of project dependencies.
+
+Developers and systems engineers, of novice and moderate expertise with Python, will all benefit from attending. Everyone will leave wondering how they were ever able to Python before this talk. 
+
+# Outline
 
 1. Intro (3 min)
 	1. Problem
@@ -134,11 +145,11 @@ You dont have to live like this
 * pyenv - rbenv/rvm - nvm
 * pipenv - bundler - npm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjEzMDgzMywtMTUzMDAzOTcwNyw4MT
-Q2NzQzMDMsLTk3ODEzMDcwLDExNzg5OTA0NjIsMjc4NjcyODMs
-MTE3NjcxMTEwMywtOTA3Mjg5MDY4LC0xOTU3ODE2ODc3LDc0Nz
-Q3MzQ4MiwtMTI0NzY3NzcxNiwtNDI0ODAxMDIyLC0yNzk2MzAx
-NDksMTgzNjIyMjY4NCwtMTYwMDE5MTU0LDM2ODUxNzg5MywtMz
-M2NDQzNDg2LC0zMjM3MjU4MjUsMTI2ODUwNjE5OCw4NDM4NTI2
-OTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNDUxNDgzMDMsLTE1MzAwMzk3MDcsOD
+E0Njc0MzAzLC05NzgxMzA3MCwxMTc4OTkwNDYyLDI3ODY3Mjgz
+LDExNzY3MTExMDMsLTkwNzI4OTA2OCwtMTk1NzgxNjg3Nyw3ND
+c0NzM0ODIsLTEyNDc2Nzc3MTYsLTQyNDgwMTAyMiwtMjc5NjMw
+MTQ5LDE4MzYyMjI2ODQsLTE2MDAxOTE1NCwzNjg1MTc4OTMsLT
+MzNjQ0MzQ4NiwtMzIzNzI1ODI1LDEyNjg1MDYxOTgsODQzODUy
+Njk2XX0=
 -->
