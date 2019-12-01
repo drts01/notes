@@ -102,9 +102,13 @@ Non-developers will learn how to leverage Jupyter Notebooks for fun and profit.
 ## Long
 Every day more teams and organizations are attempting to do The DevOps. This includes leveraging Infrastructure-as-Code (Ansible/Saltstack), build pipelines (Jenkins/Gitlab), containerization (Docker/K8s), etc. But, there is not a significant amount of development work occurring.
 
-Many organizations are asking operation teams to shift towards a development focus. There are good reasons for this including reliably and the ability to scale. But this is a nontrivial request. Existing workloads and responsibilities are not offloaded. Little bandwidth is available for transforming a team. The lack of development within these teams leads to manual playbooks and intervention to fill the gaps in their tools. This is inefficient and error-prone. The result is a negative feedback loop, preventing the fostering of coding skills. But, there is a more gradual, less disruptive approach to embrace coding.
+Many organizations are asking operation teams to shift towards a development focus. There are good reasons for this including reliably and the ability to scale. But this is a nontrivial request. Existing workloads and responsibilities are not offloaded. Little bandwidth is available for transforming a team.
 
-Jupyter Notebooks are not only for data scientists. Non-development teams can leverage Notebooks to incrementally write more code. With Jupyter, small bits of code can be written, executed, and evaluated. This makes learning to develop less daunting.Furthermore, Jupyter Notebooks are a great way to initially codify a task. They are shareable, repeatable, auditable, and versionable playbook. Notebooks can also serve as supplemental examples of documentation.Patterns will emerge from the notebooks. The code can then be extracted into their own library or tool. Previously executed Notebooks can provide test-cases and test-data. Now the team is on the path to success and a culture of development practices.With the ability to develop, the effectiveness of the team increases. Now the focus the team can shift towards preventive and data-driven optimizations.
+The lack of development within these teams leads to manual playbooks and intervention to fill the gaps in their tools. This is inefficient and error-prone. The result is a negative feedback loop, preventing the fostering of coding skills. But, there is a more gradual, less disruptive approach to embrace coding.
+
+Jupyter Notebooks are not only for data scientists. Non-development teams can leverage Notebooks to incrementally write more code. With Jupyter, small bits of code can be written, executed, and evaluated. This makes learning to develop less daunting.
+
+Furthermore, Jupyter Notebooks are a great way to initially codify a task. They are shareable, repeatable, auditable, and versionable playbook. Notebooks can also serve as supplemental examples of documentation.Patterns will emerge from the notebooks. The code can then be extracted into their own library or tool. Previously executed Notebooks can provide test-cases and test-data. Now the team is on the path to success and a culture of development practices.With the ability to develop, the effectiveness of the team increases. Now the focus the team can shift towards preventive and data-driven optimizations.
 
 Any team that desires to leverage code to create solutions will benefit from this talk. While many examples will center around System Administrators,  the patterns presented are applicable to Information Security, Compliance, NOC, etc.
 
@@ -150,11 +154,11 @@ Any team that desires to leverage code to create solutions will benefit from thi
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDQ0MzA2MCw4MjgyMjE4Niw3MDM2Mj
-Q3NCwxNDgxNDgxMzkyLDIwMzk2NjA4NjksLTEwNDgwODg5ODks
-OTQ0MTc3ODE5LC00MjQyOTA4MjUsLTE5NzMyODM2ODYsLTE2OD
-gwNDc4NiwtMTgxOTU0MjY4LC01OTc3Mjc4NTYsMTY0NTE4NjA2
-LC0xNjk2NzQ4MzEwLDQzMzUxMzU4OSwtMjE0NDAxMjM2OCwxOD
-k3OTEwMjEwLC0xOTY5ODA3MTk1LC0zNzQ4NjE1MDgsLTcwMzQ3
-ODg0OF19
+eyJoaXN0b3J5IjpbMTcwMzg4ODk3NiwtNjMwNDQzMDYwLDgyOD
+IyMTg2LDcwMzYyNDc0LDE0ODE0ODEzOTIsMjAzOTY2MDg2OSwt
+MTA0ODA4ODk4OSw5NDQxNzc4MTksLTQyNDI5MDgyNSwtMTk3Mz
+I4MzY4NiwtMTY4ODA0Nzg2LC0xODE5NTQyNjgsLTU5NzcyNzg1
+NiwxNjQ1MTg2MDYsLTE2OTY3NDgzMTAsNDMzNTEzNTg5LC0yMT
+Q0MDEyMzY4LDE4OTc5MTAyMTAsLTE5Njk4MDcxOTUsLTM3NDg2
+MTUwOF19
 -->
