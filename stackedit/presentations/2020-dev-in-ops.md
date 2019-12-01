@@ -108,7 +108,11 @@ The lack of development within these teams leads to manual playbooks and interve
 
 Jupyter Notebooks are not only for data scientists. Non-development teams can leverage Notebooks to incrementally write more code. With Jupyter, small bits of code can be written, executed, and evaluated. This makes learning to develop less daunting.
 
-Furthermore, Jupyter Notebooks are a great way to initially codify a task. They are shareable, repeatable, auditable, and versionable playbook. Notebooks can also serve as supplemental examples of documentation.Patterns will emerge from the notebooks. The code can then be extracted into their own library or tool. Previously executed Notebooks can provide test-cases and test-data. Now the team is on the path to success and a culture of development practices.With the ability to develop, the effectiveness of the team increases. Now the focus the team can shift towards preventive and data-driven optimizations.
+Furthermore, Jupyter Notebooks are a great way to initially codify a task. They are shareable, repeatable, auditable, and versionable playbook. Notebooks can also serve as supplemental examples of documentation.
+
+Patterns will emerge from the notebooks. The code can then be extracted into their own library or tool. Previously executed Notebooks can provide test-cases and test-data. Now the team is on the path to success and a culture of development practices.
+
+With the ability to develop, the effectiveness of the team increases. Now the focus the team can shift towards preventive and data-driven optimizations.
 
 Any team that desires to leverage code to create solutions will benefit from this talk. While many examples will center around System Administrators,  the patterns presented are applicable to Information Security, Compliance, NOC, etc.
 
@@ -154,11 +158,11 @@ Any team that desires to leverage code to create solutions will benefit from thi
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzg4ODk3NiwtNjMwNDQzMDYwLDgyOD
-IyMTg2LDcwMzYyNDc0LDE0ODE0ODEzOTIsMjAzOTY2MDg2OSwt
-MTA0ODA4ODk4OSw5NDQxNzc4MTksLTQyNDI5MDgyNSwtMTk3Mz
-I4MzY4NiwtMTY4ODA0Nzg2LC0xODE5NTQyNjgsLTU5NzcyNzg1
-NiwxNjQ1MTg2MDYsLTE2OTY3NDgzMTAsNDMzNTEzNTg5LC0yMT
-Q0MDEyMzY4LDE4OTc5MTAyMTAsLTE5Njk4MDcxOTUsLTM3NDg2
-MTUwOF19
+eyJoaXN0b3J5IjpbLTM5MTY0MzY0MCwxNzAzODg4OTc2LC02Mz
+A0NDMwNjAsODI4MjIxODYsNzAzNjI0NzQsMTQ4MTQ4MTM5Miwy
+MDM5NjYwODY5LC0xMDQ4MDg4OTg5LDk0NDE3NzgxOSwtNDI0Mj
+kwODI1LC0xOTczMjgzNjg2LC0xNjg4MDQ3ODYsLTE4MTk1NDI2
+OCwtNTk3NzI3ODU2LDE2NDUxODYwNiwtMTY5Njc0ODMxMCw0Mz
+M1MTM1ODksLTIxNDQwMTIzNjgsMTg5NzkxMDIxMCwtMTk2OTgw
+NzE5NV19
 -->
