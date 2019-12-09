@@ -55,13 +55,18 @@ We will explore three tools that synergistically work together. They help manage
 Developers and systems engineers, of novice and moderate expertise with Python, will all benefit from this talk. And everyone will leave wondering how they were ever able Python before. 
 
 ---
----
----
 
 ## Short
 Writing Python code is quite enjoyable. That is until you realize one project's dependencies are not compatible with another's. Or, the version of Python differs from your laptop to production. This is a frustrating experience, but it does not have to be like this. Today there are a few tools when combined, can prevent this pain.
 
 Pythonistas, developers, and systems engineers, of novice and intermediate expertise with Python, can benefit from this presentation.
+
+---
+---
+---
+
+## Short
+Writing Python code is quite enjoyable until dependencies are incompatible. Or, when development and production versions differ. This creates a frustrating experience, but things do not have to be this way. Today there are tools than can prevent such agony.
 
 ## Long
 Writing Python code is an enjoyable experience. Many great tools are written in Python, such as Ansible and Pandas. Over time, dozens of Python packages accumulate on your system. Then suddenly, things are no longer working.
@@ -145,11 +150,11 @@ You dont have to live like this
 * pyenv - rbenv/rvm - nvm
 * pipenv - bundler - npm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODA3OTU0MCw0MTQ1MDEwMTQsLTE1Mz
-AwMzk3MDcsODE0Njc0MzAzLC05NzgxMzA3MCwxMTc4OTkwNDYy
-LDI3ODY3MjgzLDExNzY3MTExMDMsLTkwNzI4OTA2OCwtMTk1Nz
-gxNjg3Nyw3NDc0NzM0ODIsLTEyNDc2Nzc3MTYsLTQyNDgwMTAy
-MiwtMjc5NjMwMTQ5LDE4MzYyMjI2ODQsLTE2MDAxOTE1NCwzNj
-g1MTc4OTMsLTMzNjQ0MzQ4NiwtMzIzNzI1ODI1LDEyNjg1MDYx
-OThdfQ==
+eyJoaXN0b3J5IjpbLTI1NjUzMDQ2MCwyMTM4MDc5NTQwLDQxND
+UwMTAxNCwtMTUzMDAzOTcwNyw4MTQ2NzQzMDMsLTk3ODEzMDcw
+LDExNzg5OTA0NjIsMjc4NjcyODMsMTE3NjcxMTEwMywtOTA3Mj
+g5MDY4LC0xOTU3ODE2ODc3LDc0NzQ3MzQ4MiwtMTI0NzY3Nzcx
+NiwtNDI0ODAxMDIyLC0yNzk2MzAxNDksMTgzNjIyMjY4NCwtMT
+YwMDE5MTU0LDM2ODUxNzg5MywtMzM2NDQzNDg2LC0zMjM3MjU4
+MjVdfQ==
 -->
