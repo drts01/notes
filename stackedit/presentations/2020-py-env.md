@@ -64,11 +64,11 @@ Writing Python code is quite enjoyable. That is until you realize one project's 
 Pythonistas, developers, and systems engineers, of novice and intermediate expertise with Python, can benefit from this presentation.
 
 ## Long
-Writing Python code is an enjoyable experience. Many great tools are written in Python, such as Ansible and Pandas.Over time, dozens of Python packages accumulate on your system. Then suddenly, things are no longer working.
+Writing Python code is an enjoyable experience. Many great tools are written in Python, such as Ansible and Pandas. Over time, dozens of Python packages accumulate on your system. Then suddenly, things are no longer working.
 
 You discover that a library has clobbered the dependencies of another. In an effort to quickly remedy the situation, you attempt to update all your packages. Then you realize that you have mangled your system's Python. You switch to developing on a production box, as one does. Only to discover that production is running a version of Python incompatible with HEAD of the project repo.
 
-Now, Python is no longer as fun and easy as it once was. And you are starting to question your life choices. But it does not have to be like this. There is a better way.Python did not always have packaging.
+Now, Python is no longer as fun and easy as it once was. And you are starting to question your life choices. But it does not have to be like this. There is a better way. Python did not always have packaging.
 
 It has taken time for Python to evolve tools to address dependencies and project isolation. But today, Pythonistas can now get a similar experience as Ruby developers do with RVM and Bundler, or Node.js developers with NVM and npm.
 
@@ -145,11 +145,11 @@ You dont have to live like this
 * pyenv - rbenv/rvm - nvm
 * pipenv - bundler - npm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0NTAxMDE0LC0xNTMwMDM5NzA3LDgxND
-Y3NDMwMywtOTc4MTMwNzAsMTE3ODk5MDQ2MiwyNzg2NzI4Mywx
-MTc2NzExMTAzLC05MDcyODkwNjgsLTE5NTc4MTY4NzcsNzQ3ND
-czNDgyLC0xMjQ3Njc3NzE2LC00MjQ4MDEwMjIsLTI3OTYzMDE0
-OSwxODM2MjIyNjg0LC0xNjAwMTkxNTQsMzY4NTE3ODkzLC0zMz
-Y0NDM0ODYsLTMyMzcyNTgyNSwxMjY4NTA2MTk4LDg0Mzg1MjY5
-Nl19
+eyJoaXN0b3J5IjpbMjEzODA3OTU0MCw0MTQ1MDEwMTQsLTE1Mz
+AwMzk3MDcsODE0Njc0MzAzLC05NzgxMzA3MCwxMTc4OTkwNDYy
+LDI3ODY3MjgzLDExNzY3MTExMDMsLTkwNzI4OTA2OCwtMTk1Nz
+gxNjg3Nyw3NDc0NzM0ODIsLTEyNDc2Nzc3MTYsLTQyNDgwMTAy
+MiwtMjc5NjMwMTQ5LDE4MzYyMjI2ODQsLTE2MDAxOTE1NCwzNj
+g1MTc4OTMsLTMzNjQ0MzQ4NiwtMzIzNzI1ODI1LDEyNjg1MDYx
+OThdfQ==
 -->
