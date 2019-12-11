@@ -117,6 +117,13 @@ With the ability to develop, the effectiveness of the team increases. Now the fo
 
 Any team that desires to leverage code to create solutions will benefit from this talk. While many examples will center around System Administrators,  the patterns presented are applicable to Information Security, Compliance, NOC, etc.
 
+---
+---
+---
+## Short pybeach
+We live in an era of DevOps, but development is not always happening in operations. Traditionally non-developer teams may view coding as a daunting task. But we can ease the transition.
+
+Jupyter Notebooks are not just for data scientists. Non-developers can leverage Jupyter for fun and profit.
 
 
 ## Outline
@@ -159,11 +166,11 @@ Any team that desires to leverage code to create solutions will benefit from thi
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTUzOTUyNiwtMTUxNTA3MTMzNywtMz
-kxNjQzNjQwLDE3MDM4ODg5NzYsLTYzMDQ0MzA2MCw4MjgyMjE4
-Niw3MDM2MjQ3NCwxNDgxNDgxMzkyLDIwMzk2NjA4NjksLTEwND
-gwODg5ODksOTQ0MTc3ODE5LC00MjQyOTA4MjUsLTE5NzMyODM2
-ODYsLTE2ODgwNDc4NiwtMTgxOTU0MjY4LC01OTc3Mjc4NTYsMT
-Y0NTE4NjA2LC0xNjk2NzQ4MzEwLDQzMzUxMzU4OSwtMjE0NDAx
-MjM2OF19
+eyJoaXN0b3J5IjpbLTI2MDE4MTY0OSwxMjA5NTM5NTI2LC0xNT
+E1MDcxMzM3LC0zOTE2NDM2NDAsMTcwMzg4ODk3NiwtNjMwNDQz
+MDYwLDgyODIyMTg2LDcwMzYyNDc0LDE0ODE0ODEzOTIsMjAzOT
+Y2MDg2OSwtMTA0ODA4ODk4OSw5NDQxNzc4MTksLTQyNDI5MDgy
+NSwtMTk3MzI4MzY4NiwtMTY4ODA0Nzg2LC0xODE5NTQyNjgsLT
+U5NzcyNzg1NiwxNjQ1MTg2MDYsLTE2OTY3NDgzMTAsNDMzNTEz
+NTg5XX0=
 -->
