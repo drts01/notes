@@ -101,9 +101,9 @@ We live in an era of DevOps, but the reality is that minimal development is happ
 Non-developers will learn how to leverage Jupyter Notebooks for fun and profit.
 
 ## Long
-Every day more teams and organizations are attempting to do The DevOps. This includes leveraging Infrastructure-as-Code (Ansible/Saltstack), build pipelines (Jenkins/Gitlab), containerization (Docker/K8s), etc. But, there is not a significant amount of development work occurring.
+Every day more teams and organizations are attempting to do "The DevOps". This includes leveraging Infrastructure-as-Code (Ansible/Saltstack), build pipelines (Jenkins/Gitlab), containerization (Docker/K8s), etc. But, there is not a significant amount of actual development work occurring.
 
-Many organizations are asking operation teams to shift towards a development focus. There are good reasons for this including reliably and the ability to scale. But this is a nontrivial request. Existing workloads and responsibilities are not offloaded. Little bandwidth is available for transforming a team.
+Many organizations are asking operation teams to shift towards a development focus. There are good reasons for this, including reliably and the ability to scale. But this is a nontrivial request. Existing workloads and responsibilities are not offloaded. Little bandwidth is available for transforming a team.
 
 The lack of development within these teams leads to manual playbooks and intervention to fill the gaps in their tools. This is inefficient and error-prone. The result is a negative feedback loop, preventing the fostering of coding skills. But, there is a more gradual, less disruptive approach to embrace coding.
 
@@ -166,11 +166,11 @@ Jupyter Notebooks are not just for data scientists. Non-developers can leverage 
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDE4MTY0OSwxMjA5NTM5NTI2LC0xNT
-E1MDcxMzM3LC0zOTE2NDM2NDAsMTcwMzg4ODk3NiwtNjMwNDQz
-MDYwLDgyODIyMTg2LDcwMzYyNDc0LDE0ODE0ODEzOTIsMjAzOT
-Y2MDg2OSwtMTA0ODA4ODk4OSw5NDQxNzc4MTksLTQyNDI5MDgy
-NSwtMTk3MzI4MzY4NiwtMTY4ODA0Nzg2LC0xODE5NTQyNjgsLT
-U5NzcyNzg1NiwxNjQ1MTg2MDYsLTE2OTY3NDgzMTAsNDMzNTEz
-NTg5XX0=
+eyJoaXN0b3J5IjpbMTcwNzYxOTA1OSwtMjYwMTgxNjQ5LDEyMD
+k1Mzk1MjYsLTE1MTUwNzEzMzcsLTM5MTY0MzY0MCwxNzAzODg4
+OTc2LC02MzA0NDMwNjAsODI4MjIxODYsNzAzNjI0NzQsMTQ4MT
+Q4MTM5MiwyMDM5NjYwODY5LC0xMDQ4MDg4OTg5LDk0NDE3Nzgx
+OSwtNDI0MjkwODI1LC0xOTczMjgzNjg2LC0xNjg4MDQ3ODYsLT
+E4MTk1NDI2OCwtNTk3NzI3ODU2LDE2NDUxODYwNiwtMTY5Njc0
+ODMxMF19
 -->
