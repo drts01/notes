@@ -110,7 +110,7 @@ The lack of development within these teams leads to manual playbooks and interve
 
 Jupyter Notebooks are not only for data scientists. Non-development teams can leverage Notebooks to introduce small chunks of code. These code blocks are easier to create and debug. This makes learning to develop less daunting.
 
-Furthermore, Jupyter Notebooks are helpful when codify a task or process. They create shareable, repeatable, auditable, and versionable playbook. Notebooks can also serve as supplemental examples to documentation.
+Furthermore, Jupyter Notebooks are helpful when codifying a task or process. They create shareable, repeatable, auditable, and versionable playbook. Notebooks can also serve as supplemental examples to documentation.
 
 Patterns will emerge from the notebooks. The code can then be extracted into their own library or tool. Previously executed Notebooks can provide test-cases and test-data. Now the team is on the path to success and a culture of development practices.
 
@@ -167,11 +167,11 @@ Jupyter Notebooks are not just for data scientists. Non-developers can leverage 
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3OTY2Nzc5LDE3MDc2MTkwNTksLTI2MD
-E4MTY0OSwxMjA5NTM5NTI2LC0xNTE1MDcxMzM3LC0zOTE2NDM2
-NDAsMTcwMzg4ODk3NiwtNjMwNDQzMDYwLDgyODIyMTg2LDcwMz
-YyNDc0LDE0ODE0ODEzOTIsMjAzOTY2MDg2OSwtMTA0ODA4ODk4
-OSw5NDQxNzc4MTksLTQyNDI5MDgyNSwtMTk3MzI4MzY4NiwtMT
-Y4ODA0Nzg2LC0xODE5NTQyNjgsLTU5NzcyNzg1NiwxNjQ1MTg2
-MDZdfQ==
+eyJoaXN0b3J5IjpbMTA4ODQ2NTUwMSwyNDc5NjY3NzksMTcwNz
+YxOTA1OSwtMjYwMTgxNjQ5LDEyMDk1Mzk1MjYsLTE1MTUwNzEz
+MzcsLTM5MTY0MzY0MCwxNzAzODg4OTc2LC02MzA0NDMwNjAsOD
+I4MjIxODYsNzAzNjI0NzQsMTQ4MTQ4MTM5MiwyMDM5NjYwODY5
+LC0xMDQ4MDg4OTg5LDk0NDE3NzgxOSwtNDI0MjkwODI1LC0xOT
+czMjgzNjg2LC0xNjg4MDQ3ODYsLTE4MTk1NDI2OCwtNTk3NzI3
+ODU2XX0=
 -->
