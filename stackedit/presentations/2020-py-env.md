@@ -119,6 +119,26 @@ Developers and systems engineers, of novice and moderate expertise with Python, 
 	1. Summary - pyenv + pipx + pipenv (3 min)
 	2. Q&A (5 min)
 
+### outline2
+2. Managing Python Versions
+    1. Why multiple Python Versions
+    1. pyenv
+3. Isolation - Virtual Environments
+	1. What and Why (3 min)
+	2. Isolate CLI tools with Pipx
+	3. Isolate projects with Pipenv
+4. Pipenv / Pipfile extras
+    * Dependencies
+        * Manage development dependencies
+        * Dependancy resolution and locking
+    * Environement
+        * Scripts / Aliases
+        * Variables
+1. Why I did not choose other tools
+    * pip-tools
+    * poetry
+    * pipsi
+
 You dont have to live like this
 
 
@@ -150,11 +170,11 @@ You dont have to live like this
 * pyenv - rbenv/rvm - nvm
 * pipenv - bundler - npm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjUzMDQ2MCwyMTM4MDc5NTQwLDQxND
-UwMTAxNCwtMTUzMDAzOTcwNyw4MTQ2NzQzMDMsLTk3ODEzMDcw
-LDExNzg5OTA0NjIsMjc4NjcyODMsMTE3NjcxMTEwMywtOTA3Mj
-g5MDY4LC0xOTU3ODE2ODc3LDc0NzQ3MzQ4MiwtMTI0NzY3Nzcx
-NiwtNDI0ODAxMDIyLC0yNzk2MzAxNDksMTgzNjIyMjY4NCwtMT
-YwMDE5MTU0LDM2ODUxNzg5MywtMzM2NDQzNDg2LC0zMjM3MjU4
-MjVdfQ==
+eyJoaXN0b3J5IjpbMjA5NzQwNjc3OCwtMjU2NTMwNDYwLDIxMz
+gwNzk1NDAsNDE0NTAxMDE0LC0xNTMwMDM5NzA3LDgxNDY3NDMw
+MywtOTc4MTMwNzAsMTE3ODk5MDQ2MiwyNzg2NzI4MywxMTc2Nz
+ExMTAzLC05MDcyODkwNjgsLTE5NTc4MTY4NzcsNzQ3NDczNDgy
+LC0xMjQ3Njc3NzE2LC00MjQ4MDEwMjIsLTI3OTYzMDE0OSwxOD
+M2MjIyNjg0LC0xNjAwMTkxNTQsMzY4NTE3ODkzLC0zMzY0NDM0
+ODZdfQ==
 -->
