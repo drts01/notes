@@ -126,6 +126,23 @@ We live in an era of DevOps, but development is not always happening in operatio
 
 Jupyter Notebooks are not just for data scientists. Non-developers can leverage Jupyter for fun and profit.
 
+## PyBeach long
+Every day more teams and organizations are attempting to do "The DevOps". This includes leveraging Infrastructure-as-Code (Ansible/Saltstack), build pipelines (Jenkins/Gitlab), containerization (Docker/K8s), etc. But many operation teams are still not doing enough development work.
+
+Many organizations are asking operation teams to shift towards a development focus. There are good reasons for this including reliably and the ability to scale. But this is a nontrivial request. Existing workloads and responsibilities are not offloaded. Little bandwidth is available for transforming a team.
+
+The lack of development within these teams leads to manual playbooks and intervention to fill the gaps in their tools. This is inefficient and error-prone. The result is a negative feedback loop, preventing the fostering of coding skills. But, there is a more gradual, less disruptive approach to embrace coding.
+
+Jupyter Notebooks are not only for data scientists. Non-development teams can leverage Notebooks to incrementally write more code. With Jupyter, small bits of code can be written, executed, and evaluated. This makes learning to develop less daunting.
+
+Furthermore, Jupyter Notebooks are a great way to initially codify a task. They are shareable, repeatable, auditable, and versionable playbook. Notebooks can also serve as supplemental examples of documentation.
+
+Patterns will emerge from the notebooks. The code can then be extracted into their own library or tool. Previously executed Notebooks can provide test-cases and test-data. Now the team is on the path to success and a culture of development practices.
+
+With the ability to develop, the effectiveness of the team increases. Now the focus the team can shift towards preventive and data-driven optimizations.
+
+Any team that desires to leverage code to create solutions will benefit from this talk. While many examples will center around System Administrators,  the patterns presented are applicable to Information Security, Compliance, NOC, etc.
+
 
 ## Outline
 1. Intro
@@ -167,11 +184,11 @@ Jupyter Notebooks are not just for data scientists. Non-developers can leverage 
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODQ2NTUwMSwyNDc5NjY3NzksMTcwNz
-YxOTA1OSwtMjYwMTgxNjQ5LDEyMDk1Mzk1MjYsLTE1MTUwNzEz
-MzcsLTM5MTY0MzY0MCwxNzAzODg4OTc2LC02MzA0NDMwNjAsOD
-I4MjIxODYsNzAzNjI0NzQsMTQ4MTQ4MTM5MiwyMDM5NjYwODY5
-LC0xMDQ4MDg4OTg5LDk0NDE3NzgxOSwtNDI0MjkwODI1LC0xOT
-czMjgzNjg2LC0xNjg4MDQ3ODYsLTE4MTk1NDI2OCwtNTk3NzI3
-ODU2XX0=
+eyJoaXN0b3J5IjpbLTEyMDg3NTcwNSwxMDg4NDY1NTAxLDI0Nz
+k2Njc3OSwxNzA3NjE5MDU5LC0yNjAxODE2NDksMTIwOTUzOTUy
+NiwtMTUxNTA3MTMzNywtMzkxNjQzNjQwLDE3MDM4ODg5NzYsLT
+YzMDQ0MzA2MCw4MjgyMjE4Niw3MDM2MjQ3NCwxNDgxNDgxMzky
+LDIwMzk2NjA4NjksLTEwNDgwODg5ODksOTQ0MTc3ODE5LC00Mj
+QyOTA4MjUsLTE5NzMyODM2ODYsLTE2ODgwNDc4NiwtMTgxOTU0
+MjY4XX0=
 -->
