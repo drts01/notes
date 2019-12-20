@@ -150,17 +150,17 @@ Any team that desires to leverage code to create solutions will benefit from thi
 	2. My Experience\
 		* parmiko cdn - good start for manual playbook
 		* 
-1. Why Python (not Bash or Ruby)
-2. How
+2. Why Python (not Bash or Ruby)
+3. How
 	3. Small bits of scripts (Python)
 	5. Jupyter
 		1. Why
 			* Presentation
 			* Servers as examples
-3. Applied
+4. Applied
 	* Playbooks
 	* Demos / Presentation / Documentation
-4. Further Options
+5. Further Options
 	1. Kernels / Languages
 		* Bash
 		* Ruby
@@ -168,11 +168,31 @@ Any team that desires to leverage code to create solutions will benefit from thi
 		1. Native WebUI
 		2. VSCode / Codium
 		3. PyCharm (paid?)
-5. Advance
+6. Advance
 	* Creating Kernels
 	* https://github.com/nteract/papermill
 	* https://github.com/nteract/nteract
-6. Conclusion
+7. Conclusion
+
+### Outline 2
+1. Why Python (and not Bash or Ruby)
+1. What and Why Jupyter Notebooks
+    * IPython
+    * jupyter-nteract
+3. Applied Jupyter Notebooks
+    * Runbooks/ Playbooks
+    * Demos / Presentation / Documentation
+4. Further Options
+	1. Kernels / Languages
+		* Bash
+		* Ruby
+		* How to create
+	2. IDE Integration
+		2. VSCode / Codium
+		3. PyCharm
+5. Advance (depending on time)
+    * Parameteraizing with Papermill
+    * Creating Presentations with RISE (reveal.js)
 
 ## Notes
 
@@ -185,11 +205,11 @@ Any team that desires to leverage code to create solutions will benefit from thi
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Mzc5Mjg4MCwtMTIwODc1NzA1LDEwOD
-g0NjU1MDEsMjQ3OTY2Nzc5LDE3MDc2MTkwNTksLTI2MDE4MTY0
-OSwxMjA5NTM5NTI2LC0xNTE1MDcxMzM3LC0zOTE2NDM2NDAsMT
-cwMzg4ODk3NiwtNjMwNDQzMDYwLDgyODIyMTg2LDcwMzYyNDc0
-LDE0ODE0ODEzOTIsMjAzOTY2MDg2OSwtMTA0ODA4ODk4OSw5ND
-QxNzc4MTksLTQyNDI5MDgyNSwtMTk3MzI4MzY4NiwtMTY4ODA0
-Nzg2XX0=
+eyJoaXN0b3J5IjpbLTE5NDIzMTI1MDQsMTQ5Mzc5Mjg4MCwtMT
+IwODc1NzA1LDEwODg0NjU1MDEsMjQ3OTY2Nzc5LDE3MDc2MTkw
+NTksLTI2MDE4MTY0OSwxMjA5NTM5NTI2LC0xNTE1MDcxMzM3LC
+0zOTE2NDM2NDAsMTcwMzg4ODk3NiwtNjMwNDQzMDYwLDgyODIy
+MTg2LDcwMzYyNDc0LDE0ODE0ODEzOTIsMjAzOTY2MDg2OSwtMT
+A0ODA4ODk4OSw5NDQxNzc4MTksLTQyNDI5MDgyNSwtMTk3MzI4
+MzY4Nl19
 -->
