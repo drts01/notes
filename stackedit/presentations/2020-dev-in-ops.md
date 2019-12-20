@@ -184,12 +184,12 @@ Any team that desires to leverage code to create solutions will benefit from thi
     * Demos / Presentation / Documentation
 4. Further Options
 	1. Kernels / Languages
-		* Bash
-		* Ruby
-		* How to create
+		* Bash / Ruby
+		* Other Python Interpeters (create a kernel?)
 	2. IDE Integration
 		2. VSCode / Codium
 		3. PyCharm
+5. Demo of moving code from a notebook to a lib
 5. Advance (depending on time)
     * Parameteraizing with Papermill
     * Creating Presentations with RISE (reveal.js)
@@ -205,11 +205,11 @@ Any team that desires to leverage code to create solutions will benefit from thi
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDIzMTI1MDQsMTQ5Mzc5Mjg4MCwtMT
-IwODc1NzA1LDEwODg0NjU1MDEsMjQ3OTY2Nzc5LDE3MDc2MTkw
-NTksLTI2MDE4MTY0OSwxMjA5NTM5NTI2LC0xNTE1MDcxMzM3LC
-0zOTE2NDM2NDAsMTcwMzg4ODk3NiwtNjMwNDQzMDYwLDgyODIy
-MTg2LDcwMzYyNDc0LDE0ODE0ODEzOTIsMjAzOTY2MDg2OSwtMT
-A0ODA4ODk4OSw5NDQxNzc4MTksLTQyNDI5MDgyNSwtMTk3MzI4
-MzY4Nl19
+eyJoaXN0b3J5IjpbLTUyMzA1MjE1NCwtMTk0MjMxMjUwNCwxND
+kzNzkyODgwLC0xMjA4NzU3MDUsMTA4ODQ2NTUwMSwyNDc5NjY3
+NzksMTcwNzYxOTA1OSwtMjYwMTgxNjQ5LDEyMDk1Mzk1MjYsLT
+E1MTUwNzEzMzcsLTM5MTY0MzY0MCwxNzAzODg4OTc2LC02MzA0
+NDMwNjAsODI4MjIxODYsNzAzNjI0NzQsMTQ4MTQ4MTM5MiwyMD
+M5NjYwODY5LC0xMDQ4MDg4OTg5LDk0NDE3NzgxOSwtNDI0Mjkw
+ODI1XX0=
 -->
