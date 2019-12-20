@@ -149,10 +149,11 @@ Any team that desires to leverage code to create solutions will benefit from thi
 	1. Problem
 	2. My Experience\
 		* parmiko cdn - good start for manual playbook
-		*  
+		* 
+1. Why Python (not Bash or Ruby)
 2. How
 	3. Small bits of scripts (Python)
-	4. Jupyter
+	5. Jupyter
 		1. Why
 			* Presentation
 			* Servers as examples
@@ -184,11 +185,11 @@ Any team that desires to leverage code to create solutions will benefit from thi
 * Jupyter is to disseminate information
 * publish to gitlab pages w/ ci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg3NTcwNSwxMDg4NDY1NTAxLDI0Nz
-k2Njc3OSwxNzA3NjE5MDU5LC0yNjAxODE2NDksMTIwOTUzOTUy
-NiwtMTUxNTA3MTMzNywtMzkxNjQzNjQwLDE3MDM4ODg5NzYsLT
-YzMDQ0MzA2MCw4MjgyMjE4Niw3MDM2MjQ3NCwxNDgxNDgxMzky
-LDIwMzk2NjA4NjksLTEwNDgwODg5ODksOTQ0MTc3ODE5LC00Mj
-QyOTA4MjUsLTE5NzMyODM2ODYsLTE2ODgwNDc4NiwtMTgxOTU0
-MjY4XX0=
+eyJoaXN0b3J5IjpbMTQ5Mzc5Mjg4MCwtMTIwODc1NzA1LDEwOD
+g0NjU1MDEsMjQ3OTY2Nzc5LDE3MDc2MTkwNTksLTI2MDE4MTY0
+OSwxMjA5NTM5NTI2LC0xNTE1MDcxMzM3LC0zOTE2NDM2NDAsMT
+cwMzg4ODk3NiwtNjMwNDQzMDYwLDgyODIyMTg2LDcwMzYyNDc0
+LDE0ODE0ODEzOTIsMjAzOTY2MDg2OSwtMTA0ODA4ODk4OSw5ND
+QxNzc4MTksLTQyNDI5MDgyNSwtMTk3MzI4MzY4NiwtMTY4ODA0
+Nzg2XX0=
 -->
