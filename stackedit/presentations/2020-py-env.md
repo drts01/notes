@@ -131,6 +131,7 @@ Developers and systems engineers, of novice and moderate expertise with Python, 
     * Dependencies
         * Manage development dependencies
         * Dependancy resolution and locking
+        * Thats cute, but the rest of team. requirements.txt
     * Environement
         * Scripts / Aliases
         * Variables
@@ -170,11 +171,11 @@ You dont have to live like this
 * pyenv - rbenv/rvm - nvm
 * pipenv - bundler - npm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzQwNjc3OCwtMjU2NTMwNDYwLDIxMz
-gwNzk1NDAsNDE0NTAxMDE0LC0xNTMwMDM5NzA3LDgxNDY3NDMw
-MywtOTc4MTMwNzAsMTE3ODk5MDQ2MiwyNzg2NzI4MywxMTc2Nz
-ExMTAzLC05MDcyODkwNjgsLTE5NTc4MTY4NzcsNzQ3NDczNDgy
-LC0xMjQ3Njc3NzE2LC00MjQ4MDEwMjIsLTI3OTYzMDE0OSwxOD
-M2MjIyNjg0LC0xNjAwMTkxNTQsMzY4NTE3ODkzLC0zMzY0NDM0
-ODZdfQ==
+eyJoaXN0b3J5IjpbLTM5NjQ3OTM2NywyMDk3NDA2Nzc4LC0yNT
+Y1MzA0NjAsMjEzODA3OTU0MCw0MTQ1MDEwMTQsLTE1MzAwMzk3
+MDcsODE0Njc0MzAzLC05NzgxMzA3MCwxMTc4OTkwNDYyLDI3OD
+Y3MjgzLDExNzY3MTExMDMsLTkwNzI4OTA2OCwtMTk1NzgxNjg3
+Nyw3NDc0NzM0ODIsLTEyNDc2Nzc3MTYsLTQyNDgwMTAyMiwtMj
+c5NjMwMTQ5LDE4MzYyMjI2ODQsLTE2MDAxOTE1NCwzNjg1MTc4
+OTNdfQ==
 -->
