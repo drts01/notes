@@ -17,7 +17,11 @@
 ## Verizon Digital Media
 ### Developer
 * saltstack
+* secrets
+* git repo managment/owner
 * product ownership
+
+* jenkins, gitlab ci
 
 ### Systems Engineer
 * Image pipeline
@@ -39,7 +43,7 @@ Consultant
 * Oversaw/trained personal
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjAzNzQ4OCw3NjA2NzM3NzgsLTYxNz
-YwNTEwOCwtMTM0Nzg4ODIyNCwxODg4MDAzNTMzLDEzMDIzNjM4
-ODNdfQ==
+eyJoaXN0b3J5IjpbLTE5OTE5OTA3MzQsMjA1MjAzNzQ4OCw3Nj
+A2NzM3NzgsLTYxNzYwNTEwOCwtMTM0Nzg4ODIyNCwxODg4MDAz
+NTMzLDEzMDIzNjM4ODNdfQ==
 -->
