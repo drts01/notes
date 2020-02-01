@@ -2,7 +2,7 @@
 # Employment Experience
 ## Disney 2020-06
 ### Software Contractor (through Lee Line Consulting)
-* increased efficency by developing tools to simplify automation
+* increased efficiency by developing tools to simplify automation
 * reduces cost
 * compliance enforcement
 * product ownership
@@ -11,6 +11,8 @@
 ### SRE
 * troubleshot
 * monitoring metrics
+* Python Styleguide and best practices (cookiecutter)
+* Saltstack Terraform AWS
 
 ## Verizon Digital Media
 ### Developer
@@ -20,6 +22,7 @@
 ### Systems Engineer
 * Image pipeline
 * troubleshooting at scale
+* openstack aws
 
 ## ThirdWave / TWE
 Consultant
@@ -36,7 +39,7 @@ Consultant
 * Oversaw/trained personal
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQxMDA4Myw3NjA2NzM3NzgsLTYxNz
+eyJoaXN0b3J5IjpbMjA1MjAzNzQ4OCw3NjA2NzM3NzgsLTYxNz
 YwNTEwOCwtMTM0Nzg4ODIyNCwxODg4MDAzNTMzLDEzMDIzNjM4
 ODNdfQ==
 -->
