@@ -17,7 +17,7 @@
 
 ## Verizon Digital Media
 ### Developer
-* saltstack
+* saltstack - Python modules to integrated with internal services
 * secrets
 * git repo managment/owner
 * product ownership
@@ -47,9 +47,13 @@ Consultant
 * Web Development
 * Oversaw/trained personal
 
+# Community Engament
+
+# 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDUxNzIyMSwxMzUxNjI3NTQ5LC05OT
-A0NjcyODksMjA1MjAzNzQ4OCw3NjA2NzM3NzgsLTYxNzYwNTEw
-OCwtMTM0Nzg4ODIyNCwxODg4MDAzNTMzLDEzMDIzNjM4ODNdfQ
-==
+eyJoaXN0b3J5IjpbLTQyNjM2NTQwLDE2MjA1MTcyMjEsMTM1MT
+YyNzU0OSwtOTkwNDY3Mjg5LDIwNTIwMzc0ODgsNzYwNjczNzc4
+LC02MTc2MDUxMDgsLTEzNDc4ODgyMjQsMTg4ODAwMzUzMywxMz
+AyMzYzODgzXX0=
 -->
