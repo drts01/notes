@@ -70,8 +70,14 @@ Consultant
 * Python Software Foundation (2019 - Present)
 * Fedora (2019 - Present)
 * Association for Computing Machinery (2018 - Present)
+## Online Presence
+* https://www.linkedin.com/in/cmeza99
+* https://twitter.com/digitalr00ts
+* https://github.com/digitalr00ts
+https://github.com/CMeza99
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI3Nzg0MDAsLTQ5MDA3ODY3MSw4Nj
+eyJoaXN0b3J5IjpbLTEyMTY0ODc1NjgsLTQ5MDA3ODY3MSw4Nj
 MxOTgyNDcsMTYyMDUxNzIyMSwxMzUxNjI3NTQ5LC05OTA0Njcy
 ODksMjA1MjAzNzQ4OCw3NjA2NzM3NzgsLTYxNzYwNTEwOCwtMT
 M0Nzg4ODIyNCwxODg4MDAzNTMzLDEzMDIzNjM4ODNdfQ==
