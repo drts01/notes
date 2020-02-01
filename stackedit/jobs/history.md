@@ -21,13 +21,16 @@
 
 ## ThirdWave / TWE
 * Consulted
+* Managed IT infrastructure
 * Solutions Engineer
 
 ## Merit International
-* Managed IT infrastructure
-* Reduced cost and maintance by  integrating open-source technologies 
+
+* Reduced cost and maintenance by  integrating open-source technologies such as Linux (Ubuntu)
+* Archetected backup and 
+* Web Development
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMjUxMjgxMSwtMTM0Nzg4ODIyNCwxOD
+eyJoaXN0b3J5IjpbLTM5MDM2OTY0MywtMTM0Nzg4ODIyNCwxOD
 g4MDAzNTMzLDEzMDIzNjM4ODNdfQ==
 -->
