@@ -9,6 +9,7 @@
 
 ## Everbridge
 ### SRE
+* gitops / atlantis
 * troubleshot
 * monitoring metrics
 * Python Styleguide and best practices (cookiecutter)
@@ -43,7 +44,7 @@ Consultant
 * Oversaw/trained personal
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE5OTA3MzQsMjA1MjAzNzQ4OCw3Nj
+eyJoaXN0b3J5IjpbLTE4NTMyMjEwOTcsMjA1MjAzNzQ4OCw3Nj
 A2NzM3NzgsLTYxNzYwNTEwOCwtMTM0Nzg4ODIyNCwxODg4MDAz
 NTMzLDEzMDIzNjM4ODNdfQ==
 -->
