@@ -20,10 +20,13 @@
 * troubleshooting at scale
 
 ## ThirdWave / TWE
+* Consulted
+* Solutions Enginee
 
-## 
+## Merit International
+* Managed IT infrastructure
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQzMTczOTQsLTEzNDc4ODgyMjQsMT
-g4ODAwMzUzMywxMzAyMzYzODgzXX0=
+eyJoaXN0b3J5IjpbLTk3MDM4NDcwMCwtMTM0Nzg4ODIyNCwxOD
+g4MDAzNTMzLDEzMDIzNjM4ODNdfQ==
 -->
