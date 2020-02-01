@@ -21,6 +21,7 @@
 * secrets
 * git repo managment/owner
 * product ownership
+* 
 
 * Roadmap to Kubernetes Kublet
 
@@ -47,7 +48,8 @@ Consultant
 * Oversaw/trained personal
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTYyNzU0OSwtOTkwNDY3Mjg5LDIwNT
-IwMzc0ODgsNzYwNjczNzc4LC02MTc2MDUxMDgsLTEzNDc4ODgy
-MjQsMTg4ODAwMzUzMywxMzAyMzYzODgzXX0=
+eyJoaXN0b3J5IjpbMTYyMDUxNzIyMSwxMzUxNjI3NTQ5LC05OT
+A0NjcyODksMjA1MjAzNzQ4OCw3NjA2NzM3NzgsLTYxNzYwNTEw
+OCwtMTM0Nzg4ODIyNCwxODg4MDAzNTMzLDEzMDIzNjM4ODNdfQ
+==
 -->
