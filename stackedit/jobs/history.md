@@ -26,6 +26,7 @@ Consultant
 * Consulted
 * Managed IT infrastructure
 * Solutions Engineer
+* Documentation
 
 ## Merit International
 
@@ -35,6 +36,6 @@ Consultant
 * Oversaw/trained personal
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzYwNTEwOCwtMTM0Nzg4ODIyNCwxOD
-g4MDAzNTMzLDEzMDIzNjM4ODNdfQ==
+eyJoaXN0b3J5IjpbNzYwNjczNzc4LC02MTc2MDUxMDgsLTEzND
+c4ODgyMjQsMTg4ODAwMzUzMywxMzAyMzYzODgzXX0=
 -->
