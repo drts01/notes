@@ -73,11 +73,10 @@ Consultant
 ## Online Presence
 * https://www.linkedin.com/in/cmeza99
 * https://twitter.com/digitalr00ts
-* https://github.com/digitalr00ts
-https://github.com/CMeza99
+* https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTY0ODc1NjgsLTQ5MDA3ODY3MSw4Nj
+eyJoaXN0b3J5IjpbLTE2MjU0NDg4MDUsLTQ5MDA3ODY3MSw4Nj
 MxOTgyNDcsMTYyMDUxNzIyMSwxMzUxNjI3NTQ5LC05OTA0Njcy
 ODksMjA1MjAzNzQ4OCw3NjA2NzM3NzgsLTYxNzYwNTEwOCwtMT
 M0Nzg4ODIyNCwxODg4MDAzNTMzLDEzMDIzNjM4ODNdfQ==
