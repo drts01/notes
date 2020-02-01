@@ -67,11 +67,12 @@ Consultant
 * Certified Scrum Product Owner #000772210 (04/2018 - 04/2020)
 * Certified SAFe 4 Agilist #92546988-2865 (03/2018 - 03/2019)
 ## Membership
-* Fedora
-
+* Python Software Foundation (2019 - Present)
+* Fedora (2019 - Present)
+* Association for Computing Machinery (2018 - Present)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTI3MDkwMCwtNDkwMDc4NjcxLDg2Mz
-E5ODI0NywxNjIwNTE3MjIxLDEzNTE2Mjc1NDksLTk5MDQ2NzI4
-OSwyMDUyMDM3NDg4LDc2MDY3Mzc3OCwtNjE3NjA1MTA4LC0xMz
-Q3ODg4MjI0LDE4ODgwMDM1MzMsMTMwMjM2Mzg4M119
+eyJoaXN0b3J5IjpbLTExNjI3Nzg0MDAsLTQ5MDA3ODY3MSw4Nj
+MxOTgyNDcsMTYyMDUxNzIyMSwxMzUxNjI3NTQ5LC05OTA0Njcy
+ODksMjA1MjAzNzQ4OCw3NjA2NzM3NzgsLTYxNzYwNTEwOCwtMT
+M0Nzg4ODIyNCwxODg4MDAzNTMzLDEzMDIzNjM4ODNdfQ==
 -->
