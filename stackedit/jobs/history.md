@@ -49,7 +49,7 @@ Consultant
 
 # Community Engagement
 
-## Pre
+## Presenter
 * "Make Python Great Again" - SCaLE 18x
 * "My Adventure in Python Packaging" - Socal Code Camp 2018
 
@@ -58,7 +58,7 @@ Consultant
 * DevOps Day L.A. - Co-Chair
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODU2MjMyNiw4NjMxOTgyNDcsMTYyMD
+eyJoaXN0b3J5IjpbLTQ5MDA3ODY3MSw4NjMxOTgyNDcsMTYyMD
 UxNzIyMSwxMzUxNjI3NTQ5LC05OTA0NjcyODksMjA1MjAzNzQ4
 OCw3NjA2NzM3NzgsLTYxNzYwNTEwOCwtMTM0Nzg4ODIyNCwxOD
 g4MDAzNTMzLDEzMDIzNjM4ODNdfQ==
