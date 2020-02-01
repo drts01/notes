@@ -18,7 +18,12 @@
 ### Systems Engineer
 * Image pipeline
 * troubleshooting at scale
+
+## ThirdWave / TWE
+
+## 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzIzMjcyMywtMTM0Nzg4ODIyNCwxOD
-g4MDAzNTMzLDEzMDIzNjM4ODNdfQ==
+eyJoaXN0b3J5IjpbLTE3NDQzMTczOTQsLTEzNDc4ODgyMjQsMT
+g4ODAwMzUzMywxMzAyMzYzODgzXX0=
 -->
