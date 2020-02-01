@@ -49,13 +49,16 @@ Consultant
 
 # Community Engagement
 
-* "Make Python Great Again"
+## Presnetor
+* "Make Python Great Again" - SCaLE 18x
 
-# 
+## Organizer
+* Software Engineering Meetup - Co-Founder
+* DevOps Day L.A. - Co-Chair
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzMTk4MjQ3LDE2MjA1MTcyMjEsMTM1MT
-YyNzU0OSwtOTkwNDY3Mjg5LDIwNTIwMzc0ODgsNzYwNjczNzc4
-LC02MTc2MDUxMDgsLTEzNDc4ODgyMjQsMTg4ODAwMzUzMywxMz
-AyMzYzODgzXX0=
+eyJoaXN0b3J5IjpbNDIyMTUxMjA1LDg2MzE5ODI0NywxNjIwNT
+E3MjIxLDEzNTE2Mjc1NDksLTk5MDQ2NzI4OSwyMDUyMDM3NDg4
+LDc2MDY3Mzc3OCwtNjE3NjA1MTA4LC0xMzQ3ODg4MjI0LDE4OD
+gwMDM1MzMsMTMwMjM2Mzg4M119
 -->
