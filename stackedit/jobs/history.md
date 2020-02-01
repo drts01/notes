@@ -62,8 +62,13 @@ Consultant
 * SCaLE A/V Team - Python and Embedded Systems Developer (2018 - 2020)
 * BSides LV - Volunteer (2013 - 2017)
 
+
+## Professional Accreditations
+* Certified Scrum Product Owner #000772210 (04/2018 - 04/2020)
+* Certified SAFe 4 Agilist #92546988-2865 (03/2018 - 03/2019)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxODEwOTAzLC00OTAwNzg2NzEsODYzMT
+eyJoaXN0b3J5IjpbNjA5MDEwOTU3LC00OTAwNzg2NzEsODYzMT
 k4MjQ3LDE2MjA1MTcyMjEsMTM1MTYyNzU0OSwtOTkwNDY3Mjg5
 LDIwNTIwMzc0ODgsNzYwNjczNzc4LC02MTc2MDUxMDgsLTEzND
 c4ODgyMjQsMTg4ODAwMzUzMywxMzAyMzYzODgzXX0=
