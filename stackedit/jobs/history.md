@@ -7,7 +7,9 @@
 * compliance enforcement
 
 ## Everbridge
-### SRE * troubleshot
+### SRE
+* troubleshot
+* 
 
 ## Verizon Digital Media
 ### Developer
@@ -17,6 +19,6 @@
 * Image pipeline
 * troubleshooting at scale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzNzExNjkxLC0xMzQ3ODg4MjI0LDE4OD
-gwMDM1MzMsMTMwMjM2Mzg4M119
+eyJoaXN0b3J5IjpbLTQwNzIzMjcyMywtMTM0Nzg4ODIyNCwxOD
+g4MDAzNTMzLDEzMDIzNjM4ODNdfQ==
 -->
