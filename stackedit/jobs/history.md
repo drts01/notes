@@ -54,12 +54,15 @@ Consultant
 * "My Adventure in Python Packaging" - Socal Code Camp 2018
 
 ## Organizer
-* Software Engineering Meetup - Co-Founder
-* DevOps Day L.A. - Co-Chair
+* Software Engineering Meetup - Co-Founder (2018
+* DevOps Day L.A. - Co-Chair (2017-Present)
+
+## Volunteer
+* SCaLE A/V Team - Python and Embedded Systems Developer (2018 - 2020)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MDA3ODY3MSw4NjMxOTgyNDcsMTYyMD
-UxNzIyMSwxMzUxNjI3NTQ5LC05OTA0NjcyODksMjA1MjAzNzQ4
-OCw3NjA2NzM3NzgsLTYxNzYwNTEwOCwtMTM0Nzg4ODIyNCwxOD
-g4MDAzNTMzLDEzMDIzNjM4ODNdfQ==
+eyJoaXN0b3J5IjpbLTE0NTUyNDE2OTMsLTQ5MDA3ODY3MSw4Nj
+MxOTgyNDcsMTYyMDUxNzIyMSwxMzUxNjI3NTQ5LC05OTA0Njcy
+ODksMjA1MjAzNzQ4OCw3NjA2NzM3NzgsLTYxNzYwNTEwOCwtMT
+M0Nzg4ODIyNCwxODg4MDAzNTMzLDEzMDIzNjM4ODNdfQ==
 -->
