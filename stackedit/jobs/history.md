@@ -22,6 +22,7 @@
 * troubleshooting at scale
 
 ## ThirdWave / TWE
+Consultant
 * Consulted
 * Managed IT infrastructure
 * Solutions Engineer
@@ -31,8 +32,9 @@
 * Reduced cost and maintenance by  integrating open-source technologies such as Linux (Ubuntu)
 * Architect backup and recovery solution
 * Web Development
+* Oversaw/trained personal
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NjAwMTQxNCwtMTM0Nzg4ODIyNCwxOD
+eyJoaXN0b3J5IjpbLTYxNzYwNTEwOCwtMTM0Nzg4ODIyNCwxOD
 g4MDAzNTMzLDEzMDIzNjM4ODNdfQ==
 -->
