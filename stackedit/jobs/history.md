@@ -47,12 +47,14 @@ Consultant
 * Web Development
 * Oversaw/trained personal
 
-# Community Engament
+# Community Engagement
+
+* "Make Python Great Again"
 
 # 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjM2NTQwLDE2MjA1MTcyMjEsMTM1MT
+eyJoaXN0b3J5IjpbODYzMTk4MjQ3LDE2MjA1MTcyMjEsMTM1MT
 YyNzU0OSwtOTkwNDY3Mjg5LDIwNTIwMzc0ODgsNzYwNjczNzc4
 LC02MTc2MDUxMDgsLTEzNDc4ODgyMjQsMTg4ODAwMzUzMywxMz
 AyMzYzODgzXX0=
