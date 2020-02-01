@@ -62,22 +62,26 @@ Consultant
 * SCaLE A/V Team - Python and Embedded Systems Developer (2018 - 2020)
 * BSides LV - Volunteer (2013 - 2017)
 
-# Professional ism
-## Certifications
-* Certified Scrum Product Owner #000772210 (04/2018 - 04/2020)
-* Certified SAFe 4 Agilist #92546988-2865 (03/2018 - 03/2019)
-## Membership
+## Professional Membership
 * Python Software Foundation (2019 - Present)
 * Fedora (2019 - Present)
 * Association for Computing Machinery (2018 - Present)
+
+# Extras
+
+## Certifications
+* Certified Scrum Product Owner #000772210 (04/2018 - 04/2020)
+* Certified SAFe 4 Agilist #92546988-2865 (03/2018 - 03/2019)
+
 ## Online Presence
 * https://www.linkedin.com/in/cmeza99
 * https://twitter.com/digitalr00ts
 * https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjU0NDg4MDUsLTQ5MDA3ODY3MSw4Nj
-MxOTgyNDcsMTYyMDUxNzIyMSwxMzUxNjI3NTQ5LC05OTA0Njcy
-ODksMjA1MjAzNzQ4OCw3NjA2NzM3NzgsLTYxNzYwNTEwOCwtMT
-M0Nzg4ODIyNCwxODg4MDAzNTMzLDEzMDIzNjM4ODNdfQ==
+eyJoaXN0b3J5IjpbMjExODQ2ODc2MSwtMTYyNTQ0ODgwNSwtND
+kwMDc4NjcxLDg2MzE5ODI0NywxNjIwNTE3MjIxLDEzNTE2Mjc1
+NDksLTk5MDQ2NzI4OSwyMDUyMDM3NDg4LDc2MDY3Mzc3OCwtNj
+E3NjA1MTA4LC0xMzQ3ODg4MjI0LDE4ODgwMDM1MzMsMTMwMjM2
+Mzg4M119
 -->
