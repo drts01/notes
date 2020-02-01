@@ -5,6 +5,7 @@
 * increased efficency by developing tools to simplify automation
 * reduces cost
 * compliance enforcement
+* product ownership
 
 ## Everbridge
 ### SRE
@@ -14,6 +15,7 @@
 ## Verizon Digital Media
 ### Developer
 * saltstack
+* product ownership
 
 ### Systems Engineer
 * Image pipeline
@@ -27,10 +29,10 @@
 ## Merit International
 
 * Reduced cost and maintenance by  integrating open-source technologies such as Linux (Ubuntu)
-* Archetected backup and 
+* Architect backup and recovery solution
 * Web Development
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDM2OTY0MywtMTM0Nzg4ODIyNCwxOD
+eyJoaXN0b3J5IjpbLTU1NjAwMTQxNCwtMTM0Nzg4ODIyNCwxOD
 g4MDAzNTMzLDEzMDIzNjM4ODNdfQ==
 -->
