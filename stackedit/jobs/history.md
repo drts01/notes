@@ -21,12 +21,13 @@
 
 ## ThirdWave / TWE
 * Consulted
-* Solutions Enginee
+* Solutions Engineer
 
 ## Merit International
 * Managed IT infrastructure
+* Reduced cost and maintance by  integrating open-source technologies 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDM4NDcwMCwtMTM0Nzg4ODIyNCwxOD
+eyJoaXN0b3J5IjpbMTAwMjUxMjgxMSwtMTM0Nzg4ODIyNCwxOD
 g4MDAzNTMzLDEzMDIzNjM4ODNdfQ==
 -->
