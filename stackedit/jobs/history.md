@@ -10,7 +10,7 @@
 ## Everbridge
 ### SRE
 * troubleshot
-* 
+* monitoring metrics
 
 ## Verizon Digital Media
 ### Developer
@@ -36,6 +36,7 @@ Consultant
 * Oversaw/trained personal
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwNjczNzc4LC02MTc2MDUxMDgsLTEzND
-c4ODgyMjQsMTg4ODAwMzUzMywxMzAyMzYzODgzXX0=
+eyJoaXN0b3J5IjpbLTE1OTQxMDA4Myw3NjA2NzM3NzgsLTYxNz
+YwNTEwOCwtMTM0Nzg4ODIyNCwxODg4MDAzNTMzLDEzMDIzNjM4
+ODNdfQ==
 -->
