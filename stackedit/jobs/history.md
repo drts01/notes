@@ -22,6 +22,8 @@
 * git repo managment/owner
 * product ownership
 
+* Roadmap to Kubernetes Kublet
+
 * jenkins, gitlab ci
 
 ### Systems Engineer
@@ -45,7 +47,7 @@ Consultant
 * Oversaw/trained personal
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDQ2NzI4OSwyMDUyMDM3NDg4LDc2MD
-Y3Mzc3OCwtNjE3NjA1MTA4LC0xMzQ3ODg4MjI0LDE4ODgwMDM1
-MzMsMTMwMjM2Mzg4M119
+eyJoaXN0b3J5IjpbMTM1MTYyNzU0OSwtOTkwNDY3Mjg5LDIwNT
+IwMzc0ODgsNzYwNjczNzc4LC02MTc2MDUxMDgsLTEzNDc4ODgy
+MjQsMTg4ODAwMzUzMywxMzAyMzYzODgzXX0=
 -->
