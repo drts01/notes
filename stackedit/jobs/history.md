@@ -34,14 +34,16 @@ Development of tools and services for operations.
 * jenkins, gitlab ci
 
 ### Systems Engineer
-Provisioning 
+Provisioning of CDN infrastructure and issue remediation.
 * Image pipeline
 * troubleshooting at scale
 * openstack aws
 * Python scripts
 
 ## ThirdWave / TWE
-Consultant
+### Solutions Engineer
+
+
 * Consulted
 * Managed IT infrastructure
 * Solutions Engineer
@@ -86,9 +88,9 @@ Consultant
 * https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNDc1NzIsMjEzMDg0OTgwNSwtMTYyNT
-Q0ODgwNSwtNDkwMDc4NjcxLDg2MzE5ODI0NywxNjIwNTE3MjIx
-LDEzNTE2Mjc1NDksLTk5MDQ2NzI4OSwyMDUyMDM3NDg4LDc2MD
-Y3Mzc3OCwtNjE3NjA1MTA4LC0xMzQ3ODg4MjI0LDE4ODgwMDM1
-MzMsMTMwMjM2Mzg4M119
+eyJoaXN0b3J5IjpbLTg4NjQ5Nzg2NywyMTMwODQ5ODA1LC0xNj
+I1NDQ4ODA1LC00OTAwNzg2NzEsODYzMTk4MjQ3LDE2MjA1MTcy
+MjEsMTM1MTYyNzU0OSwtOTkwNDY3Mjg5LDIwNTIwMzc0ODgsNz
+YwNjczNzc4LC02MTc2MDUxMDgsLTEzNDc4ODgyMjQsMTg4ODAw
+MzUzMywxMzAyMzYzODgzXX0=
 -->
