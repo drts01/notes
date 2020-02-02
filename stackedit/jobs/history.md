@@ -9,6 +9,9 @@
 
 ## Everbridge (2019-06-2020-06)
 ### SRE
+
+
+
 * gitops / atlantis
 * troubleshot
 * monitoring metrics
@@ -79,9 +82,9 @@ Consultant
 * https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDg0OTgwNSwtMTYyNTQ0ODgwNSwtND
-kwMDc4NjcxLDg2MzE5ODI0NywxNjIwNTE3MjIxLDEzNTE2Mjc1
-NDksLTk5MDQ2NzI4OSwyMDUyMDM3NDg4LDc2MDY3Mzc3OCwtNj
-E3NjA1MTA4LC0xMzQ3ODg4MjI0LDE4ODgwMDM1MzMsMTMwMjM2
-Mzg4M119
+eyJoaXN0b3J5IjpbODI4Njk2NDA3LDIxMzA4NDk4MDUsLTE2Mj
+U0NDg4MDUsLTQ5MDA3ODY3MSw4NjMxOTgyNDcsMTYyMDUxNzIy
+MSwxMzUxNjI3NTQ5LC05OTA0NjcyODksMjA1MjAzNzQ4OCw3Nj
+A2NzM3NzgsLTYxNzYwNTEwOCwtMTM0Nzg4ODIyNCwxODg4MDAz
+NTMzLDEzMDIzNjM4ODNdfQ==
 -->
