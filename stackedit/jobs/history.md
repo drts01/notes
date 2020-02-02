@@ -42,7 +42,7 @@ Provisioning of CDN infrastructure and issue remediation.
 
 ## ThirdWave / TWE
 ### Solutions Engineer
-
+Architected and implement solutions.
 
 * Consulted
 * Managed IT infrastructure
@@ -50,6 +50,7 @@ Provisioning of CDN infrastructure and issue remediation.
 * Documentation
 
 ## Merit International
+
 
 * Reduced cost and maintenance by  integrating open-source technologies such as Linux (Ubuntu)
 * Architect backup and recovery solution
@@ -88,7 +89,7 @@ Provisioning of CDN infrastructure and issue remediation.
 * https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjQ5Nzg2NywyMTMwODQ5ODA1LC0xNj
+eyJoaXN0b3J5IjpbMTg4MjMzODg1NywyMTMwODQ5ODA1LC0xNj
 I1NDQ4ODA1LC00OTAwNzg2NzEsODYzMTk4MjQ3LDE2MjA1MTcy
 MjEsMTM1MTYyNzU0OSwtOTkwNDY3Mjg5LDIwNTIwMzc0ODgsNz
 YwNjczNzc4LC02MTc2MDUxMDgsLTEzNDc4ODgyMjQsMTg4ODAw
