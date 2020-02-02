@@ -1,13 +1,13 @@
 
 # Employment Experience
-## Disney 2020-06
+## Disney (2020-07 - Present)
 ### Software Contractor (through Lee Line Consulting)
 * increased efficiency by developing Python libraries and cli applications to simplify automation
 * reduces cost
 * compliance enforcement
 * product ownership
 
-## Everbridge
+## Everbridge (2019-06-2020-06)
 ### SRE
 * gitops / atlantis
 * troubleshot
@@ -79,7 +79,7 @@ Consultant
 * https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODQ2ODc2MSwtMTYyNTQ0ODgwNSwtND
+eyJoaXN0b3J5IjpbMjEzMDg0OTgwNSwtMTYyNTQ0ODgwNSwtND
 kwMDc4NjcxLDg2MzE5ODI0NywxNjIwNTE3MjIxLDEzNTE2Mjc1
 NDksLTk5MDQ2NzI4OSwyMDUyMDM3NDg4LDc2MDY3Mzc3OCwtNj
 E3NjA1MTA4LC0xMzQ3ODg4MjI0LDE4ODgwMDM1MzMsMTMwMjM2
