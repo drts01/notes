@@ -21,7 +21,7 @@ Uptime of core platform.
 ## Verizon Digital Media
 ### Developer
 
-Provisioning 
+Development of tools and services for operations.
 
 * saltstack - Python modules to integrated with internal services
 * secrets
@@ -34,6 +34,7 @@ Provisioning
 * jenkins, gitlab ci
 
 ### Systems Engineer
+Provisioning 
 * Image pipeline
 * troubleshooting at scale
 * openstack aws
@@ -85,7 +86,7 @@ Consultant
 * https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2NDA4NjUsMjEzMDg0OTgwNSwtMTYyNT
+eyJoaXN0b3J5IjpbODYzNDc1NzIsMjEzMDg0OTgwNSwtMTYyNT
 Q0ODgwNSwtNDkwMDc4NjcxLDg2MzE5ODI0NywxNjIwNTE3MjIx
 LDEzNTE2Mjc1NDksLTk5MDQ2NzI4OSwyMDUyMDM3NDg4LDc2MD
 Y3Mzc3OCwtNjE3NjA1MTA4LC0xMzQ3ODg4MjI0LDE4ODgwMDM1
