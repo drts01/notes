@@ -26,7 +26,7 @@ Responsible for uptime of core platform.
 ### Developer
 
 Product ownership and development of tools and services for operations.
-Python, AWS, OpenStack, Kubernetes, Github
+Python, AWS, OpenStack, Kubernetes, Github, Jenkins
 
 * saltstack - Python modules to integrated with internal services
 * secrets
@@ -40,7 +40,7 @@ Python, AWS, OpenStack, Kubernetes, Github
 
 ### Systems Engineer
 Provisioning of CDN infrastructure and issue remediation.
-Linux/Ubuntu, OpenStack, Python, BASH, Gitlab
+Linux/Ubuntu, OpenStack, Python, BASH, Gitlab CI
 * Image pipeline
 * troubleshooting at scale
 * openstack aws
@@ -97,11 +97,11 @@ Linux/Ubuntu, FreeBSD, Windows, Python, BASH, HTML/CSS
 * https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzM1MjMxNywxNDk4NTA4NzIzLC00MT
-UxNTcwNDQsLTE1MjgxNTI1MDMsLTE4ODY5ODY0MDgsLTE4NTU1
-MjMyMzIsLTM2NDA5NjAwLDE4ODIzMzg4NTcsMjEzMDg0OTgwNS
-wtMTYyNTQ0ODgwNSwtNDkwMDc4NjcxLDg2MzE5ODI0NywxNjIw
-NTE3MjIxLDEzNTE2Mjc1NDksLTk5MDQ2NzI4OSwyMDUyMDM3ND
-g4LDc2MDY3Mzc3OCwtNjE3NjA1MTA4LC0xMzQ3ODg4MjI0LDE4
-ODgwMDM1MzNdfQ==
+eyJoaXN0b3J5IjpbLTE0MDMwMzI2ODMsMTQ5ODUwODcyMywtND
+E1MTU3MDQ0LC0xNTI4MTUyNTAzLC0xODg2OTg2NDA4LC0xODU1
+NTIzMjMyLC0zNjQwOTYwMCwxODgyMzM4ODU3LDIxMzA4NDk4MD
+UsLTE2MjU0NDg4MDUsLTQ5MDA3ODY3MSw4NjMxOTgyNDcsMTYy
+MDUxNzIyMSwxMzUxNjI3NTQ5LC05OTA0NjcyODksMjA1MjAzNz
+Q4OCw3NjA2NzM3NzgsLTYxNzYwNTEwOCwtMTM0Nzg4ODIyNCwx
+ODg4MDAzNTMzXX0=
 -->
