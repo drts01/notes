@@ -2,7 +2,7 @@
 # Employment Experience
 ## Disney (2020-07 - Present)
 ### Software Contractor (through Lee Line Consulting)
-Linux/Ubuntu/Redhat, Python, AWS
+Linux/Ubuntu/Redhat, Python, AWS, Gitlab
 * increased efficiency by developing Python libraries and cli applications to simplify automation
 * reduces cost
 * compliance enforcement
@@ -13,7 +13,7 @@ Linux/Ubuntu/Redhat, Python, AWS
 
 ## Everbridge (2019-06-2020-06)
 ### SRE
-Linux/Ubuntu, Python, Terraform, AWS
+Linux/Ubuntu, Python, Terraform, AWS, Github
 Responsible for uptime of core platform.
 
 * gitops / atlantis
@@ -26,7 +26,7 @@ Responsible for uptime of core platform.
 ### Developer
 
 Product ownership and development of tools and services for operations.
-Python, AWS, OpenStack, Kubernetes
+Python, AWS, OpenStack, Kubernetes, Github
 
 * saltstack - Python modules to integrated with internal services
 * secrets
@@ -40,7 +40,7 @@ Python, AWS, OpenStack, Kubernetes
 
 ### Systems Engineer
 Provisioning of CDN infrastructure and issue remediation.
-Linux/Ubuntu, OpenStack, Python, BASH
+Linux/Ubuntu, OpenStack, Python, BASH, Gitlab
 * Image pipeline
 * troubleshooting at scale
 * openstack aws
@@ -97,11 +97,11 @@ Linux/Ubuntu, FreeBSD, Windows, Python, BASH, HTML/CSS
 * https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODUwODcyMywtNDE1MTU3MDQ0LC0xNT
-I4MTUyNTAzLC0xODg2OTg2NDA4LC0xODU1NTIzMjMyLC0zNjQw
-OTYwMCwxODgyMzM4ODU3LDIxMzA4NDk4MDUsLTE2MjU0NDg4MD
-UsLTQ5MDA3ODY3MSw4NjMxOTgyNDcsMTYyMDUxNzIyMSwxMzUx
-NjI3NTQ5LC05OTA0NjcyODksMjA1MjAzNzQ4OCw3NjA2NzM3Nz
-gsLTYxNzYwNTEwOCwtMTM0Nzg4ODIyNCwxODg4MDAzNTMzLDEz
-MDIzNjM4ODNdfQ==
+eyJoaXN0b3J5IjpbLTEyNzM1MjMxNywxNDk4NTA4NzIzLC00MT
+UxNTcwNDQsLTE1MjgxNTI1MDMsLTE4ODY5ODY0MDgsLTE4NTU1
+MjMyMzIsLTM2NDA5NjAwLDE4ODIzMzg4NTcsMjEzMDg0OTgwNS
+wtMTYyNTQ0ODgwNSwtNDkwMDc4NjcxLDg2MzE5ODI0NywxNjIw
+NTE3MjIxLDEzNTE2Mjc1NDksLTk5MDQ2NzI4OSwyMDUyMDM3ND
+g4LDc2MDY3Mzc3OCwtNjE3NjA1MTA4LC0xMzQ3ODg4MjI0LDE4
+ODgwMDM1MzNdfQ==
 -->
