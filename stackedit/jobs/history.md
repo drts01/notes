@@ -50,7 +50,8 @@ Architected and implement solutions.
 * Documentation
 
 ## Merit International
-
+###
+Managed all IT infrastructure
 
 * Reduced cost and maintenance by  integrating open-source technologies such as Linux (Ubuntu)
 * Architect backup and recovery solution
@@ -89,9 +90,9 @@ Architected and implement solutions.
 * https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjMzODg1NywyMTMwODQ5ODA1LC0xNj
-I1NDQ4ODA1LC00OTAwNzg2NzEsODYzMTk4MjQ3LDE2MjA1MTcy
-MjEsMTM1MTYyNzU0OSwtOTkwNDY3Mjg5LDIwNTIwMzc0ODgsNz
-YwNjczNzc4LC02MTc2MDUxMDgsLTEzNDc4ODgyMjQsMTg4ODAw
-MzUzMywxMzAyMzYzODgzXX0=
+eyJoaXN0b3J5IjpbLTkyMTM1MTg5OCwxODgyMzM4ODU3LDIxMz
+A4NDk4MDUsLTE2MjU0NDg4MDUsLTQ5MDA3ODY3MSw4NjMxOTgy
+NDcsMTYyMDUxNzIyMSwxMzUxNjI3NTQ5LC05OTA0NjcyODksMj
+A1MjAzNzQ4OCw3NjA2NzM3NzgsLTYxNzYwNTEwOCwtMTM0Nzg4
+ODIyNCwxODg4MDAzNTMzLDEzMDIzNjM4ODNdfQ==
 -->
