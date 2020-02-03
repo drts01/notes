@@ -24,8 +24,9 @@ Responsible for uptime of core platform.
 
 ## Verizon Digital Media
 ### Developer
-Python, AWS, OpenStack, Kubernetes
+
 Product ownership and development of tools and services for operations.
+Python, AWS, OpenStack, Kubernetes
 
 * saltstack - Python modules to integrated with internal services
 * secrets
@@ -96,11 +97,11 @@ Linux/Ubuntu, FreeBSD, Windows, Python, BASH, HTML/CSS
 * https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwMTg2MzIzLC00MTUxNTcwNDQsLTE1Mj
-gxNTI1MDMsLTE4ODY5ODY0MDgsLTE4NTU1MjMyMzIsLTM2NDA5
-NjAwLDE4ODIzMzg4NTcsMjEzMDg0OTgwNSwtMTYyNTQ0ODgwNS
-wtNDkwMDc4NjcxLDg2MzE5ODI0NywxNjIwNTE3MjIxLDEzNTE2
-Mjc1NDksLTk5MDQ2NzI4OSwyMDUyMDM3NDg4LDc2MDY3Mzc3OC
-wtNjE3NjA1MTA4LC0xMzQ3ODg4MjI0LDE4ODgwMDM1MzMsMTMw
-MjM2Mzg4M119
+eyJoaXN0b3J5IjpbMTQ5ODUwODcyMywtNDE1MTU3MDQ0LC0xNT
+I4MTUyNTAzLC0xODg2OTg2NDA4LC0xODU1NTIzMjMyLC0zNjQw
+OTYwMCwxODgyMzM4ODU3LDIxMzA4NDk4MDUsLTE2MjU0NDg4MD
+UsLTQ5MDA3ODY3MSw4NjMxOTgyNDcsMTYyMDUxNzIyMSwxMzUx
+NjI3NTQ5LC05OTA0NjcyODksMjA1MjAzNzQ4OCw3NjA2NzM3Nz
+gsLTYxNzYwNTEwOCwtMTM0Nzg4ODIyNCwxODg4MDAzNTMzLDEz
+MDIzNjM4ODNdfQ==
 -->
