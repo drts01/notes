@@ -48,7 +48,7 @@ Linux/Ubuntu, OpenStack, Python, BASH
 ## ThirdWave / TWE
 ### Solutions Engineer
 Architected and implement solutions.
-Linux/Ubuntu, FreeBSD, Windows, VMware, BASH
+Linux/Ubuntu, FreeBSD, Windows, VMware, BASH, Active Directory
 
 * Consulted
 * Managed IT infrastructure
@@ -96,11 +96,11 @@ Linux/Ubuntu, FreeBSD, Windows, Python, BASH, HTML/CSS
 * https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTE1NzA0NCwtMTUyODE1MjUwMywtMT
-g4Njk4NjQwOCwtMTg1NTUyMzIzMiwtMzY0MDk2MDAsMTg4MjMz
-ODg1NywyMTMwODQ5ODA1LC0xNjI1NDQ4ODA1LC00OTAwNzg2Nz
-EsODYzMTk4MjQ3LDE2MjA1MTcyMjEsMTM1MTYyNzU0OSwtOTkw
-NDY3Mjg5LDIwNTIwMzc0ODgsNzYwNjczNzc4LC02MTc2MDUxMD
-gsLTEzNDc4ODgyMjQsMTg4ODAwMzUzMywxMzAyMzYzODgzXX0=
-
+eyJoaXN0b3J5IjpbNTQwMTg2MzIzLC00MTUxNTcwNDQsLTE1Mj
+gxNTI1MDMsLTE4ODY5ODY0MDgsLTE4NTU1MjMyMzIsLTM2NDA5
+NjAwLDE4ODIzMzg4NTcsMjEzMDg0OTgwNSwtMTYyNTQ0ODgwNS
+wtNDkwMDc4NjcxLDg2MzE5ODI0NywxNjIwNTE3MjIxLDEzNTE2
+Mjc1NDksLTk5MDQ2NzI4OSwyMDUyMDM3NDg4LDc2MDY3Mzc3OC
+wtNjE3NjA1MTA4LC0xMzQ3ODg4MjI0LDE4ODgwMDM1MzMsMTMw
+MjM2Mzg4M119
 -->
