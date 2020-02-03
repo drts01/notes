@@ -22,13 +22,13 @@ Uptime of core platform.
 ## Verizon Digital Media
 ### Developer
 Python, AWS, OpenStack, Kubernetes
-Development of tools and services for operations.
+Product ownership and development of tools and services for operations.
 
 * saltstack - Python modules to integrated with internal services
 * secrets
 * git repo managment/owner
 * product ownership
-* 
+* project planning
 
 * Roadmap to Kubernetes Kublet
 
@@ -94,10 +94,10 @@ Linux/Ubuntu, FreeBSD, Windows, Python, BASH, HTML/CSS
 * https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU1MjMyMzIsLTM2NDA5NjAwLDE4OD
-IzMzg4NTcsMjEzMDg0OTgwNSwtMTYyNTQ0ODgwNSwtNDkwMDc4
-NjcxLDg2MzE5ODI0NywxNjIwNTE3MjIxLDEzNTE2Mjc1NDksLT
-k5MDQ2NzI4OSwyMDUyMDM3NDg4LDc2MDY3Mzc3OCwtNjE3NjA1
-MTA4LC0xMzQ3ODg4MjI0LDE4ODgwMDM1MzMsMTMwMjM2Mzg4M1
-19
+eyJoaXN0b3J5IjpbODA0ODQ4Njg3LC0xODU1NTIzMjMyLC0zNj
+QwOTYwMCwxODgyMzM4ODU3LDIxMzA4NDk4MDUsLTE2MjU0NDg4
+MDUsLTQ5MDA3ODY3MSw4NjMxOTgyNDcsMTYyMDUxNzIyMSwxMz
+UxNjI3NTQ5LC05OTA0NjcyODksMjA1MjAzNzQ4OCw3NjA2NzM3
+NzgsLTYxNzYwNTEwOCwtMTM0Nzg4ODIyNCwxODg4MDAzNTMzLD
+EzMDIzNjM4ODNdfQ==
 -->
