@@ -45,7 +45,7 @@ Linux/Ubuntu, OpenStack, Python, BASH
 ## ThirdWave / TWE
 ### Solutions Engineer
 Architected and implement solutions.
-Linux/Ubuntu, FreeBSD, VMware, BASH, Windows
+Linux/Ubuntu, FreeBSD, Windows, VMware, BASH
 
 * Consulted
 * Managed IT infrastructure
@@ -94,9 +94,10 @@ Linux/Ubuntu, FreeBSD, Windows, Python, BASH, HTML/CSS
 * https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDA5NjAwLDE4ODIzMzg4NTcsMjEzMD
-g0OTgwNSwtMTYyNTQ0ODgwNSwtNDkwMDc4NjcxLDg2MzE5ODI0
-NywxNjIwNTE3MjIxLDEzNTE2Mjc1NDksLTk5MDQ2NzI4OSwyMD
-UyMDM3NDg4LDc2MDY3Mzc3OCwtNjE3NjA1MTA4LC0xMzQ3ODg4
-MjI0LDE4ODgwMDM1MzMsMTMwMjM2Mzg4M119
+eyJoaXN0b3J5IjpbLTE4NTU1MjMyMzIsLTM2NDA5NjAwLDE4OD
+IzMzg4NTcsMjEzMDg0OTgwNSwtMTYyNTQ0ODgwNSwtNDkwMDc4
+NjcxLDg2MzE5ODI0NywxNjIwNTE3MjIxLDEzNTE2Mjc1NDksLT
+k5MDQ2NzI4OSwyMDUyMDM3NDg4LDc2MDY3Mzc3OCwtNjE3NjA1
+MTA4LC0xMzQ3ODg4MjI0LDE4ODgwMDM1MzMsMTMwMjM2Mzg4M1
+19
 -->
