@@ -7,6 +7,9 @@ Linux/Ubuntu/Redhat, Python, AWS
 * reduces cost
 * compliance enforcement
 * product ownership
+* Created c7n-broom
+* Created boto-remora
+* Rearch terraform and created roadmap for adoption
 
 ## Everbridge (2019-06-2020-06)
 ### SRE
@@ -94,10 +97,10 @@ Linux/Ubuntu, FreeBSD, Windows, Python, BASH, HTML/CSS
 * https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0ODQ4Njg3LC0xODU1NTIzMjMyLC0zNj
-QwOTYwMCwxODgyMzM4ODU3LDIxMzA4NDk4MDUsLTE2MjU0NDg4
-MDUsLTQ5MDA3ODY3MSw4NjMxOTgyNDcsMTYyMDUxNzIyMSwxMz
-UxNjI3NTQ5LC05OTA0NjcyODksMjA1MjAzNzQ4OCw3NjA2NzM3
-NzgsLTYxNzYwNTEwOCwtMTM0Nzg4ODIyNCwxODg4MDAzNTMzLD
-EzMDIzNjM4ODNdfQ==
+eyJoaXN0b3J5IjpbLTY3MTA0MDk1MSwtMTg1NTUyMzIzMiwtMz
+Y0MDk2MDAsMTg4MjMzODg1NywyMTMwODQ5ODA1LC0xNjI1NDQ4
+ODA1LC00OTAwNzg2NzEsODYzMTk4MjQ3LDE2MjA1MTcyMjEsMT
+M1MTYyNzU0OSwtOTkwNDY3Mjg5LDIwNTIwMzc0ODgsNzYwNjcz
+Nzc4LC02MTc2MDUxMDgsLTEzNDc4ODgyMjQsMTg4ODAwMzUzMy
+wxMzAyMzYzODgzXX0=
 -->
