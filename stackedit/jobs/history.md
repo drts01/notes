@@ -10,7 +10,7 @@ Linux/Ubuntu/Redhat, Python, AWS
 
 ## Everbridge (2019-06-2020-06)
 ### SRE
-Linux/Ubuntu, AWS
+Linux/Ubuntu, Terraform, AWS
 Uptime of core platform.
 
 * gitops / atlantis
@@ -21,7 +21,7 @@ Uptime of core platform.
 
 ## Verizon Digital Media
 ### Developer
-
+Python, AWS, OpenStack, Kubernetes
 Development of tools and services for operations.
 
 * saltstack - Python modules to integrated with internal services
@@ -94,9 +94,9 @@ Linux/Ubuntu, FreeBSD, Windows, Python, BASH, HTML/CSS
 * https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDA2MjA2MjUsMTg4MjMzODg1NywyMT
-MwODQ5ODA1LC0xNjI1NDQ4ODA1LC00OTAwNzg2NzEsODYzMTk4
-MjQ3LDE2MjA1MTcyMjEsMTM1MTYyNzU0OSwtOTkwNDY3Mjg5LD
-IwNTIwMzc0ODgsNzYwNjczNzc4LC02MTc2MDUxMDgsLTEzNDc4
-ODgyMjQsMTg4ODAwMzUzMywxMzAyMzYzODgzXX0=
+eyJoaXN0b3J5IjpbLTM2NDA5NjAwLDE4ODIzMzg4NTcsMjEzMD
+g0OTgwNSwtMTYyNTQ0ODgwNSwtNDkwMDc4NjcxLDg2MzE5ODI0
+NywxNjIwNTE3MjIxLDEzNTE2Mjc1NDksLTk5MDQ2NzI4OSwyMD
+UyMDM3NDg4LDc2MDY3Mzc3OCwtNjE3NjA1MTA4LC0xMzQ3ODg4
+MjI0LDE4ODgwMDM1MzMsMTMwMjM2Mzg4M119
 -->
