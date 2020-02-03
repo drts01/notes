@@ -14,7 +14,7 @@ Linux/Ubuntu/Redhat, Python, AWS
 ## Everbridge (2019-06-2020-06)
 ### SRE
 Linux/Ubuntu, Python, Terraform, AWS
-Uptime of core platform.
+Responsible for uptime of core platform.
 
 * gitops / atlantis
 * troubleshot
@@ -97,10 +97,10 @@ Linux/Ubuntu, FreeBSD, Windows, Python, BASH, HTML/CSS
 * https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzU3MDk4MywtMTg1NTUyMzIzMiwtMz
-Y0MDk2MDAsMTg4MjMzODg1NywyMTMwODQ5ODA1LC0xNjI1NDQ4
-ODA1LC00OTAwNzg2NzEsODYzMTk4MjQ3LDE2MjA1MTcyMjEsMT
-M1MTYyNzU0OSwtOTkwNDY3Mjg5LDIwNTIwMzc0ODgsNzYwNjcz
-Nzc4LC02MTc2MDUxMDgsLTEzNDc4ODgyMjQsMTg4ODAwMzUzMy
-wxMzAyMzYzODgzXX0=
+eyJoaXN0b3J5IjpbLTE4ODY5ODY0MDgsLTE4NTU1MjMyMzIsLT
+M2NDA5NjAwLDE4ODIzMzg4NTcsMjEzMDg0OTgwNSwtMTYyNTQ0
+ODgwNSwtNDkwMDc4NjcxLDg2MzE5ODI0NywxNjIwNTE3MjIxLD
+EzNTE2Mjc1NDksLTk5MDQ2NzI4OSwyMDUyMDM3NDg4LDc2MDY3
+Mzc3OCwtNjE3NjA1MTA4LC0xMzQ3ODg4MjI0LDE4ODgwMDM1Mz
+MsMTMwMjM2Mzg4M119
 -->
