@@ -44,7 +44,7 @@ Python, BASH
 ## ThirdWave / TWE
 ### Solutions Engineer
 Architected and implement solutions.
-Linux/Ubuntu, FreeBSD, VMware
+Linux/Ubuntu, FreeBSD, VMware, BASH, Windows
 
 * Consulted
 * Managed IT infrastructure
@@ -54,7 +54,7 @@ Linux/Ubuntu, FreeBSD, VMware
 ## Merit International
 ###
 Managed all IT infrastructure
-Linux/Ubuntu, FreeBSD, Windows, Python
+Linux/Ubuntu, FreeBSD, Windows, Python, BASH, HTML/CSS
 
 * Reduced cost and maintenance by  integrating open-source technologies such as Linux (Ubuntu)
 * Architect backup and recovery solution
@@ -93,9 +93,9 @@ Linux/Ubuntu, FreeBSD, Windows, Python
 * https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Njc3NTE4MiwxODgyMzM4ODU3LDIxMz
-A4NDk4MDUsLTE2MjU0NDg4MDUsLTQ5MDA3ODY3MSw4NjMxOTgy
-NDcsMTYyMDUxNzIyMSwxMzUxNjI3NTQ5LC05OTA0NjcyODksMj
-A1MjAzNzQ4OCw3NjA2NzM3NzgsLTYxNzYwNTEwOCwtMTM0Nzg4
-ODIyNCwxODg4MDAzNTMzLDEzMDIzNjM4ODNdfQ==
+eyJoaXN0b3J5IjpbLTE1NjQyNTg0NzAsMTg4MjMzODg1NywyMT
+MwODQ5ODA1LC0xNjI1NDQ4ODA1LC00OTAwNzg2NzEsODYzMTk4
+MjQ3LDE2MjA1MTcyMjEsMTM1MTYyNzU0OSwtOTkwNDY3Mjg5LD
+IwNTIwMzc0ODgsNzYwNjczNzc4LC02MTc2MDUxMDgsLTEzNDc4
+ODgyMjQsMTg4ODAwMzUzMywxMzAyMzYzODgzXX0=
 -->
