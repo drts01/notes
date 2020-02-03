@@ -2,7 +2,7 @@
 # Employment Experience
 ## Disney (2020-07 - Present)
 ### Software Contractor (through Lee Line Consulting)
-Linux/Ubuntu/Red
+Linux/Ubuntu/Redhat, Python, AWS
 * increased efficiency by developing Python libraries and cli applications to simplify automation
 * reduces cost
 * compliance enforcement
@@ -10,7 +10,7 @@ Linux/Ubuntu/Red
 
 ## Everbridge (2019-06-2020-06)
 ### SRE
-Linux/Ubuntu
+Linux/Ubuntu, AWS
 Uptime of core platform.
 
 * gitops / atlantis
@@ -94,7 +94,7 @@ Linux/Ubuntu, FreeBSD, Windows, Python, BASH, HTML/CSS
 * https://github.com/CMeza99
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE2ODgxNDQsMTg4MjMzODg1NywyMT
+eyJoaXN0b3J5IjpbLTIxNDA2MjA2MjUsMTg4MjMzODg1NywyMT
 MwODQ5ODA1LC0xNjI1NDQ4ODA1LC00OTAwNzg2NzEsODYzMTk4
 MjQ3LDE2MjA1MTcyMjEsMTM1MTYyNzU0OSwtOTkwNDY3Mjg5LD
 IwNTIwMzc0ODgsNzYwNjczNzc4LC02MTc2MDUxMDgsLTEzNDc4
