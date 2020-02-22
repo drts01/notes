@@ -1,5 +1,8 @@
 # Python Environment
 
+# WELP
+This is where I want Python to be but we are not there yet
+
 ## Title
 * A Python Environment for preserving sanity
 
@@ -171,11 +174,11 @@ You dont have to live like this
 * pyenv - rbenv/rvm - nvm
 * pipenv - bundler - npm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjQ3OTM2NywyMDk3NDA2Nzc4LC0yNT
-Y1MzA0NjAsMjEzODA3OTU0MCw0MTQ1MDEwMTQsLTE1MzAwMzk3
-MDcsODE0Njc0MzAzLC05NzgxMzA3MCwxMTc4OTkwNDYyLDI3OD
-Y3MjgzLDExNzY3MTExMDMsLTkwNzI4OTA2OCwtMTk1NzgxNjg3
-Nyw3NDc0NzM0ODIsLTEyNDc2Nzc3MTYsLTQyNDgwMTAyMiwtMj
-c5NjMwMTQ5LDE4MzYyMjI2ODQsLTE2MDAxOTE1NCwzNjg1MTc4
-OTNdfQ==
+eyJoaXN0b3J5IjpbMTM2NDk0NDkzMiwtMzk2NDc5MzY3LDIwOT
+c0MDY3NzgsLTI1NjUzMDQ2MCwyMTM4MDc5NTQwLDQxNDUwMTAx
+NCwtMTUzMDAzOTcwNyw4MTQ2NzQzMDMsLTk3ODEzMDcwLDExNz
+g5OTA0NjIsMjc4NjcyODMsMTE3NjcxMTEwMywtOTA3Mjg5MDY4
+LC0xOTU3ODE2ODc3LDc0NzQ3MzQ4MiwtMTI0NzY3NzcxNiwtND
+I0ODAxMDIyLC0yNzk2MzAxNDksMTgzNjIyMjY4NCwtMTYwMDE5
+MTU0XX0=
 -->
