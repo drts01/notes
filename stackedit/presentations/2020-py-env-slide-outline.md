@@ -8,9 +8,10 @@
 * Disney AWS Complaniance
 * This presentation
 * a few lines to create meme
-# Until it isnt
-## Python Versions
-* 3.8 on your laptop but 3.5 in production
+## Until it isnt
+*## Python Versions
+* Conflicting Dependencies
+3.8 on your laptop but 3.5 in production
 * 3rd party libraries and app support different versions of Python
 	* Calibre
 ## Conflicting Dependencies
@@ -18,7 +19,7 @@
 
 * namespace collisions
 
-## These issues are not unique to Python.
+## These issues are not uniquie to Python.
 Ruby and JavaScript / Node.js
 = RVM/rbenv and bundler -- nvm and npm
 ## Examples
@@ -113,5 +114,5 @@ javascript - npx
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTk2MTUyN119
+eyJoaXN0b3J5IjpbNjQ0NzAwMjk0XX0=
 -->
