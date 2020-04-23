@@ -6,14 +6,16 @@
 * [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
 * [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim)
 * [ini](https://plugins.jetbrains.com/plugin/6981-ini)
+* [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
 * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
+* [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 * [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
 * [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
 * [Toml](https://plugins.jetbrains.com/plugin/8195-toml)
 
 ### Platform
 * [AWS Toolkit](https://plugins.jetbrains.com/plugin/11349-aws-toolkit)
-* [
+* [Azure DevOps](https://plugins.jetbrains.com/plugin/7981-azure-devops)
 * [Docker](https://plugins.jetbrains.com/plugin/7724-docker)
 * [Kubernetes](https://plugins.jetbrains.com/plugin/10485-kubernetes)
 
@@ -27,6 +29,6 @@
 * [EduTools](https://plugins.jetbrains.com/plugin/10081-edutools)
 * [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTI4MDA2MywtMzEyNzA5OTkxLDc4MD
-EyNzA3LC05MDkwNTc5MDFdfQ==
+eyJoaXN0b3J5IjpbMjAxODk1OTk2LC0zMTI3MDk5OTEsNzgwMT
+I3MDcsLTkwOTA1NzkwMV19
 -->
