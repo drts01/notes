@@ -12,6 +12,8 @@
 * [Toml](https://plugins.jetbrains.com/plugin/8195-toml)
 
 ### Platform
+* [AWS Toolkit](https://plugins.jetbrains.com/plugin/11349-aws-toolkit)
+* [
 * [Docker](https://plugins.jetbrains.com/plugin/7724-docker)
 * [Kubernetes](https://plugins.jetbrains.com/plugin/10485-kubernetes)
 
@@ -25,6 +27,6 @@
 * [EduTools](https://plugins.jetbrains.com/plugin/10081-edutools)
 * [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTc2MzQ1NCwtMzEyNzA5OTkxLDc4MD
+eyJoaXN0b3J5IjpbMTE5NTI4MDA2MywtMzEyNzA5OTkxLDc4MD
 EyNzA3LC05MDkwNTc5MDFdfQ==
 -->
