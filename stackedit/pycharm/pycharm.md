@@ -5,8 +5,10 @@
 * [Toml](https://plugins.jetbrains.com/plugin/8195-toml)
 
 ### Not Sure
-* [# BashSupport]()
+* [# BashSupport](https://plugins.jetbrains.com/plugin/4230-bashsupport)
+  JetBrains is bundling a new [Shell]() plugin 
+* d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTExODUzMTEsNzgwMTI3MDcsLTkwOT
-A1NzkwMV19
+eyJoaXN0b3J5IjpbMTIyMDgxMzQ2Myw3ODAxMjcwNywtOTA5MD
+U3OTAxXX0=
 -->
