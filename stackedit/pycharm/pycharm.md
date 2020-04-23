@@ -28,8 +28,8 @@
 * [CSV Plugin](https://plugins.jetbrains.com/plugin/10037-csv-plugin)
 * [EduTools](https://plugins.jetbrains.com/plugin/10081-edutools)
 * [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
-* 
+* [YAML/Ansible support](https://plugins.jetbrains.com/plugin/7792-yaml-ansible-support)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDEyNDY1NTcsMjAxODk1OTk2LC0zMT
-I3MDk5OTEsNzgwMTI3MDcsLTkwOTA1NzkwMV19
+eyJoaXN0b3J5IjpbMjUxNjk0NDc4LDIwMTg5NTk5NiwtMzEyNz
+A5OTkxLDc4MDEyNzA3LC05MDkwNTc5MDFdfQ==
 -->
