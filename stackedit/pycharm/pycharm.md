@@ -7,7 +7,7 @@
 * [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim)
 * [ini](https://plugins.jetbrains.com/plugin/6981-ini) (bundled)
 * [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
-* [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
+* [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) + [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 * [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
 * [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
@@ -34,7 +34,7 @@
 * [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
 * [YAML/Ansible support](https://plugins.jetbrains.com/plugin/7792-yaml-ansible-support)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzIxNTUzLDI1MTY5NDQ3OCwyMDE4OT
-U5OTYsLTMxMjcwOTk5MSw3ODAxMjcwNywtOTA5MDU3OTAxXX0=
-
+eyJoaXN0b3J5IjpbLTU4NzczNjgwOCwxNjAzMjE1NTMsMjUxNj
+k0NDc4LDIwMTg5NTk5NiwtMzEyNzA5OTkxLDc4MDEyNzA3LC05
+MDkwNTc5MDFdfQ==
 -->
