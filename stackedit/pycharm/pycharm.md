@@ -1,14 +1,15 @@
 # PyCharm
 ## Plugins
 * [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore)
+* [i
 * [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
 * [Toml](https://plugins.jetbrains.com/plugin/8195-toml)
 
 ### Not Sure
-* [# BashSupport](https://plugins.jetbrains.com/plugin/4230-bashsupport)
-  JetBrains is bundling a new [Shell]() plugin 
+* [BashSupport](https://plugins.jetbrains.com/plugin/4230-bashsupport)
+  JetBrains is bundling the [Shell](https://plugins.jetbrains.com/plugin/13122-shell-script) plugin 
 * d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDgxMzQ2Myw3ODAxMjcwNywtOTA5MD
+eyJoaXN0b3J5IjpbMjA0MjExMzYyMSw3ODAxMjcwNywtOTA5MD
 U3OTAxXX0=
 -->
