@@ -13,6 +13,7 @@
 
 ### Platform
 * [Docker](https://plugins.jetbrains.com/plugin/7724-docker)
+* [Kubernetes](https://plugins.jetbrains.com/plugin/10485-kubernetes)
 
 ### Misc
 * [IDE Features Trainer](https://plugins.jetbrains.com/plugin/8554-ide-features-trainer)
@@ -24,6 +25,6 @@
 * [EduTools](https://plugins.jetbrains.com/plugin/10081-edutools)
 * [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjcwOTk5MSw3ODAxMjcwNywtOTA5MD
-U3OTAxXX0=
+eyJoaXN0b3J5IjpbLTM1NTc2MzQ1NCwtMzEyNzA5OTkxLDc4MD
+EyNzA3LC05MDkwNTc5MDFdfQ==
 -->
