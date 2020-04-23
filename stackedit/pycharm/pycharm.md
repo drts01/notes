@@ -7,11 +7,17 @@
 * [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
 * [Toml](https://plugins.jetbrains.com/plugin/8195-toml)
 
+### Platform
+* [Docker](https://plugins.jetbrains.com/plugin/7724-docker)
+
+### Misc
+* [IDE Features Trainer](
+
 ### Not Sure
 * [BashSupport](https://plugins.jetbrains.com/plugin/4230-bashsupport)
   JetBrains is bundling the [Shell](https://plugins.jetbrains.com/plugin/13122-shell-script) plugin 
 * [CSV Plugin](https://plugins.jetbrains.com/plugin/10037-csv-plugin)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzMjc2MjUzLDc4MDEyNzA3LC05MDkwNT
-c5MDFdfQ==
+eyJoaXN0b3J5IjpbLTE0MjIyNDMyOTEsNzgwMTI3MDcsLTkwOT
+A1NzkwMV19
 -->
