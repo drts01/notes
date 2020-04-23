@@ -13,6 +13,9 @@
 * [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
 * [Toml](https://plugins.jetbrains.com/plugin/8195-toml)
 
+### Python
+* [Pylint](https://plugins.jetbrains.com/plugin/11084-pylint)
+
 ### Platform
 * [AWS Toolkit](https://plugins.jetbrains.com/plugin/11349-aws-toolkit)
 * [Azure DevOps](https://plugins.jetbrains.com/plugin/7981-azure-devops)
@@ -31,7 +34,7 @@
 * [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
 * [YAML/Ansible support](https://plugins.jetbrains.com/plugin/7792-yaml-ansible-support)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MjE4NDIwMSwyNTE2OTQ0NzgsMjAxOD
-k1OTk2LC0zMTI3MDk5OTEsNzgwMTI3MDcsLTkwOTA1NzkwMV19
+eyJoaXN0b3J5IjpbMTYwMzIxNTUzLDI1MTY5NDQ3OCwyMDE4OT
+U5OTYsLTMxMjcwOTk5MSw3ODAxMjcwNywtOTA5MDU3OTAxXX0=
 
 -->
