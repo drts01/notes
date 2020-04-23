@@ -20,16 +20,18 @@
 * [Kubernetes](https://plugins.jetbrains.com/plugin/10485-kubernetes)
 
 ### Misc
+* [EduTools](https://plugins.jetbrains.com/plugin/10081-edutools)
 * [IDE Features Trainer](https://plugins.jetbrains.com/plugin/8554-ide-features-trainer)
 
 ### Not Sure
+* [AsciiDoc](https://plugins.jetbrains.com/plugin/7391-asciidoc)
 * [BashSupport](https://plugins.jetbrains.com/plugin/4230-bashsupport)
   JetBrains is bundling the [Shell](https://plugins.jetbrains.com/plugin/13122-shell-script) plugin 
 * [CSV Plugin](https://plugins.jetbrains.com/plugin/10037-csv-plugin)
-* [EduTools](https://plugins.jetbrains.com/plugin/10081-edutools)
 * [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
 * [YAML/Ansible support](https://plugins.jetbrains.com/plugin/7792-yaml-ansible-support)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxNjk0NDc4LDIwMTg5NTk5NiwtMzEyNz
-A5OTkxLDc4MDEyNzA3LC05MDkwNTc5MDFdfQ==
+eyJoaXN0b3J5IjpbMTE0MjE4NDIwMSwyNTE2OTQ0NzgsMjAxOD
+k1OTk2LC0zMTI3MDk5OTEsNzgwMTI3MDcsLTkwOTA1NzkwMV19
+
 -->
