@@ -1,5 +1,6 @@
 # PyCharm
 ## Plugins
+* [.​env files support](https://plugins.jetbrains.com/plugin/9525--env-files-support)
 * [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore)
 * [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim)
 * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
@@ -9,8 +10,8 @@
 ### Not Sure
 * [BashSupport](https://plugins.jetbrains.com/plugin/4230-bashsupport)
   JetBrains is bundling the [Shell](https://plugins.jetbrains.com/plugin/13122-shell-script) plugin 
-* d
+* [CSV Plugin](https://plugins.jetbrains.com/plugin/10037-csv-plugin)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTEwODkzNCw3ODAxMjcwNywtOTA5MD
-U3OTAxXX0=
+eyJoaXN0b3J5IjpbMjUzMjc2MjUzLDc4MDEyNzA3LC05MDkwNT
+c5MDFdfQ==
 -->
