@@ -29,7 +29,7 @@
 
 # Not Python Specific
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
-* 
+* [Coverity Scan](https://scan.coverity.com/) - Static Analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Mzc5NDQ4OCwtNjY0NzE0MDIwXX0=
+eyJoaXN0b3J5IjpbLTE1OTAzODIzMDMsLTY2NDcxNDAyMF19
 -->
