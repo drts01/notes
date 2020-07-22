@@ -15,6 +15,9 @@
 ## Typing
 * https://github.com/google/pytype (nferred type checking)
 
+# Not Python Specific
+* https://vulncat.fortify.com/
+
 ## Security
 * bandit
 * https://github.com/pyupio/safety
@@ -27,5 +30,5 @@
 ## Need To Evaluate
 * https://sourcery.ai/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDcxNDAyMF19
+eyJoaXN0b3J5IjpbLTIwMjQ2NTk5MDksLTY2NDcxNDAyMF19
 -->
