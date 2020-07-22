@@ -44,10 +44,13 @@
 * yamllint
 * find md linter
 
+# PyTest
+* https://talkpython.fm/episodes/show/267/15-amazing-pytest-plugins
+
 # Not Python Specific
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjg0MDQ1NzEsLTExODgwNzgwNDgsLT
-E5MjkwODczOTcsLTY2NDcxNDAyMF19
+eyJoaXN0b3J5IjpbMTMxNjQ1NDkxMCwtMTE4ODA3ODA0OCwtMT
+kyOTA4NzM5NywtNjY0NzE0MDIwXX0=
 -->
