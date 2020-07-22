@@ -1,5 +1,7 @@
 # Refactoring
 ## Linting
+* Pylint
+* [SonarLint](https://www.sonarlint.org/) (Use as plugin in VSCode and/or PyCharm)
 ## Formating
 * Black
 * isort
@@ -13,6 +15,8 @@
 ## Packaging
 * Twine
 * Pyroma
+## Need To Evaluate
+*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2OTk5NDUyXX0=
+eyJoaXN0b3J5IjpbLTEyNTAzNzgzMjNdfQ==
 -->
