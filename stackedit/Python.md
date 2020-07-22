@@ -1,4 +1,5 @@
 # Refactoring
+
 ## Python 2 to 3
 * pyupgrade
 
@@ -26,5 +27,5 @@
 ## Need To Evaluate
 * https://sourcery.ai/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTI3MDAyNzhdfQ==
+eyJoaXN0b3J5IjpbLTY2NDcxNDAyMF19
 -->
