@@ -26,10 +26,11 @@
 
 ## Need To Evaluate
 * https://sourcery.ai/
+* pydocstyle
 
 # Not Python Specific
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTAzODIzMDMsLTY2NDcxNDAyMF19
+eyJoaXN0b3J5IjpbMTQ1MTE2ODUzNSwtNjY0NzE0MDIwXX0=
 -->
