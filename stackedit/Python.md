@@ -28,6 +28,7 @@
 * https://sourcery.ai/
 * pydocstyle
 * vulture - find dead code
+* https://github.com/Yelp/detect-secrets
 
 * rslint
 * yamllint
@@ -37,5 +38,5 @@
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzEyMTI3NTEsLTY2NDcxNDAyMF19
+eyJoaXN0b3J5IjpbLTE5MjkwODczOTcsLTY2NDcxNDAyMF19
 -->
