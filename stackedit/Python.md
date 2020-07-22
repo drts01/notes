@@ -13,7 +13,9 @@
 * flynt
 
 ## Typing
-* https://github.com/google/pytype (nferred type checking)
+* https://github.com/google/pytype - inferred type checking (google)
+* pyre (Facebook)
+* MyPy
 
 ## Security
 * bandit
@@ -46,6 +48,6 @@
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODgwNzgwNDgsLTE5MjkwODczOTcsLT
-Y2NDcxNDAyMF19
+eyJoaXN0b3J5IjpbLTEyMjg0MDQ1NzEsLTExODgwNzgwNDgsLT
+E5MjkwODczOTcsLTY2NDcxNDAyMF19
 -->
