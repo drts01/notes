@@ -29,6 +29,7 @@
 * pydocstyle
 * vulture - find dead code
 * https://github.com/Yelp/detect-secrets
+* dlint
 
 ### Complexity
 * wily
@@ -45,6 +46,6 @@
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0OTc3MDc2MywtMTkyOTA4NzM5NywtNj
-Y0NzE0MDIwXX0=
+eyJoaXN0b3J5IjpbLTExODgwNzgwNDgsLTE5MjkwODczOTcsLT
+Y2NDcxNDAyMF19
 -->
