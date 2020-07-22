@@ -27,10 +27,11 @@
 ## Need To Evaluate
 * https://sourcery.ai/
 * pydocstyle
+* vulture - find dead code
 
 # Not Python Specific
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTE2ODUzNSwtNjY0NzE0MDIwXX0=
+eyJoaXN0b3J5IjpbLTE2MzM5MTAwODUsLTY2NDcxNDAyMF19
 -->
