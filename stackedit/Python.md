@@ -30,7 +30,13 @@
 * vulture - find dead code
 * https://github.com/Yelp/detect-secrets
 
+### Complexity
+* wily
+* radon
+* https://pypi.org/project/big-O/
+* https://pypi.org/project/cognitive-complexity/
 
+### non-python
 * rslint
 * yamllint
 * find md linter
@@ -39,6 +45,6 @@
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MTQ2NTg2NSwtMTkyOTA4NzM5NywtNj
+eyJoaXN0b3J5IjpbMTk0OTc3MDc2MywtMTkyOTA4NzM5NywtNj
 Y0NzE0MDIwXX0=
 -->
