@@ -30,6 +30,7 @@
 * vulture - find dead code
 * https://github.com/Yelp/detect-secrets
 
+
 * rslint
 * yamllint
 * find md linter
@@ -38,5 +39,6 @@
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjkwODczOTcsLTY2NDcxNDAyMF19
+eyJoaXN0b3J5IjpbMTE4MTQ2NTg2NSwtMTkyOTA4NzM5NywtNj
+Y0NzE0MDIwXX0=
 -->
