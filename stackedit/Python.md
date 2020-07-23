@@ -48,10 +48,14 @@
 * https://talkpython.fm/episodes/show/267/15-amazing-pytest-plugins
 * https://timothycrosley.github.io/hypothesis-auto/
 
+## kinda
+* https://github.com/kiwicom/schemathesis
+
 # Not Python Specific
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjcyMzU3OSwxMzE2NDU0OTEwLC0xMT
-g4MDc4MDQ4LC0xOTI5MDg3Mzk3LC02NjQ3MTQwMjBdfQ==
+eyJoaXN0b3J5IjpbLTE2OTg2OTE3NjksMTAwNjcyMzU3OSwxMz
+E2NDU0OTEwLC0xMTg4MDc4MDQ4LC0xOTI5MDg3Mzk3LC02NjQ3
+MTQwMjBdfQ==
 -->
