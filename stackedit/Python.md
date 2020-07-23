@@ -60,9 +60,13 @@
 # Not Python Specific
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
+
+## Functional Design Patterns
+* https://en.wikipedia.org/wiki/Functor_(functional_programming)
+* https://en.wikipedia.org/wiki/Monad_(functional_programming)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0NTM3NjAyLDE3MTY4MzI5ODcsLTc1Nz
-Q3NDcxOSwtMjEyNjg0NzE1MCwxMDA2NzIzNTc5LDEzMTY0NTQ5
-MTAsLTExODgwNzgwNDgsLTE5MjkwODczOTcsLTY2NDcxNDAyMF
-19
+eyJoaXN0b3J5IjpbMTkxMzYzMjI2OCwyNTQ1Mzc2MDIsMTcxNj
+gzMjk4NywtNzU3NDc0NzE5LC0yMTI2ODQ3MTUwLDEwMDY3MjM1
+NzksMTMxNjQ1NDkxMCwtMTE4ODA3ODA0OCwtMTkyOTA4NzM5Ny
+wtNjY0NzE0MDIwXX0=
 -->
