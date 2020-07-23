@@ -33,7 +33,7 @@
 * vulture - find dead code
 * https://github.com/Yelp/detect-secrets
 * dlint
-* 
+* https://github.com/andreoliwa/nitpick - Flake8 plugin to enforce the same tool configuration across multiple Python projects.
 
 ### Complexity
 * wily
@@ -57,7 +57,7 @@
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4Nzg4MTAsLTIxMjY4NDcxNTAsMTAwNj
-cyMzU3OSwxMzE2NDU0OTEwLC0xMTg4MDc4MDQ4LC0xOTI5MDg3
-Mzk3LC02NjQ3MTQwMjBdfQ==
+eyJoaXN0b3J5IjpbLTc1NzQ3NDcxOSwtMjEyNjg0NzE1MCwxMD
+A2NzIzNTc5LDEzMTY0NTQ5MTAsLTExODgwNzgwNDgsLTE5Mjkw
+ODczOTcsLTY2NDcxNDAyMF19
 -->
