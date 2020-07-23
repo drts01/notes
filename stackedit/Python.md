@@ -46,11 +46,12 @@
 
 # PyTest
 * https://talkpython.fm/episodes/show/267/15-amazing-pytest-plugins
+* https://timothycrosley.github.io/hypothesis-auto/
 
 # Not Python Specific
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjQ1NDkxMCwtMTE4ODA3ODA0OCwtMT
-kyOTA4NzM5NywtNjY0NzE0MDIwXX0=
+eyJoaXN0b3J5IjpbMTAwNjcyMzU3OSwxMzE2NDU0OTEwLC0xMT
+g4MDc4MDQ4LC0xOTI5MDg3Mzk3LC02NjQ3MTQwMjBdfQ==
 -->
