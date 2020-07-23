@@ -29,6 +29,7 @@
 ## Need To Evaluate
 * https://sourcery.ai/
 * pydocstyle
+* https://github.com/terrencepreilly/darglint - checks docstring matches the actual function/method implementation
 * vulture - find dead code
 * https://github.com/Yelp/detect-secrets
 * dlint
@@ -49,13 +50,13 @@
 * https://timothycrosley.github.io/hypothesis-auto/
 
 ## kinda
-* https://github.com/kiwicom/schemathesis
+* https://github.com/kiwicom/schemathesis - OpenAPI testing
 
 # Not Python Specific
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTg2OTE3NjksMTAwNjcyMzU3OSwxMz
+eyJoaXN0b3J5IjpbLTIxMjY4NDcxNTAsMTAwNjcyMzU3OSwxMz
 E2NDU0OTEwLC0xMTg4MDc4MDQ4LC0xOTI5MDg3Mzk3LC02NjQ3
 MTQwMjBdfQ==
 -->
