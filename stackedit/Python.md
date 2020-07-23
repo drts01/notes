@@ -59,6 +59,12 @@
 ## kinda
 * https://github.com/kiwicom/schemathesis - OpenAPI testing
 
+# Libs
+
+## To Evaluate
+* https://github.com/dry-python/returns
+* https://github.com/dry-python/classes
+
 # Not Python Specific
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
@@ -68,9 +74,9 @@
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 * Railway Oriented Programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzc0NzMzOSwtMTYxNTA1MTUzMywtMT
-gxNzAwNTkyMCwxOTEzNjMyMjY4LDI1NDUzNzYwMiwxNzE2ODMy
-OTg3LC03NTc0NzQ3MTksLTIxMjY4NDcxNTAsMTAwNjcyMzU3OS
-wxMzE2NDU0OTEwLC0xMTg4MDc4MDQ4LC0xOTI5MDg3Mzk3LC02
-NjQ3MTQwMjBdfQ==
+eyJoaXN0b3J5IjpbMTU3MDY5ODI3MSwxNzI3NzQ3MzM5LC0xNj
+E1MDUxNTMzLC0xODE3MDA1OTIwLDE5MTM2MzIyNjgsMjU0NTM3
+NjAyLDE3MTY4MzI5ODcsLTc1NzQ3NDcxOSwtMjEyNjg0NzE1MC
+wxMDA2NzIzNTc5LDEzMTY0NTQ5MTAsLTExODgwNzgwNDgsLTE5
+MjkwODczOTcsLTY2NDcxNDAyMF19
 -->
