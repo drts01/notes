@@ -32,16 +32,14 @@
 * https://github.com/terrencepreilly/darglint - checks docstring matches the actual function/method implementation
 * vulture - find dead code
 * https://github.com/Yelp/detect-secrets
-* dlint
-
 * https://github.com/pre-commit/pre-commit
-
 * Find commit msg tool!
 
 ### Flake8
 * https://wemake-python-stylegui.de
 * https://github.com/andreoliwa/nitpick - Flake8 plugin to enforce the same tool configuration across multiple Python projects.
 * https://github.com/PyCQA/flake8-bugbear
+* dlint
 
 ### Complexity
 * wily
@@ -69,9 +67,9 @@
 * https://en.wikipedia.org/wiki/Functor_(functional_programming)
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTI5OTg1MSwtMTgxNzAwNTkyMCwxOT
-EzNjMyMjY4LDI1NDUzNzYwMiwxNzE2ODMyOTg3LC03NTc0NzQ3
-MTksLTIxMjY4NDcxNTAsMTAwNjcyMzU3OSwxMzE2NDU0OTEwLC
-0xMTg4MDc4MDQ4LC0xOTI5MDg3Mzk3LC02NjQ3MTQwMjBdfQ==
+eyJoaXN0b3J5IjpbLTE2MTUwNTE1MzMsLTE4MTcwMDU5MjAsMT
+kxMzYzMjI2OCwyNTQ1Mzc2MDIsMTcxNjgzMjk4NywtNzU3NDc0
+NzE5LC0yMTI2ODQ3MTUwLDEwMDY3MjM1NzksMTMxNjQ1NDkxMC
+wtMTE4ODA3ODA0OCwtMTkyOTA4NzM5NywtNjY0NzE0MDIwXX0=
 
 -->
