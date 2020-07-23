@@ -27,6 +27,7 @@
 * Pyroma
 
 ## Need To Evaluate
+* https://wemake-python-stylegui.de
 * https://sourcery.ai/
 * pydocstyle / https://github.com/hhatto/autopep8
 * https://github.com/terrencepreilly/darglint - checks docstring matches the actual function/method implementation
@@ -65,8 +66,8 @@
 * https://en.wikipedia.org/wiki/Functor_(functional_programming)
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzYzMjI2OCwyNTQ1Mzc2MDIsMTcxNj
-gzMjk4NywtNzU3NDc0NzE5LC0yMTI2ODQ3MTUwLDEwMDY3MjM1
-NzksMTMxNjQ1NDkxMCwtMTE4ODA3ODA0OCwtMTkyOTA4NzM5Ny
-wtNjY0NzE0MDIwXX0=
+eyJoaXN0b3J5IjpbLTE4MTcwMDU5MjAsMTkxMzYzMjI2OCwyNT
+Q1Mzc2MDIsMTcxNjgzMjk4NywtNzU3NDc0NzE5LC0yMTI2ODQ3
+MTUwLDEwMDY3MjM1NzksMTMxNjQ1NDkxMCwtMTE4ODA3ODA0OC
+wtMTkyOTA4NzM5NywtNjY0NzE0MDIwXX0=
 -->
