@@ -34,6 +34,10 @@
 * https://github.com/Yelp/detect-secrets
 * dlint
 * https://github.com/andreoliwa/nitpick - Flake8 plugin to enforce the same tool configuration across multiple Python projects.
+* https://github.com/pre-commit/pre-commit
+
+* Find commit msg tool!
+* 
 
 ### Complexity
 * wily
@@ -57,7 +61,8 @@
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjgzMjk4NywtNzU3NDc0NzE5LC0yMT
-I2ODQ3MTUwLDEwMDY3MjM1NzksMTMxNjQ1NDkxMCwtMTE4ODA3
-ODA0OCwtMTkyOTA4NzM5NywtNjY0NzE0MDIwXX0=
+eyJoaXN0b3J5IjpbMjU0NTM3NjAyLDE3MTY4MzI5ODcsLTc1Nz
+Q3NDcxOSwtMjEyNjg0NzE1MCwxMDA2NzIzNTc5LDEzMTY0NTQ5
+MTAsLTExODgwNzgwNDgsLTE5MjkwODczOTcsLTY2NDcxNDAyMF
+19
 -->
