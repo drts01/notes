@@ -28,7 +28,7 @@
 
 ## Need To Evaluate
 * https://sourcery.ai/
-* pydocstyle
+* pydocstyle / https://github.com/hhatto/autopep8
 * https://github.com/terrencepreilly/darglint - checks docstring matches the actual function/method implementation
 * vulture - find dead code
 * https://github.com/Yelp/detect-secrets
@@ -57,7 +57,7 @@
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzQ3NDcxOSwtMjEyNjg0NzE1MCwxMD
-A2NzIzNTc5LDEzMTY0NTQ5MTAsLTExODgwNzgwNDgsLTE5Mjkw
-ODczOTcsLTY2NDcxNDAyMF19
+eyJoaXN0b3J5IjpbMTcxNjgzMjk4NywtNzU3NDc0NzE5LC0yMT
+I2ODQ3MTUwLDEwMDY3MjM1NzksMTMxNjQ1NDkxMCwtMTE4ODA3
+ODA0OCwtMTkyOTA4NzM5NywtNjY0NzE0MDIwXX0=
 -->
