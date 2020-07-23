@@ -66,10 +66,11 @@
 ## Functional Design Patterns
 * https://en.wikipedia.org/wiki/Functor_(functional_programming)
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
+* Railway Oriented Programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTUwNTE1MzMsLTE4MTcwMDU5MjAsMT
-kxMzYzMjI2OCwyNTQ1Mzc2MDIsMTcxNjgzMjk4NywtNzU3NDc0
-NzE5LC0yMTI2ODQ3MTUwLDEwMDY3MjM1NzksMTMxNjQ1NDkxMC
-wtMTE4ODA3ODA0OCwtMTkyOTA4NzM5NywtNjY0NzE0MDIwXX0=
-
+eyJoaXN0b3J5IjpbMTcyNzc0NzMzOSwtMTYxNTA1MTUzMywtMT
+gxNzAwNTkyMCwxOTEzNjMyMjY4LDI1NDUzNzYwMiwxNzE2ODMy
+OTg3LC03NTc0NzQ3MTksLTIxMjY4NDcxNTAsMTAwNjcyMzU3OS
+wxMzE2NDU0OTEwLC0xMTg4MDc4MDQ4LC0xOTI5MDg3Mzk3LC02
+NjQ3MTQwMjBdfQ==
 -->
