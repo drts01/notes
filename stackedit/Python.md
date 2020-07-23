@@ -15,6 +15,7 @@
 ## Typing
 * https://github.com/google/pytype - inferred type checking (google)
 * pyre (Facebook)
+* https://github.com/microsoft/pyright (Microsoft)
 * MyPy
 
 ## Security
@@ -75,9 +76,10 @@
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 * Railway Oriented Programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTQwNiwxNTcwNjk4MjcxLDE3Mjc3ND
-czMzksLTE2MTUwNTE1MzMsLTE4MTcwMDU5MjAsMTkxMzYzMjI2
-OCwyNTQ1Mzc2MDIsMTcxNjgzMjk4NywtNzU3NDc0NzE5LC0yMT
-I2ODQ3MTUwLDEwMDY3MjM1NzksMTMxNjQ1NDkxMCwtMTE4ODA3
-ODA0OCwtMTkyOTA4NzM5NywtNjY0NzE0MDIwXX0=
+eyJoaXN0b3J5IjpbMjA1MDQwODQ0NywtNTc1NDA2LDE1NzA2OT
+gyNzEsMTcyNzc0NzMzOSwtMTYxNTA1MTUzMywtMTgxNzAwNTky
+MCwxOTEzNjMyMjY4LDI1NDUzNzYwMiwxNzE2ODMyOTg3LC03NT
+c0NzQ3MTksLTIxMjY4NDcxNTAsMTAwNjcyMzU3OSwxMzE2NDU0
+OTEwLC0xMTg4MDc4MDQ4LC0xOTI5MDg3Mzk3LC02NjQ3MTQwMj
+BdfQ==
 -->
