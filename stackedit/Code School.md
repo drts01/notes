@@ -9,7 +9,7 @@
 	* Support Micro Bit and Circuit Python
 * https://trinket.io/
 	* Uses Google's Blockly
-	* Contains edu material, 
+	* Contains edu material, https://hourofpython.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU0NTk2NTEsMTI2OTE1ODMzOV19
+eyJoaXN0b3J5IjpbMzE4OTQ4ODMzLDEyNjkxNTgzMzldfQ==
 -->
