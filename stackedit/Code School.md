@@ -83,7 +83,8 @@ out of class communication to foster community, collaborations, support, etc
 * https://www.udacity.com/pathfinder
 * https://www.codecademy.com/catalog/all
 
-# Possible Tangential Classes
+# Possible Future Tangential Classes
+"Coding" can be the gateway drug to additional concepts 
 * Computer Basics
 	* Hardware
 	* Operating System (Linux/Unix)
@@ -102,9 +103,9 @@ out of class communication to foster community, collaborations, support, etc
 	* Digital
 		* Logic gates
 		* How computers work (NAND gates)
-		* 
+		* Integrated circuits
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTA5MzYsLTU0OTU1OTUzMiwxMzY5ND
-k1NTUyLC0xNjE2ODg5OTkyLC00NTY1MTU1MTAsMzE4OTQ4ODMz
-LDEyNjkxNTgzMzldfQ==
+eyJoaXN0b3J5IjpbLTIxMjI5MDM1MDUsLTU0OTU1OTUzMiwxMz
+Y5NDk1NTUyLC0xNjE2ODg5OTkyLC00NTY1MTU1MTAsMzE4OTQ4
+ODMzLDEyNjkxNTgzMzldfQ==
 -->
