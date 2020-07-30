@@ -62,9 +62,12 @@ A tool that analyzes source code to flag programming errors, bugs, stylistic err
    if developing multiple modules
 
 ## Automate
-Tox
 
-### Why
+### Git Hooks
+
+### Tox
+
+#### Why
 * reproducibility
 
 # Session 2
@@ -76,8 +79,8 @@ pytest
 ## Code Coverage
 coverage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3Njg0MzE4LDE4NjY2OTEwMDksLTIxMz
-k0NzcxMzgsLTIxMDU1MzgxNzMsLTg5NDg4MTUyMywxMzE5Njkw
-NDg0LDQ5NTk5NTExNSwxNzY5NDExODg5LC01NDI0MzUwNzddfQ
-==
+eyJoaXN0b3J5IjpbMTkzMzczNTIxOSw0ODc2ODQzMTgsMTg2Nj
+Y5MTAwOSwtMjEzOTQ3NzEzOCwtMjEwNTUzODE3MywtODk0ODgx
+NTIzLDEzMTk2OTA0ODQsNDk1OTk1MTE1LDE3Njk0MTE4ODksLT
+U0MjQzNTA3N119
 -->
