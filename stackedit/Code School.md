@@ -21,7 +21,12 @@
 # Requirements
 ## Student / Participant
 * Access to Internet
-* Ability to participate in a  meeting
+* Ability to participate in a once a week meeting
+* Equipment TBD
+   Tablet, Chromebook, Laptop
+
+## Mentor / Facilitator
+
 
 ## Internal
 * Continued interest in CS, i.e.:
@@ -59,6 +64,6 @@ out of class communication to foster community, collaborations, support, etc
 * Riot/Element
 	* Need to investigate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDg1MjI2LC00NTY1MTU1MTAsMzE4OT
-Q4ODMzLDEyNjkxNTgzMzldfQ==
+eyJoaXN0b3J5IjpbLTEzNTYxOTE2ODUsLTQ1NjUxNTUxMCwzMT
+g5NDg4MzMsMTI2OTE1ODMzOV19
 -->
