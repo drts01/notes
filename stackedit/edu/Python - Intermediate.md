@@ -92,7 +92,10 @@
 * Async / Await
 * Multi- Processing/Threading
 
+# Extra
+## Git
+* Commit Messages Conventions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3NjQ1MjQ2LDc4Mzc0NTI0NywxMDc0OT
-UwOTgyLC0xODIzNjA4MDk1XX0=
+eyJoaXN0b3J5IjpbLTIxMTIzMTg3NjQsNzgzNzQ1MjQ3LDEwNz
+Q5NTA5ODIsLTE4MjM2MDgwOTVdfQ==
 -->
