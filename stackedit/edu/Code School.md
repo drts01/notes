@@ -43,7 +43,7 @@ Computer science deals with theory of computation, algorithms, computational pro
 * Continued interest in CS, i.e.:
    Purse CS related career, degree, hobbies, or join user groups and/or trade organizations
 * Re-enrollment
-   This metric is not cons
+   This metric is not a requirement to indicate that a meaningful impact wa
 
 ## Mentor / Facilitator
 * 4 hours / week time commitment
@@ -161,6 +161,6 @@ out of class communication to foster community, collaborations, support, etc
 		* We need to seek approval to join ASAP as they follow the school year for access. Traditional a "host site" is needed. Not sure if we are "virtual" or nomadic.
 * I can support up to 3 other facilitators
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxODQ4MTEzLC04MDU4MjM3ODcsMTgxMD
+eyJoaXN0b3J5IjpbMjI5NzIwODk0LC04MDU4MjM3ODcsMTgxMD
 g1MzA1NywtMTEwMzgwMTkxOV19
 -->
