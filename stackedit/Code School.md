@@ -1,7 +1,8 @@
 # Why
 # Success Metrics
 * Demonstrate competency in basic/fundamental CS concepts
-* 
+* Contribute/Publish a coding CV (i.e. Github repos)
+* Can articulate how coding c
 
 # Resources
 ## Editors
@@ -14,6 +15,6 @@
 	* Uses Google's Blockly
 	* Contains edu material, https://hourofpython.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTg2NjY5MywzMTg5NDg4MzMsMTI2OT
-E1ODMzOV19
+eyJoaXN0b3J5IjpbLTE2ODU4MDg2MDYsMzE4OTQ4ODMzLDEyNj
+kxNTgzMzldfQ==
 -->
