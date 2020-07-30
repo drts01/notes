@@ -78,11 +78,12 @@ out of class communication to foster community, collaborations, support, etc
    Tools, professional development available
 * [K–12 Computer Science Framework](https://k12cs.org/)
    Framework, resources, developed by:
-	* The Association for Computing Machinery
+	* The Association for Computing Machinery *
 	* Code.org
-	* Computer Science Teachers Association
+	* Computer Science Teachers Association *
 	* Cyber Innovation Center
 	* National Math and Science Initiative
+   * I
 
 ## Class
 * https://studio.code.org/courses?view=teacher
@@ -121,8 +122,8 @@ out of class communication to foster community, collaborations, support, etc
 		* How computers work (NAND gates)
 		* Integrated circuits
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njc1NDAzMDMsLTk1OTE2NjM2MSwxMD
-U3NDI0ODI3LC0xNDg5Njc5OTc5LC0yMjc4OTI1MzIsNTQ5NzAz
-Mzg1LC01NDk1NTk1MzIsMTM2OTQ5NTU1MiwtMTYxNjg4OTk5Mi
-wtNDU2NTE1NTEwLDMxODk0ODgzMywxMjY5MTU4MzM5XX0=
+eyJoaXN0b3J5IjpbNDMyOTk4Nzk2LC05NTkxNjYzNjEsMTA1Nz
+QyNDgyNywtMTQ4OTY3OTk3OSwtMjI3ODkyNTMyLDU0OTcwMzM4
+NSwtNTQ5NTU5NTMyLDEzNjk0OTU1NTIsLTE2MTY4ODk5OTIsLT
+Q1NjUxNTUxMCwzMTg5NDg4MzMsMTI2OTE1ODMzOV19
 -->
