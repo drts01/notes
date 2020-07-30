@@ -39,7 +39,14 @@ A tool that analyzes source code to flag programming errors, bugs, stylistic err
 * **Google**
 
 ### Readme
-https://www.makeareadme.com/
+* https://www.makeareadme.com/
+* https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+
+#### Key Headers
+* Project title (followed by summary)
+* Installation
+* Usage
+
 #### Markup
 * reStructuredText
 * Markdown
@@ -67,7 +74,8 @@ pytest
 ## Code Coverage
 coverage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjY5MTAwOSwtMjEzOTQ3NzEzOCwtMj
-EwNTUzODE3MywtODk0ODgxNTIzLDEzMTk2OTA0ODQsNDk1OTk1
-MTE1LDE3Njk0MTE4ODksLTU0MjQzNTA3N119
+eyJoaXN0b3J5IjpbMTgxMTY4OTE4MCwxODY2NjkxMDA5LC0yMT
+M5NDc3MTM4LC0yMTA1NTM4MTczLC04OTQ4ODE1MjMsMTMxOTY5
+MDQ4NCw0OTU5OTUxMTUsMTc2OTQxMTg4OSwtNTQyNDM1MDc3XX
+0=
 -->
