@@ -30,7 +30,16 @@
 * https://trinket.io/
 	* Uses Google's Blockly
 	* Contains edu material, https://hourofpython.com/
+
+## Communications
+### Chat
+* Slack
+	* Video is a premium feature
+	* Limited chat history
+* Discord
+	* Open source
+* Riot/Element
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3MTAwNDc1LDMxODk0ODgzMywxMjY5MT
-U4MzM5XX0=
+eyJoaXN0b3J5IjpbLTEzOTkyNjY3NDYsMzE4OTQ4ODMzLDEyNj
+kxNTgzMzldfQ==
 -->
