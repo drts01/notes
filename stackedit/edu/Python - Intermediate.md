@@ -56,6 +56,8 @@
 ## Functional
 * recursion
 	* memoization
+* Closures
+	* decorators
 	* functools.wraps
 * comprehension
 * map, filter, reduce
@@ -110,6 +112,7 @@
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTg4MzcyNyw0MjE5NDI1NjgsNzgzNz
-Q1MjQ3LDEwNzQ5NTA5ODIsLTE4MjM2MDgwOTVdfQ==
+eyJoaXN0b3J5IjpbNjM4NjU4NzQ1LC0yOTU4ODM3MjcsNDIxOT
+QyNTY4LDc4Mzc0NTI0NywxMDc0OTUwOTgyLC0xODIzNjA4MDk1
+XX0=
 -->
