@@ -3,11 +3,12 @@
 ### Tools to Enforce
 #### Linter
 pylint
-#### Formater
+#### Formatter
+#### What
 black
 ##### Why
 * Popular
-* Simple
+* Simple / Opinionated
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0NDU0MjQsLTU0MjQzNTA3N119
+eyJoaXN0b3J5IjpbMTc2OTQxMTg4OSwtNTQyNDM1MDc3XX0=
 -->
