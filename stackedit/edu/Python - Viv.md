@@ -1,4 +1,15 @@
 # Session 1 - Best Practices
+
+### Formatting
+#### What
+black
+#### Why
+* Popular
+* Simple / Opinionated
+
+### Organize Imports
+isort
+
 ## Coding
 ### Linter
 [pylint](https://www.pylint.org/)
@@ -15,16 +26,6 @@ A tool that analyzes source code to flag programming errors, bugs, stylistic err
 	* How to read output
 * Configure / Options
 
-### Formatter
-#### What
-black
-#### Why
-* Popular
-* Simple / Opinionated
-
-### Organize Imports
-isort
-
 ## Documentation
 
 ### Commenting
@@ -34,7 +35,10 @@ isort
 
 ### Readme
 
-## 
+## Project Structure
+* Setuptools
+* pyproject.toml
+* src layout
 
 ## Automate
 Tox
@@ -46,7 +50,7 @@ Tox
 ## Testing
 ## Code Coverage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDU1MzgxNzMsLTg5NDg4MTUyMywxMz
-E5NjkwNDg0LDQ5NTk5NTExNSwxNzY5NDExODg5LC01NDI0MzUw
-NzddfQ==
+eyJoaXN0b3J5IjpbLTE1NzI4NTMxOCwtMjEwNTUzODE3MywtOD
+k0ODgxNTIzLDEzMTk2OTA0ODQsNDk1OTk1MTE1LDE3Njk0MTE4
+ODksLTU0MjQzNTA3N119
 -->
