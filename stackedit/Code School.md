@@ -83,11 +83,13 @@ out of class communication to foster community, collaborations, support, etc
 	* Computer Science Teachers Association *
 	* Cyber Innovation Center
 	* National Math and Science Initiative
-   * I
+	
+	\* I participate in these orgs
 
 ## Class
 * https://studio.code.org/courses?view=teacher
    Intended as full credited class
+    * https://aws.amazon.com/education/awseducate/code-org/ (Free AWS for CSP) 
 * https://cs.uteach.utexas.edu/csa
    Full AP class, $1100 for both classes, PD available
 * https://codehs.com/
@@ -122,8 +124,8 @@ out of class communication to foster community, collaborations, support, etc
 		* How computers work (NAND gates)
 		* Integrated circuits
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyOTk4Nzk2LC05NTkxNjYzNjEsMTA1Nz
-QyNDgyNywtMTQ4OTY3OTk3OSwtMjI3ODkyNTMyLDU0OTcwMzM4
-NSwtNTQ5NTU5NTMyLDEzNjk0OTU1NTIsLTE2MTY4ODk5OTIsLT
-Q1NjUxNTUxMCwzMTg5NDg4MzMsMTI2OTE1ODMzOV19
+eyJoaXN0b3J5IjpbLTMxNTQ1MTIxOSwtOTU5MTY2MzYxLDEwNT
+c0MjQ4MjcsLTE0ODk2Nzk5NzksLTIyNzg5MjUzMiw1NDk3MDMz
+ODUsLTU0OTU1OTUzMiwxMzY5NDk1NTUyLC0xNjE2ODg5OTkyLC
+00NTY1MTU1MTAsMzE4OTQ4ODMzLDEyNjkxNTgzMzldfQ==
 -->
