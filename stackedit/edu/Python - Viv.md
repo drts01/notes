@@ -42,7 +42,7 @@ A tool that analyzes source code to flag programming errors, bugs, stylistic err
 * https://www.makeareadme.com/
 * https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 
-#### Key Headers
+#### Key Sections
 * Project title (followed by brief summary)
 * Installation
 * Usage
@@ -57,6 +57,7 @@ A tool that analyzes source code to flag programming errors, bugs, stylistic err
 ## Project Structure
 * Setuptools
 * pyproject.toml
+* License
 * src layout
    if developing multiple modules
 
@@ -75,7 +76,7 @@ pytest
 ## Code Coverage
 coverage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzMwMTc3LDE4NjY2OTEwMDksLTIxMz
+eyJoaXN0b3J5IjpbNDg3Njg0MzE4LDE4NjY2OTEwMDksLTIxMz
 k0NzcxMzgsLTIxMDU1MzgxNzMsLTg5NDg4MTUyMywxMzE5Njkw
 NDg0LDQ5NTk5NTExNSwxNzY5NDExODg5LC01NDI0MzUwNzddfQ
 ==
