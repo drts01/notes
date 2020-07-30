@@ -11,6 +11,12 @@
 	* git hooks
 		* pre-commit
 		* stage lint
+
+# Distribution
+## Packaging
+* Setuptools
+	* Twine
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjM2MDgwOTVdfQ==
+eyJoaXN0b3J5IjpbLTE1OTIxMTgwOTAsLTE4MjM2MDgwOTVdfQ
+==
 -->
