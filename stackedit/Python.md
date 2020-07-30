@@ -72,6 +72,10 @@
 * https://github.com/dry-python/returns
 * https://github.com/dry-python/classes
 
+# Documentation
+## Sphinx
+* https://www.sphinx-doc.org/en/master/usage/extensions/graphviz.html
+
 # Not Python Specific
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
@@ -81,11 +85,11 @@
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 * Railway Oriented Programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTkwMjMxNjUsLTE1NDU5NjA0OTksLT
-c1NzkzMDY1LDIwNTA0MDg0NDcsLTU3NTQwNiwxNTcwNjk4Mjcx
-LDE3Mjc3NDczMzksLTE2MTUwNTE1MzMsLTE4MTcwMDU5MjAsMT
-kxMzYzMjI2OCwyNTQ1Mzc2MDIsMTcxNjgzMjk4NywtNzU3NDc0
-NzE5LC0yMTI2ODQ3MTUwLDEwMDY3MjM1NzksMTMxNjQ1NDkxMC
-wtMTE4ODA3ODA0OCwtMTkyOTA4NzM5NywtNjY0NzE0MDIwXX0=
-
+eyJoaXN0b3J5IjpbLTEyMjM2NDY2MjQsLTEwNTkwMjMxNjUsLT
+E1NDU5NjA0OTksLTc1NzkzMDY1LDIwNTA0MDg0NDcsLTU3NTQw
+NiwxNTcwNjk4MjcxLDE3Mjc3NDczMzksLTE2MTUwNTE1MzMsLT
+E4MTcwMDU5MjAsMTkxMzYzMjI2OCwyNTQ1Mzc2MDIsMTcxNjgz
+Mjk4NywtNzU3NDc0NzE5LC0yMTI2ODQ3MTUwLDEwMDY3MjM1Nz
+ksMTMxNjQ1NDkxMCwtMTE4ODA3ODA0OCwtMTkyOTA4NzM5Nywt
+NjY0NzE0MDIwXX0=
 -->
