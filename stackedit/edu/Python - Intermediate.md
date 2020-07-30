@@ -9,6 +9,8 @@
 * Int
 * Str
 * List
+* Tuple
+* Set
 * Dict
 
 ## I/O
@@ -37,7 +39,9 @@
 
 ## Context Managers
 
-
+## Data Structures
+* Collections
+* Dataclasses
 
 
 
@@ -45,6 +49,7 @@
 ## Distribution / Packaging
 * Libs / Config
 	* Setuptools
+	* pyproject.toml
 * Tools
 	* Twine
 	* Pyroma
@@ -60,6 +65,6 @@
 * Tox
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM2NTEwOTEsMTA3NDk1MDk4MiwtMT
-gyMzYwODA5NV19
+eyJoaXN0b3J5IjpbLTcxMDYzNjk3OCwxMDc0OTUwOTgyLC0xOD
+IzNjA4MDk1XX0=
 -->
