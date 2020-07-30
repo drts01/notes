@@ -1,4 +1,4 @@
-# Session 1 - Best Practices
+# Session 1 - Implementing Best Practices
 Enforcing a baseline of common best practices to develop good coding habits and hygiene.
 
 ### Formatting
@@ -52,8 +52,6 @@ A tool that analyzes source code to flag programming errors, bugs, stylistic err
 * reStructuredText
 * Markdown
 
-#### Content
-
 ## Project Structure
 * Setuptools
 * pyproject.toml
@@ -79,8 +77,8 @@ pytest
 ## Code Coverage
 coverage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzczNTIxOSw0ODc2ODQzMTgsMTg2Nj
-Y5MTAwOSwtMjEzOTQ3NzEzOCwtMjEwNTUzODE3MywtODk0ODgx
-NTIzLDEzMTk2OTA0ODQsNDk1OTk1MTE1LDE3Njk0MTE4ODksLT
-U0MjQzNTA3N119
+eyJoaXN0b3J5IjpbMTI0OTk1NTc0NywxOTMzNzM1MjE5LDQ4Nz
+Y4NDMxOCwxODY2NjkxMDA5LC0yMTM5NDc3MTM4LC0yMTA1NTM4
+MTczLC04OTQ4ODE1MjMsMTMxOTY5MDQ4NCw0OTU5OTUxMTUsMT
+c2OTQxMTg4OSwtNTQyNDM1MDc3XX0=
 -->
