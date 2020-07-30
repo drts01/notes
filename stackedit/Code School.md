@@ -82,8 +82,11 @@ out of class communication to foster community, collaborations, support, etc
 * https://www.coursera.org/courses?languages=en&query=computer%20programming
 * https://www.udacity.com/pathfinder
 * https://www.codecademy.com/catalog/all
+
+# Possible Tangential Classes
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYyNjcwNDIsLTU0OTU1OTUzMiwxMz
-Y5NDk1NTUyLC0xNjE2ODg5OTkyLC00NTY1MTU1MTAsMzE4OTQ4
-ODMzLDEyNjkxNTgzMzldfQ==
+eyJoaXN0b3J5IjpbMTk3MDUwODE3LC01NDk1NTk1MzIsMTM2OT
+Q5NTU1MiwtMTYxNjg4OTk5MiwtNDU2NTE1NTEwLDMxODk0ODgz
+MywxMjY5MTU4MzM5XX0=
 -->
