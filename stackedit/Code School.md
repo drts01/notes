@@ -18,6 +18,11 @@
 * Can articulate how coding can be applied to interests outside of "tech".
 * Participation outside of meeting/class/session
 
+# Requirements
+## Student / Participant
+* Access to Internet
+* Ability to participate in a  meeting
+
 ## Internal
 * Continued interest in CS, i.e.:
    Purse CS related career, degree, hobbies, or join user groups and/or trade organizations
@@ -54,6 +59,6 @@ out of class communication to foster community, collaborations, support, etc
 * Riot/Element
 	* Need to investigate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI2MjY0NzIsLTQ1NjUxNTUxMCwzMT
-g5NDg4MzMsMTI2OTE1ODMzOV19
+eyJoaXN0b3J5IjpbLTU1MDg1MjI2LC00NTY1MTU1MTAsMzE4OT
+Q4ODMzLDEyNjkxNTgzMzldfQ==
 -->
