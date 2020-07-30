@@ -12,11 +12,11 @@
 # Company Specific
 ## Google
 * [Google Interview Prep Guide Site Reliability Engineering 
-](hhttps://drive.google.com/file/d/1P_cj76kw35ExtcBP3_OsH42pdGc4_WKE/view?usp=sharing)
+](https://drive.google.com/file/d/1P_cj76kw35ExtcBP3_OsH42pdGc4_WKE/view?usp=sharing)
 
 ---
 <sup>*</sup> Recommended by Google recruiter 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDk3NzY3ODMsLTEyMDAzMjYxNzIsMT
-E2MDkyNzkwN119
+eyJoaXN0b3J5IjpbMjEyNjc5ODM2OSwtMTIwMDMyNjE3MiwxMT
+YwOTI3OTA3XX0=
 -->
