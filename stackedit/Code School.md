@@ -89,8 +89,14 @@ out of class communication to foster community, collaborations, support, etc
 	* Operating System (Linux/Unix)
 	* Networking
 	* History
+* Embedded Systems
+	* BBC Micro.bit
+	* Arduino
+	* Lego Mindstorm
+	* Circuit Playground
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODU3MjAwNywtNTQ5NTU5NTMyLDEzNj
-k0OTU1NTIsLTE2MTY4ODk5OTIsLTQ1NjUxNTUxMCwzMTg5NDg4
-MzMsMTI2OTE1ODMzOV19
+eyJoaXN0b3J5IjpbNTM0MTU5MjkzLC01NDk1NTk1MzIsMTM2OT
+Q5NTU1MiwtMTYxNjg4OTk5MiwtNDU2NTE1NTEwLDMxODk0ODgz
+MywxMjY5MTU4MzM5XX0=
 -->
