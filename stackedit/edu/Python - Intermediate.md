@@ -48,6 +48,9 @@
 * Type Hints
 * Type Checking (MyPy)
 
+## Testing
+* pytest
+
 ## Generators
 
 ## Functional
@@ -100,6 +103,6 @@
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5MzgzNTM3LDc4Mzc0NTI0NywxMDc0OT
+eyJoaXN0b3J5IjpbNDIxOTQyNTY4LDc4Mzc0NTI0NywxMDc0OT
 UwOTgyLC0xODIzNjA4MDk1XX0=
 -->
