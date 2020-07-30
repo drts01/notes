@@ -22,6 +22,8 @@ black
 * Popular
 * Simple / Opinionated
 
+### Sor Imports
+
 ## Documentation
 
 ### Commenting
@@ -41,8 +43,9 @@ Tox
 
 # Session 2
 ## Testing
+## Code Coverage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjMwMjgzMiwtODk0ODgxNTIzLDEzMT
+eyJoaXN0b3J5IjpbMTIxNzU3ODcwMCwtODk0ODgxNTIzLDEzMT
 k2OTA0ODQsNDk1OTk1MTE1LDE3Njk0MTE4ODksLTU0MjQzNTA3
 N119
 -->
