@@ -3,6 +3,7 @@
 ### Tools to Enforce
 #### Linter
 [pylint](https://www.pylint.org/)
+> Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions. --https://github.com/PyCQA/pylint
 ##### What
 A tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs (code smells).
 ##### Why
@@ -16,6 +17,6 @@ black
 * Popular
 * Simple / Opinionated
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM4NzE4OTEsMTMxOTY5MDQ4NCw0OT
-U5OTUxMTUsMTc2OTQxMTg4OSwtNTQyNDM1MDc3XX0=
+eyJoaXN0b3J5IjpbLTg5NDg4MTUyMywxMzE5NjkwNDg0LDQ5NT
+k5NTExNSwxNzY5NDExODg5LC01NDI0MzUwNzddfQ==
 -->
