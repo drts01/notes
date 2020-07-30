@@ -71,15 +71,14 @@
 ## Project Structure
 * project.toml
 * setuptools
+* src
+
 ## Documentation
 * Readme
 * Generated (Sphinx)
 
 # Advance
 ## Distribution / Packaging
-* Libs / Config
-	* Setuptools
-	* pyproject.toml
 * Tools
 	* Twine
 	* Pyroma
@@ -106,6 +105,6 @@
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2MTg3MDExLDQyMTk0MjU2OCw3ODM3ND
-UyNDcsMTA3NDk1MDk4MiwtMTgyMzYwODA5NV19
+eyJoaXN0b3J5IjpbLTQ0MDU4NTg2Miw0MjE5NDI1NjgsNzgzNz
+Q1MjQ3LDEwNzQ5NTA5ODIsLTE4MjM2MDgwOTVdfQ==
 -->
