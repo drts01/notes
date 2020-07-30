@@ -94,6 +94,7 @@ out of class communication to foster community, collaborations, support, etc
    Full AP class, $1100 for both classes, PD available
 * https://codehs.com/
    Full classes, freemium, professional development available
+   
 
 ## Independent / Supplemental
 * https://www.khanacademy.org/computing/computer-programming
@@ -124,8 +125,9 @@ out of class communication to foster community, collaborations, support, etc
 		* How computers work (NAND gates)
 		* Integrated circuits
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTQ1MTIxOSwtOTU5MTY2MzYxLDEwNT
-c0MjQ4MjcsLTE0ODk2Nzk5NzksLTIyNzg5MjUzMiw1NDk3MDMz
-ODUsLTU0OTU1OTUzMiwxMzY5NDk1NTUyLC0xNjE2ODg5OTkyLC
-00NTY1MTU1MTAsMzE4OTQ4ODMzLDEyNjkxNTgzMzldfQ==
+eyJoaXN0b3J5IjpbMjA1MzEzMzQxNSwtMzE1NDUxMjE5LC05NT
+kxNjYzNjEsMTA1NzQyNDgyNywtMTQ4OTY3OTk3OSwtMjI3ODky
+NTMyLDU0OTcwMzM4NSwtNTQ5NTU5NTMyLDEzNjk0OTU1NTIsLT
+E2MTY4ODk5OTIsLTQ1NjUxNTUxMCwzMTg5NDg4MzMsMTI2OTE1
+ODMzOV19
 -->
