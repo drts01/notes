@@ -73,6 +73,10 @@ out of class communication to foster community, collaborations, support, etc
 
 ## Curriculum / Classes
 
+## General Platform
+* https://edu.google.com
+   Tools, professional development available
+
 ## Class
 * https://studio.code.org/courses?view=teacher
    Intended as full credited class
@@ -110,8 +114,8 @@ out of class communication to foster community, collaborations, support, etc
 		* How computers work (NAND gates)
 		* Integrated circuits
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzQyNDgyNywtMTQ4OTY3OTk3OSwtMj
-I3ODkyNTMyLDU0OTcwMzM4NSwtNTQ5NTU5NTMyLDEzNjk0OTU1
-NTIsLTE2MTY4ODk5OTIsLTQ1NjUxNTUxMCwzMTg5NDg4MzMsMT
-I2OTE1ODMzOV19
+eyJoaXN0b3J5IjpbLTk1OTE2NjM2MSwxMDU3NDI0ODI3LC0xND
+g5Njc5OTc5LC0yMjc4OTI1MzIsNTQ5NzAzMzg1LC01NDk1NTk1
+MzIsMTM2OTQ5NTU1MiwtMTYxNjg4OTk5MiwtNDU2NTE1NTEwLD
+MxODk0ODgzMywxMjY5MTU4MzM5XX0=
 -->
