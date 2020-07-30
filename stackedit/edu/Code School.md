@@ -9,7 +9,7 @@ Coding is a basic literacy in the digital age, and it is important to understand
 Code is a written set of instructions that tells the computer what to do.
 
 ### What is CS?
-
+>Thefundamental question underlying all of computing is, What can be(efficiently) automated? Encyclopedia of Computer Science
 # Mission
 
 ## Objectives
@@ -143,5 +143,5 @@ out of class communication to foster community, collaborations, support, etc
 # Questions
 * Intake, where/how will we bring kids in?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM4MDE5MTldfQ==
+eyJoaXN0b3J5IjpbMTkyOTYyMzQxMSwtMTEwMzgwMTkxOV19
 -->
