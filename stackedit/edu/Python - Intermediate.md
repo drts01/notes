@@ -3,8 +3,17 @@
 	* dunder methods
 * Documentation Generation (Sphinx)
 # Beginner
-* Pathlib
+
 ## Data types
+* Bool
+* Int
+* Str
+* List
+* Dict
+
+## I/O
+* Pathlib
+
 # Intermediate
 ## Enforcing Coding Best Practices
 * Linting
@@ -40,5 +49,5 @@
 * Fuzz Testing (hypothesis)
 * Mocking 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjUxOTMzOSwtMTgyMzYwODA5NV19
+eyJoaXN0b3J5IjpbMTMxNDEyMTc1OCwtMTgyMzYwODA5NV19
 -->
