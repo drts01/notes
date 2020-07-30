@@ -39,6 +39,11 @@ A tool that analyzes source code to flag programming errors, bugs, stylistic err
 * **Google**
 
 ### Readme
+#### Markup
+* reStructuredText
+* Markdown
+
+#### Content
 
 ## Project Structure
 * Setuptools
@@ -61,7 +66,7 @@ pytest
 ## Code Coverage
 coverage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTQ3NTM0NywtMjEwNTUzODE3MywtOD
-k0ODgxNTIzLDEzMTk2OTA0ODQsNDk1OTk1MTE1LDE3Njk0MTE4
-ODksLTU0MjQzNTA3N119
+eyJoaXN0b3J5IjpbLTIxMzk0NzcxMzgsLTIxMDU1MzgxNzMsLT
+g5NDg4MTUyMywxMzE5NjkwNDg0LDQ5NTk5NTExNSwxNzY5NDEx
+ODg5LC01NDI0MzUwNzddfQ==
 -->
