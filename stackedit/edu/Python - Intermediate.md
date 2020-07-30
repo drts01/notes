@@ -49,6 +49,7 @@
 * Type Checking (MyPy)
 
 ## Testing
+* given VAR when then
 * pytest
 * code coverage
 
@@ -117,7 +118,7 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjM0OTE2LDYzODY1ODc0NSwtMjk1OD
-gzNzI3LDQyMTk0MjU2OCw3ODM3NDUyNDcsMTA3NDk1MDk4Miwt
-MTgyMzYwODA5NV19
+eyJoaXN0b3J5IjpbMjA3ODAxMzk5OSw2Mzg2NTg3NDUsLTI5NT
+g4MzcyNyw0MjE5NDI1NjgsNzgzNzQ1MjQ3LDEwNzQ5NTA5ODIs
+LTE4MjM2MDgwOTVdfQ==
 -->
