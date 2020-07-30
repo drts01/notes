@@ -3,9 +3,10 @@
 ## Why learn to code?
 Coding is a basic literacy in the digital age, and it is important to understand and be able to work with and understand the technology. Coding helps with communication, creativity, math,writing, and confidence.
 
-> "Everybody in this country should learn how to program a computer, should learn a computer language, because it teaches you how to think.
+> "Everybody in this country should learn how to program a computer, should learn a computer language, because it teaches you how to think. --Steve Jobs, https://www.businessinsider.com/the-best-quotes-from-the-lost-steve-jobs-interview-showing-this-weekend-2011-11
 
-> It's like going to law school. I don't think anybody should be a _lawyer_, but going to law school can actually be useful because it teaches you how to think in a certain way....I view computer science as a liberal art." --Steve Jobs, https://www.businessinsider.com/the-best-quotes-from-the-lost-steve-jobs-interview-showing-this-weekend-2011-11
+Full Quote
+> "Everybody in this country should learn how to program a computer, should learn a computer language, because it teaches you how to think. It's like going to law school. I don't think anybody should be a _lawyer_, but going to law school can actually be useful because it teaches you how to think in a certain way....I view computer science as a liberal art." --Steve Jobs, https://www.businessinsider.com/the-best-quotes-from-the-lost-steve-jobs-interview-showing-this-weekend-2011-11
 
 ### What is code?
 Code is a written set of instructions that tells the computer what to do.
@@ -163,6 +164,6 @@ out of class communication to foster community, collaborations, support, etc
 		* We need to seek approval to join ASAP as they follow the school year for access. Traditional a "host site" is needed. Not sure if we are "virtual" or nomadic.
 * I can support/mentor up to 3 other facilitators
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODAzOTg3LC04MDU4MjM3ODcsMTgxMD
+eyJoaXN0b3J5IjpbNDcwODEzMDcwLC04MDU4MjM3ODcsMTgxMD
 g1MzA1NywtMTEwMzgwMTkxOV19
 -->
