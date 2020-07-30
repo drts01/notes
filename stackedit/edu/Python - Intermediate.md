@@ -2,14 +2,7 @@
 
 ## Variables
 * Reference
-### Data types
-* Bool
-* Int
-* Str
-* List
-* Tuple
-* Set
-* Dict
+* Data typesBool, Int, Str, List, Tuple, Set, Dict
 
 # Functions
 * define
@@ -96,6 +89,6 @@
 * Multi- Processing/Threading
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjAzNDU5NDMsNzgzNzQ1MjQ3LDEwNz
-Q5NTA5ODIsLTE4MjM2MDgwOTVdfQ==
+eyJoaXN0b3J5IjpbMzc1MjUxNDQyLDc4Mzc0NTI0NywxMDc0OT
+UwOTgyLC0xODIzNjA4MDk1XX0=
 -->
