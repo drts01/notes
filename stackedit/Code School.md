@@ -134,14 +134,18 @@ out of class communication to foster community, collaborations, support, etc
 		* Logic gates
 		* How computers work (NAND gates)
 		* Integrated circuits
-* P
+* Python Programing
+	* APIs
+	* Design Patterns
+	* Functional Programing
+	* Create libraries and cli tools
 
 # Questions
 * Intake, where/how will we bring kids in?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxMTI3NTQ1LC0zMTU0NTEyMTksLTk1OT
-E2NjM2MSwxMDU3NDI0ODI3LC0xNDg5Njc5OTc5LC0yMjc4OTI1
-MzIsNTQ5NzAzMzg1LC01NDk1NTk1MzIsMTM2OTQ5NTU1MiwtMT
-YxNjg4OTk5MiwtNDU2NTE1NTEwLDMxODk0ODgzMywxMjY5MTU4
-MzM5XX0=
+eyJoaXN0b3J5IjpbLTExMDM4MDE5MTksLTMxNTQ1MTIxOSwtOT
+U5MTY2MzYxLDEwNTc0MjQ4MjcsLTE0ODk2Nzk5NzksLTIyNzg5
+MjUzMiw1NDk3MDMzODUsLTU0OTU1OTUzMiwxMzY5NDk1NTUyLC
+0xNjE2ODg5OTkyLC00NTY1MTU1MTAsMzE4OTQ4ODMzLDEyNjkx
+NTgzMzldfQ==
 -->
