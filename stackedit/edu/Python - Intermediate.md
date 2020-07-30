@@ -49,7 +49,7 @@
 * Type Checking (MyPy)
 
 ## Testing
-* given VAR when then
+* given VAR when STATE then ASSERT
 * pytest
 * code coverage
 
@@ -100,6 +100,7 @@
 ## Testing
 * Fuzz Testing (hypothesis)
 * Mocking
+* Behaviorial Driven Design
 
 ## Automation
 * Tox
@@ -118,7 +119,7 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODAxMzk5OSw2Mzg2NTg3NDUsLTI5NT
-g4MzcyNyw0MjE5NDI1NjgsNzgzNzQ1MjQ3LDEwNzQ5NTA5ODIs
-LTE4MjM2MDgwOTVdfQ==
+eyJoaXN0b3J5IjpbLTIwNTc4NTc3MTgsNjM4NjU4NzQ1LC0yOT
+U4ODM3MjcsNDIxOTQyNTY4LDc4Mzc0NTI0NywxMDc0OTUwOTgy
+LC0xODIzNjA4MDk1XX0=
 -->
