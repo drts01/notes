@@ -23,7 +23,9 @@
 	* repr
 	* str
 
-# Documentation
+## Documentation
+* Docstrings
+* Comments
 
 # Intermediate
 ## Enforcing Coding Best Practices
@@ -55,6 +57,10 @@
 * context managers
 * interfaces (abstract syntax tree)
 
+## Documentation
+* Readme
+* Generated
+
 # Advance
 ## Distribution / Packaging
 * Libs / Config
@@ -75,6 +81,6 @@
 * Tox
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU4NzAwODIsMTA3NDk1MDk4MiwtMT
-gyMzYwODA5NV19
+eyJoaXN0b3J5IjpbLTI5NDEyMDAwNCwxMDc0OTUwOTgyLC0xOD
+IzNjA4MDk1XX0=
 -->
