@@ -2,7 +2,7 @@
 ## Best Practices
 ### Tools to Enforce
 #### Linter
-pylint
+[pylint](https://www.pylint.org/)
 #### Formatter
 #### What
 black
@@ -10,5 +10,6 @@ black
 * Popular
 * Simple / Opinionated
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTQxMTg4OSwtNTQyNDM1MDc3XX0=
+eyJoaXN0b3J5IjpbNDk1OTk1MTE1LDE3Njk0MTE4ODksLTU0Mj
+QzNTA3N119
 -->
