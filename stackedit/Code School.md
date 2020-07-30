@@ -77,9 +77,13 @@ out of class communication to foster community, collaborations, support, etc
 * https://studio.code.org/courses?view=teacher
    Intended as full credited class
 
-## Independent
+## Independent / Supplemental
+* https://www.khanacademy.org/computing/computer-programming
+* https://www.coursera.org/courses?languages=en&query=computer%20programming
+* https://www.udacity.com/pathfinder
+* https://www.codecademy.com/catalog/all
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTU1OTUzMiwxMzY5NDk1NTUyLC0xNj
-E2ODg5OTkyLC00NTY1MTU1MTAsMzE4OTQ4ODMzLDEyNjkxNTgz
-MzldfQ==
+eyJoaXN0b3J5IjpbLTE0NjYyNjcwNDIsLTU0OTU1OTUzMiwxMz
+Y5NDk1NTUyLC0xNjE2ODg5OTkyLC00NTY1MTU1MTAsMzE4OTQ4
+ODMzLDEyNjkxNTgzMzldfQ==
 -->
