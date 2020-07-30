@@ -100,8 +100,10 @@
 ## Automation
 * Tox
 
-## Non-Blocking
+## Coroutines and Concurrency
+http://www.dabeaz.com/coroutines/
 * Async / Await
+* generator .send()
 * Multi- Processing/Threading
 
 # Extra
@@ -112,7 +114,7 @@
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4NjU4NzQ1LC0yOTU4ODM3MjcsNDIxOT
-QyNTY4LDc4Mzc0NTI0NywxMDc0OTUwOTgyLC0xODIzNjA4MDk1
-XX0=
+eyJoaXN0b3J5IjpbLTU0NDA3ODIzOSw2Mzg2NTg3NDUsLTI5NT
+g4MzcyNyw0MjE5NDI1NjgsNzgzNzQ1MjQ3LDEwNzQ5NTA5ODIs
+LTE4MjM2MDgwOTVdfQ==
 -->
