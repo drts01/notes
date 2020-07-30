@@ -94,9 +94,15 @@ out of class communication to foster community, collaborations, support, etc
 	* Arduino
 	* Lego Mindstorm
 	* Circuit Playground
-* 
+* Electronics Basics
+	* Solid State
+		* LED
+		* Tra
+	* Digital
+		* Logic gates
+		* How computers work (NAND gates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0MTU5MjkzLC01NDk1NTk1MzIsMTM2OT
+eyJoaXN0b3J5IjpbLTUxODM0NzEwLC01NDk1NTk1MzIsMTM2OT
 Q5NTU1MiwtMTYxNjg4OTk5MiwtNDU2NTE1NTEwLDMxODk0ODgz
 MywxMjY5MTU4MzM5XX0=
 -->
