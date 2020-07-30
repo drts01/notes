@@ -10,11 +10,13 @@ Code is a written set of instructions that tells the computer what to do.
 
 ### What is CS?
 Computer science is the study of computation and information.
-Computer science deals with theory of computation, algorithms, computational problems and the design of computer systems hardware, software and applications.[3][4] Computer science addresses both human-made and natural information processes, such as communication, control, perception, learning and intelligence especially in human-made computing systems and machines.
 
->The study of computers and algorithmic processes, including their principles, their hardware and software designs, their implementation, and their impact on society. -- ACM, 2006
+Computer science deals with theory of computation, algorithms, computational problems and the design of computer systems hardware, software and applications. It addresses both human-made and natural information processes, such as communication, control, perception, learning and intelligence.
 
 >The fundamental question underlying all of computing is, What can be(efficiently) automated? --Peter J. Denning, Encyclopedia of Computer Science (2000 ed)
+
+>The study of computers and algorithmic processes, including their principles, their hardware and software designs, their implementation, and their impact on society. -- ACM, 2006
+>
 # Mission
 
 ## Objectives
@@ -147,6 +149,8 @@ out of class communication to foster community, collaborations, support, etc
 
 # Questions
 * Intake, where/how will we bring kids in?
+
+# 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDU1NDA0MCwtMTEwMzgwMTkxOV19
+eyJoaXN0b3J5IjpbLTYyMjM2ODAyNCwtMTEwMzgwMTkxOV19
 -->
