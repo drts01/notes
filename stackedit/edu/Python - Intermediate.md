@@ -25,11 +25,10 @@
 * Formatting
 	* Black
 	* isort
-* Automation
-	* Tox
-	* git hooks
-		* pre-commit
-		* stage lint
+* Automation (git hooks)
+	* pre-commit
+	* stage lint
+
 ## Typing
 * Type Hints
 * Type Checking (MyPy)
@@ -48,10 +47,15 @@
 	* Test site
 	* Prod
 
+## Automation
+* Tox
+
+
 # Advance
 ## Testing
 * Fuzz Testing (hypothesis)
 * Mocking 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDk1MDk4MiwtMTgyMzYwODA5NV19
+eyJoaXN0b3J5IjpbLTIwNDUzMjQ3NzAsMTA3NDk1MDk4MiwtMT
+gyMzYwODA5NV19
 -->
