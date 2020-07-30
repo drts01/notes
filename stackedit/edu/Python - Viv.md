@@ -1,5 +1,5 @@
 # Session 1 - Best Practices
-Enforcing a baseline of common best practices to develop good coding habbits and hygiene.
+Enforcing a baseline of common best practices to develop good coding habits and hygiene.
 
 ### Formatting
 #### What
@@ -33,6 +33,10 @@ A tool that analyzes source code to flag programming errors, bugs, stylistic err
 * why not what
 
 ### Docstrings
+#### Styles
+* Pep8
+* Numpy
+* **Google**
 
 ### Readme
 
@@ -49,13 +53,15 @@ Tox
 * reproducibility
 
 # Session 2
+Testing returns dividends.
+
 ## Testing
 pytest
 
 ## Code Coverage
 coverage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0MjQ4NDczLC0yMTA1NTM4MTczLC04OT
-Q4ODE1MjMsMTMxOTY5MDQ4NCw0OTU5OTUxMTUsMTc2OTQxMTg4
-OSwtNTQyNDM1MDc3XX0=
+eyJoaXN0b3J5IjpbLTU4OTQ3NTM0NywtMjEwNTUzODE3MywtOD
+k0ODgxNTIzLDEzMTk2OTA0ODQsNDk1OTk1MTE1LDE3Njk0MTE4
+ODksLTU0MjQzNTA3N119
 -->
