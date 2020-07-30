@@ -96,13 +96,15 @@ out of class communication to foster community, collaborations, support, etc
 	* Circuit Playground
 * Electronics Basics
 	* Solid State
-		* LED
-		* Tra
+		* LEDs, Transistors, capacitors, etc
+		* read schematics
+		* ohms law
 	* Digital
 		* Logic gates
 		* How computers work (NAND gates)
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODM0NzEwLC01NDk1NTk1MzIsMTM2OT
-Q5NTU1MiwtMTYxNjg4OTk5MiwtNDU2NTE1NTEwLDMxODk0ODgz
-MywxMjY5MTU4MzM5XX0=
+eyJoaXN0b3J5IjpbLTE0MTA5MzYsLTU0OTU1OTUzMiwxMzY5ND
+k1NTUyLC0xNjE2ODg5OTkyLC00NTY1MTU1MTAsMzE4OTQ4ODMz
+LDEyNjkxNTgzMzldfQ==
 -->
