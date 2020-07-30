@@ -1,5 +1,6 @@
 * Type Hints
 * Documentation Generation (Sphinx)
+# Intermediate
 # Enforcing Coding Best Practices
 * Linting
 	* pylint
@@ -22,6 +23,5 @@
 	* Test site
 	* Prod
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzYwNzcwNTYsLTE4MjM2MDgwOTVdfQ
-==
+eyJoaXN0b3J5IjpbNjgzNDEwMDAsLTE4MjM2MDgwOTVdfQ==
 -->
