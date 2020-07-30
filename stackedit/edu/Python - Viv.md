@@ -1,4 +1,5 @@
 # Session 1 - Best Practices
+Enforcing a baseline of common best practices to develop good coding habbits and hygiene.
 
 ### Formatting
 #### What
@@ -54,7 +55,7 @@ pytest
 ## Code Coverage
 coverage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2MDE5MzI2LC0yMTA1NTM4MTczLC04OT
+eyJoaXN0b3J5IjpbNDg0MjQ4NDczLC0yMTA1NTM4MTczLC04OT
 Q4ODE1MjMsMTMxOTY5MDQ4NCw0OTU5OTUxMTUsMTc2OTQxMTg4
 OSwtNTQyNDM1MDc3XX0=
 -->
