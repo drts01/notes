@@ -69,7 +69,15 @@ out of class communication to foster community, collaborations, support, etc
 	* Open source
 * Riot/Element
 	* Need to investigate
+
+## Curriculum / Classes
+
+## Class
+* https://studio.code.org/courses?view=teacher
+
+
+## Independent
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTY4ODk5OTIsLTQ1NjUxNTUxMCwzMT
-g5NDg4MzMsMTI2OTE1ODMzOV19
+eyJoaXN0b3J5IjpbMTg4ODk1NjYxNiwtMTYxNjg4OTk5MiwtND
+U2NTE1NTEwLDMxODk0ODgzMywxMjY5MTU4MzM5XX0=
 -->
