@@ -26,6 +26,7 @@
 ## Packaging
 * Twine
 * Pyroma
+* https://github.com/mgedmin/check-manifest
 
 ## Need To Evaluate
 * https://sourcery.ai/
@@ -76,10 +77,10 @@
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 * Railway Oriented Programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDQwODQ0NywtNTc1NDA2LDE1NzA2OT
-gyNzEsMTcyNzc0NzMzOSwtMTYxNTA1MTUzMywtMTgxNzAwNTky
-MCwxOTEzNjMyMjY4LDI1NDUzNzYwMiwxNzE2ODMyOTg3LC03NT
-c0NzQ3MTksLTIxMjY4NDcxNTAsMTAwNjcyMzU3OSwxMzE2NDU0
-OTEwLC0xMTg4MDc4MDQ4LC0xOTI5MDg3Mzk3LC02NjQ3MTQwMj
-BdfQ==
+eyJoaXN0b3J5IjpbODEyNDA3NzMxLDIwNTA0MDg0NDcsLTU3NT
+QwNiwxNTcwNjk4MjcxLDE3Mjc3NDczMzksLTE2MTUwNTE1MzMs
+LTE4MTcwMDU5MjAsMTkxMzYzMjI2OCwyNTQ1Mzc2MDIsMTcxNj
+gzMjk4NywtNzU3NDc0NzE5LC0yMTI2ODQ3MTUwLDEwMDY3MjM1
+NzksMTMxNjQ1NDkxMCwtMTE4ODA3ODA0OCwtMTkyOTA4NzM5Ny
+wtNjY0NzE0MDIwXX0=
 -->
