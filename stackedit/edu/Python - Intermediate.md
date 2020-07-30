@@ -4,6 +4,7 @@
 * Documentation Generation (Sphinx)
 # Beginner
 * Pathlib
+## Data types
 # Intermediate
 ## Enforcing Coding Best Practices
 * Linting
@@ -20,6 +21,8 @@
 * Type Hints
 * Type Checking (MyPy)
 
+## Generators
+
 ## Context Managers
 
 ## Distribution / Packaging
@@ -34,7 +37,8 @@
 
 # Advance
 ## Testing
-* Fuzy Testing 
+* Fuzz Testing (hypothesis)
+* Mocking 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzMjA4NTk2LC0xODIzNjA4MDk1XX0=
+eyJoaXN0b3J5IjpbMTg1MjUxOTMzOSwtMTgyMzYwODA5NV19
 -->
