@@ -6,6 +6,7 @@
 ## Linting
 * Pylint
 	* https://github.com/OCA/pylint-odoo
+	* https://github.com/davidszotten/sentry-stack-checker
 * [SonarLint](https://www.sonarlint.org/) (Use as plugin in VSCode and/or PyCharm)
 
 ## Formating
@@ -80,10 +81,11 @@
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 * Railway Oriented Programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDU5NjA0OTksLTc1NzkzMDY1LDIwNT
-A0MDg0NDcsLTU3NTQwNiwxNTcwNjk4MjcxLDE3Mjc3NDczMzks
-LTE2MTUwNTE1MzMsLTE4MTcwMDU5MjAsMTkxMzYzMjI2OCwyNT
-Q1Mzc2MDIsMTcxNjgzMjk4NywtNzU3NDc0NzE5LC0yMTI2ODQ3
-MTUwLDEwMDY3MjM1NzksMTMxNjQ1NDkxMCwtMTE4ODA3ODA0OC
-wtMTkyOTA4NzM5NywtNjY0NzE0MDIwXX0=
+eyJoaXN0b3J5IjpbLTEwNTkwMjMxNjUsLTE1NDU5NjA0OTksLT
+c1NzkzMDY1LDIwNTA0MDg0NDcsLTU3NTQwNiwxNTcwNjk4Mjcx
+LDE3Mjc3NDczMzksLTE2MTUwNTE1MzMsLTE4MTcwMDU5MjAsMT
+kxMzYzMjI2OCwyNTQ1Mzc2MDIsMTcxNjgzMjk4NywtNzU3NDc0
+NzE5LC0yMTI2ODQ3MTUwLDEwMDY3MjM1NzksMTMxNjQ1NDkxMC
+wtMTE4ODA3ODA0OCwtMTkyOTA4NzM5NywtNjY0NzE0MDIwXX0=
+
 -->
