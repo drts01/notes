@@ -43,7 +43,7 @@ Computer science deals with theory of computation, algorithms, computational pro
 * Continued interest in CS, i.e.:
    Purse CS related career, degree, hobbies, or join user groups and/or trade organizations
 * Re-enrollment
-   This metric is not a requirement to indicate that a meaningful impact wa
+   This metric is not a requirement to indicate that a meaningful impact was had on the student.
 
 ## Mentor / Facilitator
 * 4 hours / week time commitment
@@ -123,30 +123,30 @@ out of class communication to foster community, collaborations, support, etc
 # Possible Future Tangential Classes
 "Coding" can be the gateway drug to additional concepts in tech/computing.
 
-* Computer Basics
-	* Hardware
-	* Operating System (Linux/Unix)
-	* Networking
-	* History
-* Embedded Systems
-	* BBC Micro.bit
-	* Arduino
-	* Lego Mindstorm
-	* Circuit Playground
-* Electronics Basics
-	* Solid State
-		* LEDs, Transistors, capacitors, etc
-		* read schematics
-		* ohms law
-	* Digital
-		* Logic gates
-		* How computers work (NAND gates)
-		* Integrated circuits
-* Python Programing
-	* APIs
-	* Design Patterns
-	* Functional Programing
-	* Create libraries and cli tools
+## Computer Basics
+* Hardware
+* Operating System (Linux/Unix)
+* Networking
+* History
+## Embedded Systems
+* BBC Micro.bit
+* Arduino
+* Lego Mindstorm
+* Circuit Playground
+## Electronics Basics
+* Solid State
+	* LEDs, Transistors, capacitors, etc
+	* read schematics
+	* ohms law
+* Digital
+	* Logic gates
+	* How computers work (NAND gates)
+	* Integrated circuits
+## Python Programing
+* APIs
+* Design Patterns
+* Functional Programing
+* Create libraries and cli tools
 
 # Questions
 * Intake, where/how will we bring kids in?
@@ -161,6 +161,6 @@ out of class communication to foster community, collaborations, support, etc
 		* We need to seek approval to join ASAP as they follow the school year for access. Traditional a "host site" is needed. Not sure if we are "virtual" or nomadic.
 * I can support up to 3 other facilitators
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5NzIwODk0LC04MDU4MjM3ODcsMTgxMD
-g1MzA1NywtMTEwMzgwMTkxOV19
+eyJoaXN0b3J5IjpbLTE1MTczOTUxNDUsLTgwNTgyMzc4NywxOD
+EwODUzMDU3LC0xMTAzODAxOTE5XX0=
 -->
