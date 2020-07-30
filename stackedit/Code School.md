@@ -17,7 +17,7 @@
 * Demonstrate competency in basic/fundamental CS concepts
 * Contribute/Publish a coding CV (i.e. Github repos, website, etc)
 * Can articulate how coding can be applied to interests outside of "tech".
-* Participation outside of meeting/class/session (user-groups, confernces, 
+* Participation outside of meeting/class/session (user-groups, conferences, contributing to open source projects, etc)
 
 # Requirements
 ## Student / Participant
@@ -70,6 +70,6 @@ out of class communication to foster community, collaborations, support, etc
 * Riot/Element
 	* Need to investigate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTUwMzc3OCwtNDU2NTE1NTEwLDMxOD
-k0ODgzMywxMjY5MTU4MzM5XX0=
+eyJoaXN0b3J5IjpbLTE2MTY4ODk5OTIsLTQ1NjUxNTUxMCwzMT
+g5NDg4MzMsMTI2OTE1ODMzOV19
 -->
