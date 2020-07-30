@@ -3,7 +3,7 @@
 ## Why learn to code?
 Coding is a basic literacy in the digital age, and it is important to understand and be able to work with and understand the technology. Coding helps with communication, creativity, math,writing, and confidence.
 
-> "Everybody in this country should learn how to program a computer, should learn a computer language, because it teaches you how to think. It's like going to law school. I don't think anybody should be a _lawyer_, but going to law school can actually be useful because it teaches you how to think in a certain way....I view computer science as a liberal art." --
+> "Everybody in this country should learn how to program a computer, should learn a computer language, because it teaches you how to think. It's like going to law school. I don't think anybody should be a _lawyer_, but going to law school can actually be useful because it teaches you how to think in a certain way....I view computer science as a liberal art." --Steve Jobs, https://www.businessinsider.com/the-best-quotes-from-the-lost-steve-jobs-interview-showing-this-weekend-2011-11
 
 ### What is code?
 Code is a written set of instructions that tells the computer what to do.
@@ -138,9 +138,9 @@ out of class communication to foster community, collaborations, support, etc
 # Questions
 * Intake, where/how will we bring kids in?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjExOTUxOTIsLTMxNTQ1MTIxOSwtOT
-U5MTY2MzYxLDEwNTc0MjQ4MjcsLTE0ODk2Nzk5NzksLTIyNzg5
-MjUzMiw1NDk3MDMzODUsLTU0OTU1OTUzMiwxMzY5NDk1NTUyLC
-0xNjE2ODg5OTkyLC00NTY1MTU1MTAsMzE4OTQ4ODMzLDEyNjkx
-NTgzMzldfQ==
+eyJoaXN0b3J5IjpbLTM0NTcwMDgzOSwtMzE1NDUxMjE5LC05NT
+kxNjYzNjEsMTA1NzQyNDgyNywtMTQ4OTY3OTk3OSwtMjI3ODky
+NTMyLDU0OTcwMzM4NSwtNTQ5NTU5NTMyLDEzNjk0OTU1NTIsLT
+E2MTY4ODk5OTIsLTQ1NjUxNTUxMCwzMTg5NDg4MzMsMTI2OTE1
+ODMzOV19
 -->
