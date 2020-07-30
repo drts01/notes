@@ -9,7 +9,7 @@
 ## Objectives
 * build self-confidence through doing
 * build a sense of community though collaboration
-* encourage analytical thinking through coding
+* teach computational thinking
 * Promote open-source tools, development, and the community
 
 # Metrics
@@ -108,7 +108,8 @@ out of class communication to foster community, collaborations, support, etc
 		* How computers work (NAND gates)
 		* Integrated circuits
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNzg5MjUzMiw1NDk3MDMzODUsLTU0OT
-U1OTUzMiwxMzY5NDk1NTUyLC0xNjE2ODg5OTkyLC00NTY1MTU1
-MTAsMzE4OTQ4ODMzLDEyNjkxNTgzMzldfQ==
+eyJoaXN0b3J5IjpbLTE0ODk2Nzk5NzksLTIyNzg5MjUzMiw1ND
+k3MDMzODUsLTU0OTU1OTUzMiwxMzY5NDk1NTUyLC0xNjE2ODg5
+OTkyLC00NTY1MTU1MTAsMzE4OTQ4ODMzLDEyNjkxNTgzMzldfQ
+==
 -->
