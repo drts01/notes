@@ -50,7 +50,7 @@
 	* memoization
 	* functools.wraps
 * comprehension
-* functool
+* map, filter, reduce
 
 ## Data Structures
 * Collections
@@ -83,7 +83,10 @@
 ## Automation
 * Tox
 
+## Non-Blocking
+* Async / Await Multi- Processing/Threading
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjU3ODUxMiw3ODM3NDUyNDcsMTA3ND
-k1MDk4MiwtMTgyMzYwODA5NV19
+eyJoaXN0b3J5IjpbNDU5OTU5MjAyLDc4Mzc0NTI0NywxMDc0OT
+UwOTgyLC0xODIzNjA4MDk1XX0=
 -->
