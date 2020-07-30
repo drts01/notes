@@ -153,10 +153,11 @@ out of class communication to foster community, collaborations, support, etc
 # Suggestions
 * Leverage GWC
    Pros
-	* Their model is not a full class
-	* They have additional resources (as listed abobe)
-	* Have pre-made lessons
-   Cons
+		* Their model is not a full class
+		* They have additional resources (as listed abobe)
+		* Have pre-made lessons
+	* Cons
+		* We need to seek approval to join ASAP as they follow the school year for access. Traditional a "host site" is needed. Not sure if we are "virtual" or nomadic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzIzMTkxMSwtMTEwMzgwMTkxOV19
+eyJoaXN0b3J5IjpbMTI5NjUwMDA0OSwtMTEwMzgwMTkxOV19
 -->
