@@ -12,11 +12,16 @@
 		* pre-commit
 		* stage lint
 
-# Distribution
-## Packaging
-* Setuptools
+# Distribution / Packaging
+* Libs
+	* Setuptools
+* Tools
 	* Twine
+	* Pyroma
+* PyPI
+	* Test site
+	* Prod
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTIxMTgwOTAsLTE4MjM2MDgwOTVdfQ
+eyJoaXN0b3J5IjpbLTE1NzYwNzcwNTYsLTE4MjM2MDgwOTVdfQ
 ==
 -->
