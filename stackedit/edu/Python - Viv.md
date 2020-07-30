@@ -3,6 +3,9 @@
 ### Tools to Enforce
 #### Linter
 [pylint](https://www.pylint.org/)
+##### What
+a tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs
+
 #### Formatter
 #### What
 black
@@ -10,6 +13,6 @@ black
 * Popular
 * Simple / Opinionated
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1OTk1MTE1LDE3Njk0MTE4ODksLTU0Mj
-QzNTA3N119
+eyJoaXN0b3J5IjpbNTY1NzEzMzU2LDQ5NTk5NTExNSwxNzY5ND
+ExODg5LC01NDI0MzUwNzddfQ==
 -->
