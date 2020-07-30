@@ -37,8 +37,13 @@
 
 ## Context Managers
 
+
+
+
+
+# Advance
 ## Distribution / Packaging
-* Libs
+* Libs / Config
 	* Setuptools
 * Tools
 	* Twine
@@ -47,15 +52,14 @@
 	* Test site
 	* Prod
 
+## Testing
+* Fuzz Testing (hypothesis)
+* Mocking
+
 ## Automation
 * Tox
 
-
-# Advance
-## Testing
-* Fuzz Testing (hypothesis)
-* Mocking 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDUzMjQ3NzAsMTA3NDk1MDk4MiwtMT
+eyJoaXN0b3J5IjpbLTEyODM2NTEwOTEsMTA3NDk1MDk4MiwtMT
 gyMzYwODA5NV19
 -->
