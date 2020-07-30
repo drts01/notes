@@ -77,6 +77,11 @@
 * Readme
 * Generated (Sphinx)
 
+## Automation
+* Tox
+* Continuous Integration
+   Github Actions
+
 # Advance
 ## Distribution / Packaging
 * Tools
@@ -105,6 +110,6 @@
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDU4NTg2Miw0MjE5NDI1NjgsNzgzNz
+eyJoaXN0b3J5IjpbLTI5NTg4MzcyNyw0MjE5NDI1NjgsNzgzNz
 Q1MjQ3LDEwNzQ5NTA5ODIsLTE4MjM2MDgwOTVdfQ==
 -->
