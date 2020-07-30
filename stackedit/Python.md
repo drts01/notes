@@ -46,6 +46,7 @@
 * https://github.com/andreoliwa/nitpick - Flake8 plugin to enforce the same tool configuration across multiple Python projects.
 * https://github.com/PyCQA/flake8-bugbear
 * dlint
+* https://pypi.org/project/flakehell/ (pylint support) (can be used w/ 
 
 ### Complexity
 * wily
@@ -85,11 +86,11 @@
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 * Railway Oriented Programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjM2NDY2MjQsLTEwNTkwMjMxNjUsLT
-E1NDU5NjA0OTksLTc1NzkzMDY1LDIwNTA0MDg0NDcsLTU3NTQw
-NiwxNTcwNjk4MjcxLDE3Mjc3NDczMzksLTE2MTUwNTE1MzMsLT
-E4MTcwMDU5MjAsMTkxMzYzMjI2OCwyNTQ1Mzc2MDIsMTcxNjgz
-Mjk4NywtNzU3NDc0NzE5LC0yMTI2ODQ3MTUwLDEwMDY3MjM1Nz
-ksMTMxNjQ1NDkxMCwtMTE4ODA3ODA0OCwtMTkyOTA4NzM5Nywt
-NjY0NzE0MDIwXX0=
+eyJoaXN0b3J5IjpbLTEwMDY4MTM1NDUsLTEyMjM2NDY2MjQsLT
+EwNTkwMjMxNjUsLTE1NDU5NjA0OTksLTc1NzkzMDY1LDIwNTA0
+MDg0NDcsLTU3NTQwNiwxNTcwNjk4MjcxLDE3Mjc3NDczMzksLT
+E2MTUwNTE1MzMsLTE4MTcwMDU5MjAsMTkxMzYzMjI2OCwyNTQ1
+Mzc2MDIsMTcxNjgzMjk4NywtNzU3NDc0NzE5LC0yMTI2ODQ3MT
+UwLDEwMDY3MjM1NzksMTMxNjQ1NDkxMCwtMTE4ODA3ODA0OCwt
+MTkyOTA4NzM5N119
 -->
