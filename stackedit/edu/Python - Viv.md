@@ -23,14 +23,26 @@ black
 * Simple / Opinionated
 
 ## Documentation
+
 ### Commenting
-* why not 
+* why not what
+
 ### Docstrings
+
 ### Readme
+
+## 
+
+## Automate
+Tox
+
+### Why
+* reproducibility
+
 # Session 2
 ## Testing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDAyNzUzMjAsLTg5NDg4MTUyMywxMz
-E5NjkwNDg0LDQ5NTk5NTExNSwxNzY5NDExODg5LC01NDI0MzUw
-NzddfQ==
+eyJoaXN0b3J5IjpbMTMxNjMwMjgzMiwtODk0ODgxNTIzLDEzMT
+k2OTA0ODQsNDk1OTk1MTE1LDE3Njk0MTE4ODksLTU0MjQzNTA3
+N119
 -->
