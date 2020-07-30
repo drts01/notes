@@ -95,7 +95,11 @@
 # Extra
 ## Git
 * Commit Messages Conventions
+## Vim
+## Shell
+* prompt
+## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTIzMTg3NjQsNzgzNzQ1MjQ3LDEwNz
-Q5NTA5ODIsLTE4MjM2MDgwOTVdfQ==
+eyJoaXN0b3J5IjpbOTE5MzgzNTM3LDc4Mzc0NTI0NywxMDc0OT
+UwOTgyLC0xODIzNjA4MDk1XX0=
 -->
