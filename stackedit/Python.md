@@ -36,6 +36,8 @@
 * https://github.com/Yelp/detect-secrets
 * https://github.com/pre-commit/pre-commit
 * Find commit msg tool!
+* https://github.com/thg-consulting/it
+   pre-defined handlers which warns you about improvements and possible bugs
 
 ### Flake8
 * https://wemake-python-stylegui.de
@@ -77,7 +79,7 @@
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 * Railway Oriented Programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyNDA3NzMxLDIwNTA0MDg0NDcsLTU3NT
+eyJoaXN0b3J5IjpbLTc1NzkzMDY1LDIwNTA0MDg0NDcsLTU3NT
 QwNiwxNTcwNjk4MjcxLDE3Mjc3NDczMzksLTE2MTUwNTE1MzMs
 LTE4MTcwMDU5MjAsMTkxMzYzMjI2OCwyNTQ1Mzc2MDIsMTcxNj
 gzMjk4NywtNzU3NDc0NzE5LC0yMTI2ODQ3MTUwLDEwMDY3MjM1
