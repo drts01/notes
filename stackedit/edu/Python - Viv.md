@@ -43,9 +43,10 @@ A tool that analyzes source code to flag programming errors, bugs, stylistic err
 * https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 
 #### Key Headers
-* Project title (followed by summary)
+* Project title (followed by brief summary)
 * Installation
 * Usage
+* License
 
 #### Markup
 * reStructuredText
@@ -74,8 +75,8 @@ pytest
 ## Code Coverage
 coverage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTY4OTE4MCwxODY2NjkxMDA5LC0yMT
-M5NDc3MTM4LC0yMTA1NTM4MTczLC04OTQ4ODE1MjMsMTMxOTY5
-MDQ4NCw0OTU5OTUxMTUsMTc2OTQxMTg4OSwtNTQyNDM1MDc3XX
-0=
+eyJoaXN0b3J5IjpbLTY1MzMwMTc3LDE4NjY2OTEwMDksLTIxMz
+k0NzcxMzgsLTIxMDU1MzgxNzMsLTg5NDg4MTUyMywxMzE5Njkw
+NDg0LDQ5NTk5NTExNSwxNzY5NDExODg5LC01NDI0MzUwNzddfQ
+==
 -->
