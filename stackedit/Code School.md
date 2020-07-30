@@ -1,7 +1,8 @@
+# Introduction
 
-# Why learn to code?
+## Why learn to code?
 
-# What is CS?
+## What is CS?
 
 # Objective
 
@@ -53,6 +54,6 @@ out of class communication to foster community, collaborations, support, etc
 * Riot/Element
 	* Need to investigate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODg2NzAyODcsLTQ1NjUxNTUxMCwzMT
+eyJoaXN0b3J5IjpbLTE0MjQzMjQxMDYsLTQ1NjUxNTUxMCwzMT
 g5NDg4MzMsMTI2OTE1ODMzOV19
 -->
