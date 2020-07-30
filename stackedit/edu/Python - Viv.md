@@ -6,7 +6,7 @@
 #### What
 A tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs (code smells).
 #### Why
-* > "checks are really useful" --https://flakehell.readthedocs.io/plugins.html?highlight=pylint#plugins
+* > "checks are really useful" --https://flakehell.readthedocs.io/plugins.html
 * > "less radical [than `wemake-python-styleguide`] and more classic in its rules" --https://wemake-python-stylegui.de/en/latest/pages/usage/integrations/pylint.html
 
 #### Objective
@@ -22,7 +22,8 @@ black
 * Popular
 * Simple / Opinionated
 
-### Sor Imports
+### Organize Imports
+isort
 
 ## Documentation
 
@@ -45,7 +46,7 @@ Tox
 ## Testing
 ## Code Coverage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzU3ODcwMCwtODk0ODgxNTIzLDEzMT
-k2OTA0ODQsNDk1OTk1MTE1LDE3Njk0MTE4ODksLTU0MjQzNTA3
-N119
+eyJoaXN0b3J5IjpbLTIxMDU1MzgxNzMsLTg5NDg4MTUyMywxMz
+E5NjkwNDg0LDQ5NTk5NTExNSwxNzY5NDExODg5LC01NDI0MzUw
+NzddfQ==
 -->
