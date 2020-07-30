@@ -1,7 +1,7 @@
 # Introduction
 
 ## Why learn to code?
-Coding is a basic literacy in the digital age, and it is important to understand and be able to work with and understand the technology around them. Coding helps children with communication, creativity, math,writing, and confidence.
+Coding is a basic literacy in the digital age, and it is important to understand and be able to work with and understand the technology. Coding helps with communication, creativity, math,writing, and confidence.
 
 ### What is code?
 Code is a written set of instructions that tells the computer what to do.
@@ -136,9 +136,9 @@ out of class communication to foster community, collaborations, support, etc
 # Questions
 * Intake, where/how will we bring kids in?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxMjQyMDkzLC0zMTU0NTEyMTksLTk1OT
-E2NjM2MSwxMDU3NDI0ODI3LC0xNDg5Njc5OTc5LC0yMjc4OTI1
-MzIsNTQ5NzAzMzg1LC01NDk1NTk1MzIsMTM2OTQ5NTU1MiwtMT
-YxNjg4OTk5MiwtNDU2NTE1NTEwLDMxODk0ODgzMywxMjY5MTU4
-MzM5XX0=
+eyJoaXN0b3J5IjpbLTE4ODc1NjQxMDcsLTMxNTQ1MTIxOSwtOT
+U5MTY2MzYxLDEwNTc0MjQ4MjcsLTE0ODk2Nzk5NzksLTIyNzg5
+MjUzMiw1NDk3MDMzODUsLTU0OTU1OTUzMiwxMzY5NDk1NTUyLC
+0xNjE2ODg5OTkyLC00NTY1MTU1MTAsMzE4OTQ4ODMzLDEyNjkx
+NTgzMzldfQ==
 -->
