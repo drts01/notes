@@ -68,6 +68,9 @@
 * context managers
 * interfaces (abstract syntax tree)
 
+## Project Structure
+* project.toml
+* setuptools
 ## Documentation
 * Readme
 * Generated (Sphinx)
@@ -103,6 +106,6 @@
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxOTQyNTY4LDc4Mzc0NTI0NywxMDc0OT
-UwOTgyLC0xODIzNjA4MDk1XX0=
+eyJoaXN0b3J5IjpbNjU2MTg3MDExLDQyMTk0MjU2OCw3ODM3ND
+UyNDcsMTA3NDk1MDk4MiwtMTgyMzYwODA5NV19
 -->
