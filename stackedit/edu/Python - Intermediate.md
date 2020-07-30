@@ -42,13 +42,17 @@
 
 ## Generators
 
-## Context Managers
+## Functional
+* comprehension
+* functools
 
 ## Data Structures
 * Collections
 * Dataclasses
 
-## Obj
+## Objects
+* context managers
+* interfaces (abstract syntax tree)
 
 # Advance
 ## Distribution / Packaging
@@ -70,6 +74,6 @@
 * Tox
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjM4MjU2OCwxMDc0OTUwOTgyLC0xOD
+eyJoaXN0b3J5IjpbMTU4NTI4ODE2NSwxMDc0OTUwOTgyLC0xOD
 IzNjA4MDk1XX0=
 -->
