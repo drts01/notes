@@ -1,4 +1,7 @@
-# Why
+
+# Why learn to code?
+
+# What is CS?
 
 # Objective
 
@@ -22,7 +25,9 @@
 # Possible Resources
 
 ## Editors
+
 ### Online
+
 ### Supports Blocks
 * https://app.edublocks.org
 	* Open source
@@ -32,7 +37,12 @@
 	* Contains edu material, https://hourofpython.com/
 
 ## Communications
-### Prese
+
+### Presentations (virtual class)
+* Google Hangouts
+* Zoom
+* Microsoft Teams
+
 ### Chat
 out of class communication to foster community, collaborations, support, etc
 * Slack
@@ -43,6 +53,6 @@ out of class communication to foster community, collaborations, support, etc
 * Riot/Element
 	* Need to investigate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTMwMzcxNSwtNDU2NTE1NTEwLDMxOD
-k0ODgzMywxMjY5MTU4MzM5XX0=
+eyJoaXN0b3J5IjpbLTEzODg2NzAyODcsLTQ1NjUxNTUxMCwzMT
+g5NDg4MzMsMTI2OTE1ODMzOV19
 -->
