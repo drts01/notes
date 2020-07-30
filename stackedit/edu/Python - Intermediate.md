@@ -84,9 +84,10 @@
 * Tox
 
 ## Non-Blocking
-* Async / Await Multi- Processing/Threading
+* Async / Await
+* Multi- Processing/Threading
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5OTU5MjAyLDc4Mzc0NTI0NywxMDc0OT
-UwOTgyLC0xODIzNjA4MDk1XX0=
+eyJoaXN0b3J5IjpbMTc3OTMzNzgzMCw3ODM3NDUyNDcsMTA3ND
+k1MDk4MiwtMTgyMzYwODA5NV19
 -->
