@@ -32,7 +32,9 @@
 	* Contains edu material, https://hourofpython.com/
 
 ## Communications
+### Prese
 ### Chat
+out of class communication to foster community, collaborations, support, etc
 * Slack
 	* Video is a premium feature
 	* Limited chat history
@@ -41,6 +43,6 @@
 * Riot/Element
 	* Need to investigate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjUxNTUxMCwzMTg5NDg4MzMsMTI2OT
-E1ODMzOV19
+eyJoaXN0b3J5IjpbMTkwMTMwMzcxNSwtNDU2NTE1NTEwLDMxOD
+k0ODgzMywxMjY5MTU4MzM5XX0=
 -->
