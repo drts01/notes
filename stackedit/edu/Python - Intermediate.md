@@ -1,6 +1,13 @@
 * Type Hints
 
-# Enforce Best Practices from the Begining
+# Enforcing Coding Best Practices
+* Linting
+	* pylint
+* Formatting
+	* Black
+	* isort
+* Automation
+	* Tox
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTM5MzQxN119
+eyJoaXN0b3J5IjpbLTE3NjQxMDAwODJdfQ==
 -->
