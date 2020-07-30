@@ -1,8 +1,12 @@
 # Why
-# Success Metrics
+
+# Metrics
+# Success
 * Demonstrate competency in basic/fundamental CS concepts
 * Contribute/Publish a coding CV (i.e. Github repos)
-* Can articulate how coding c
+* Can articulate how coding can be applied to interests outside of "tech".
+## Other
+* Purse CS related career, degree, hobbies, or goin
 
 # Resources
 ## Editors
@@ -15,6 +19,6 @@
 	* Uses Google's Blockly
 	* Contains edu material, https://hourofpython.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODU4MDg2MDYsMzE4OTQ4ODMzLDEyNj
+eyJoaXN0b3J5IjpbLTE2OTczMjU5NzYsMzE4OTQ4ODMzLDEyNj
 kxNTgzMzldfQ==
 -->
