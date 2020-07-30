@@ -20,6 +20,11 @@
 * Sandboxing (virtualenv)
 * pip
 
+## Objects
+* magic dunder methods
+	* repr
+	* str
+
 # Intermediate
 ## Enforcing Coding Best Practices
 * Linting
@@ -43,7 +48,7 @@
 * Collections
 * Dataclasses
 
-
+## Obj
 
 # Advance
 ## Distribution / Packaging
@@ -65,6 +70,6 @@
 * Tox
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDYzNjk3OCwxMDc0OTUwOTgyLC0xOD
+eyJoaXN0b3J5IjpbLTY0NjM4MjU2OCwxMDc0OTUwOTgyLC0xOD
 IzNjA4MDk1XX0=
 -->
