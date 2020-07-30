@@ -4,15 +4,15 @@
 
 ## What is CS?
 
-# Objective
+# Mission
 
-## Goals
+## Objectives
 * build self-confidence through doing
 * build a sense of community though collaboration
 * encourage analytical thinking through coding
 
 # Metrics
-## Success
+## Success / Goals
 * Demonstrate competency in basic/fundamental CS concepts
 * Contribute/Publish a coding CV (i.e. Github repos, website, etc)
 * Can articulate how coding can be applied to interests outside of "tech".
@@ -54,6 +54,6 @@ out of class communication to foster community, collaborations, support, etc
 * Riot/Element
 	* Need to investigate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQzMjQxMDYsLTQ1NjUxNTUxMCwzMT
+eyJoaXN0b3J5IjpbLTEzODI2MjY0NzIsLTQ1NjUxNTUxMCwzMT
 g5NDg4MzMsMTI2OTE1ODMzOV19
 -->
