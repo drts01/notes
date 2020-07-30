@@ -1,6 +1,4 @@
-* Objects
-	* ABC
-	* dunder methods
+
 * Documentation Generation (Sphinx)
 # Beginner
 
@@ -25,6 +23,8 @@
 	* repr
 	* str
 
+# Documentation
+
 # Intermediate
 ## Enforcing Coding Best Practices
 * Linting
@@ -43,6 +43,7 @@
 ## Generators
 
 ## Functional
+* recursion
 * comprehension
 * functools
 
@@ -74,6 +75,6 @@
 * Tox
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTI4ODE2NSwxMDc0OTUwOTgyLC0xOD
-IzNjA4MDk1XX0=
+eyJoaXN0b3J5IjpbLTEzNDU4NzAwODIsMTA3NDk1MDk4MiwtMT
+gyMzYwODA5NV19
 -->
