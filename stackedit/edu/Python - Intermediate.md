@@ -14,6 +14,8 @@
 # Functions
 * define
 * Pass by reference, pass by value
+   Mutable vs Immutable (object ID)
+* *args, **kargs
 
 ## I/O
 * Pathlib
@@ -94,6 +96,6 @@
 * Multi- Processing/Threading
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTY5MTcyMDgsNzgzNzQ1MjQ3LDEwNz
+eyJoaXN0b3J5IjpbLTEzNjAzNDU5NDMsNzgzNzQ1MjQ3LDEwNz
 Q5NTA5ODIsLTE4MjM2MDgwOTVdfQ==
 -->
