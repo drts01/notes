@@ -14,6 +14,10 @@
 ## I/O
 * Pathlib
 
+## Dependencies
+* Sandboxing (virtualenv)
+* pip
+
 # Intermediate
 ## Enforcing Coding Best Practices
 * Linting
@@ -49,5 +53,5 @@
 * Fuzz Testing (hypothesis)
 * Mocking 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDEyMTc1OCwtMTgyMzYwODA5NV19
+eyJoaXN0b3J5IjpbMTA3NDk1MDk4MiwtMTgyMzYwODA5NV19
 -->
