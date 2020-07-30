@@ -130,10 +130,13 @@ out of class communication to foster community, collaborations, support, etc
 		* Logic gates
 		* How computers work (NAND gates)
 		* Integrated circuits
+
+# Questions
+* Intake, where/how will we bring kids in?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM5MjQ2NjIsLTMxNTQ1MTIxOSwtOT
-U5MTY2MzYxLDEwNTc0MjQ4MjcsLTE0ODk2Nzk5NzksLTIyNzg5
-MjUzMiw1NDk3MDMzODUsLTU0OTU1OTUzMiwxMzY5NDk1NTUyLC
-0xNjE2ODg5OTkyLC00NTY1MTU1MTAsMzE4OTQ4ODMzLDEyNjkx
-NTgzMzldfQ==
+eyJoaXN0b3J5IjpbMTY4NTA3MDU5NywtMzE1NDUxMjE5LC05NT
+kxNjYzNjEsMTA1NzQyNDgyNywtMTQ4OTY3OTk3OSwtMjI3ODky
+NTMyLDU0OTcwMzM4NSwtNTQ5NTU5NTMyLDEzNjk0OTU1NTIsLT
+E2MTY4ODk5OTIsLTQ1NjUxNTUxMCwzMTg5NDg4MzMsMTI2OTE1
+ODMzOV19
 -->
