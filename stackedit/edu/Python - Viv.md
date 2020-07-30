@@ -4,7 +4,7 @@
 #### Linter
 [pylint](https://www.pylint.org/)
 ##### What
-a tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs
+A tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs (code smells).
 
 #### Formatter
 #### What
@@ -13,6 +13,6 @@ black
 * Popular
 * Simple / Opinionated
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1NzEzMzU2LDQ5NTk5NTExNSwxNzY5ND
-ExODg5LC01NDI0MzUwNzddfQ==
+eyJoaXN0b3J5IjpbMTMxOTY5MDQ4NCw0OTU5OTUxMTUsMTc2OT
+QxMTg4OSwtNTQyNDM1MDc3XX0=
 -->
