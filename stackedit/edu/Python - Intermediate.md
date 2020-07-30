@@ -50,6 +50,7 @@
 
 ## Testing
 * pytest
+* code coverage
 
 ## Generators
 * yield
@@ -116,7 +117,7 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjAyNDEzNDMsNjM4NjU4NzQ1LC0yOT
-U4ODM3MjcsNDIxOTQyNTY4LDc4Mzc0NTI0NywxMDc0OTUwOTgy
-LC0xODIzNjA4MDk1XX0=
+eyJoaXN0b3J5IjpbLTk0NjM0OTE2LDYzODY1ODc0NSwtMjk1OD
+gzNzI3LDQyMTk0MjU2OCw3ODM3NDUyNDcsMTA3NDk1MDk4Miwt
+MTgyMzYwODA5NV19
 -->
