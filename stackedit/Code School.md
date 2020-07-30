@@ -84,7 +84,8 @@ out of class communication to foster community, collaborations, support, etc
 * https://www.codecademy.com/catalog/all
 
 # Possible Future Tangential Classes
-"Coding" can be the gateway drug to additional concepts 
+"Coding" can be the gateway drug to additional concepts in tech/computing.
+
 * Computer Basics
 	* Hardware
 	* Operating System (Linux/Unix)
@@ -105,7 +106,7 @@ out of class communication to foster community, collaborations, support, etc
 		* How computers work (NAND gates)
 		* Integrated circuits
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjI5MDM1MDUsLTU0OTU1OTUzMiwxMz
-Y5NDk1NTUyLC0xNjE2ODg5OTkyLC00NTY1MTU1MTAsMzE4OTQ4
-ODMzLDEyNjkxNTgzMzldfQ==
+eyJoaXN0b3J5IjpbNTQ5NzAzMzg1LC01NDk1NTk1MzIsMTM2OT
+Q5NTU1MiwtMTYxNjg4OTk5MiwtNDU2NTE1NTEwLDMxODk0ODgz
+MywxMjY5MTU4MzM5XX0=
 -->
