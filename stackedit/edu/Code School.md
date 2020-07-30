@@ -88,7 +88,7 @@ out of class communication to foster community, collaborations, support, etc
 
 ## Curriculum / Classes
 
-## General Platform
+### General Platform
 * https://edu.google.com
    Tools, professional development available
 * [K–12 Computer Science Framework](https://k12cs.org/)
@@ -101,7 +101,7 @@ out of class communication to foster community, collaborations, support, etc
 	
 	\* I participate in these orgs
 
-## Class
+### Class
 * https://studio.code.org/courses?view=teacher
    Intended as full credited class
     * https://aws.amazon.com/education/awseducate/code-org/ (Free AWS for CSP) 
@@ -117,7 +117,7 @@ out of class communication to foster community, collaborations, support, etc
     * designed to work w/ chromebooks
     * low/no-cost
 
-## Independent / Supplemental
+### Independent / Supplemental
 * https://www.khanacademy.org/computing/computer-programming
 * https://www.coursera.org/courses?languages=en&query=computer%20programming
 * https://www.udacity.com/pathfinder
@@ -164,6 +164,6 @@ out of class communication to foster community, collaborations, support, etc
 		* We need to seek approval to join ASAP as they follow the school year for access. Traditional a "host site" is needed. Not sure if we are "virtual" or nomadic.
 * I can support/mentor up to 3 other facilitators
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcwODEzMDcwLC04MDU4MjM3ODcsMTgxMD
-g1MzA1NywtMTEwMzgwMTkxOV19
+eyJoaXN0b3J5IjpbMTk0NDg2MzUxNSw0NzA4MTMwNzAsLTgwNT
+gyMzc4NywxODEwODUzMDU3LC0xMTAzODAxOTE5XX0=
 -->
