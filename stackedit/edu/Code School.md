@@ -154,11 +154,12 @@ out of class communication to foster community, collaborations, support, etc
 * Leverage GWC
 	* Pros
 		* Their model is not a full class
-		* They have additional resources (as listed abobe)
+		* They have additional resources (as listed above)
 		* Have pre-made lessons
 	* Cons
 		* We need to seek approval to join ASAP as they follow the school year for access. Traditional a "host site" is needed. Not sure if we are "virtual" or nomadic.
 * I can support up to 3 other facilitators
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDg1MzA1NywtMTEwMzgwMTkxOV19
+eyJoaXN0b3J5IjpbLTgwNTgyMzc4NywxODEwODUzMDU3LC0xMT
+AzODAxOTE5XX0=
 -->
