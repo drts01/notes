@@ -74,10 +74,10 @@ out of class communication to foster community, collaborations, support, etc
 
 ## Class
 * https://studio.code.org/courses?view=teacher
-
+   Intended as full credited class
 
 ## Independent
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODk1NjYxNiwtMTYxNjg4OTk5MiwtND
+eyJoaXN0b3J5IjpbMTM2OTQ5NTU1MiwtMTYxNjg4OTk5MiwtND
 U2NTE1NTEwLDMxODk0ODgzMywxMjY5MTU4MzM5XX0=
 -->
