@@ -43,7 +43,8 @@
 
 ## Editors
 
-### Online
+## Online
+* https://visualstudio.microsoft.com/services/live-share/
 
 ### Supports Blocks
 * https://app.edublocks.org
@@ -78,6 +79,7 @@ out of class communication to foster community, collaborations, support, etc
 
 ## Independent
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTQ5NTU1MiwtMTYxNjg4OTk5MiwtND
-U2NTE1NTEwLDMxODk0ODgzMywxMjY5MTU4MzM5XX0=
+eyJoaXN0b3J5IjpbLTU0OTU1OTUzMiwxMzY5NDk1NTUyLC0xNj
+E2ODg5OTkyLC00NTY1MTU1MTAsMzE4OTQ4ODMzLDEyNjkxNTgz
+MzldfQ==
 -->
