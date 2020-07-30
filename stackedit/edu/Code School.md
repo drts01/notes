@@ -39,18 +39,19 @@ Computer science deals with theory of computation, algorithms, computational pro
 * Equipment TBD
    Tablet, Chromebook, Laptop
 
+## Internal
+* Continued interest in CS, i.e.:
+   Purse CS related career, degree, hobbies, or join user groups and/or trade organizations
+* Re-enrollment
+   This metric is not cons
+
 ## Mentor / Facilitator
-* 4 hours / week
+* 4 hours / week time commitment
 	* 2 hour class/session per week
 	* 2 additional hours to:
 		* participate/promote community/communications outside of meeting (responding to comments in chat, answering emails, etc)
 		* prepping for next session
 		* supporting other facilitators
-
-## Internal
-* Continued interest in CS, i.e.:
-   Purse CS related career, degree, hobbies, or join user groups and/or trade organizations
-* Re-enrollment
 
 # Possible Resources
 
@@ -160,6 +161,6 @@ out of class communication to foster community, collaborations, support, etc
 		* We need to seek approval to join ASAP as they follow the school year for access. Traditional a "host site" is needed. Not sure if we are "virtual" or nomadic.
 * I can support up to 3 other facilitators
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTgyMzc4NywxODEwODUzMDU3LC0xMT
-AzODAxOTE5XX0=
+eyJoaXN0b3J5IjpbMjcxODQ4MTEzLC04MDU4MjM3ODcsMTgxMD
+g1MzA1NywtMTEwMzgwMTkxOV19
 -->
