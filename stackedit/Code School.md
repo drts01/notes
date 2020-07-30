@@ -76,6 +76,8 @@ out of class communication to foster community, collaborations, support, etc
 ## Class
 * https://studio.code.org/courses?view=teacher
    Intended as full credited class
+* https://cs.uteach.utexas.edu/csa
+   Full AP class, $1100 for both classes
 
 ## Independent / Supplemental
 * https://www.khanacademy.org/computing/computer-programming
@@ -106,7 +108,7 @@ out of class communication to foster community, collaborations, support, etc
 		* How computers work (NAND gates)
 		* Integrated circuits
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5NzAzMzg1LC01NDk1NTk1MzIsMTM2OT
-Q5NTU1MiwtMTYxNjg4OTk5MiwtNDU2NTE1NTEwLDMxODk0ODgz
-MywxMjY5MTU4MzM5XX0=
+eyJoaXN0b3J5IjpbLTIyNzg5MjUzMiw1NDk3MDMzODUsLTU0OT
+U1OTUzMiwxMzY5NDk1NTUyLC0xNjE2ODg5OTkyLC00NTY1MTU1
+MTAsMzE4OTQ4ODMzLDEyNjkxNTgzMzldfQ==
 -->
