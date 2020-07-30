@@ -77,6 +77,7 @@
 ## Project Structure
 * project.toml
 * setuptools
+	* scm
 * src
 
 ## Documentation
@@ -119,5 +120,5 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzODYxNzldfQ==
+eyJoaXN0b3J5IjpbLTI3Njg0MDM2LDc2Mzg2MTc5XX0=
 -->
