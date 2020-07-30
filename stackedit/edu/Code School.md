@@ -150,7 +150,13 @@ out of class communication to foster community, collaborations, support, etc
 # Questions
 * Intake, where/how will we bring kids in?
 
-# 
+# Suggestions
+* Leverage GWC
+   Pros
+	* Their model is not a full class
+	* They have additional resources (as listed abobe)
+	* Have pre-made lessons
+   Cons
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjM2ODAyNCwtMTEwMzgwMTkxOV19
+eyJoaXN0b3J5IjpbMTA5MzIzMTkxMSwtMTEwMzgwMTkxOV19
 -->
