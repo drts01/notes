@@ -100,7 +100,7 @@
 ## Testing
 * Fuzz Testing (hypothesis)
 * Mocking
-* Behaviorial Driven Design
+* Behavioral Driven Design
 
 ## Automation
 * Tox
@@ -119,7 +119,7 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTc4NTc3MTgsNjM4NjU4NzQ1LC0yOT
-U4ODM3MjcsNDIxOTQyNTY4LDc4Mzc0NTI0NywxMDc0OTUwOTgy
-LC0xODIzNjA4MDk1XX0=
+eyJoaXN0b3J5IjpbNzYzODYxNzksNjM4NjU4NzQ1LC0yOTU4OD
+M3MjcsNDIxOTQyNTY4LDc4Mzc0NTI0NywxMDc0OTUwOTgyLC0x
+ODIzNjA4MDk1XX0=
 -->
