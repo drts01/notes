@@ -84,9 +84,13 @@ out of class communication to foster community, collaborations, support, etc
 * https://www.codecademy.com/catalog/all
 
 # Possible Tangential Classes
-
+* Computer Basics
+	* Hardware
+	* Operating System (Linux/Unix)
+	* Networking
+	* History
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDUwODE3LC01NDk1NTk1MzIsMTM2OT
-Q5NTU1MiwtMTYxNjg4OTk5MiwtNDU2NTE1NTEwLDMxODk0ODgz
-MywxMjY5MTU4MzM5XX0=
+eyJoaXN0b3J5IjpbMTA1ODU3MjAwNywtNTQ5NTU5NTMyLDEzNj
+k0OTU1NTIsLTE2MTY4ODk5OTIsLTQ1NjUxNTUxMCwzMTg5NDg4
+MzMsMTI2OTE1ODMzOV19
 -->
