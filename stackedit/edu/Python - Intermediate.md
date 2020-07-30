@@ -47,8 +47,10 @@
 
 ## Functional
 * recursion
+	* memoization
+	* functools.wraps
 * comprehension
-* functools
+* functool
 
 ## Data Structures
 * Collections
@@ -82,6 +84,6 @@
 * Tox
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzNzQ1MjQ3LDEwNzQ5NTA5ODIsLTE4Mj
-M2MDgwOTVdfQ==
+eyJoaXN0b3J5IjpbMTQyMjU3ODUxMiw3ODM3NDUyNDcsMTA3ND
+k1MDk4MiwtMTgyMzYwODA5NV19
 -->
