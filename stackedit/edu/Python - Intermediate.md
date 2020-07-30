@@ -1,6 +1,8 @@
 # Beginner
 
-## Data types
+## Variables
+* Reference
+### Data types
 * Bool
 * Int
 * Str
@@ -8,6 +10,10 @@
 * Tuple
 * Set
 * Dict
+
+# Functions
+* define
+* Pass by reference, pass by value
 
 ## I/O
 * Pathlib
@@ -17,11 +23,11 @@
 * pip
 
 ## Objects
+* define method
 * magic dunder methods
 	* repr
 	* str
 * object ID
-* Pass by reference, pass by value
    Mutable vs Immutable
 
 ## Documentation
@@ -88,6 +94,6 @@
 * Multi- Processing/Threading
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTMzNzgzMCw3ODM3NDUyNDcsMTA3ND
-k1MDk4MiwtMTgyMzYwODA5NV19
+eyJoaXN0b3J5IjpbLTExNTY5MTcyMDgsNzgzNzQ1MjQ3LDEwNz
+Q5NTA5ODIsLTE4MjM2MDgwOTVdfQ==
 -->
