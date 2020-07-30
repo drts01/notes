@@ -2,9 +2,13 @@
 
 ## Variables
 * Reference
-* Data typesBool, Int, Str, List, Tuple, Set, Dict
+* Data types
+   Bool, Int, Str, List, Tuple, Set, Dict
+* Garbage Collection
+	* Reference Counting
+	* GIL
 
-# Functions
+## Functions
 * define
 * Pass by reference, pass by value
    Mutable vs Immutable (object ID)
@@ -89,6 +93,6 @@
 * Multi- Processing/Threading
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1MjUxNDQyLDc4Mzc0NTI0NywxMDc0OT
+eyJoaXN0b3J5IjpbNjY3NjQ1MjQ2LDc4Mzc0NTI0NywxMDc0OT
 UwOTgyLC0xODIzNjA4MDk1XX0=
 -->
