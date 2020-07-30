@@ -26,7 +26,10 @@
    Tablet, Chromebook, Laptop
 
 ## Mentor / Facilitator
-
+* 4 hours / week
+	* 2 hour class/session per week
+	* 2 additional hours to:
+		* participate/promote community/communications 
 
 ## Internal
 * Continued interest in CS, i.e.:
@@ -64,6 +67,6 @@ out of class communication to foster community, collaborations, support, etc
 * Riot/Element
 	* Need to investigate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTYxOTE2ODUsLTQ1NjUxNTUxMCwzMT
+eyJoaXN0b3J5IjpbLTE2Nzg4MTM3NjIsLTQ1NjUxNTUxMCwzMT
 g5NDg4MzMsMTI2OTE1ODMzOV19
 -->
