@@ -1,5 +1,3 @@
-
-* Documentation Generation (Sphinx)
 # Beginner
 
 ## Data types
@@ -22,6 +20,7 @@
 * magic dunder methods
 	* repr
 	* str
+* object ID
 
 ## Documentation
 * Docstrings
@@ -59,7 +58,7 @@
 
 ## Documentation
 * Readme
-* Generated
+* Generated (Sphinx)
 
 # Advance
 ## Distribution / Packaging
@@ -81,6 +80,6 @@
 * Tox
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDEyMDAwNCwxMDc0OTUwOTgyLC0xOD
-IzNjA4MDk1XX0=
+eyJoaXN0b3J5IjpbNjkzMTkxMjcyLDEwNzQ5NTA5ODIsLTE4Mj
+M2MDgwOTVdfQ==
 -->
