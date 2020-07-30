@@ -29,7 +29,9 @@
 * 4 hours / week
 	* 2 hour class/session per week
 	* 2 additional hours to:
-		* participate/promote community/communications 
+		* participate/promote community/communications outside of meeting (responding to comments in chat, answering emails, etc)
+		* prepping for next session
+		* assisting/meeting with other facilitators
 
 ## Internal
 * Continued interest in CS, i.e.:
@@ -67,6 +69,6 @@ out of class communication to foster community, collaborations, support, etc
 * Riot/Element
 	* Need to investigate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg4MTM3NjIsLTQ1NjUxNTUxMCwzMT
-g5NDg4MzMsMTI2OTE1ODMzOV19
+eyJoaXN0b3J5IjpbMzgwNDQ3MDg5LC00NTY1MTU1MTAsMzE4OT
+Q4ODMzLDEyNjkxNTgzMzldfQ==
 -->
