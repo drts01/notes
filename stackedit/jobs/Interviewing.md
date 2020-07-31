@@ -3,6 +3,8 @@
 * [Hacker Rank](https://www.hackerrank.com/)<sup>*</sup>
 * [LeetCode](https://leetcode.com/)<sup>*</sup>
 
+## Interviewing
+* [Cracking the Coding Interview [6th Ed]](https://drive.google.com/file/d/11qPPf8gswvm4e7p41yfKiDJOJQRbU7qP/view?usp=sharing)
 ## Learning
 * [[Tech Dev Guide](https://techdevguide.withgoogle.com/)](https://techdevguide.withgoogle.com/)
 
@@ -20,6 +22,7 @@
 ---
 <sup>*</sup> Recommended by Google recruiter 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDc3MzQyNCwxMzY1OTE0NzQsMjEyNj
-c5ODM2OSwtMTIwMDMyNjE3MiwxMTYwOTI3OTA3XX0=
+eyJoaXN0b3J5IjpbMTUwODM2NTA3NSwtOTcwNzczNDI0LDEzNj
+U5MTQ3NCwyMTI2Nzk4MzY5LC0xMjAwMzI2MTcyLDExNjA5Mjc5
+MDddfQ==
 -->
