@@ -1,6 +1,8 @@
 # Git
 ## Beginner
 * https://guides.github.com/introduction/git-handbook/
+* http://git-school.github.io/visualizing-git/
+* https://github.com/jlord/git-it-electron
 
 ## Intermediate
 * https://learngitbranching.js.org/
@@ -11,6 +13,6 @@
 # Github
 * https://lab.github.com/githubtraining/ramp-up-on-git-and-github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODQwNjY5NiwtMjAxMzA3NzY3MSwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMjE3NDQzMDkzLC0yMDEzMDc3NjcxLC0yMD
+g4NzQ2NjEyXX0=
 -->
