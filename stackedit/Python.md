@@ -24,6 +24,7 @@
 * bandit
 * https://github.com/pyupio/safety
 * https://github.com/intel/cve-bin-tool
+* https://github.com/github/ossar-action
 
 ## Packaging
 * Twine
@@ -92,11 +93,11 @@
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 * Railway Oriented Programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzkwNDYwNjYsLTM5MzM2MzAxMywtMj
-k4NTM0NTY2LC04NDg0ODE2ODksLTEyMjM2NDY2MjQsLTEwNTkw
-MjMxNjUsLTE1NDU5NjA0OTksLTc1NzkzMDY1LDIwNTA0MDg0ND
-csLTU3NTQwNiwxNTcwNjk4MjcxLDE3Mjc3NDczMzksLTE2MTUw
-NTE1MzMsLTE4MTcwMDU5MjAsMTkxMzYzMjI2OCwyNTQ1Mzc2MD
-IsMTcxNjgzMjk4NywtNzU3NDc0NzE5LC0yMTI2ODQ3MTUwLDEw
-MDY3MjM1NzldfQ==
+eyJoaXN0b3J5IjpbMTU1NTQ2OTUzMSwtMTMzOTA0NjA2NiwtMz
+kzMzYzMDEzLC0yOTg1MzQ1NjYsLTg0ODQ4MTY4OSwtMTIyMzY0
+NjYyNCwtMTA1OTAyMzE2NSwtMTU0NTk2MDQ5OSwtNzU3OTMwNj
+UsMjA1MDQwODQ0NywtNTc1NDA2LDE1NzA2OTgyNzEsMTcyNzc0
+NzMzOSwtMTYxNTA1MTUzMywtMTgxNzAwNTkyMCwxOTEzNjMyMj
+Y4LDI1NDUzNzYwMiwxNzE2ODMyOTg3LC03NTc0NzQ3MTksLTIx
+MjY4NDcxNTBdfQ==
 -->
