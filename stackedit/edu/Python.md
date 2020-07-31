@@ -15,7 +15,10 @@
 * *args, **kargs
 
 ## I/O
+* User input
+* Output to console
 * Pathlib
+   read and write
 
 ## Dependencies
 * Sandboxing (virtualenv)
@@ -120,6 +123,6 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwNTc2MzgsLTI3Njg0MDM2LDc2Mzg2MT
-c5XX0=
+eyJoaXN0b3J5IjpbMTY4NjQzOTYwMCw4MzA1NzYzOCwtMjc2OD
+QwMzYsNzYzODYxNzldfQ==
 -->
