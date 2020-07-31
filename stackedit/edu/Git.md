@@ -7,6 +7,7 @@
 	* Beginner to Advance
 	* Cheat Sheets and videos too
 	* Requires to signup for newsletter for some resources
+* [Git-SCM Videos](https://git-scm.com/videos)
 
 ## Intermediate
 * https://learngitbranching.js.org/
@@ -14,7 +15,8 @@
 ## Reference
 * [Cheatsheet](https://github.github.com/training-kit/)
 * [Git Pro eBook](https://git-scm.com/book)
-* 
+* [Resources Curated by Git](https://git-scm.com/doc/ext)
+* [Doc/Man Pages](https://git-scm.com/docs)
 
 # GUI
 * https://gitahead.github.io/gitahead.com/
@@ -22,6 +24,6 @@
 # Github
 * https://lab.github.com/githubtraining/ramp-up-on-git-and-github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzNTc1NTUzLDE4NTM0MjU2MjYsMjE3ND
-QzMDkzLC0yMDEzMDc3NjcxLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTgxNjUxOTcwNSwxODUzNDI1NjI2LDIxNz
+Q0MzA5MywtMjAxMzA3NzY3MSwtMjA4ODc0NjYxMl19
 -->
