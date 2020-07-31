@@ -7,6 +7,8 @@
 	* Beginner to Advance
 	* Cheat Sheets and videos too
 	* Requires to signup for newsletter for some resources
+* https://www.katacoda.com/courses/git
+	* Beginner to Advance
 * [Git-SCM Videos](https://git-scm.com/videos)
 
 ## Intermediate
@@ -24,6 +26,7 @@
 # Github
 * https://lab.github.com/githubtraining/ramp-up-on-git-and-github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjUxOTcwNSwxODUzNDI1NjI2LDIxNz
-Q0MzA5MywtMjAxMzA3NzY3MSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTExNTg3NDAxOSwtODE2NTE5NzA1LDE4NT
+M0MjU2MjYsMjE3NDQzMDkzLC0yMDEzMDc3NjcxLC0yMDg4NzQ2
+NjEyXX0=
 -->
