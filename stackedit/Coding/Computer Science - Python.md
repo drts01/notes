@@ -21,6 +21,9 @@
 
 # Refactoring
 * [Transforming Code into Beautiful, Idiomatic Python](https://youtu.be/OSGv2VnC0go)
+
+# Need to evaluate these vids
+* [# he Mental Game of Python - Raymond Hettinger](https://youtu.be/Uwuv05aZ6ug)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzNTQ0NDFdfQ==
+eyJoaXN0b3J5IjpbLTE3OTc2MzcyMV19
 -->
