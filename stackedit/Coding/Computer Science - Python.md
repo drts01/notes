@@ -13,7 +13,8 @@
 ## Dataclass
 * [Dataclasses: The code generator to end all code generators by Raymond Hettinger - PyCon 2018](https://youtu.be/T-TwcmT6Rcw)
 
-## 
+## Creating Datatypes
+* [Build powerful, new data structures with Python's abstract base classes by Raymond Hettinger](https://youtu.be/S_ipdVNSFlo)
 
 # Algorithms
 * https://github.com/TheAlgorithms/Python
@@ -21,5 +22,5 @@
 # Refactoring
 * [Transforming Code into Beautiful, Idiomatic Python](https://youtu.be/OSGv2VnC0go)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTA1NjcwNTZdfQ==
+eyJoaXN0b3J5IjpbODkzNTQ0NDFdfQ==
 -->
