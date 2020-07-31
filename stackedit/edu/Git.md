@@ -13,10 +13,15 @@
 
 ## Reference
 * [Cheatsheet](https://github.github.com/training-kit/)
+* [Git Pro eBook](https://git-scm.com/book)
+* 
+
+# GUI
+* https://gitahead.github.io/gitahead.com/
 
 # Github
 * https://lab.github.com/githubtraining/ramp-up-on-git-and-github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzQyNTYyNiwyMTc0NDMwOTMsLTIwMT
-MwNzc2NzEsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNzAzNTc1NTUzLDE4NTM0MjU2MjYsMjE3ND
+QzMDkzLC0yMDEzMDc3NjcxLC0yMDg4NzQ2NjEyXX0=
 -->
