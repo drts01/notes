@@ -82,9 +82,9 @@
 
 # Books
 * https://github.com/kyclark/tiny_python_projects (waiting for book to become available on safarionline)
-* Tiny Python Note 
-* https://github.com/mattharrison/Tiny-Python-3.8-Notebook
-* https://github.com/mattharrison/Tiny-Python-3.6-Notebook
+* Tiny Python Notebook
+	* https://github.com/mattharrison/Tiny-Python-3.8-Notebook
+	* https://github.com/mattharrison/Tiny-Python-3.6-Notebook
 
 # Not Python Specific
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
@@ -95,7 +95,7 @@
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 * Railway Oriented Programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzYwMDI5NiwtMjk4NTM0NTY2LC04ND
+eyJoaXN0b3J5IjpbLTM5MzM2MzAxMywtMjk4NTM0NTY2LC04ND
 g0ODE2ODksLTEyMjM2NDY2MjQsLTEwNTkwMjMxNjUsLTE1NDU5
 NjA0OTksLTc1NzkzMDY1LDIwNTA0MDg0NDcsLTU3NTQwNiwxNT
 cwNjk4MjcxLDE3Mjc3NDczMzksLTE2MTUwNTE1MzMsLTE4MTcw
