@@ -106,7 +106,7 @@
 ## Automation
 * Tox
 
-## Coroutines and Concurrency
+## Coroutines, Concurrency, and Parallelism
 http://www.dabeaz.com/coroutines/
 * Async / Await
 * generator .send()
@@ -120,5 +120,6 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Njg0MDM2LDc2Mzg2MTc5XX0=
+eyJoaXN0b3J5IjpbODMwNTc2MzgsLTI3Njg0MDM2LDc2Mzg2MT
+c5XX0=
 -->
