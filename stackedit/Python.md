@@ -82,6 +82,8 @@
 
 # Books
 * https://github.com/kyclark/tiny_python_projects (waiting for book to become available on safarionline)
+* Tiny Python Note 
+* https://github.com/mattharrison/Tiny-Python-3.8-Notebook
 * https://github.com/mattharrison/Tiny-Python-3.6-Notebook
 
 # Not Python Specific
@@ -93,11 +95,11 @@
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 * Railway Oriented Programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3Mjk1OTk4LC0yOTg1MzQ1NjYsLTg0OD
-Q4MTY4OSwtMTIyMzY0NjYyNCwtMTA1OTAyMzE2NSwtMTU0NTk2
-MDQ5OSwtNzU3OTMwNjUsMjA1MDQwODQ0NywtNTc1NDA2LDE1Nz
-A2OTgyNzEsMTcyNzc0NzMzOSwtMTYxNTA1MTUzMywtMTgxNzAw
-NTkyMCwxOTEzNjMyMjY4LDI1NDUzNzYwMiwxNzE2ODMyOTg3LC
-03NTc0NzQ3MTksLTIxMjY4NDcxNTAsMTAwNjcyMzU3OSwxMzE2
-NDU0OTEwXX0=
+eyJoaXN0b3J5IjpbMTkzMzYwMDI5NiwtMjk4NTM0NTY2LC04ND
+g0ODE2ODksLTEyMjM2NDY2MjQsLTEwNTkwMjMxNjUsLTE1NDU5
+NjA0OTksLTc1NzkzMDY1LDIwNTA0MDg0NDcsLTU3NTQwNiwxNT
+cwNjk4MjcxLDE3Mjc3NDczMzksLTE2MTUwNTE1MzMsLTE4MTcw
+MDU5MjAsMTkxMzYzMjI2OCwyNTQ1Mzc2MDIsMTcxNjgzMjk4Ny
+wtNzU3NDc0NzE5LC0yMTI2ODQ3MTUwLDEwMDY3MjM1NzksMTMx
+NjQ1NDkxMF19
 -->
