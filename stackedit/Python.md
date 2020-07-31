@@ -77,9 +77,6 @@
 ## Sphinx
 * https://www.sphinx-doc.org/en/master/usage/extensions/graphviz.html
 
-# Algorithms
-* https://github.com/TheAlgorithms/Python
-
 # Books
 * https://github.com/kyclark/tiny_python_projects (waiting for book to become available on safarionline)
 * Tiny Python Notebook
@@ -95,11 +92,11 @@
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 * Railway Oriented Programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MzM2MzAxMywtMjk4NTM0NTY2LC04ND
-g0ODE2ODksLTEyMjM2NDY2MjQsLTEwNTkwMjMxNjUsLTE1NDU5
-NjA0OTksLTc1NzkzMDY1LDIwNTA0MDg0NDcsLTU3NTQwNiwxNT
-cwNjk4MjcxLDE3Mjc3NDczMzksLTE2MTUwNTE1MzMsLTE4MTcw
-MDU5MjAsMTkxMzYzMjI2OCwyNTQ1Mzc2MDIsMTcxNjgzMjk4Ny
-wtNzU3NDc0NzE5LC0yMTI2ODQ3MTUwLDEwMDY3MjM1NzksMTMx
-NjQ1NDkxMF19
+eyJoaXN0b3J5IjpbLTEzMzkwNDYwNjYsLTM5MzM2MzAxMywtMj
+k4NTM0NTY2LC04NDg0ODE2ODksLTEyMjM2NDY2MjQsLTEwNTkw
+MjMxNjUsLTE1NDU5NjA0OTksLTc1NzkzMDY1LDIwNTA0MDg0ND
+csLTU3NTQwNiwxNTcwNjk4MjcxLDE3Mjc3NDczMzksLTE2MTUw
+NTE1MzMsLTE4MTcwMDU5MjAsMTkxMzYzMjI2OCwyNTQ1Mzc2MD
+IsMTcxNjgzMjk4NywtNzU3NDc0NzE5LC0yMTI2ODQ3MTUwLDEw
+MDY3MjM1NzldfQ==
 -->
