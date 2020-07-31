@@ -2,6 +2,7 @@
 ## Practice
 * [Hacker Rank](https://www.hackerrank.com/)<sup>*</sup>
 * [LeetCode](https://leetcode.com/)<sup>*</sup>
+* [[Tech Dev Guide](https://techdevguide.withgoogle.com/)](https://techdevguide.withgoogle.com/)
 
 # Linux
 
@@ -17,6 +18,6 @@
 ---
 <sup>*</sup> Recommended by Google recruiter 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjc5ODM2OSwtMTIwMDMyNjE3MiwxMT
-YwOTI3OTA3XX0=
+eyJoaXN0b3J5IjpbMTM2NTkxNDc0LDIxMjY3OTgzNjksLTEyMD
+AzMjYxNzIsMTE2MDkyNzkwN119
 -->
