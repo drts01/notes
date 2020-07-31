@@ -93,13 +93,13 @@ out of class communication to foster community, collaborations, support, etc
    Tools, professional development available
 * [K–12 Computer Science Framework](https://k12cs.org/)
    Framework, resources, developed by:
-	* The Association for Computing Machinery *
+	* The Association for Computing Machinery<sup>*</sup>
 	* Code.org
-	* Computer Science Teachers Association *
+	* Computer Science Teachers Association<sup>*</sup>
 	* Cyber Innovation Center
 	* National Math and Science Initiative
 	
-	\* I participate in these orgs
+	<sup>*</sup> I am affiliated with these orgs
 
 ### Class
 * https://studio.code.org/courses?view=teacher
@@ -165,7 +165,7 @@ out of class communication to foster community, collaborations, support, etc
 		* We need to seek approval to join ASAP as they follow the school year for access. Traditional a "host site" is needed. Not sure if we are "virtual" or nomadic.
 * I can support/mentor up to 3 other facilitators
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTkzODQ0NzYsMTk0NDg2MzUxNSw0Nz
-A4MTMwNzAsLTgwNTgyMzc4NywxODEwODUzMDU3LC0xMTAzODAx
-OTE5XX0=
+eyJoaXN0b3J5IjpbLTgzNzEyOTA4NywtMTE5OTM4NDQ3NiwxOT
+Q0ODYzNTE1LDQ3MDgxMzA3MCwtODA1ODIzNzg3LDE4MTA4NTMw
+NTcsLTExMDM4MDE5MTldfQ==
 -->
