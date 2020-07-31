@@ -6,9 +6,12 @@
 
 # Data Structures
 * [SF Python](https://youtu.be/p33CVV29OG8)
-* [PyCon 2017]()
+* [PyCon 2018](https://youtu.be/T-TwcmT6Rcw)
+
 # Algorithms
 * https://github.com/TheAlgorithms/Python
+
+# Refactoring
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU3ODA3MzBdfQ==
+eyJoaXN0b3J5IjpbMjAyOTUxNTUzM119
 -->
