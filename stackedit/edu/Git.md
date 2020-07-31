@@ -19,6 +19,7 @@
 * [Git Pro eBook](https://git-scm.com/book)
 * [Resources Curated by Git](https://git-scm.com/doc/ext)
 * [Doc/Man Pages](https://git-scm.com/docs)
+* https://ohshitgit.com/
 
 # GUI
 * https://gitahead.github.io/gitahead.com/
@@ -26,7 +27,7 @@
 # Github
 * https://lab.github.com/githubtraining/ramp-up-on-git-and-github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTg3NDAxOSwtODE2NTE5NzA1LDE4NT
-M0MjU2MjYsMjE3NDQzMDkzLC0yMDEzMDc3NjcxLC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbLTE5MDUyODk3ODMsLTgxNjUxOTcwNSwxOD
+UzNDI1NjI2LDIxNzQ0MzA5MywtMjAxMzA3NzY3MSwtMjA4ODc0
+NjYxMl19
 -->
