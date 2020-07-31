@@ -116,6 +116,7 @@ out of class communication to foster community, collaborations, support, etc
     * alumni network
     * designed to work w/ chromebooks
     * low/no-cost
+* [Tech Dev Guide](https://techdevguide.withgoogle.com/)
 
 ### Independent / Supplemental
 * https://www.khanacademy.org/computing/computer-programming
@@ -164,6 +165,7 @@ out of class communication to foster community, collaborations, support, etc
 		* We need to seek approval to join ASAP as they follow the school year for access. Traditional a "host site" is needed. Not sure if we are "virtual" or nomadic.
 * I can support/mentor up to 3 other facilitators
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDg2MzUxNSw0NzA4MTMwNzAsLTgwNT
-gyMzc4NywxODEwODUzMDU3LC0xMTAzODAxOTE5XX0=
+eyJoaXN0b3J5IjpbLTExOTkzODQ0NzYsMTk0NDg2MzUxNSw0Nz
+A4MTMwNzAsLTgwNTgyMzc4NywxODEwODUzMDU3LC0xMTAzODAx
+OTE5XX0=
 -->
