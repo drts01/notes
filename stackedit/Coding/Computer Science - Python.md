@@ -6,6 +6,7 @@
 
 # Data Structures
 ## Dict
+* Modern Dictionaries by Raymond Hettinger
 * [SF Python](https://youtu.be/p33CVV29OG8)
 * [PyCon 2017](https://youtu.be/npw4s1QTmPg)
 
@@ -17,5 +18,5 @@
 
 # Refactoring
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODg3NDMwMV19
+eyJoaXN0b3J5IjpbLTExNTUxNzA2ODldfQ==
 -->
