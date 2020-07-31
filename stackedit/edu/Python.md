@@ -117,6 +117,7 @@ http://www.dabeaz.com/coroutines/
 
 # Resources
 * https://lab.github.com/everydeveloper/introduction-to-python
+* https://lab.github.com/everydeveloper/intermediate-python
 
 # Extra
 ## Git
@@ -126,6 +127,6 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzNTE1Njg4LDE2ODY0Mzk2MDAsODMwNT
-c2MzgsLTI3Njg0MDM2LDc2Mzg2MTc5XX0=
+eyJoaXN0b3J5IjpbLTE1ODk2OTA3MjMsMTY4NjQzOTYwMCw4Mz
+A1NzYzOCwtMjc2ODQwMzYsNzYzODYxNzldfQ==
 -->
