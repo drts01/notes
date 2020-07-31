@@ -6,7 +6,7 @@
 ## Interviewing
 * [Cracking the Coding Interview [6th Ed]](https://drive.google.com/file/d/11qPPf8gswvm4e7p41yfKiDJOJQRbU7qP/view?usp=sharing)
 ## Learning
-* [[Tech Dev Guide](https://techdevguide.withgoogle.com/)](https://techdevguide.withgoogle.com/)
+* [[Tech Dev Guide](https://techdevguide.withgoogle.com/)](https://techdevguide.withgoogle.com/)<sup>*</sup>
 
 # Linux
 
@@ -22,7 +22,7 @@
 ---
 <sup>*</sup> Recommended by Google recruiter 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODM2NTA3NSwtOTcwNzczNDI0LDEzNj
-U5MTQ3NCwyMTI2Nzk4MzY5LC0xMjAwMzI2MTcyLDExNjA5Mjc5
-MDddfQ==
+eyJoaXN0b3J5IjpbMjU4Njc4MDA0LC05NzA3NzM0MjQsMTM2NT
+kxNDc0LDIxMjY3OTgzNjksLTEyMDAzMjYxNzIsMTE2MDkyNzkw
+N119
 -->
