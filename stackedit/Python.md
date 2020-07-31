@@ -87,17 +87,18 @@
 # Not Python Specific
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
+* https://github.com/github/actions-cheat-sheet
 
 ## Functional Design Patterns
 * https://en.wikipedia.org/wiki/Functor_(functional_programming)
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 * Railway Oriented Programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTQ2OTUzMSwtMTMzOTA0NjA2NiwtMz
-kzMzYzMDEzLC0yOTg1MzQ1NjYsLTg0ODQ4MTY4OSwtMTIyMzY0
-NjYyNCwtMTA1OTAyMzE2NSwtMTU0NTk2MDQ5OSwtNzU3OTMwNj
-UsMjA1MDQwODQ0NywtNTc1NDA2LDE1NzA2OTgyNzEsMTcyNzc0
-NzMzOSwtMTYxNTA1MTUzMywtMTgxNzAwNTkyMCwxOTEzNjMyMj
-Y4LDI1NDUzNzYwMiwxNzE2ODMyOTg3LC03NTc0NzQ3MTksLTIx
-MjY4NDcxNTBdfQ==
+eyJoaXN0b3J5IjpbLTEzNTc1Njc4MzIsLTEzMzkwNDYwNjYsLT
+M5MzM2MzAxMywtMjk4NTM0NTY2LC04NDg0ODE2ODksLTEyMjM2
+NDY2MjQsLTEwNTkwMjMxNjUsLTE1NDU5NjA0OTksLTc1NzkzMD
+Y1LDIwNTA0MDg0NDcsLTU3NTQwNiwxNTcwNjk4MjcxLDE3Mjc3
+NDczMzksLTE2MTUwNTE1MzMsLTE4MTcwMDU5MjAsMTkxMzYzMj
+I2OCwyNTQ1Mzc2MDIsMTcxNjgzMjk4NywtNzU3NDc0NzE5LC0y
+MTI2ODQ3MTUwXX0=
 -->
