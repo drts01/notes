@@ -26,8 +26,9 @@
 
 # Github
 * https://lab.github.com/githubtraining/ramp-up-on-git-and-github
+* [cli](https://cli.github.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDUyODk3ODMsLTgxNjUxOTcwNSwxOD
-UzNDI1NjI2LDIxNzQ0MzA5MywtMjAxMzA3NzY3MSwtMjA4ODc0
-NjYxMl19
+eyJoaXN0b3J5IjpbLTE5OTUyNjYxNDAsLTE5MDUyODk3ODMsLT
+gxNjUxOTcwNSwxODUzNDI1NjI2LDIxNzQ0MzA5MywtMjAxMzA3
+NzY3MSwtMjA4ODc0NjYxMl19
 -->
