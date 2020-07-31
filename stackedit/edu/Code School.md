@@ -28,6 +28,7 @@ Computer science deals with theory of computation, algorithms, computational pro
 * build a sense of community though collaboration
 * teach computational thinking
 * Promote open-source tools, development, and the community
+* have fun creating and manipulating tech
 
 # Metrics
 ## Success / Goals
@@ -166,7 +167,8 @@ out of class communication to foster community, collaborations, support, etc
 		* We need to seek approval to join ASAP as they follow the school year for access. Traditional a "host site" is needed. Not sure if we are "virtual" or nomadic.
 * I can support/mentor up to 3 other facilitators
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTM1NzM1NywtODM3MTI5MDg3LC0xMT
-k5Mzg0NDc2LDE5NDQ4NjM1MTUsNDcwODEzMDcwLC04MDU4MjM3
-ODcsMTgxMDg1MzA1NywtMTEwMzgwMTkxOV19
+eyJoaXN0b3J5IjpbMTMxMTcwNjExMSwtNTU1MzU3MzU3LC04Mz
+cxMjkwODcsLTExOTkzODQ0NzYsMTk0NDg2MzUxNSw0NzA4MTMw
+NzAsLTgwNTgyMzc4NywxODEwODUzMDU3LC0xMTAzODAxOTE5XX
+0=
 -->
