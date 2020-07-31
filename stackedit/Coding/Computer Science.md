@@ -1,9 +1,11 @@
 # OO / SOLID
 * [Refactoring.Guru](https://refactoring.guru/)
+   Examples in other languages
 * [python-patterns](https://github.com/faif/python-patterns)
-
-# Python
 * https://python-patterns.guide/
+
+# Algorithms
+* https://github.com/TheAlgorithms/Python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY4ODU0NjEsLTQzMzIyNTg5Nl19
+eyJoaXN0b3J5IjpbLTE5Mzk1OTMyMzAsLTQzMzIyNTg5Nl19
 -->
