@@ -115,6 +115,9 @@ http://www.dabeaz.com/coroutines/
 * generator .send()
 * Multi- Processing/Threading
 
+# Resources
+* https://lab.github.com/everydeveloper/introduction-to-python
+
 # Extra
 ## Git
 * Commit Messages Conventions
@@ -123,6 +126,6 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjQzOTYwMCw4MzA1NzYzOCwtMjc2OD
-QwMzYsNzYzODYxNzldfQ==
+eyJoaXN0b3J5IjpbNTAzNTE1Njg4LDE2ODY0Mzk2MDAsODMwNT
+c2MzgsLTI3Njg0MDM2LDc2Mzg2MTc5XX0=
 -->
