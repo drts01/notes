@@ -80,6 +80,10 @@
 # Algorithms
 * https://github.com/TheAlgorithms/Python
 
+# Books
+* https://github.com/kyclark/tiny_python_projects (waiting for book to become available on safarionline)
+* https://github.com/mattharrison/Tiny-Python-3.6-Notebook
+
 # Not Python Specific
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
@@ -89,11 +93,11 @@
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 * Railway Oriented Programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODUzNDU2NiwtODQ4NDgxNjg5LC0xMj
-IzNjQ2NjI0LC0xMDU5MDIzMTY1LC0xNTQ1OTYwNDk5LC03NTc5
-MzA2NSwyMDUwNDA4NDQ3LC01NzU0MDYsMTU3MDY5ODI3MSwxNz
-I3NzQ3MzM5LC0xNjE1MDUxNTMzLC0xODE3MDA1OTIwLDE5MTM2
-MzIyNjgsMjU0NTM3NjAyLDE3MTY4MzI5ODcsLTc1NzQ3NDcxOS
-wtMjEyNjg0NzE1MCwxMDA2NzIzNTc5LDEzMTY0NTQ5MTAsLTEx
-ODgwNzgwNDhdfQ==
+eyJoaXN0b3J5IjpbMzU3Mjk1OTk4LC0yOTg1MzQ1NjYsLTg0OD
+Q4MTY4OSwtMTIyMzY0NjYyNCwtMTA1OTAyMzE2NSwtMTU0NTk2
+MDQ5OSwtNzU3OTMwNjUsMjA1MDQwODQ0NywtNTc1NDA2LDE1Nz
+A2OTgyNzEsMTcyNzc0NzMzOSwtMTYxNTA1MTUzMywtMTgxNzAw
+NTkyMCwxOTEzNjMyMjY4LDI1NDUzNzYwMiwxNzE2ODMyOTg3LC
+03NTc0NzQ3MTksLTIxMjY4NDcxNTAsMTAwNjcyMzU3OSwxMzE2
+NDU0OTEwXX0=
 -->
