@@ -23,6 +23,7 @@ Computer science deals with theory of computation, algorithms, computational pro
 # Mission
 
 ## Objectives
+* Exposure/Introduction to CS concepts as field of study [in higher education] and potential career path
 * build self-confidence through doing
 * build a sense of community though collaboration
 * teach computational thinking
@@ -165,7 +166,7 @@ out of class communication to foster community, collaborations, support, etc
 		* We need to seek approval to join ASAP as they follow the school year for access. Traditional a "host site" is needed. Not sure if we are "virtual" or nomadic.
 * I can support/mentor up to 3 other facilitators
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzEyOTA4NywtMTE5OTM4NDQ3NiwxOT
-Q0ODYzNTE1LDQ3MDgxMzA3MCwtODA1ODIzNzg3LDE4MTA4NTMw
-NTcsLTExMDM4MDE5MTldfQ==
+eyJoaXN0b3J5IjpbLTU1NTM1NzM1NywtODM3MTI5MDg3LC0xMT
+k5Mzg0NDc2LDE5NDQ4NjM1MTUsNDcwODEzMDcwLC04MDU4MjM3
+ODcsMTgxMDg1MzA1NywtMTEwMzgwMTkxOV19
 -->
