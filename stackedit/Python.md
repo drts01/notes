@@ -77,6 +77,9 @@
 ## Sphinx
 * https://www.sphinx-doc.org/en/master/usage/extensions/graphviz.html
 
+# Algorithms
+* https://github.com/TheAlgorithms/Python
+
 # Not Python Specific
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
@@ -86,11 +89,11 @@
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 * Railway Oriented Programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODQ4MTY4OSwtMTIyMzY0NjYyNCwtMT
-A1OTAyMzE2NSwtMTU0NTk2MDQ5OSwtNzU3OTMwNjUsMjA1MDQw
-ODQ0NywtNTc1NDA2LDE1NzA2OTgyNzEsMTcyNzc0NzMzOSwtMT
-YxNTA1MTUzMywtMTgxNzAwNTkyMCwxOTEzNjMyMjY4LDI1NDUz
-NzYwMiwxNzE2ODMyOTg3LC03NTc0NzQ3MTksLTIxMjY4NDcxNT
-AsMTAwNjcyMzU3OSwxMzE2NDU0OTEwLC0xMTg4MDc4MDQ4LC0x
-OTI5MDg3Mzk3XX0=
+eyJoaXN0b3J5IjpbLTI5ODUzNDU2NiwtODQ4NDgxNjg5LC0xMj
+IzNjQ2NjI0LC0xMDU5MDIzMTY1LC0xNTQ1OTYwNDk5LC03NTc5
+MzA2NSwyMDUwNDA4NDQ3LC01NzU0MDYsMTU3MDY5ODI3MSwxNz
+I3NzQ3MzM5LC0xNjE1MDUxNTMzLC0xODE3MDA1OTIwLDE5MTM2
+MzIyNjgsMjU0NTM3NjAyLDE3MTY4MzI5ODcsLTc1NzQ3NDcxOS
+wtMjEyNjg0NzE1MCwxMDA2NzIzNTc5LDEzMTY0NTQ5MTAsLTEx
+ODgwNzgwNDhdfQ==
 -->
