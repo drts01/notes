@@ -104,6 +104,8 @@
 ## Testing
 * Fuzz Testing (hypothesis)
 * Mocking
+* Monkey Patching
+* Dependency Injection
 * Behavioral Driven Design
 
 ## Automation
@@ -127,6 +129,7 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODk2OTA3MjMsMTY4NjQzOTYwMCw4Mz
-A1NzYzOCwtMjc2ODQwMzYsNzYzODYxNzldfQ==
+eyJoaXN0b3J5IjpbMTQyODA4Nzc2MiwtMTU4OTY5MDcyMywxNj
+g2NDM5NjAwLDgzMDU3NjM4LC0yNzY4NDAzNiw3NjM4NjE3OV19
+
 -->
