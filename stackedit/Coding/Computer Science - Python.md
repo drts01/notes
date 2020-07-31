@@ -24,6 +24,7 @@
 
 # Need to evaluate these vids
 * [The Mental Game of Python by Raymond Hettinger](https://youtu.be/Uwuv05aZ6ug)
+* [10 Python Tips and Tricks For Writing Better Code](https://youtu.be/C-gEQdGVXbk)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5ODY5ODcxXX0=
+eyJoaXN0b3J5IjpbLTIwMDgxOTU3OTZdfQ==
 -->
