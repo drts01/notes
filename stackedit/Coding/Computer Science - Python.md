@@ -13,11 +13,13 @@
 ## Dataclass
 * [Dataclasses: The code generator to end all code generators by Raymond Hettinger - PyCon 2018](https://youtu.be/T-TwcmT6Rcw)
 
+## 
+
 # Algorithms
 * https://github.com/TheAlgorithms/Python
 
 # Refactoring
-* [Transforming Code into Beautiful, Idiomatic Python]()
+* [Transforming Code into Beautiful, Idiomatic Python](https://youtu.be/OSGv2VnC0go)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjgwMDM5XX0=
+eyJoaXN0b3J5IjpbLTE4NTA1NjcwNTZdfQ==
 -->
