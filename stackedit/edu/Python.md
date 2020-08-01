@@ -35,10 +35,9 @@
 ## Documentation
 * Docstrings
 * Comments
-
-* https://pragtob.wordpress.com/2017/11/14/are-comments-a-code-smell-yes-no-it-depends/
-* https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
-* \# TODO: add comments by [Nik Kantar](https://www.nkantar.com), PyOhio 2019 ([slides](https://github.com/nkantar/talks/tree/master/todo_add_comments/2019_07_pyohio), [video](https://www.youtube.com/watch?v=Y3eKG3mpj_E))
+	* [Are comments a code smell? Yes! No? It Depends.](https://pragtob.wordpress.com/2017/11/14/are-comments-a-code-smell-yes-no-it-depends/)
+	* https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
+	* \# TODO: add comments by [Nik Kantar](https://www.nkantar.com), PyOhio 2019 ([slides](https://github.com/nkantar/talks/tree/master/todo_add_comments/2019_07_pyohio), [video](https://www.youtube.com/watch?v=Y3eKG3mpj_E))
 
 # Intermediate
 ## Enforcing Coding Best Practices
@@ -133,7 +132,7 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTU0NTI0MjEsLTU1OTg1NTYxNSw4OT
-Q5MjU3MywxNDI4MDg3NzYyLC0xNTg5NjkwNzIzLDE2ODY0Mzk2
-MDAsODMwNTc2MzgsLTI3Njg0MDM2LDc2Mzg2MTc5XX0=
+eyJoaXN0b3J5IjpbMjYxODkwMDU4LC01NTk4NTU2MTUsODk0OT
+I1NzMsMTQyODA4Nzc2MiwtMTU4OTY5MDcyMywxNjg2NDM5NjAw
+LDgzMDU3NjM4LC0yNzY4NDAzNiw3NjM4NjE3OV19
 -->
