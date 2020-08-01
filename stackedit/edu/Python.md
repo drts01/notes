@@ -35,6 +35,8 @@
 ## Documentation
 ### Docstrings
 ### Comments
+> comments often are used as a deodorant.... When you feel the need to write a comment, first try to refactor the code so that any  
+comment becomes superfluous.
 >The proper use of comments is to compensate for our failure to express ourself in  code.
 --Robert Martin, Clean Code
 
@@ -135,8 +137,8 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzE4MTAyMSwxMzU4OTY4MjM1LC01NT
-k4NTU2MTUsODk0OTI1NzMsMTQyODA4Nzc2MiwtMTU4OTY5MDcy
-MywxNjg2NDM5NjAwLDgzMDU3NjM4LC0yNzY4NDAzNiw3NjM4Nj
-E3OV19
+eyJoaXN0b3J5IjpbLTE5NjU4NDk5NDgsMjEwNzE4MTAyMSwxMz
+U4OTY4MjM1LC01NTk4NTU2MTUsODk0OTI1NzMsMTQyODA4Nzc2
+MiwtMTU4OTY5MDcyMywxNjg2NDM5NjAwLDgzMDU3NjM4LC0yNz
+Y4NDAzNiw3NjM4NjE3OV19
 -->
