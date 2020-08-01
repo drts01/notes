@@ -34,7 +34,9 @@
 
 ## Documentation
 ### Docstrings
-* Sty
+* Style
+* Generation
+
 ### Comments
 > comments often are used as a deodorant.... When you feel the need to write a comment, first try to refactor the code so that any  
 comment becomes superfluous.
@@ -140,8 +142,8 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxMTEyMTA0LDIxMDcxODEwMjEsMTM1OD
-k2ODIzNSwtNTU5ODU1NjE1LDg5NDkyNTczLDE0MjgwODc3NjIs
-LTE1ODk2OTA3MjMsMTY4NjQzOTYwMCw4MzA1NzYzOCwtMjc2OD
-QwMzYsNzYzODYxNzldfQ==
+eyJoaXN0b3J5IjpbMTAxMTczNDE0MSwyMTA3MTgxMDIxLDEzNT
+g5NjgyMzUsLTU1OTg1NTYxNSw4OTQ5MjU3MywxNDI4MDg3NzYy
+LC0xNTg5NjkwNzIzLDE2ODY0Mzk2MDAsODMwNTc2MzgsLTI3Nj
+g0MDM2LDc2Mzg2MTc5XX0=
 -->
