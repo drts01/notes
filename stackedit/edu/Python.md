@@ -34,10 +34,13 @@
 
 ## Documentation
 ### Docstrings
+* Sty
 ### Comments
 > comments often are used as a deodorant.... When you feel the need to write a comment, first try to refactor the code so that any  
 comment becomes superfluous.
->The proper use of comments is to compensate for our failure to express ourself in  code.
+-- Martin Fowler, Refactoring
+
+>The proper use of comments is to compensate for our failure to express ourself in code.
 --Robert Martin, Clean Code
 
 * [Are comments a code smell? Yes! No? It Depends.](https://pragtob.wordpress.com/2017/11/14/are-comments-a-code-smell-yes-no-it-depends/)
@@ -137,8 +140,8 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjU4NDk5NDgsMjEwNzE4MTAyMSwxMz
-U4OTY4MjM1LC01NTk4NTU2MTUsODk0OTI1NzMsMTQyODA4Nzc2
-MiwtMTU4OTY5MDcyMywxNjg2NDM5NjAwLDgzMDU3NjM4LC0yNz
-Y4NDAzNiw3NjM4NjE3OV19
+eyJoaXN0b3J5IjpbNjgxMTEyMTA0LDIxMDcxODEwMjEsMTM1OD
+k2ODIzNSwtNTU5ODU1NjE1LDg5NDkyNTczLDE0MjgwODc3NjIs
+LTE1ODk2OTA3MjMsMTY4NjQzOTYwMCw4MzA1NzYzOCwtMjc2OD
+QwMzYsNzYzODYxNzldfQ==
 -->
