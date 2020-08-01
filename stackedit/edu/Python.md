@@ -36,6 +36,8 @@
 * Docstrings
 * Comments
 
+**PyOhio 2019**, Saturday, July 27, 2019 ([slides](https://github.com/nkantar/talks/tree/master/todo_add_comments/2019_07_pyohio), [video](https://www.youtube.com/watch?v=Y3eKG3mpj_E))
+
 # Intermediate
 ## Enforcing Coding Best Practices
 * Linting
@@ -129,7 +131,7 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODA4Nzc2MiwtMTU4OTY5MDcyMywxNj
-g2NDM5NjAwLDgzMDU3NjM4LC0yNzY4NDAzNiw3NjM4NjE3OV19
-
+eyJoaXN0b3J5IjpbLTExNTQ0ODc1NjIsMTQyODA4Nzc2MiwtMT
+U4OTY5MDcyMywxNjg2NDM5NjAwLDgzMDU3NjM4LC0yNzY4NDAz
+Niw3NjM4NjE3OV19
 -->
