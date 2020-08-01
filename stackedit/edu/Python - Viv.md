@@ -30,7 +30,10 @@ A tool that analyzes source code to flag programming errors, bugs, stylistic err
 ## Documentation
 
 ### Commenting
-* why not what
+* [Are comments a code smell? Yes! No? It Depends.](https://pragtob.wordpress.com/2017/11/14/are-comments-a-code-smell-yes-no-it-depends/)
+* [Code Tells You How, Comments Tell You Why](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)
+* \# TODO: add comments by [Nik Kantar](https://www.nkantar.com), PyOhio 2019 ([slides](https://github.com/nkantar/talks/tree/master/todo_add_comments/2019_07_pyohio), [video](https://www.youtube.com/watch?v=Y3eKG3mpj_E))
+
 
 ### Docstrings
 #### Styles
@@ -77,8 +80,8 @@ pytest
 ## Code Coverage
 coverage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTk1NTc0NywxOTMzNzM1MjE5LDQ4Nz
-Y4NDMxOCwxODY2NjkxMDA5LC0yMTM5NDc3MTM4LC0yMTA1NTM4
-MTczLC04OTQ4ODE1MjMsMTMxOTY5MDQ4NCw0OTU5OTUxMTUsMT
-c2OTQxMTg4OSwtNTQyNDM1MDc3XX0=
+eyJoaXN0b3J5IjpbLTkxNTU0NTMwOSwxMjQ5OTU1NzQ3LDE5Mz
+M3MzUyMTksNDg3Njg0MzE4LDE4NjY2OTEwMDksLTIxMzk0Nzcx
+MzgsLTIxMDU1MzgxNzMsLTg5NDg4MTUyMywxMzE5NjkwNDg0LD
+Q5NTk5NTExNSwxNzY5NDExODg5LC01NDI0MzUwNzddfQ==
 -->
