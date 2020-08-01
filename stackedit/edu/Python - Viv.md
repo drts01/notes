@@ -31,11 +31,9 @@ A tool that analyzes source code to flag programming errors, bugs, stylistic err
 
 ### Commenting
 > comments often are used as a deodorant.... When you feel the need to write a comment, first try to refactor the code so that any  
-comment becomes superfluous.
--- Martin Fowler, Refactoring
+comment becomes superfluous. <br/>-- Martin Fowler, Refactoring
 
->The proper use of comments is to compensate for our failure to express ourself in code.
---Robert Martin, Clean Code
+> The proper use of comments is to compensate for our failure to express ourself in code. <br/>--Robert Martin, Clean Code
 
 * [Are comments a code smell? Yes! No? It Depends.](https://pragtob.wordpress.com/2017/11/14/are-comments-a-code-smell-yes-no-it-depends/)
 * [Code Tells You How, Comments Tell You Why](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)
@@ -87,7 +85,7 @@ pytest
 ## Code Coverage
 coverage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTc2NzcwNzQsLTkxNTU0NTMwOSwxMj
+eyJoaXN0b3J5IjpbLTEzNzg5MzY3MDQsLTkxNTU0NTMwOSwxMj
 Q5OTU1NzQ3LDE5MzM3MzUyMTksNDg3Njg0MzE4LDE4NjY2OTEw
 MDksLTIxMzk0NzcxMzgsLTIxMDU1MzgxNzMsLTg5NDg4MTUyMy
 wxMzE5NjkwNDg0LDQ5NTk5NTExNSwxNzY5NDExODg5LC01NDI0
