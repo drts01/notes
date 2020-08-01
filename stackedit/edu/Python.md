@@ -36,7 +36,7 @@
 * Docstrings
 * Comments
 	* [Are comments a code smell? Yes! No? It Depends.](https://pragtob.wordpress.com/2017/11/14/are-comments-a-code-smell-yes-no-it-depends/)
-	* https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
+	* [Code Tells You How, Comments Tell You Why](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)
 	* \# TODO: add comments by [Nik Kantar](https://www.nkantar.com), PyOhio 2019 ([slides](https://github.com/nkantar/talks/tree/master/todo_add_comments/2019_07_pyohio), [video](https://www.youtube.com/watch?v=Y3eKG3mpj_E))
 
 # Intermediate
@@ -132,7 +132,7 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxODkwMDU4LC01NTk4NTU2MTUsODk0OT
-I1NzMsMTQyODA4Nzc2MiwtMTU4OTY5MDcyMywxNjg2NDM5NjAw
-LDgzMDU3NjM4LC0yNzY4NDAzNiw3NjM4NjE3OV19
+eyJoaXN0b3J5IjpbMTM1ODk2ODIzNSwtNTU5ODU1NjE1LDg5ND
+kyNTczLDE0MjgwODc3NjIsLTE1ODk2OTA3MjMsMTY4NjQzOTYw
+MCw4MzA1NzYzOCwtMjc2ODQwMzYsNzYzODYxNzldfQ==
 -->
