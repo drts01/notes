@@ -33,11 +33,14 @@
    Mutable vs Immutable
 
 ## Documentation
-* Docstrings
-* Comments
-	* [Are comments a code smell? Yes! No? It Depends.](https://pragtob.wordpress.com/2017/11/14/are-comments-a-code-smell-yes-no-it-depends/)
-	* [Code Tells You How, Comments Tell You Why](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)
-	* \# TODO: add comments by [Nik Kantar](https://www.nkantar.com), PyOhio 2019 ([slides](https://github.com/nkantar/talks/tree/master/todo_add_comments/2019_07_pyohio), [video](https://www.youtube.com/watch?v=Y3eKG3mpj_E))
+### Docstrings
+### Comments
+>The proper use of comments is to compensate for our failure to express ourself in  code.
+--Robert Martin, Clean Code
+
+* [Are comments a code smell? Yes! No? It Depends.](https://pragtob.wordpress.com/2017/11/14/are-comments-a-code-smell-yes-no-it-depends/)
+* [Code Tells You How, Comments Tell You Why](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)
+* \# TODO: add comments by [Nik Kantar](https://www.nkantar.com), PyOhio 2019 ([slides](https://github.com/nkantar/talks/tree/master/todo_add_comments/2019_07_pyohio), [video](https://www.youtube.com/watch?v=Y3eKG3mpj_E))
 
 # Intermediate
 ## Enforcing Coding Best Practices
@@ -132,7 +135,8 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODk2ODIzNSwtNTU5ODU1NjE1LDg5ND
-kyNTczLDE0MjgwODc3NjIsLTE1ODk2OTA3MjMsMTY4NjQzOTYw
-MCw4MzA1NzYzOCwtMjc2ODQwMzYsNzYzODYxNzldfQ==
+eyJoaXN0b3J5IjpbMjEwNzE4MTAyMSwxMzU4OTY4MjM1LC01NT
+k4NTU2MTUsODk0OTI1NzMsMTQyODA4Nzc2MiwtMTU4OTY5MDcy
+MywxNjg2NDM5NjAwLDgzMDU3NjM4LC0yNzY4NDAzNiw3NjM4Nj
+E3OV19
 -->
