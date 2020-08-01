@@ -38,7 +38,7 @@
 
 * \# TODO: add comments by [Nik Kantar](https://www.nkantar.com), PyOhio 2019 ([slides](https://github.com/nkantar/talks/tree/master/todo_add_comments/2019_07_pyohio), [video](https://www.youtube.com/watch?v=Y3eKG3mpj_E))
 * https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
-* 
+* https://www.freecodecamp.org/news/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83/
 
 # Intermediate
 ## Enforcing Coding Best Practices
@@ -133,7 +133,7 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc0OTA2MDIsODk0OTI1NzMsMTQyOD
-A4Nzc2MiwtMTU4OTY5MDcyMywxNjg2NDM5NjAwLDgzMDU3NjM4
-LC0yNzY4NDAzNiw3NjM4NjE3OV19
+eyJoaXN0b3J5IjpbLTU1OTg1NTYxNSw4OTQ5MjU3MywxNDI4MD
+g3NzYyLC0xNTg5NjkwNzIzLDE2ODY0Mzk2MDAsODMwNTc2Mzgs
+LTI3Njg0MDM2LDc2Mzg2MTc5XX0=
 -->
