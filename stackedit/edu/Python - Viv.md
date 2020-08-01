@@ -30,6 +30,13 @@ A tool that analyzes source code to flag programming errors, bugs, stylistic err
 ## Documentation
 
 ### Commenting
+> comments often are used as a deodorant.... When you feel the need to write a comment, first try to refactor the code so that any  
+comment becomes superfluous.
+-- Martin Fowler, Refactoring
+
+>The proper use of comments is to compensate for our failure to express ourself in code.
+--Robert Martin, Clean Code
+
 * [Are comments a code smell? Yes! No? It Depends.](https://pragtob.wordpress.com/2017/11/14/are-comments-a-code-smell-yes-no-it-depends/)
 * [Code Tells You How, Comments Tell You Why](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)
 * \# TODO: add comments by [Nik Kantar](https://www.nkantar.com), PyOhio 2019 ([slides](https://github.com/nkantar/talks/tree/master/todo_add_comments/2019_07_pyohio), [video](https://www.youtube.com/watch?v=Y3eKG3mpj_E))
@@ -80,8 +87,9 @@ pytest
 ## Code Coverage
 coverage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTU0NTMwOSwxMjQ5OTU1NzQ3LDE5Mz
-M3MzUyMTksNDg3Njg0MzE4LDE4NjY2OTEwMDksLTIxMzk0Nzcx
-MzgsLTIxMDU1MzgxNzMsLTg5NDg4MTUyMywxMzE5NjkwNDg0LD
-Q5NTk5NTExNSwxNzY5NDExODg5LC01NDI0MzUwNzddfQ==
+eyJoaXN0b3J5IjpbLTE3MTc2NzcwNzQsLTkxNTU0NTMwOSwxMj
+Q5OTU1NzQ3LDE5MzM3MzUyMTksNDg3Njg0MzE4LDE4NjY2OTEw
+MDksLTIxMzk0NzcxMzgsLTIxMDU1MzgxNzMsLTg5NDg4MTUyMy
+wxMzE5NjkwNDg0LDQ5NTk5NTExNSwxNzY5NDExODg5LC01NDI0
+MzUwNzddfQ==
 -->
