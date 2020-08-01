@@ -36,7 +36,7 @@
 * Docstrings
 * Comments
 
-* TODO: add comments, PyOhio 2019 ([slides](https://github.com/nkantar/talks/tree/master/todo_add_comments/2019_07_pyohio), [video](https://www.youtube.com/watch?v=Y3eKG3mpj_E))
+* \# TODO: add comments by [Nik Kantar](https://www.nkantar.com), PyOhio 2019 ([slides](https://github.com/nkantar/talks/tree/master/todo_add_comments/2019_07_pyohio), [video](https://www.youtube.com/watch?v=Y3eKG3mpj_E))
 
 # Intermediate
 ## Enforcing Coding Best Practices
@@ -131,7 +131,7 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzNDMwOTQ3LDE0MjgwODc3NjIsLTE1OD
-k2OTA3MjMsMTY4NjQzOTYwMCw4MzA1NzYzOCwtMjc2ODQwMzYs
-NzYzODYxNzldfQ==
+eyJoaXN0b3J5IjpbODk0OTI1NzMsMTQyODA4Nzc2MiwtMTU4OT
+Y5MDcyMywxNjg2NDM5NjAwLDgzMDU3NjM4LC0yNzY4NDAzNiw3
+NjM4NjE3OV19
 -->
