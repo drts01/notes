@@ -85,6 +85,7 @@
 	* https://github.com/mattharrison/Tiny-Python-3.6-Notebook
 &nbsp;
 * Effective Python
+* Fluent Python
 
 ## Beginner
 * Think Python
@@ -99,11 +100,11 @@
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 * Railway Oriented Programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTYyNTksLTEzNTc1Njc4MzIsLTEzMz
-kwNDYwNjYsLTM5MzM2MzAxMywtMjk4NTM0NTY2LC04NDg0ODE2
-ODksLTEyMjM2NDY2MjQsLTEwNTkwMjMxNjUsLTE1NDU5NjA0OT
-ksLTc1NzkzMDY1LDIwNTA0MDg0NDcsLTU3NTQwNiwxNTcwNjk4
-MjcxLDE3Mjc3NDczMzksLTE2MTUwNTE1MzMsLTE4MTcwMDU5Mj
-AsMTkxMzYzMjI2OCwyNTQ1Mzc2MDIsMTcxNjgzMjk4NywtNzU3
-NDc0NzE5XX0=
+eyJoaXN0b3J5IjpbLTE0OTczNzgzNTUsMTc2MTYyNTksLTEzNT
+c1Njc4MzIsLTEzMzkwNDYwNjYsLTM5MzM2MzAxMywtMjk4NTM0
+NTY2LC04NDg0ODE2ODksLTEyMjM2NDY2MjQsLTEwNTkwMjMxNj
+UsLTE1NDU5NjA0OTksLTc1NzkzMDY1LDIwNTA0MDg0NDcsLTU3
+NTQwNiwxNTcwNjk4MjcxLDE3Mjc3NDczMzksLTE2MTUwNTE1Mz
+MsLTE4MTcwMDU5MjAsMTkxMzYzMjI2OCwyNTQ1Mzc2MDIsMTcx
+NjgzMjk4N119
 -->
