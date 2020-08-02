@@ -84,6 +84,12 @@
 	* https://github.com/mattharrison/Tiny-Python-3.8-Notebook
 	* https://github.com/mattharrison/Tiny-Python-3.6-Notebook
 
+* Effective Python
+
+
+## Beginner
+* Think Python
+
 # Not Python Specific
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
@@ -94,11 +100,11 @@
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 * Railway Oriented Programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTc1Njc4MzIsLTEzMzkwNDYwNjYsLT
-M5MzM2MzAxMywtMjk4NTM0NTY2LC04NDg0ODE2ODksLTEyMjM2
-NDY2MjQsLTEwNTkwMjMxNjUsLTE1NDU5NjA0OTksLTc1NzkzMD
-Y1LDIwNTA0MDg0NDcsLTU3NTQwNiwxNTcwNjk4MjcxLDE3Mjc3
-NDczMzksLTE2MTUwNTE1MzMsLTE4MTcwMDU5MjAsMTkxMzYzMj
-I2OCwyNTQ1Mzc2MDIsMTcxNjgzMjk4NywtNzU3NDc0NzE5LC0y
-MTI2ODQ3MTUwXX0=
+eyJoaXN0b3J5IjpbLTg3MTU4ODg3OSwtMTM1NzU2NzgzMiwtMT
+MzOTA0NjA2NiwtMzkzMzYzMDEzLC0yOTg1MzQ1NjYsLTg0ODQ4
+MTY4OSwtMTIyMzY0NjYyNCwtMTA1OTAyMzE2NSwtMTU0NTk2MD
+Q5OSwtNzU3OTMwNjUsMjA1MDQwODQ0NywtNTc1NDA2LDE1NzA2
+OTgyNzEsMTcyNzc0NzMzOSwtMTYxNTA1MTUzMywtMTgxNzAwNT
+kyMCwxOTEzNjMyMjY4LDI1NDUzNzYwMiwxNzE2ODMyOTg3LC03
+NTc0NzQ3MTldfQ==
 -->
