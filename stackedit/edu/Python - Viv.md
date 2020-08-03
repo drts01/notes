@@ -60,6 +60,11 @@ comment becomes superfluous. <br/>-- Martin Fowler, Refactoring
 * reStructuredText
 * Markdown
 
+
+
+
+# Session 2
+
 ## Project Structure
 * Setuptools
 * pyproject.toml
@@ -76,18 +81,12 @@ comment becomes superfluous. <br/>-- Martin Fowler, Refactoring
 #### Why
 * reproducibility
 
-# Session 2
-Testing returns dividends.
-
-## Testing
-pytest
-
 ## Code Coverage
 coverage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI4MTQ1OCwtOTE1NTQ1MzA5LDEyND
-k5NTU3NDcsMTkzMzczNTIxOSw0ODc2ODQzMTgsMTg2NjY5MTAw
-OSwtMjEzOTQ3NzEzOCwtMjEwNTUzODE3MywtODk0ODgxNTIzLD
-EzMTk2OTA0ODQsNDk1OTk1MTE1LDE3Njk0MTE4ODksLTU0MjQz
-NTA3N119
+eyJoaXN0b3J5IjpbMTU4OTQ3OTg0MCwtMTM4MjgxNDU4LC05MT
+U1NDUzMDksMTI0OTk1NTc0NywxOTMzNzM1MjE5LDQ4NzY4NDMx
+OCwxODY2NjkxMDA5LC0yMTM5NDc3MTM4LC0yMTA1NTM4MTczLC
+04OTQ4ODE1MjMsMTMxOTY5MDQ4NCw0OTU5OTUxMTUsMTc2OTQx
+MTg4OSwtNTQyNDM1MDc3XX0=
 -->
