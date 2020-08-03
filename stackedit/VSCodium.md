@@ -8,6 +8,17 @@ Clear:
 ```sh
 rm -rf -- ~/.config/VSCod* ~/.vscod*
 ```
+
+# Setup
+
+## Initialize
+Create config folders.
+```sh
+codium --list-extensions
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDMxOTY0MywtODU5MDYzNzQ0XX0=
+eyJoaXN0b3J5IjpbLTEwOTU2MDM5MzEsMTI3NDMxOTY0MywtOD
+U5MDYzNzQ0XX0=
 -->
