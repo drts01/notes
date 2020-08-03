@@ -27,6 +27,11 @@ A tool that analyzes source code to flag programming errors, bugs, stylistic err
 	* How to read output
 * Configure / Options
 
+## Testing
+Testing returns dividends.
+
+pytest
+
 ## Documentation
 
 ### Commenting
@@ -38,7 +43,6 @@ comment becomes superfluous. <br/>-- Martin Fowler, Refactoring
 * [Are comments a code smell? Yes! No? It Depends.](https://pragtob.wordpress.com/2017/11/14/are-comments-a-code-smell-yes-no-it-depends/)
 * [Code Tells You How, Comments Tell You Why](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)
 * \# TODO: add comments by [Nik Kantar](https://www.nkantar.com), PyOhio 2019 ([slides](https://github.com/nkantar/talks/tree/master/todo_add_comments/2019_07_pyohio), [video](https://www.youtube.com/watch?v=Y3eKG3mpj_E))
-
 
 ### Docstrings
 #### Styles
@@ -59,9 +63,6 @@ comment becomes superfluous. <br/>-- Martin Fowler, Refactoring
 #### Markup
 * reStructuredText
 * Markdown
-
-
-
 
 # Session 2
 
@@ -84,9 +85,9 @@ comment becomes superfluous. <br/>-- Martin Fowler, Refactoring
 ## Code Coverage
 coverage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTQ3OTg0MCwtMTM4MjgxNDU4LC05MT
-U1NDUzMDksMTI0OTk1NTc0NywxOTMzNzM1MjE5LDQ4NzY4NDMx
-OCwxODY2NjkxMDA5LC0yMTM5NDc3MTM4LC0yMTA1NTM4MTczLC
-04OTQ4ODE1MjMsMTMxOTY5MDQ4NCw0OTU5OTUxMTUsMTc2OTQx
-MTg4OSwtNTQyNDM1MDc3XX0=
+eyJoaXN0b3J5IjpbNzA4NDk4NTI4LC0xMzgyODE0NTgsLTkxNT
+U0NTMwOSwxMjQ5OTU1NzQ3LDE5MzM3MzUyMTksNDg3Njg0MzE4
+LDE4NjY2OTEwMDksLTIxMzk0NzcxMzgsLTIxMDU1MzgxNzMsLT
+g5NDg4MTUyMywxMzE5NjkwNDg0LDQ5NTk5NTExNSwxNzY5NDEx
+ODg5LC01NDI0MzUwNzddfQ==
 -->
