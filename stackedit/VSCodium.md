@@ -1,7 +1,13 @@
 # Reset Settings
+
+Paths:
+* `${HOME}/.config/VSCodium`
+* `${HOME}/.vscode-oss`
+
+Clear:
 ```sh
-rm -rf -- ~/.config/VSCod* ~/.vscode*
+rm -rf -- ~/.config/VSCod* ~/.vscod*
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NjMxMzU5OCwtODU5MDYzNzQ0XX0=
+eyJoaXN0b3J5IjpbMTI3NDMxOTY0MywtODU5MDYzNzQ0XX0=
 -->
