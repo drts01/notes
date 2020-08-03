@@ -1,7 +1,7 @@
 # Reset Settings
 ```sh
-rm -rf -- ~/.config/Code ~/.vscode*
+rm -rf -- ~/.config/VSCod* ~/.vscode*
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTA2Mzc0NF19
+eyJoaXN0b3J5IjpbMTY3NjMxMzU5OCwtODU5MDYzNzQ0XX0=
 -->
