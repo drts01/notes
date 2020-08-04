@@ -39,13 +39,18 @@ codium --list-extensions
 ```
 
 ## Setup Sync
+
+### Install
 ```sh
 codium --install-extension arnohovhannisyan.syncify
 ```
 
+### Configure
+https://arnohovhannisyan.space/vscode-syncify/docs/syncers/repo
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwMDIwMDQzLDEzMTc4NTM2MTcsLTE0MT
-IwODY4MDYsLTEwOTU2MDM5MzEsMTI3NDMxOTY0MywtODU5MDYz
-NzQ0XX0=
+eyJoaXN0b3J5IjpbLTg1ODU5MjU1Myw3ODAwMjAwNDMsMTMxNz
+g1MzYxNywtMTQxMjA4NjgwNiwtMTA5NTYwMzkzMSwxMjc0MzE5
+NjQzLC04NTkwNjM3NDRdfQ==
 -->
