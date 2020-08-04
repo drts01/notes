@@ -68,7 +68,7 @@
 * https://github.com/kiwicom/schemathesis - OpenAPI testing
 
 # Libs
-Extending 
+"Extending" stdlib
 * https://github.com/mahmoud/boltons
 * https://github.com/more-itertools/more-itertools
 
@@ -102,11 +102,11 @@ Extending
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 * Railway Oriented Programming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTcxNzM4MDIsLTE0OTczNzgzNTUsMT
-c2MTYyNTksLTEzNTc1Njc4MzIsLTEzMzkwNDYwNjYsLTM5MzM2
-MzAxMywtMjk4NTM0NTY2LC04NDg0ODE2ODksLTEyMjM2NDY2Mj
-QsLTEwNTkwMjMxNjUsLTE1NDU5NjA0OTksLTc1NzkzMDY1LDIw
-NTA0MDg0NDcsLTU3NTQwNiwxNTcwNjk4MjcxLDE3Mjc3NDczMz
-ksLTE2MTUwNTE1MzMsLTE4MTcwMDU5MjAsMTkxMzYzMjI2OCwy
-NTQ1Mzc2MDJdfQ==
+eyJoaXN0b3J5IjpbODg1NDA3MTg4LC0xNDk3Mzc4MzU1LDE3Nj
+E2MjU5LC0xMzU3NTY3ODMyLC0xMzM5MDQ2MDY2LC0zOTMzNjMw
+MTMsLTI5ODUzNDU2NiwtODQ4NDgxNjg5LC0xMjIzNjQ2NjI0LC
+0xMDU5MDIzMTY1LC0xNTQ1OTYwNDk5LC03NTc5MzA2NSwyMDUw
+NDA4NDQ3LC01NzU0MDYsMTU3MDY5ODI3MSwxNzI3NzQ3MzM5LC
+0xNjE1MDUxNTMzLC0xODE3MDA1OTIwLDE5MTM2MzIyNjgsMjU0
+NTM3NjAyXX0=
 -->
