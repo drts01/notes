@@ -9,14 +9,15 @@ Clear:
 rm -rf -- ~/.config/VSCod* ~/.vscod*
 ```
 # Market Place
+
 ```json
 "extensionsGallery": {
-    "serviceUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
-    "cacheUrl": "https://vscode.blob.core.windows.net/gallery/index",
-    "itemUrl": "https://marketplace.visualstudio.com/items"
+    "serviceUrl": "https://open-vsx.org/vscode/gallery",
+    "itemUrl": "https://open-vsx.org/vscode/item"
 }
 ```
 
+## Visual Studio Marketplace
 ```json
 "extensionsGallery": {
     "serviceUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
@@ -35,6 +36,6 @@ codium --list-extensions
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjAxMTU3MDcsLTE0MTIwODY4MDYsLT
-EwOTU2MDM5MzEsMTI3NDMxOTY0MywtODU5MDYzNzQ0XX0=
+eyJoaXN0b3J5IjpbMTQzMDQzNDkzMiwtMTQxMjA4NjgwNiwtMT
+A5NTYwMzkzMSwxMjc0MzE5NjQzLC04NTkwNjM3NDRdfQ==
 -->
