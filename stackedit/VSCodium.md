@@ -9,7 +9,7 @@ Clear:
 rm -rf -- ~/.config/VSCod* ~/.vscod*
 ```
 # Market Place
-
+## 
 ```json
 "extensionsGallery": {
     "serviceUrl": "https://open-vsx.org/vscode/gallery",
@@ -36,6 +36,6 @@ codium --list-extensions
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDQzNDkzMiwtMTQxMjA4NjgwNiwtMT
-A5NTYwMzkzMSwxMjc0MzE5NjQzLC04NTkwNjM3NDRdfQ==
+eyJoaXN0b3J5IjpbMzcxOTQyNjM4LC0xNDEyMDg2ODA2LC0xMD
+k1NjAzOTMxLDEyNzQzMTk2NDMsLTg1OTA2Mzc0NF19
 -->
