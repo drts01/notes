@@ -16,7 +16,15 @@ rm -rf -- ~/.config/VSCod* ~/.vscod*
     "itemUrl": "https://marketplace.visualstudio.com/items"
 }
 ```
+
+```json
+"extensionsGallery": {
+    "serviceUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+    "cacheUrl": "https://vscode.blob.core.windows.net/gallery/index",
+    "itemUrl": "https://marketplace.visualstudio.com/items"
+}
 ```
+
 # Setup
 
 ## Initialize
@@ -27,6 +35,6 @@ codium --list-extensions
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTIwODY4MDYsLTEwOTU2MDM5MzEsMT
-I3NDMxOTY0MywtODU5MDYzNzQ0XX0=
+eyJoaXN0b3J5IjpbLTE4MjAxMTU3MDcsLTE0MTIwODY4MDYsLT
+EwOTU2MDM5MzEsMTI3NDMxOTY0MywtODU5MDYzNzQ0XX0=
 -->
