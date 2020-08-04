@@ -40,12 +40,12 @@ codium --list-extensions
 
 ## Setup Sync
 ```sh
-codium --verbose --install-extension arnohovhannisyan.syncify
+codium --install-extension arnohovhannisyan.syncify
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI0MTUwOTUsMTMxNzg1MzYxNywtMT
-QxMjA4NjgwNiwtMTA5NTYwMzkzMSwxMjc0MzE5NjQzLC04NTkw
-NjM3NDRdfQ==
+eyJoaXN0b3J5IjpbNzgwMDIwMDQzLDEzMTc4NTM2MTcsLTE0MT
+IwODY4MDYsLTEwOTU2MDM5MzEsMTI3NDMxOTY0MywtODU5MDYz
+NzQ0XX0=
 -->
