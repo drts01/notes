@@ -48,7 +48,7 @@ codium --install-extension arnohovhannisyan.syncify
 ### Configure
 https://arnohovhannisyan.space/vscode-syncify/docs/syncers/repo
 
-File: `/home/digitalr00ts/.config/VSCodium/User/globalStorage/arnohovhannisyan.syncify/settings.json`
+File: `${HOME}/.config/VSCodium/User/globalStorage/arnohovhannisyan.syncify/settings.json`
 ```json
 {
 	"syncer": "repo",
@@ -81,7 +81,8 @@ File: `/home/digitalr00ts/.config/VSCodium/User/globalStorage/arnohovhannisyan.s
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjgwMzY5MSwtODU4NTkyNTUzLDc4MD
-AyMDA0MywxMzE3ODUzNjE3LC0xNDEyMDg2ODA2LC0xMDk1NjAz
-OTMxLDEyNzQzMTk2NDMsLTg1OTA2Mzc0NF19
+eyJoaXN0b3J5IjpbLTQzODI1NjA3NiwxMzAyODAzNjkxLC04NT
+g1OTI1NTMsNzgwMDIwMDQzLDEzMTc4NTM2MTcsLTE0MTIwODY4
+MDYsLTEwOTU2MDM5MzEsMTI3NDMxOTY0MywtODU5MDYzNzQ0XX
+0=
 -->
