@@ -38,8 +38,14 @@ Create config folders.
 codium --list-extensions
 ```
 
+## Setup Sync
+```sh
+codium --verbose --install-extension arnohovhannisyan.syncify
+```
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzg1MzYxNywtMTQxMjA4NjgwNiwtMT
-A5NTYwMzkzMSwxMjc0MzE5NjQzLC04NTkwNjM3NDRdfQ==
+eyJoaXN0b3J5IjpbLTEwNTI0MTUwOTUsMTMxNzg1MzYxNywtMT
+QxMjA4NjgwNiwtMTA5NTYwMzkzMSwxMjc0MzE5NjQzLC04NTkw
+NjM3NDRdfQ==
 -->
