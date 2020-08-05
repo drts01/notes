@@ -27,8 +27,12 @@
 # Github
 * https://lab.github.com/githubtraining/ramp-up-on-git-and-github
 * [cli](https://cli.github.com/)
+
+# Commit Messages
+* https://www.conventionalcommits.org/
+* http://karma-runner.github.io/1.0/dev/git-commit-msg.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTUyNjYxNDAsLTE5MDUyODk3ODMsLT
-gxNjUxOTcwNSwxODUzNDI1NjI2LDIxNzQ0MzA5MywtMjAxMzA3
-NzY3MSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNzE1NzAzNjM5LC0xOTk1MjY2MTQwLC0xOT
+A1Mjg5NzgzLC04MTY1MTk3MDUsMTg1MzQyNTYyNiwyMTc0NDMw
+OTMsLTIwMTMwNzc2NzEsLTIwODg3NDY2MTJdfQ==
 -->
