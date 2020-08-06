@@ -30,10 +30,12 @@
 
 # Commit Messages
 * https://www.conventionalcommits.org/
-* http://karma-runner.github.io/1.0/dev/git-commit-msg.html
+* http://karma-runner.github.io/5.0/dev/git-commit-msg.html
+	* https://github.com/karma-runner/karma/blob/master/docs/dev/06-git-commit-msg.md
 * https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQzNjY3MjQsLTE5OTUyNjYxNDAsLT
-E5MDUyODk3ODMsLTgxNjUxOTcwNSwxODUzNDI1NjI2LDIxNzQ0
-MzA5MywtMjAxMzA3NzY3MSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTIwOTU5NjY4NzQsLTE1OTQzNjY3MjQsLT
+E5OTUyNjYxNDAsLTE5MDUyODk3ODMsLTgxNjUxOTcwNSwxODUz
+NDI1NjI2LDIxNzQ0MzA5MywtMjAxMzA3NzY3MSwtMjA4ODc0Nj
+YxMl19
 -->
