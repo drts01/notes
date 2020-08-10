@@ -92,6 +92,9 @@
 ## Beginner
 * Think Python
 
+# Styleguide
+* https://github.com/amontalenti/elements-of-python-style
+
 # Not Python Specific
 * [Fortify Taxonomy: Software Security Errors](https://vulncat.fortify.com/)
 * [Coverity Scan](https://scan.coverity.com/) - Static Analysis
@@ -101,12 +104,13 @@
 * https://en.wikipedia.org/wiki/Functor_(functional_programming)
 * https://en.wikipedia.org/wiki/Monad_(functional_programming)
 * Railway Oriented Programming
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1NDA3MTg4LC0xNDk3Mzc4MzU1LDE3Nj
-E2MjU5LC0xMzU3NTY3ODMyLC0xMzM5MDQ2MDY2LC0zOTMzNjMw
-MTMsLTI5ODUzNDU2NiwtODQ4NDgxNjg5LC0xMjIzNjQ2NjI0LC
-0xMDU5MDIzMTY1LC0xNTQ1OTYwNDk5LC03NTc5MzA2NSwyMDUw
-NDA4NDQ3LC01NzU0MDYsMTU3MDY5ODI3MSwxNzI3NzQ3MzM5LC
-0xNjE1MDUxNTMzLC0xODE3MDA1OTIwLDE5MTM2MzIyNjgsMjU0
-NTM3NjAyXX0=
+eyJoaXN0b3J5IjpbLTIwNTMwNTM3OTMsODg1NDA3MTg4LC0xND
+k3Mzc4MzU1LDE3NjE2MjU5LC0xMzU3NTY3ODMyLC0xMzM5MDQ2
+MDY2LC0zOTMzNjMwMTMsLTI5ODUzNDU2NiwtODQ4NDgxNjg5LC
+0xMjIzNjQ2NjI0LC0xMDU5MDIzMTY1LC0xNTQ1OTYwNDk5LC03
+NTc5MzA2NSwyMDUwNDA4NDQ3LC01NzU0MDYsMTU3MDY5ODI3MS
+wxNzI3NzQ3MzM5LC0xNjE1MDUxNTMzLC0xODE3MDA1OTIwLDE5
+MTM2MzIyNjhdfQ==
 -->
