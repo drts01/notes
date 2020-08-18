@@ -1,3 +1,8 @@
+# IDEAS
+* Fizzbuzz
+* Algorithms
+* PR/contrib to open-source project (git/github)
+
 # Session 1 - Implementing Best Practices
 Enforcing a baseline of common best practices to develop good coding habits and hygiene.
 
@@ -85,9 +90,9 @@ comment becomes superfluous. <br/>-- Martin Fowler, Refactoring
 ## Code Coverage
 coverage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4NDk4NTI4LC0xMzgyODE0NTgsLTkxNT
-U0NTMwOSwxMjQ5OTU1NzQ3LDE5MzM3MzUyMTksNDg3Njg0MzE4
-LDE4NjY2OTEwMDksLTIxMzk0NzcxMzgsLTIxMDU1MzgxNzMsLT
-g5NDg4MTUyMywxMzE5NjkwNDg0LDQ5NTk5NTExNSwxNzY5NDEx
-ODg5LC01NDI0MzUwNzddfQ==
+eyJoaXN0b3J5IjpbLTY2MzI5NzkwMCw3MDg0OTg1MjgsLTEzOD
+I4MTQ1OCwtOTE1NTQ1MzA5LDEyNDk5NTU3NDcsMTkzMzczNTIx
+OSw0ODc2ODQzMTgsMTg2NjY5MTAwOSwtMjEzOTQ3NzEzOCwtMj
+EwNTUzODE3MywtODk0ODgxNTIzLDEzMTk2OTA0ODQsNDk1OTk1
+MTE1LDE3Njk0MTE4ODksLTU0MjQzNTA3N119
 -->
