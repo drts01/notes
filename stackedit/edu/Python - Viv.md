@@ -2,6 +2,12 @@
 * Fizzbuzz
 * Algorithms
 * PR/contrib to open-source project (git/github)
+* Brand
+	* Linkedin
+	* Github
+	* Stackexchange
+	* Twitter
+	* Website
 
 # Session 1 - Implementing Best Practices
 Enforcing a baseline of common best practices to develop good coding habits and hygiene.
@@ -90,9 +96,10 @@ comment becomes superfluous. <br/>-- Martin Fowler, Refactoring
 ## Code Coverage
 coverage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzI5NzkwMCw3MDg0OTg1MjgsLTEzOD
-I4MTQ1OCwtOTE1NTQ1MzA5LDEyNDk5NTU3NDcsMTkzMzczNTIx
-OSw0ODc2ODQzMTgsMTg2NjY5MTAwOSwtMjEzOTQ3NzEzOCwtMj
-EwNTUzODE3MywtODk0ODgxNTIzLDEzMTk2OTA0ODQsNDk1OTk1
-MTE1LDE3Njk0MTE4ODksLTU0MjQzNTA3N119
+eyJoaXN0b3J5IjpbMTY4NzYxNDIxNSwtNjYzMjk3OTAwLDcwOD
+Q5ODUyOCwtMTM4MjgxNDU4LC05MTU1NDUzMDksMTI0OTk1NTc0
+NywxOTMzNzM1MjE5LDQ4NzY4NDMxOCwxODY2NjkxMDA5LC0yMT
+M5NDc3MTM4LC0yMTA1NTM4MTczLC04OTQ4ODE1MjMsMTMxOTY5
+MDQ4NCw0OTU5OTUxMTUsMTc2OTQxMTg4OSwtNTQyNDM1MDc3XX
+0=
 -->
