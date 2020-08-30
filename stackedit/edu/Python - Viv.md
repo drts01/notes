@@ -99,8 +99,9 @@ coverage
 # Toolkit
 * https://talkpython.fm/episodes/show/279/modern-python-developers-toolkit
 * https://youtu.be/WkUBx3g2QfQ
+* https://pycon.switowski.com/02-packages/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2MzMwMDA2LC0yMzI0NzI5MjQsMTY4Nz
+eyJoaXN0b3J5IjpbMTI2NTE4OTkzLC0yMzI0NzI5MjQsMTY4Nz
 YxNDIxNSwtNjYzMjk3OTAwLDcwODQ5ODUyOCwtMTM4MjgxNDU4
 LC05MTU1NDUzMDksMTI0OTk1NTc0NywxOTMzNzM1MjE5LDQ4Nz
 Y4NDMxOCwxODY2NjkxMDA5LC0yMTM5NDc3MTM4LC0yMTA1NTM4
