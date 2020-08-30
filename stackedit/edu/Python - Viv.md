@@ -95,11 +95,14 @@ comment becomes superfluous. <br/>-- Martin Fowler, Refactoring
 
 ## Code Coverage
 coverage
+
+# Toolkit
+* https://talkpython.fm/episodes/show/279/modern-python-developers-toolkit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzYxNDIxNSwtNjYzMjk3OTAwLDcwOD
-Q5ODUyOCwtMTM4MjgxNDU4LC05MTU1NDUzMDksMTI0OTk1NTc0
-NywxOTMzNzM1MjE5LDQ4NzY4NDMxOCwxODY2NjkxMDA5LC0yMT
-M5NDc3MTM4LC0yMTA1NTM4MTczLC04OTQ4ODE1MjMsMTMxOTY5
-MDQ4NCw0OTU5OTUxMTUsMTc2OTQxMTg4OSwtNTQyNDM1MDc3XX
-0=
+eyJoaXN0b3J5IjpbLTIzMjQ3MjkyNCwxNjg3NjE0MjE1LC02Nj
+MyOTc5MDAsNzA4NDk4NTI4LC0xMzgyODE0NTgsLTkxNTU0NTMw
+OSwxMjQ5OTU1NzQ3LDE5MzM3MzUyMTksNDg3Njg0MzE4LDE4Nj
+Y2OTEwMDksLTIxMzk0NzcxMzgsLTIxMDU1MzgxNzMsLTg5NDg4
+MTUyMywxMzE5NjkwNDg0LDQ5NTk5NTExNSwxNzY5NDExODg5LC
+01NDI0MzUwNzddfQ==
 -->
