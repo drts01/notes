@@ -10,7 +10,7 @@ What do you do when a team member refuses to complete his or her quota of the wo
 * Situation:
    A more secure and faster way to propagate secrets was required. The proposed solution would meet this objective, but continued to fall short of best practices and a proper implementation.
 * Task:
-   As an engineer on the team to provision infrastructure, my role included contributing to the design decision.
+   As an engineer on the team to provision infrastructure, my role included designing and maintain services related to provisioning.
 * Action:
    
 * Result:
@@ -64,6 +64,6 @@ Have you ever gone above and beyond the call of duty?
 * Result:
    Reduced cost by over 100k/year and increased security posture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDMzNjY0MSwtMTk4MDk4MzA1NiwtMj
-ExMTczNDMyM119
+eyJoaXN0b3J5IjpbMzc0MzcxMDgyLC04OTAzMzY2NDEsLTE5OD
+A5ODMwNTYsLTIxMTE3MzQzMjNdfQ==
 -->
