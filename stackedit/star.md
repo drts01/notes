@@ -14,7 +14,7 @@ What do you do when a team member refuses to complete his or her quota of the wo
 * Action:
    Over the next few days, researched and designed a solution that could be integrated with the work that was already in flight. Reviewed architecture with principle engineer prior to taking it to the rest the team.
 * Result:
-   A properly secure solution that was 
+   A properly secure solution without causing the delivery date to slip.
 ## Difficult Problem
 Share an example of a time when you faced a difficult problem at work. How did you solve this problem?
 * Situation:
@@ -38,7 +38,7 @@ Tell me about an occasion when you had to complete a task under a tight deadline
 ## Mistake
 Tell me about a mistake you’ve made. How did you handle it?
 * Situation:
-   
+   The backoffice was out capacity
 * Task:
    
 * Action:
@@ -64,6 +64,6 @@ Have you ever gone above and beyond the call of duty?
 * Result:
    Reduced cost by over 100k/year and increased security posture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODAwNzQyNSwtODkwMzM2NjQxLC0xOT
+eyJoaXN0b3J5IjpbMTM3NTYyNDA4NiwtODkwMzM2NjQxLC0xOT
 gwOTgzMDU2LC0yMTExNzM0MzIzXX0=
 -->
