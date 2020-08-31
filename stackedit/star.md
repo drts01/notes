@@ -60,10 +60,10 @@ Have you ever gone above and beyond the call of duty?
 * Task:
    I was responsible for helping Ops automate tasks and workflows
 * Action:
-   Queried for blaten resources that should be terminated. Got buyin from 2 account owners to purge. Worked with stake holders 
+   Queried for blaten resources that should be terminated. Got buyin from 2 account owners to purge. Worked with stakeholders to define policies around life cycle. Develop Policy-As-Code for compliance enforcement. Got buy 
 * Result:
-   
+   Reduced cost by over 100k/year and increased security posture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDczMzM2MjcsLTE5ODA5ODMwNTYsLT
+eyJoaXN0b3J5IjpbLTEzNzgxNDA2ODksLTE5ODA5ODMwNTYsLT
 IxMTE3MzQzMjNdfQ==
 -->
