@@ -40,11 +40,11 @@ Tell me about a mistake you’ve made. How did you handle it?
 * Situation:
    The backoffice was out capacity and the provision system did not have the features required to build the systems need.
 * Task:
-   As a system engineer, I needed to provided
+   As a system engineer, I needed to provided capacity and provision the newly racked hardware A.S.A.P.
 * Action:
-   
+  I manually configured the network interface for the hypervisors. 
 * Result:
-   
+   As 
 ## Initiative
 Have you ever gone above and beyond the call of duty?
 * Situation:
@@ -64,6 +64,6 @@ Have you ever gone above and beyond the call of duty?
 * Result:
    Reduced cost by over 100k/year and increased security posture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5OTM5OTk0LC04OTAzMzY2NDEsLTE5OD
+eyJoaXN0b3J5IjpbMzQ3NDUxNzU1LC04OTAzMzY2NDEsLTE5OD
 A5ODMwNTYsLTIxMTE3MzQzMjNdfQ==
 -->
