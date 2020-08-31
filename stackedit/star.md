@@ -14,7 +14,7 @@ What do you do when a team member refuses to complete his or her quota of the wo
 * Action:
    Over the next few days, researched and designed a solution that could be integrated with the work that was already in flight. Reviewed architecture with principle engineer prior to taking it to the rest the team.
 * Result:
-   A properly secure solution without causing the delivery date to slip.
+   A properly secure solution that I was proud of without causing the delivery date to slip.
 ## Difficult Problem
 Share an example of a time when you faced a difficult problem at work. How did you solve this problem?
 * Situation:
@@ -73,6 +73,6 @@ Have you ever gone above and beyond the call of duty?
 * Result:
    Cultivated a shift in culture as now a couple system engineers were becoming leaders in more efficient practices.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4NDUzOCwzNDc0NTE3NTUsLTg5MDMzNj
-Y0MSwtMTk4MDk4MzA1NiwtMjExMTczNDMyM119
+eyJoaXN0b3J5IjpbNjU2MDI2NzEyLDM0NzQ1MTc1NSwtODkwMz
+M2NjQxLC0xOTgwOTgzMDU2LC0yMTExNzM0MzIzXX0=
 -->
