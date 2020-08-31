@@ -56,14 +56,14 @@ Have you ever gone above and beyond the call of duty?
 * Result:
    
 * Situation:
-   
+   Many unused resources in AWS
 * Task:
-   
+   I was responsible for getting 
 * Action:
    
 * Result:
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODA5ODMwNTYsLTIxMTE3MzQzMjNdfQ
-==
+eyJoaXN0b3J5IjpbMTIzODU5OTcxMSwtMTk4MDk4MzA1NiwtMj
+ExMTczNDMyM119
 -->
