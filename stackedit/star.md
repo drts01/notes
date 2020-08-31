@@ -12,7 +12,7 @@ What do you do when a team member refuses to complete his or her quota of the wo
 * Task:
    As an engineer on the team to provision infrastructure, my role included designing and maintain services related to provisioning.
 * Action:
-   
+   Researched and designed a solution that could be integrated with the work that was already in flight. Reviewed architecture with principle engineer prior 
 * Result:
    
 ## Difficult Problem
@@ -64,6 +64,6 @@ Have you ever gone above and beyond the call of duty?
 * Result:
    Reduced cost by over 100k/year and increased security posture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0MzcxMDgyLC04OTAzMzY2NDEsLTE5OD
-A5ODMwNTYsLTIxMTE3MzQzMjNdfQ==
+eyJoaXN0b3J5IjpbMTMyMzMwMTE1MCwtODkwMzM2NjQxLC0xOT
+gwOTgzMDU2LC0yMTExNzM0MzIzXX0=
 -->
