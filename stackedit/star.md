@@ -71,8 +71,8 @@ Have you ever gone above and beyond the call of duty?
 * Action:
    Organized and lead trainings in Git, Python, Saltstack.
 * Result:
-   Cultivated a shift in culture as now a couple system engineers were becoming leaders in more
+   Cultivated a shift in culture as now a couple system engineers were becoming leaders in more efficient practices.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzI2NjcyNSwzNDc0NTE3NTUsLTg5MD
-MzNjY0MSwtMTk4MDk4MzA1NiwtMjExMTczNDMyM119
+eyJoaXN0b3J5IjpbNjk4NDUzOCwzNDc0NTE3NTUsLTg5MDMzNj
+Y0MSwtMTk4MDk4MzA1NiwtMjExMTczNDMyM119
 -->
