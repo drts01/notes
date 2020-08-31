@@ -47,10 +47,10 @@ Tell me about a mistake you’ve made. How did you handle it?
    
 ## Initiative
 Have you ever gone above and beyond the call of duty?
-* Situation: Unfolding security incident on Friday evening with many unknowns.
-   
+* Situation:
+   Unfolding security incident on Friday evening with many unknowns.
 * Task:
-   
+   Sweeping changes to the CDN.
 * Action:
    
 * Result:
@@ -64,6 +64,5 @@ Have you ever gone above and beyond the call of duty?
 * Result:
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjAyNjMxMjMsLTIxMTE3MzQzMjNdfQ
-==
+eyJoaXN0b3J5IjpbLTE2MTQ3MDY1NSwtMjExMTczNDMyM119
 -->
