@@ -30,13 +30,13 @@
 
 # Commit Messages
 * https://www.conventionalcommits.org/
-* 
+* [https://udacity.github.io/git-styleguide/](https://udacity.github.io/git-styleguide/)
 * http://karma-runner.github.io/5.0/dev/git-commit-msg.html
 	* https://github.com/karma-runner/karma/blob/master/docs/dev/06-git-commit-msg.md
 * https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjQ5MTQzOCwtMjA5NTk2Njg3NCwtMT
-U5NDM2NjcyNCwtMTk5NTI2NjE0MCwtMTkwNTI4OTc4MywtODE2
-NTE5NzA1LDE4NTM0MjU2MjYsMjE3NDQzMDkzLC0yMDEzMDc3Nj
-cxLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE3NTI4NDI1MjEsLTIwOTU5NjY4NzQsLT
+E1OTQzNjY3MjQsLTE5OTUyNjYxNDAsLTE5MDUyODk3ODMsLTgx
+NjUxOTcwNSwxODUzNDI1NjI2LDIxNzQ0MzA5MywtMjAxMzA3Nz
+Y3MSwtMjA4ODc0NjYxMl19
 -->
