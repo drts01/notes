@@ -63,8 +63,16 @@ Have you ever gone above and beyond the call of duty?
    Queried for blatant resources that should be terminated. Got buy-in from 2 account owners to purge. Worked with stakeholders to define policies around life cycle. Develop Policy-As-Code for compliance enforcement. Sought and gains support of SecEng team.
 * Result:
    Reduced cost by over 100k/year and increased security posture.
+
+* Situation:
+   The operation team was performing a lot of work manually. If there was any scripting, it was done with Bash script that were not shared or available for review.
    
+* Task:
+   
+* Action:
+   
+* Result:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0NDIxMDk4LDM0NzQ1MTc1NSwtODkwMz
-M2NjQxLC0xOTgwOTgzMDU2LC0yMTExNzM0MzIzXX0=
+eyJoaXN0b3J5IjpbMTc3NDk5MDg4MywzNDc0NTE3NTUsLTg5MD
+MzNjY0MSwtMTk4MDk4MzA1NiwtMjExMTczNDMyM119
 -->
