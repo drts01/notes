@@ -58,12 +58,12 @@ Have you ever gone above and beyond the call of duty?
 * Situation:
    Many unused resources in AWS
 * Task:
-   I was responsible for getting 
+   I was responsible for helping Ops automate tasks and workflows
 * Action:
-   
+   Queried for blaten resources that should be terminated. Got buyin from 2 account owners to purge. Worked with stake holders 
 * Result:
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODU5OTcxMSwtMTk4MDk4MzA1NiwtMj
-ExMTczNDMyM119
+eyJoaXN0b3J5IjpbLTE5NDczMzM2MjcsLTE5ODA5ODMwNTYsLT
+IxMTE3MzQzMjNdfQ==
 -->
