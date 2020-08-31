@@ -58,12 +58,13 @@ Have you ever gone above and beyond the call of duty?
 * Situation:
    Many unused resources in AWS
 * Task:
-   I was responsible for helping Ops automate tasks and workflows
+   I was responsible for helping Ops automate tasks and workflows.
 * Action:
-   Queried for blatant resources that should be terminated. Got buyin from 2 account owners to purge. Worked with stakeholders to define policies around life cycle. Develop Policy-As-Code for compliance enforcement. Sought and gains support of SecEng team.
+   Queried for blatant resources that should be terminated. Got buy-in from 2 account owners to purge. Worked with stakeholders to define policies around life cycle. Develop Policy-As-Code for compliance enforcement. Sought and gains support of SecEng team.
 * Result:
    Reduced cost by over 100k/year and increased security posture.
+   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3NDUxNzU1LC04OTAzMzY2NDEsLTE5OD
-A5ODMwNTYsLTIxMTE3MzQzMjNdfQ==
+eyJoaXN0b3J5IjpbNTc0NDIxMDk4LDM0NzQ1MTc1NSwtODkwMz
+M2NjQxLC0xOTgwOTgzMDU2LC0yMTExNzM0MzIzXX0=
 -->
