@@ -69,9 +69,10 @@ Have you ever gone above and beyond the call of duty?
 * Task:
    As a developer on the team responsible for the services to provision the infrastructure, my role was meant to empower the operations team.
 * Action:
-   Organized 
+   Organized and lead trainings in Git, Python, Saltstack.
 * Result:
+   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyODM2Njc2LDM0NzQ1MTc1NSwtODkwMz
-M2NjQxLC0xOTgwOTgzMDU2LC0yMTExNzM0MzIzXX0=
+eyJoaXN0b3J5IjpbMTY5MjkzOTk3NSwzNDc0NTE3NTUsLTg5MD
+MzNjY0MSwtMTk4MDk4MzA1NiwtMjExMTczNDMyM119
 -->
