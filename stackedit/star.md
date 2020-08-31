@@ -8,9 +8,9 @@
 ## Conflict
 What do you do when a team member refuses to complete his or her quota of the work?
 * Situation:
-   A more secure and faster way to propagate secrets was required. 
+   A more secure and faster way to propagate secrets was required. One engineer was being more vocal and pushing a solution.
 * Task:
-   As an engineer on the team to provision infrasture, 
+   As an engineer on the team to provision infrastructure, my role included contributing to the design decision.
 * Action:
    
 * Result:
@@ -64,6 +64,6 @@ Have you ever gone above and beyond the call of duty?
 * Result:
    Reduced cost by over 100k/year and increased security posture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzcxOTQxNDEsLTE5ODA5ODMwNTYsLT
-IxMTE3MzQzMjNdfQ==
+eyJoaXN0b3J5IjpbMTkxNzQ4MjUxLC0xOTgwOTgzMDU2LC0yMT
+ExNzM0MzIzXX0=
 -->
