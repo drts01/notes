@@ -65,7 +65,7 @@ Have you ever gone above and beyond the call of duty?
    Reduced cost by over 100k/year and increased security posture.
 
 * Situation:
-   The operation team was performing a lot of work manually. If there was any scripting, it was done with Bash script that were not shared or available for peer review and contributions.
+   The operation team was performing a lot of work manually. My team was building automation
 * Task:
    As a developer on the team responsible for the services to provision the infrastructure, my role was meant to empower the operations team.
 * Action:
@@ -73,6 +73,7 @@ Have you ever gone above and beyond the call of duty?
 * Result:
    Cultivated a shift in culture as now a couple system engineers were becoming leaders in more efficient practices.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2MDI2NzEyLDM0NzQ1MTc1NSwtODkwMz
-M2NjQxLC0xOTgwOTgzMDU2LC0yMTExNzM0MzIzXX0=
+eyJoaXN0b3J5IjpbLTIyNjk2NDM0MCw2NTYwMjY3MTIsMzQ3ND
+UxNzU1LC04OTAzMzY2NDEsLTE5ODA5ODMwNTYsLTIxMTE3MzQz
+MjNdfQ==
 -->
