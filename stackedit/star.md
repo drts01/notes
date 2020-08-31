@@ -37,9 +37,24 @@ Tell me about an occasion when you had to complete a task under a tight deadline
    
 ## Mistake
 Tell me about a mistake you’ve made. How did you handle it?
-
+* Situation:
+   
+* Task:
+   
+* Action:
+   
+* Result:
+   
 ## Initiative
 Have you ever gone above and beyond the call of duty?
+* Situation: Unfolding security incident on Friday evening with many unknowns.
+   
+* Task:
+   
+* Action:
+   
+* Result:
+   
 * Situation:
    
 * Task:
@@ -49,5 +64,6 @@ Have you ever gone above and beyond the call of duty?
 * Result:
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2NzU1MDkxLC0yMTExNzM0MzIzXX0=
+eyJoaXN0b3J5IjpbLTE3NjAyNjMxMjMsLTIxMTE3MzQzMjNdfQ
+==
 -->
