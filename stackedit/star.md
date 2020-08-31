@@ -38,9 +38,9 @@ Tell me about an occasion when you had to complete a task under a tight deadline
 ## Mistake
 Tell me about a mistake you’ve made. How did you handle it?
 * Situation:
-   The backoffice was out capacity
+   The backoffice was out capacity and the provision system did not have the features required to build the systems need.
 * Task:
-   
+   As a system engineer, I needed to provided
 * Action:
    
 * Result:
@@ -64,6 +64,6 @@ Have you ever gone above and beyond the call of duty?
 * Result:
    Reduced cost by over 100k/year and increased security posture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTYyNDA4NiwtODkwMzM2NjQxLC0xOT
-gwOTgzMDU2LC0yMTExNzM0MzIzXX0=
+eyJoaXN0b3J5IjpbNTg5OTM5OTk0LC04OTAzMzY2NDEsLTE5OD
+A5ODMwNTYsLTIxMTE3MzQzMjNdfQ==
 -->
