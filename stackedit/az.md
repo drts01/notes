@@ -40,7 +40,7 @@ Compliance enforcement
 
 Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
 
-Cleaning up unused resources
+Cleaning up unused resources across all accounts.
 
 ## Frugality
 
@@ -49,6 +49,8 @@ Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, 
 ## Earn Trust
 
 Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing. Leaders do not believe their or their team’s body odor smells of perfume. They benchmark themselves and their teams against the best.
+
+Started doing demo/presentations 
 
 ## Dive Deep
 
@@ -62,6 +64,5 @@ Leaders are obligated to respectfully challenge decisions when they disagree, ev
 
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTMwMzk1NjcsLTE2NjI3MzE1NDRdfQ
-==
+eyJoaXN0b3J5IjpbLTQ3Njk0NjEyMiwtMTY2MjczMTU0NF19
 -->
