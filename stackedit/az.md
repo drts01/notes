@@ -14,7 +14,7 @@
 
 > Leaders are right a lot. They have strong judgment and good instincts. They seek diverse perspectives and work to disconfirm their beliefs.
 
-* *Situation*: The team was moving forward with a solution that did not sit well with me from a security perspective. The rational was it is better then what we have and it can be complete in the short expected delivery date.
+* **Situation**: The team was moving forward with a solution that did not sit well with me from a security perspective. The rational was it is better then what we have and it can be complete in the short expected delivery date.
 
 ## Learn and Be Curious
 
@@ -74,10 +74,13 @@ Advocating for a colleague to be promoted and move to automation team. I disagre
 
 Disagreed with the design decision of secret propagation. While is was an improvement, it involved moving private keys and that did not sit well with me. I was the minority opinion so work began on the less than idea solution. Over the next few days I researched and designed an improved solution. I reached outed to a couple engineers for peer review and, in the process, gained their support. Then I presented the solution the team as a whole, illustrating a roadmap that would leverage the work that was in flight and a timeline that did not change our delivery date.
 
+* **Situation**: The team was moving forward with a solution that did not sit well with me from a security perspective. The rational was it is better then what we have and it can be complete in the short expected delivery date.
+* 
+
 ## Deliver Results
 
 > Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODY2ODY1LDE2Njg0MjM0NTksNDAzOT
+eyJoaXN0b3J5IjpbODM1NDMwNDU5LDE2Njg0MjM0NTksNDAzOT
 UzMzExLC0xNjYyNzMxNTQ0XX0=
 -->
