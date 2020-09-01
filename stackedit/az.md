@@ -68,12 +68,11 @@ Working with sysadmins to better understand their needs.
 
 Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly.
 
-
+Advocating for a colleague to be given more opportunity and promotion. 
 
 ## Deliver Results
 
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDc3MjE1MjUsLTE2NjI3MzE1NDRdfQ
-==
+eyJoaXN0b3J5IjpbMTAwOTU2OTgzNywtMTY2MjczMTU0NF19
 -->
