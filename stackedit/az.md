@@ -18,9 +18,13 @@ Leaders are right a lot. They have strong judgment and good instincts. They seek
 
 Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.
 
+Certified Scrum Product Owner
+
 ## Hire and Develop the Best
 
 Leaders raise the performance bar with every hire and promotion. They recognize exceptional talent, and willingly move them throughout the organization. Leaders develop leaders and take seriously their role in coaching others. We work on behalf of our people to invent mechanisms for development like Career Choice.
+
+Identify 
 
 ## Insist on the Highest Standards
 
@@ -54,5 +58,5 @@ Leaders are obligated to respectfully challenge decisions when they disagree, ev
 
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjI3MzE1NDRdfQ==
+eyJoaXN0b3J5IjpbLTk1NjE4NTA1NywtMTY2MjczMTU0NF19
 -->
