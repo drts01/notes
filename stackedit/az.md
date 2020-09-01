@@ -30,6 +30,8 @@ Identify candidates to train in Python
 
 Leaders have relentlessly high standards — many people may think these standards are unreasonably high. Leaders are continually raising the bar and drive their teams to deliver high quality products, services, and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
 
+Proper implementation of s
+
 ## Think Big
 
 Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.
@@ -66,6 +68,5 @@ Leaders are obligated to respectfully challenge decisions when they disagree, ev
 
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDY0MTU1OTUsLTE2NjI3MzE1NDRdfQ
-==
+eyJoaXN0b3J5IjpbLTE4NzQ0NjMwMywtMTY2MjczMTU0NF19
 -->
