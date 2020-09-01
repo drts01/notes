@@ -50,11 +50,13 @@ Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, 
 
 Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing. Leaders do not believe their or their team’s body odor smells of perfume. They benchmark themselves and their teams against the best.
 
-Started doing demo/presentations 
+
 
 ## Dive Deep
 
 Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
+
+Working with sysadmins to better understand their needs.
 
 ## Have Backbone; Disagree and Commit
 
@@ -64,5 +66,6 @@ Leaders are obligated to respectfully challenge decisions when they disagree, ev
 
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Njk0NjEyMiwtMTY2MjczMTU0NF19
+eyJoaXN0b3J5IjpbLTIwMDY0MTU1OTUsLTE2NjI3MzE1NDRdfQ
+==
 -->
