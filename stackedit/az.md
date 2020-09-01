@@ -26,7 +26,7 @@ Leaders raise the performance bar with every hire and promotion. They recognize 
 
 Identify candidates to train in Python.
 
-Provided opportunity for customer support staff to expand their role and skill set by teaching them how to do update p
+Provided opportunity for customer support staff to expand their role and skill set by teaching them how to do post new products on the website.
 
 ## Insist on the Highest Standards
 
@@ -68,10 +68,12 @@ Working with sysadmins to better understand their needs.
 
 Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly.
 
+
+
 ## Deliver Results
 
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODkyNDUzMDUsLTE2NjI3MzE1NDRdfQ
+eyJoaXN0b3J5IjpbLTIwNDc3MjE1MjUsLTE2NjI3MzE1NDRdfQ
 ==
 -->
