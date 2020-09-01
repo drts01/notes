@@ -10,7 +10,8 @@
 
 > Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here." As we do new things, we accept that we may be misunderstood for long periods of time.
 
-* **Situation**: Hand crafting infrastructure for each client.
+* **Situation**: As a managed service provider, each client's needs had vastly different needs resulting in hand crafting infrastructure for each environment.
+* **Task**: To provide support to the client.
 
 ## Are Right, A Lot
 
@@ -83,6 +84,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 > Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTczODY5NCw4MzU0MzA0NTksMTY2OD
-QyMzQ1OSw0MDM5NTMzMTEsLTE2NjI3MzE1NDRdfQ==
+eyJoaXN0b3J5IjpbMTYzNzgyOTI2MiwtOTM5NzM4Njk0LDgzNT
+QzMDQ1OSwxNjY4NDIzNDU5LDQwMzk1MzMxMSwtMTY2MjczMTU0
+NF19
 -->
