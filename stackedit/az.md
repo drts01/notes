@@ -1,6 +1,6 @@
 ## Customer Obsession
 
-Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
+> Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
 
 ## Ownership
 
@@ -60,13 +60,13 @@ Putting myself out there by doing demo/presentations for the team when I was new
 
 ## Dive Deep
 
-Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
+> Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
 
 Working with sysadmins to better understand their needs.
 
 ## Have Backbone; Disagree and Commit
 
-Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly.
+> Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly.
 
 Advocating for a colleague to be promoted and move to automation team. I disagreed with the assessment that the team the engineer was could not afford to lose him. I felt it was unfair to engineer and that the company was risking loosing him all together. The next quarter he was the first promotion to a newly formed engineering team.
 
@@ -74,7 +74,8 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 ## Deliver Results
 
-Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
+> Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzOTUzMzExLC0xNjYyNzMxNTQ0XX0=
+eyJoaXN0b3J5IjpbMTY2ODQyMzQ1OSw0MDM5NTMzMTEsLTE2Nj
+I3MzE1NDRdfQ==
 -->
