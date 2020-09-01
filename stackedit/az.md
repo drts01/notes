@@ -70,11 +70,11 @@ Leaders are obligated to respectfully challenge decisions when they disagree, ev
 
 Advocating for a colleague to be promoted and move to automation team. I disagreed with the assessment that the team the engineer was could not afford to lose him. I felt it was unfair to engineer and that the company was risking loosing him all together. The next quarter he was the first promotion to a newly formed engineering team.
 
-Disagreed with the design decision of secret propagation. While is was an improvement, it involved moving private keys and that did not sit well with me. I was the minority opinion so work began on the less than idea solution. Over the next few days I researched and designed an improved solution. I reached out
+Disagreed with the design decision of secret propagation. While is was an improvement, it involved moving private keys and that did not sit well with me. I was the minority opinion so work began on the less than idea solution. Over the next few days I researched and designed an improved solution. I reached outed to a couple engineers for peer review and, in the process, gained their support. Then I presented the solution the team as a whole, illustrating a roadmap that would levage the work that was in flight and not cause o
 
 ## Deliver Results
 
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0ODUyMjY1LC0xNjYyNzMxNTQ0XX0=
+eyJoaXN0b3J5IjpbLTc5NDM0MzU1MCwtMTY2MjczMTU0NF19
 -->
