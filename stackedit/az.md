@@ -56,7 +56,7 @@ Converting data entry systems from EOL Windows and MS Office machines to running
 
 Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing. Leaders do not believe their or their team’s body odor smells of perfume. They benchmark themselves and their teams against the best.
 
-Put
+Putting myself out there by doing demo/presentations for the team when I was new. This encouraged more junior engineers to try. I provided accolades 
 
 ## Dive Deep
 
@@ -76,6 +76,5 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDMzMjMzMzQsLTE2NjI3MzE1NDRdfQ
-==
+eyJoaXN0b3J5IjpbMzA3MTgxMiwtMTY2MjczMTU0NF19
 -->
