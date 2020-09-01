@@ -24,7 +24,7 @@ Certified Scrum Product Owner
 
 Leaders raise the performance bar with every hire and promotion. They recognize exceptional talent, and willingly move them throughout the organization. Leaders develop leaders and take seriously their role in coaching others. We work on behalf of our people to invent mechanisms for development like Career Choice.
 
-Identify 
+Identify candidates to train in Python
 
 ## Insist on the Highest Standards
 
@@ -34,9 +34,13 @@ Leaders have relentlessly high standards — many people may think these standar
 
 Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.
 
+Compliance enforcement
+
 ## Bias for Action
 
 Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
+
+Cleaning up unused resources
 
 ## Frugality
 
@@ -58,5 +62,6 @@ Leaders are obligated to respectfully challenge decisions when they disagree, ev
 
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjE4NTA1NywtMTY2MjczMTU0NF19
+eyJoaXN0b3J5IjpbLTExNTMwMzk1NjcsLTE2NjI3MzE1NDRdfQ
+==
 -->
