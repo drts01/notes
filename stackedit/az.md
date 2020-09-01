@@ -48,7 +48,7 @@ Cleaning up unused resources across all accounts.
 
 Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense.
 
-Converting 
+Converting data entry systems from EOL Windows and MS Office machines to running open source software that was receiving security updates.
 
 ## Earn Trust
 
@@ -70,5 +70,6 @@ Leaders are obligated to respectfully challenge decisions when they disagree, ev
 
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTExNTI0NywtMTY2MjczMTU0NF19
+eyJoaXN0b3J5IjpbLTEyNTkxMjIxNzEsLTE2NjI3MzE1NDRdfQ
+==
 -->
