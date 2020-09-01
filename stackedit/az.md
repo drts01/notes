@@ -32,7 +32,7 @@ Provided opportunity for customer support staff to expand their role and skill s
 
 Leaders have relentlessly high standards — many people may think these standards are unreasonably high. Leaders are continually raising the bar and drive their teams to deliver high quality products, services, and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
 
-Proper implementation of secret propagation.
+Proper implementation of secret propagation. I was not satified with the sec
 
 ## Think Big
 
@@ -56,7 +56,7 @@ Converting data entry systems from EOL Windows and MS Office machines to running
 
 Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing. Leaders do not believe their or their team’s body odor smells of perfume. They benchmark themselves and their teams against the best.
 
-Putting myself out there by doing demo/presentations for the team when I was new. This encouraged more junior engineers to try. I provided accolades 
+Putting myself out there by doing demo/presentations for the team when I was new. This encouraged more junior engineers to try. I provided accolades during our weekly retrospectives for the effort made and information shared.
 
 ## Dive Deep
 
@@ -76,5 +76,6 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3MTgxMiwtMTY2MjczMTU0NF19
+eyJoaXN0b3J5IjpbLTE1MTI3NjEwMjcsLTE2NjI3MzE1NDRdfQ
+==
 -->
