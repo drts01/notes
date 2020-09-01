@@ -14,6 +14,8 @@
 
 > Leaders are right a lot. They have strong judgment and good instincts. They seek diverse perspectives and work to disconfirm their beliefs.
 
+* *S*: The team was moving forward with a solution that did n
+
 ## Learn and Be Curious
 
 > Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.
@@ -76,6 +78,6 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 > Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzEzNTAxOSwxNjY4NDIzNDU5LDQwMz
+eyJoaXN0b3J5IjpbMTU0NjA2ODk5OCwxNjY4NDIzNDU5LDQwMz
 k1MzMxMSwtMTY2MjczMTU0NF19
 -->
