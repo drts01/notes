@@ -32,7 +32,7 @@ Provided opportunity for customer support staff to expand their role and skill s
 
 Leaders have relentlessly high standards — many people may think these standards are unreasonably high. Leaders are continually raising the bar and drive their teams to deliver high quality products, services, and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
 
-Proper implementation of secret propagation. I was not satified with the sec
+Proper implementation of secret propagation. I was not satisfied with the proposed solution. Across the next few days I researched and desiged a solution that was more secure and 
 
 ## Think Big
 
@@ -76,6 +76,5 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI3NjEwMjcsLTE2NjI3MzE1NDRdfQ
-==
+eyJoaXN0b3J5IjpbMTE0MDkxNTE3NCwtMTY2MjczMTU0NF19
 -->
