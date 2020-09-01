@@ -2,6 +2,11 @@
 
 > Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
 
+* **Situation**: 
+* **Task**: 
+* **Action**: 
+* **Result**: Lowered overhead costs, in
+
 ## Ownership
 
 > Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job."
@@ -84,7 +89,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 > Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzgyOTI2MiwtOTM5NzM4Njk0LDgzNT
-QzMDQ1OSwxNjY4NDIzNDU5LDQwMzk1MzMxMSwtMTY2MjczMTU0
-NF19
+eyJoaXN0b3J5IjpbLTEwNjg5NzI5NjcsMTYzNzgyOTI2MiwtOT
+M5NzM4Njk0LDgzNTQzMDQ1OSwxNjY4NDIzNDU5LDQwMzk1MzMx
+MSwtMTY2MjczMTU0NF19
 -->
