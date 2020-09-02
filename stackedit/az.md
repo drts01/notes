@@ -16,7 +16,7 @@
 	* Empowered SecEng with visibility and approvals.
 		* Expanded user base (new customer).
 	* Improved relationships with customers enabling being able to suggest features rather than waiting for requirements.
-	* Gave visibility to management (and broader company) 
+	* Gave visibility to management (and broader company) through Datadog dashboards to see in vs out of compliance per account.
 
 ## Ownership
 
@@ -167,7 +167,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 * **Action**:  
 * **Result**: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjM4MzQxNCwtMTQ0MDE5MzE2NywtOD
+eyJoaXN0b3J5IjpbLTY4Njg3MzY1NCwtMTQ0MDE5MzE2NywtOD
 Q4NjE3MTQzLDExODY4OTg1LDIyNDU3NjE4NywtMTI3MzI0NDQz
 MSwxNjM3ODI5MjYyLC05Mzk3Mzg2OTQsODM1NDMwNDU5LDE2Nj
 g0MjM0NTksNDAzOTUzMzExLC0xNjYyNzMxNTQ0XX0=
