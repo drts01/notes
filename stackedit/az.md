@@ -13,7 +13,7 @@
 	* Gain more customers by reaching out to SecEng to demonstrate how they can approve and deny policy exceptions through git.
 * **Result**: (Improved UX) Simplified management of the infrastructure, which customers did not know they needed.
 	* Lowered cost and improved security posture for service teams.
-	* Improved visibility for SecEng
+	* Empowered SecEng with visability and 
 		* Expanded user base (new customer).
 	* Improved relationships with customers enabling being able to suggest features rather than waiting for requirements.
 
@@ -166,8 +166,8 @@ Disagreed with the design decision of secret propagation. While is was an improv
 * **Action**:  
 * **Result**: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDAxOTMxNjcsLTg0ODYxNzE0MywxMT
-g2ODk4NSwyMjQ1NzYxODcsLTEyNzMyNDQ0MzEsMTYzNzgyOTI2
-MiwtOTM5NzM4Njk0LDgzNTQzMDQ1OSwxNjY4NDIzNDU5LDQwMz
-k1MzMxMSwtMTY2MjczMTU0NF19
+eyJoaXN0b3J5IjpbODMyMTk1MDE5LC0xNDQwMTkzMTY3LC04ND
+g2MTcxNDMsMTE4Njg5ODUsMjI0NTc2MTg3LC0xMjczMjQ0NDMx
+LDE2Mzc4MjkyNjIsLTkzOTczODY5NCw4MzU0MzA0NTksMTY2OD
+QyMzQ1OSw0MDM5NTMzMTEsLTE2NjI3MzE1NDRdfQ==
 -->
