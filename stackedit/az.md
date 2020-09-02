@@ -57,6 +57,10 @@
 
 Certified Scrum Product Owner
 
+Recently learned:
+* embed systems
+* how to build a serverless service
+
 * **Situation**: 
 * **Task**: 
 * **Action**:  
@@ -170,9 +174,9 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDA5MTI0LC02ODY4NzM2NTQsLTE0ND
-AxOTMxNjcsLTg0ODYxNzE0MywxMTg2ODk4NSwyMjQ1NzYxODcs
-LTEyNzMyNDQ0MzEsMTYzNzgyOTI2MiwtOTM5NzM4Njk0LDgzNT
-QzMDQ1OSwxNjY4NDIzNDU5LDQwMzk1MzMxMSwtMTY2MjczMTU0
-NF19
+eyJoaXN0b3J5IjpbMTY1MDc3NzgzNSwxOTUwMDkxMjQsLTY4Nj
+g3MzY1NCwtMTQ0MDE5MzE2NywtODQ4NjE3MTQzLDExODY4OTg1
+LDIyNDU3NjE4NywtMTI3MzI0NDQzMSwxNjM3ODI5MjYyLC05Mz
+k3Mzg2OTQsODM1NDMwNDU5LDE2Njg0MjM0NTksNDAzOTUzMzEx
+LC0xNjYyNzMxNTQ0XX0=
 -->
