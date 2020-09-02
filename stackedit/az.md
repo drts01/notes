@@ -22,11 +22,10 @@
 
 > Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job."
 
-On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 * **Situation**: Needed to spin up a test environment to develop the build of a new server type. The provisioning system for physical infra was owned by another team. The documentation was very verbose without a clear starting point.
 * **Task**: As an engineer for the OpenStack tiger team, we needed automated builds of the infra.
 * **Action**:  Wrote and created a PR for a quickstart guide.
-* **Result**: Better documentation for another team. Also, empowered new engineer to quickly get started with a testing environment.
+* **Result**: Better documentation for another team. Also, empowered new engineers to quickly get started with a testing environment.
 
 ## Invent and Simplify
 
@@ -166,10 +165,13 @@ Disagreed with the design decision of secret propagation. While is was an improv
 * **Task**: 
 * **Action**:  
 * **Result**: 
+
+
+On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQxMTIxNCwtNjg2ODczNjU0LC0xND
-QwMTkzMTY3LC04NDg2MTcxNDMsMTE4Njg5ODUsMjI0NTc2MTg3
-LC0xMjczMjQ0NDMxLDE2Mzc4MjkyNjIsLTkzOTczODY5NCw4Mz
-U0MzA0NTksMTY2ODQyMzQ1OSw0MDM5NTMzMTEsLTE2NjI3MzE1
-NDRdfQ==
+eyJoaXN0b3J5IjpbNzg2NzczMzA1LC02ODY4NzM2NTQsLTE0ND
+AxOTMxNjcsLTg0ODYxNzE0MywxMTg2ODk4NSwyMjQ1NzYxODcs
+LTEyNzMyNDQ0MzEsMTYzNzgyOTI2MiwtOTM5NzM4Njk0LDgzNT
+QzMDQ1OSwxNjY4NDIzNDU5LDQwMzk1MzMxMSwtMTY2MjczMTU0
+NF19
 -->
