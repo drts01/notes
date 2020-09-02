@@ -21,6 +21,7 @@
 
 > Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job."
 
+On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing 
 
 ## Invent and Simplify
 
@@ -100,8 +101,8 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 > Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxOTY2MTksMTE4Njg5ODUsMjI0NTc2MT
-g3LC0xMjczMjQ0NDMxLDE2Mzc4MjkyNjIsLTkzOTczODY5NCw4
-MzU0MzA0NTksMTY2ODQyMzQ1OSw0MDM5NTMzMTEsLTE2NjI3Mz
-E1NDRdfQ==
+eyJoaXN0b3J5IjpbLTExNzIwOTU5NiwxMTg2ODk4NSwyMjQ1Nz
+YxODcsLTEyNzMyNDQ0MzEsMTYzNzgyOTI2MiwtOTM5NzM4Njk0
+LDgzNTQzMDQ1OSwxNjY4NDIzNDU5LDQwMzk1MzMxMSwtMTY2Mj
+czMTU0NF19
 -->
