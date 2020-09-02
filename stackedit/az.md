@@ -6,8 +6,9 @@
 * **Task**: As an engineer in operations, my role was to aid the service teams with their cloud needs.
 * **Action**:  Designed and implemented Policy-As-Code service for compliance enforcement.
 	* MVP: Queried accounts to find resources I believed could be removed.
-	* Identified early adopters that would be open to test purging resources.
-	* Gained trust of the rest of the account ownShared report with wider org and early adopters became advocates.
+	* Identified early adopters, that would be open to test purging resources.
+	* To gain buy-
+	* Gained trust of the rest of the account owners by sharing report with wider org. Also, early adopters became advocates.
 	*  
 * **Result**: Lowered overhead costs, increased the security posture, and happy customers so I could continue to develop a services they didnt even realized they needed.
 
@@ -93,7 +94,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 > Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg5OTQ4NzIsMTYzNzgyOTI2MiwtOT
-M5NzM4Njk0LDgzNTQzMDQ1OSwxNjY4NDIzNDU5LDQwMzk1MzMx
-MSwtMTY2MjczMTU0NF19
+eyJoaXN0b3J5IjpbLTkyMTk3MTg4NSwxNjM3ODI5MjYyLC05Mz
+k3Mzg2OTQsODM1NDMwNDU5LDE2Njg0MjM0NTksNDAzOTUzMzEx
+LC0xNjYyNzMxNTQ0XX0=
 -->
