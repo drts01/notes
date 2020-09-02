@@ -15,7 +15,7 @@
 	* Lowered cost and improved security posture for service teams.
 	* Improved visibility for SecEng
 		* Expanded user base (new customer).
-	* Increased customer trust for future collaborations, enabling to .
+	* Improved relationships with customers.
 
 ## Ownership
 
@@ -99,7 +99,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 > Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTY0Mzc4OTAsMjI0NTc2MTg3LC0xMj
+eyJoaXN0b3J5IjpbLTE0NzQ0MDY1MjcsMjI0NTc2MTg3LC0xMj
 czMjQ0NDMxLDE2Mzc4MjkyNjIsLTkzOTczODY5NCw4MzU0MzA0
 NTksMTY2ODQyMzQ1OSw0MDM5NTMzMTEsLTE2NjI3MzE1NDRdfQ
 ==
