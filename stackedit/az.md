@@ -21,6 +21,7 @@
 
 > Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job."
 
+
 ## Invent and Simplify
 
 > Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here." As we do new things, we accept that we may be misunderstood for long periods of time.
@@ -99,7 +100,8 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 > Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Njg5ODUsMjI0NTc2MTg3LC0xMjczMj
-Q0NDMxLDE2Mzc4MjkyNjIsLTkzOTczODY5NCw4MzU0MzA0NTks
-MTY2ODQyMzQ1OSw0MDM5NTMzMTEsLTE2NjI3MzE1NDRdfQ==
+eyJoaXN0b3J5IjpbNDUxOTY2MTksMTE4Njg5ODUsMjI0NTc2MT
+g3LC0xMjczMjQ0NDMxLDE2Mzc4MjkyNjIsLTkzOTczODY5NCw4
+MzU0MzA0NTksMTY2ODQyMzQ1OSw0MDM5NTMzMTEsLTE2NjI3Mz
+E1NDRdfQ==
 -->
