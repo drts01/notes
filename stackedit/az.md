@@ -23,9 +23,9 @@
 > Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job."
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
-* **Situation**: Needed to spin up a test environment to deve
+* **Situation**: Needed to spin up a test environment to develop the build of a new server type. The documentation was very verbose without a clear starting point.
 * **Task**: 
-* **Action**:  
+* **Action**:  Wrote and created a PR for a quickstart guide.
 * **Result**: 
 
 ## Invent and Simplify
@@ -167,7 +167,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 * **Action**:  
 * **Result**: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTc5MTc2MTYsLTY4Njg3MzY1NCwtMT
+eyJoaXN0b3J5IjpbLTE2MTk0NTc5NzcsLTY4Njg3MzY1NCwtMT
 Q0MDE5MzE2NywtODQ4NjE3MTQzLDExODY4OTg1LDIyNDU3NjE4
 NywtMTI3MzI0NDQzMSwxNjM3ODI5MjYyLC05Mzk3Mzg2OTQsOD
 M1NDMwNDU5LDE2Njg0MjM0NTksNDAzOTUzMzExLC0xNjYyNzMx
