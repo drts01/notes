@@ -24,9 +24,9 @@
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 * **Situation**: Needed to spin up a test environment to develop the build of a new server type. The documentation was very verbose without a clear starting point.
-* **Task**: As an engineer for the OpenStack tiger team, we need 
+* **Task**: As an engineer for the OpenStack tiger team, we needed reproducable 
 * **Action**:  Wrote and created a PR for a quickstart guide.
-* **Result**: Better documentation for another team. Also, empowered new engineer to 
+* **Result**: Better documentation for another team. Also, empowered new engineer to quickly get started with a testing environment.
 
 ## Invent and Simplify
 
@@ -167,7 +167,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 * **Action**:  
 * **Result**: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxMzU4MjAzLC02ODY4NzM2NTQsLTE0ND
+eyJoaXN0b3J5IjpbNTA4MTk3NzkzLC02ODY4NzM2NTQsLTE0ND
 AxOTMxNjcsLTg0ODYxNzE0MywxMTg2ODk4NSwyMjQ1NzYxODcs
 LTEyNzMyNDQ0MzEsMTYzNzgyOTI2MiwtOTM5NzM4Njk0LDgzNT
 QzMDQ1OSwxNjY4NDIzNDU5LDQwMzk1MzMxMSwtMTY2MjczMTU0
