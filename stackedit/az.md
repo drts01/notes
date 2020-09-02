@@ -4,10 +4,11 @@
 
 * **Situation**: Many unused and old AWS resources.
 * **Task**: As an engineer in operations, my role was to aid the service teams with their cloud needs.
-* **Action**: 
+* **Action**:  Designed and implemented Policy-As-Code service for compliance enforcement.
 	* MVP: Queried accounts to find resources I believed could be removed.
 	* Identified early adopters that would be open to test purging resources.
-	* Shared report with wider org and  
+	* Shared report with wider org and early adopters became advocates.
+	*  
 * **Result**: Lowered overhead costs, increased the security posture, and happy customers so I could continue to develop a services they didnt even realized they needed.
 
 ## Ownership
@@ -92,7 +93,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 > Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzMjQ3MjMzLDE2Mzc4MjkyNjIsLTkzOT
-czODY5NCw4MzU0MzA0NTksMTY2ODQyMzQ1OSw0MDM5NTMzMTEs
-LTE2NjI3MzE1NDRdfQ==
+eyJoaXN0b3J5IjpbLTE3NDE4OTUyMDcsMTYzNzgyOTI2MiwtOT
+M5NzM4Njk0LDgzNTQzMDQ1OSwxNjY4NDIzNDU5LDQwMzk1MzMx
+MSwtMTY2MjczMTU0NF19
 -->
