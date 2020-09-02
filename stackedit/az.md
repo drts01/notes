@@ -47,7 +47,7 @@
 > Leaders are right a lot. They have strong judgment and good instincts. They seek diverse perspectives and work to disconfirm their beliefs.
 
 A more senior engineer designed a solution, for secrets propagation, that I was uncomfortable with.
-I researched key pair technologies. I sought out feedback from the 
+I researched key pair technologies. I sought out feedback on my design from the principle engineer who had a reputation for not being satisfied with most implementations. I took his
 
 * **Situation**: 
 * **Task**: 
@@ -179,9 +179,9 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDYzMDg5MiwxNjUwNzc3ODM1LDE5NT
-AwOTEyNCwtNjg2ODczNjU0LC0xNDQwMTkzMTY3LC04NDg2MTcx
-NDMsMTE4Njg5ODUsMjI0NTc2MTg3LC0xMjczMjQ0NDMxLDE2Mz
-c4MjkyNjIsLTkzOTczODY5NCw4MzU0MzA0NTksMTY2ODQyMzQ1
-OSw0MDM5NTMzMTEsLTE2NjI3MzE1NDRdfQ==
+eyJoaXN0b3J5IjpbLTE4MzUyMzk5ODYsMTY1MDc3NzgzNSwxOT
+UwMDkxMjQsLTY4Njg3MzY1NCwtMTQ0MDE5MzE2NywtODQ4NjE3
+MTQzLDExODY4OTg1LDIyNDU3NjE4NywtMTI3MzI0NDQzMSwxNj
+M3ODI5MjYyLC05Mzk3Mzg2OTQsODM1NDMwNDU5LDE2Njg0MjM0
+NTksNDAzOTUzMzExLC0xNjYyNzMxNTQ0XX0=
 -->
