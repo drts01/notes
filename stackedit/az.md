@@ -11,10 +11,10 @@
 	* To gain further trust/buy-in, shared report with wider org. Also, early adopters became advocates after seeing the impact to the AWS bill.
 	*  Collaborated with account owners to identify their needs/requirements. Introduced security checks that would meet minimum resistance.
 	* Gain more customers by reaching out to SecEng to demonstrate how they can approve and deny policy exceptions through git.
-* **Result**: Simplified management of the infrastructure, which customers did not know they needed.
+* **Result**: (Improved UX) Simplified management of the infrastructure, which customers did not know they needed.
 	* Lowered cost and improved security posture for service teams.
 	* Improved visibility for SecEng
-		* Gained new customer.
+		* Expanded user base (new customer).
 
 ## Ownership
 
@@ -98,7 +98,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 > Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzMyNDQ0MzEsMTYzNzgyOTI2MiwtOT
-M5NzM4Njk0LDgzNTQzMDQ1OSwxNjY4NDIzNDU5LDQwMzk1MzMx
-MSwtMTY2MjczMTU0NF19
+eyJoaXN0b3J5IjpbMjI0NTc2MTg3LC0xMjczMjQ0NDMxLDE2Mz
+c4MjkyNjIsLTkzOTczODY5NCw4MzU0MzA0NTksMTY2ODQyMzQ1
+OSw0MDM5NTMzMTEsLTE2NjI3MzE1NDRdfQ==
 -->
