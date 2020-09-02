@@ -36,7 +36,7 @@
 * **Task**: 
 * **Action**:  
 * **Result**: 
-\
+&nbsp;
 * **Situation**: As a managed service provider, each client's needs had vastly different needs resulting in hand crafting infrastructure for each environment.
 * **Task**: To provide support to the client.
 * **Action**: Wrote cookbooks for config management.
@@ -45,6 +45,8 @@
 ## Are Right, A Lot
 
 > Leaders are right a lot. They have strong judgment and good instincts. They seek diverse perspectives and work to disconfirm their beliefs.
+
+The lead
 
 * **Situation**: 
 * **Task**: 
@@ -176,9 +178,9 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTY1MTYyOTMsMTY1MDc3NzgzNSwxOT
-UwMDkxMjQsLTY4Njg3MzY1NCwtMTQ0MDE5MzE2NywtODQ4NjE3
-MTQzLDExODY4OTg1LDIyNDU3NjE4NywtMTI3MzI0NDQzMSwxNj
-M3ODI5MjYyLC05Mzk3Mzg2OTQsODM1NDMwNDU5LDE2Njg0MjM0
-NTksNDAzOTUzMzExLC0xNjYyNzMxNTQ0XX0=
+eyJoaXN0b3J5IjpbMTc5Mzc5NTcyOCwxNjUwNzc3ODM1LDE5NT
+AwOTEyNCwtNjg2ODczNjU0LC0xNDQwMTkzMTY3LC04NDg2MTcx
+NDMsMTE4Njg5ODUsMjI0NTc2MTg3LC0xMjczMjQ0NDMxLDE2Mz
+c4MjkyNjIsLTkzOTczODY5NCw4MzU0MzA0NTksMTY2ODQyMzQ1
+OSw0MDM5NTMzMTEsLTE2NjI3MzE1NDRdfQ==
 -->
