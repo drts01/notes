@@ -5,8 +5,9 @@
 * **Situation**: Many unused and old AWS resources.
 * **Task**: As an engineer in operations, my role was to aid the service teams with their cloud needs.
 * **Action**: 
-	* MVP: Queried accounts to find resources I believed could be r
-	* Reached out to account owners 
+	* MVP: Queried accounts to find resources I believed could be removed.
+	* Identified early adopters that would be open to test purging resources.
+	* Shared report with wider org and  
 * **Result**: Lowered overhead costs, increased the security posture, and happy customers so I could continue to develop a services they didnt even realized they needed.
 
 ## Ownership
@@ -91,7 +92,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 > Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDEyNjQyNSwxNjM3ODI5MjYyLC05Mz
-k3Mzg2OTQsODM1NDMwNDU5LDE2Njg0MjM0NTksNDAzOTUzMzEx
-LC0xNjYyNzMxNTQ0XX0=
+eyJoaXN0b3J5IjpbNjEzMjQ3MjMzLDE2Mzc4MjkyNjIsLTkzOT
+czODY5NCw4MzU0MzA0NTksMTY2ODQyMzQ1OSw0MDM5NTMzMTEs
+LTE2NjI3MzE1NDRdfQ==
 -->
