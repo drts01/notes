@@ -10,8 +10,8 @@
 	* To gain buy-in/trust, I shared the report with the engineers and would only make the changes they approved.
 	* To gain further trust/buy-in, shared report with wider org. Also, early adopters became advocates after seeing the impact to the AWS bill.
 	*  Collaborated with account owners to identify their needs/requirements. Introduced security checks that would meet minimum resistance.
-	* 
-* **Result**: Lowered overhead costs, increased the security posture, and happy customers so I could continue to develop a services they didnt even realized they needed. Also, expand my customers to 
+	* GaiReached out to SecEng to demonstrate how they can approve and deny policy exceptions through git.
+* **Result**: Lowered overhead costs, increased the security posture, and happy customers so I could continue to develop a services they didnt even realized they needed. Also, expand my customers to included SecEng.
 
 ## Ownership
 
@@ -95,7 +95,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 > Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjIzNzUwNDcsMTYzNzgyOTI2MiwtOT
-M5NzM4Njk0LDgzNTQzMDQ1OSwxNjY4NDIzNDU5LDQwMzk1MzMx
-MSwtMTY2MjczMTU0NF19
+eyJoaXN0b3J5IjpbLTg3NzA4NTczMSwxNjM3ODI5MjYyLC05Mz
+k3Mzg2OTQsODM1NDMwNDU5LDE2Njg0MjM0NTksNDAzOTUzMzEx
+LC0xNjYyNzMxNTQ0XX0=
 -->
