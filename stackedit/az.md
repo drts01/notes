@@ -12,11 +12,12 @@
 	*  Collaborated with account owners to identify their needs/requirements. Introduced security checks that would meet minimum resistance.
 	* Gain more customers by reaching out to SecEng to demonstrate how they can approve and deny policy exceptions through git.
 * **Result**: (Improved UX) Simplified management of the infrastructure, which customers did not know they needed.
-	* Lowered cost and improved security posture for service teams.
+	* Value: Lowered cost and improved security posture for service teams.
 	* Empowered SecEng with visibility and approvals.
-		* Expanded user base (new customer).
+		* Growth: Expanded user base (new customer).
 	* Improved relationships with customers enabling being able to suggest features rather than waiting for requirements.
 	* Gave visibility to management (and broader company) through Datadog dashboards to see in vs out of compliance per account.
+	* External customers data was now more secure, even though they would not know.
 
 ## Ownership
 
@@ -169,7 +170,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2NzczMzA1LC02ODY4NzM2NTQsLTE0ND
+eyJoaXN0b3J5IjpbMTk1MDA5MTI0LC02ODY4NzM2NTQsLTE0ND
 AxOTMxNjcsLTg0ODYxNzE0MywxMTg2ODk4NSwyMjQ1NzYxODcs
 LTEyNzMyNDQ0MzEsMTYzNzgyOTI2MiwtOTM5NzM4Njk0LDgzNT
 QzMDQ1OSwxNjY4NDIzNDU5LDQwMzk1MzMxMSwtMTY2MjczMTU0
