@@ -67,9 +67,9 @@ Recently learned:
 * how to build a serverless service
 
 * **Situation**: An opportunity 
-* **Task**: 
-* **Action**:  
-* **Result**: 
+* **Task**:  Role involved designing and maintaining provisioning services and tools.
+* **Action**:  lobbied to be sent to Certified Scrum Product Owerne
+* **Result**:  Was given more projects to lead.
 
 ## Hire and Develop the Best
 
@@ -179,7 +179,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDkyMDM3NSwtMTU2NzczMTUxMSwxNj
+eyJoaXN0b3J5IjpbMjAyODEzOTc1MSwtMTU2NzczMTUxMSwxNj
 UwNzc3ODM1LDE5NTAwOTEyNCwtNjg2ODczNjU0LC0xNDQwMTkz
 MTY3LC04NDg2MTcxNDMsMTE4Njg5ODUsMjI0NTc2MTg3LC0xMj
 czMjQ0NDMxLDE2Mzc4MjkyNjIsLTkzOTczODY5NCw4MzU0MzA0
