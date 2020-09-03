@@ -77,8 +77,8 @@ Recently learned:
 * **Result**:  Deployed a product that was having a meaningful impact w/o infrastructure to maintain and painless deployments; giving more bandwidth to train team and continue development of features.
 &nbsp;
 * **Situation**: As someone formerly studying electronics I have a desire to bridge my development skill set with low level hardware.
-* **Task**:  As a
-* **Action**:  Petitioned to be sent to training.
+* **Task**:  As a organizer in the Los Angeles tech scene, I regular aid groups with events.
+* **Action**:  Joined the SCaLE A/V to h
 * **Result**:  Improved conversations around requirements/mvp, and priorities.
 
 ## Hire and Develop the Best
@@ -189,10 +189,10 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzczNjk2LDE1MDU0MTg3MjAsLTE1Nj
-c3MzE1MTEsMTY1MDc3NzgzNSwxOTUwMDkxMjQsLTY4Njg3MzY1
-NCwtMTQ0MDE5MzE2NywtODQ4NjE3MTQzLDExODY4OTg1LDIyND
-U3NjE4NywtMTI3MzI0NDQzMSwxNjM3ODI5MjYyLC05Mzk3Mzg2
-OTQsODM1NDMwNDU5LDE2Njg0MjM0NTksNDAzOTUzMzExLC0xNj
-YyNzMxNTQ0XX0=
+eyJoaXN0b3J5IjpbLTE3MzI1NzM0MzUsMTUwNTQxODcyMCwtMT
+U2NzczMTUxMSwxNjUwNzc3ODM1LDE5NTAwOTEyNCwtNjg2ODcz
+NjU0LC0xNDQwMTkzMTY3LC04NDg2MTcxNDMsMTE4Njg5ODUsMj
+I0NTc2MTg3LC0xMjczMjQ0NDMxLDE2Mzc4MjkyNjIsLTkzOTcz
+ODY5NCw4MzU0MzA0NTksMTY2ODQyMzQ1OSw0MDM5NTMzMTEsLT
+E2NjI3MzE1NDRdfQ==
 -->
