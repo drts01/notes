@@ -74,7 +74,7 @@ Recently learned:
 * **Situation**: Sole engineer creating a Policy-As-Code service for compliance enforcement.
 * **Task**:  Role was design, deploy, maintain, and continue development on service.
 * **Action**:  Learned how to design and deploy a serverless application.
-* **Result**:  Deployed a product
+* **Result**:  Deployed a product that was having a meaningful impact w/o infrastructure to maintain and painless deployments; giving more bandwidth to train team and continue development of features.
 &nbsp;
 * **Situation**: The manager wanted individuals to be come Certified Scrum Product Owners.
 * **Task**:  Role involved designing and maintaining provisioning services and tools.
@@ -189,7 +189,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODMzNjM5MCwtMTU2NzczMTUxMSwxNj
+eyJoaXN0b3J5IjpbMTUwNTQxODcyMCwtMTU2NzczMTUxMSwxNj
 UwNzc3ODM1LDE5NTAwOTEyNCwtNjg2ODczNjU0LC0xNDQwMTkz
 MTY3LC04NDg2MTcxNDMsMTE4Njg5ODUsMjI0NTc2MTg3LC0xMj
 czMjQ0NDMxLDE2Mzc4MjkyNjIsLTkzOTczODY5NCw4MzU0MzA0
