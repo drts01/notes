@@ -66,10 +66,10 @@ Recently learned:
 * embed systems
 * how to build a serverless service
 
-* **Situation**: An opportunity 
+* **Situation**: The manager wanted indivi
 * **Task**:  Role involved designing and maintaining provisioning services and tools.
-* **Action**:  lobbied to be sent to Certified Scrum Product Owerne
-* **Result**:  Was given more projects to lead.
+* **Action**:  Lobbied to be sent to Certified Scrum Product Owner training.
+* **Result**:  Improved conversations around requirements/mvp, and priorities.
 
 ## Hire and Develop the Best
 
@@ -179,10 +179,9 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODEzOTc1MSwtMTU2NzczMTUxMSwxNj
-UwNzc3ODM1LDE5NTAwOTEyNCwtNjg2ODczNjU0LC0xNDQwMTkz
-MTY3LC04NDg2MTcxNDMsMTE4Njg5ODUsMjI0NTc2MTg3LC0xMj
-czMjQ0NDMxLDE2Mzc4MjkyNjIsLTkzOTczODY5NCw4MzU0MzA0
-NTksMTY2ODQyMzQ1OSw0MDM5NTMzMTEsLTE2NjI3MzE1NDRdfQ
-==
+eyJoaXN0b3J5IjpbNjQ4NDcyNzU2LC0xNTY3NzMxNTExLDE2NT
+A3Nzc4MzUsMTk1MDA5MTI0LC02ODY4NzM2NTQsLTE0NDAxOTMx
+NjcsLTg0ODYxNzE0MywxMTg2ODk4NSwyMjQ1NzYxODcsLTEyNz
+MyNDQ0MzEsMTYzNzgyOTI2MiwtOTM5NzM4Njk0LDgzNTQzMDQ1
+OSwxNjY4NDIzNDU5LDQwMzk1MzMxMSwtMTY2MjczMTU0NF19
 -->
