@@ -71,10 +71,10 @@ Recently learned:
 * **Action**:  Petitioned to be sent to training.
 * **Result**:  Improved conversations around requirements/mvp, and priorities.
 &nbsp;
-* **Situation**: Creating a Policy-As-Code service for compliance enforcement. 
-* **Task**:  Role was 
-* **Action**:  Petitioned to be sent to training.
-* **Result**:  Improved conversations around requirements/mvp, and priorities.
+* **Situation**: Sole engineer creating a Policy-As-Code service for compliance enforcement.
+* **Task**:  Role was design, deploy, maintain, and continue development on service.
+* **Action**:  Learned how to design and deploy a serverless application.
+* **Result**:  Deployed a product
 &nbsp;
 * **Situation**: The manager wanted individuals to be come Certified Scrum Product Owners.
 * **Task**:  Role involved designing and maintaining provisioning services and tools.
@@ -189,9 +189,10 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzQzODQsLTE1Njc3MzE1MTEsMTY1MD
-c3NzgzNSwxOTUwMDkxMjQsLTY4Njg3MzY1NCwtMTQ0MDE5MzE2
-NywtODQ4NjE3MTQzLDExODY4OTg1LDIyNDU3NjE4NywtMTI3Mz
-I0NDQzMSwxNjM3ODI5MjYyLC05Mzk3Mzg2OTQsODM1NDMwNDU5
-LDE2Njg0MjM0NTksNDAzOTUzMzExLC0xNjYyNzMxNTQ0XX0=
+eyJoaXN0b3J5IjpbMjAwODMzNjM5MCwtMTU2NzczMTUxMSwxNj
+UwNzc3ODM1LDE5NTAwOTEyNCwtNjg2ODczNjU0LC0xNDQwMTkz
+MTY3LC04NDg2MTcxNDMsMTE4Njg5ODUsMjI0NTc2MTg3LC0xMj
+czMjQ0NDMxLDE2Mzc4MjkyNjIsLTkzOTczODY5NCw4MzU0MzA0
+NTksMTY2ODQyMzQ1OSw0MDM5NTMzMTEsLTE2NjI3MzE1NDRdfQ
+==
 -->
