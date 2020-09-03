@@ -66,7 +66,7 @@ Recently learned:
 * embed systems
 * how to build a serverless service
 
-* **Situation**: 
+* **Situation**: An opportunity 
 * **Task**: 
 * **Action**:  
 * **Result**: 
@@ -179,9 +179,10 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc3MzE1MTEsMTY1MDc3NzgzNSwxOT
-UwMDkxMjQsLTY4Njg3MzY1NCwtMTQ0MDE5MzE2NywtODQ4NjE3
-MTQzLDExODY4OTg1LDIyNDU3NjE4NywtMTI3MzI0NDQzMSwxNj
-M3ODI5MjYyLC05Mzk3Mzg2OTQsODM1NDMwNDU5LDE2Njg0MjM0
-NTksNDAzOTUzMzExLC0xNjYyNzMxNTQ0XX0=
+eyJoaXN0b3J5IjpbMjA1NDkyMDM3NSwtMTU2NzczMTUxMSwxNj
+UwNzc3ODM1LDE5NTAwOTEyNCwtNjg2ODczNjU0LC0xNDQwMTkz
+MTY3LC04NDg2MTcxNDMsMTE4Njg5ODUsMjI0NTc2MTg3LC0xMj
+czMjQ0NDMxLDE2Mzc4MjkyNjIsLTkzOTczODY5NCw4MzU0MzA0
+NTksMTY2ODQyMzQ1OSw0MDM5NTMzMTEsLTE2NjI3MzE1NDRdfQ
+==
 -->
