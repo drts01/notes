@@ -76,7 +76,7 @@ Recently learned:
 * **Action**:  Learned how to design and deploy a serverless application.
 * **Result**:  Deployed a product that was having a meaningful impact w/o infrastructure to maintain and painless deployments; giving more bandwidth to train team and continue development of features.
 &nbsp;
-* **Situation**: The manager wanted individuals to be come Certified Scrum Product Owners.
+* **Situation**: As someone formerly studing electronics I have a desire to bridge my development skill set with
 * **Task**:  Role involved designing and maintaining provisioning services and tools.
 * **Action**:  Petitioned to be sent to training.
 * **Result**:  Improved conversations around requirements/mvp, and priorities.
@@ -189,10 +189,10 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNTQxODcyMCwtMTU2NzczMTUxMSwxNj
-UwNzc3ODM1LDE5NTAwOTEyNCwtNjg2ODczNjU0LC0xNDQwMTkz
-MTY3LC04NDg2MTcxNDMsMTE4Njg5ODUsMjI0NTc2MTg3LC0xMj
-czMjQ0NDMxLDE2Mzc4MjkyNjIsLTkzOTczODY5NCw4MzU0MzA0
-NTksMTY2ODQyMzQ1OSw0MDM5NTMzMTEsLTE2NjI3MzE1NDRdfQ
-==
+eyJoaXN0b3J5IjpbLTIwNTgyNzE0MTYsMTUwNTQxODcyMCwtMT
+U2NzczMTUxMSwxNjUwNzc3ODM1LDE5NTAwOTEyNCwtNjg2ODcz
+NjU0LC0xNDQwMTkzMTY3LC04NDg2MTcxNDMsMTE4Njg5ODUsMj
+I0NTc2MTg3LC0xMjczMjQ0NDMxLDE2Mzc4MjkyNjIsLTkzOTcz
+ODY5NCw4MzU0MzA0NTksMTY2ODQyMzQ1OSw0MDM5NTMzMTEsLT
+E2NjI3MzE1NDRdfQ==
 -->
