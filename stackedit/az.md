@@ -92,8 +92,8 @@ Provided opportunity for customer support staff to expand their role and skill s
 
 * **Situation**: Shortly after being hired, I was moved to a tiger team to aid in the automated build-out of a new private cloud infrastructure. Shortly after working on the tiger team, I was promoted and moved to the main provisioning team.
 * **Task**: As a member of the automated provisioning team, we were responsible for low level self-healing of the CDN, and free up our system engineers to address other issues, ie. system tuning. This meant I now spent the majority of my time becoming a better software engineer.
-* **Action**: Started bi-weekly trainings around Git, Python, Saltstack
-* **Result**:  More engineers that were more efficent by leveraging development best practices.
+* **Action**: Started bi-weekly trainings around Git, Python, Saltstack. Since I could not pull the entire team, I had to identify a few candidates.
+* **Result**:  More engineers that were more efficient by leveraging development best practices. Share of code/scripts. And even a couple were promoted across the next 6 months.
 * 
 ## Insist on the Highest Standards
 
@@ -189,10 +189,10 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwMTYzMjQxLDEyNjk0MDQzODAsMTUwNT
-QxODcyMCwtMTU2NzczMTUxMSwxNjUwNzc3ODM1LDE5NTAwOTEy
-NCwtNjg2ODczNjU0LC0xNDQwMTkzMTY3LC04NDg2MTcxNDMsMT
-E4Njg5ODUsMjI0NTc2MTg3LC0xMjczMjQ0NDMxLDE2Mzc4Mjky
-NjIsLTkzOTczODY5NCw4MzU0MzA0NTksMTY2ODQyMzQ1OSw0MD
-M5NTMzMTEsLTE2NjI3MzE1NDRdfQ==
+eyJoaXN0b3J5IjpbMTk5ODAzMzIyMiwxMjY5NDA0MzgwLDE1MD
+U0MTg3MjAsLTE1Njc3MzE1MTEsMTY1MDc3NzgzNSwxOTUwMDkx
+MjQsLTY4Njg3MzY1NCwtMTQ0MDE5MzE2NywtODQ4NjE3MTQzLD
+ExODY4OTg1LDIyNDU3NjE4NywtMTI3MzI0NDQzMSwxNjM3ODI5
+MjYyLC05Mzk3Mzg2OTQsODM1NDMwNDU5LDE2Njg0MjM0NTksND
+AzOTUzMzExLC0xNjYyNzMxNTQ0XX0=
 -->
