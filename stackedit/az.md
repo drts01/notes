@@ -100,9 +100,9 @@ Provided opportunity for customer support staff to expand their role and skill s
 > Leaders have relentlessly high standards — many people may think these standards are unreasonably high. Leaders are continually raising the bar and drive their teams to deliver high quality products, services, and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
 
 * **Situation**: In a short time, we needed a mechanism to propagate secrets through the infrastructure. A designed was rushed out that had, to me, a glaring security issue.
-* **Task**: As a member of the team to implement secret propagation, I needed a 
-* **Action**:  
-* **Result**: 
+* **Task**: As a member of the team to implement secret propagation, I was responsible for ensuring that best practices were used.
+* **Action**: I researched the problem space and create a new design that would leverage the work that was already inflight w/o causing out delivery date to slip.
+* **Result**: A product that 
 
 Proper implementation of secret propagation. I was not satisfied with the proposed solution. Across the next few days I researched and designed a solution that was more secure and less technical debt.
 
@@ -189,10 +189,10 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODY1Mzk0NDAsMTk5ODAzMzIyMiwxMj
-Y5NDA0MzgwLDE1MDU0MTg3MjAsLTE1Njc3MzE1MTEsMTY1MDc3
-NzgzNSwxOTUwMDkxMjQsLTY4Njg3MzY1NCwtMTQ0MDE5MzE2Ny
-wtODQ4NjE3MTQzLDExODY4OTg1LDIyNDU3NjE4NywtMTI3MzI0
-NDQzMSwxNjM3ODI5MjYyLC05Mzk3Mzg2OTQsODM1NDMwNDU5LD
-E2Njg0MjM0NTksNDAzOTUzMzExLC0xNjYyNzMxNTQ0XX0=
+eyJoaXN0b3J5IjpbMTg0NDA5Nzk0MCwxOTk4MDMzMjIyLDEyNj
+k0MDQzODAsMTUwNTQxODcyMCwtMTU2NzczMTUxMSwxNjUwNzc3
+ODM1LDE5NTAwOTEyNCwtNjg2ODczNjU0LC0xNDQwMTkzMTY3LC
+04NDg2MTcxNDMsMTE4Njg5ODUsMjI0NTc2MTg3LC0xMjczMjQ0
+NDMxLDE2Mzc4MjkyNjIsLTkzOTczODY5NCw4MzU0MzA0NTksMT
+Y2ODQyMzQ1OSw0MDM5NTMzMTEsLTE2NjI3MzE1NDRdfQ==
 -->
