@@ -146,8 +146,8 @@ Converting data entry systems from EOL Windows and MS Office machines to running
 
 Putting myself out there by doing demo/presentations for the team when I was new. This encouraged more junior engineers to try. I provided accolades during our weekly retrospectives for the effort made and information shared.
 
-* **Situation**: Several racks of kvm nodes needed the .
-* **Task**: 
+* **Situation**: Several racks of kvm nodes needed the networking configured. This was a manual process to determine VLANs, IP ranges, etc. This needed to b
+* **Task**: A new engineer on the team, I was task to delivar 
 * **Action**:  
 * **Result**: 
 
@@ -190,11 +190,11 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTY1Njc1ODMsLTIxMTQxNjQyNDEsLT
-U1NDEwNTYyOSwtMTgxOTIxOTQwMywxODY3NTExMzc2LC01MTI4
-MjEzMjYsNDAzOTE3MjkzLDE5OTgwMzMyMjIsMTI2OTQwNDM4MC
-wxNTA1NDE4NzIwLC0xNTY3NzMxNTExLDE2NTA3Nzc4MzUsMTk1
-MDA5MTI0LC02ODY4NzM2NTQsLTE0NDAxOTMxNjcsLTg0ODYxNz
-E0MywxMTg2ODk4NSwyMjQ1NzYxODcsLTEyNzMyNDQ0MzEsMTYz
-NzgyOTI2Ml19
+eyJoaXN0b3J5IjpbMTE4NjczNzA2MywtMjExNDE2NDI0MSwtNT
+U0MTA1NjI5LC0xODE5MjE5NDAzLDE4Njc1MTEzNzYsLTUxMjgy
+MTMyNiw0MDM5MTcyOTMsMTk5ODAzMzIyMiwxMjY5NDA0MzgwLD
+E1MDU0MTg3MjAsLTE1Njc3MzE1MTEsMTY1MDc3NzgzNSwxOTUw
+MDkxMjQsLTY4Njg3MzY1NCwtMTQ0MDE5MzE2NywtODQ4NjE3MT
+QzLDExODY4OTg1LDIyNDU3NjE4NywtMTI3MzI0NDQzMSwxNjM3
+ODI5MjYyXX0=
 -->
