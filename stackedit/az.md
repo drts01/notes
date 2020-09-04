@@ -100,7 +100,7 @@ Provided opportunity for customer support staff to expand their role and skill s
 > Leaders have relentlessly high standards — many people may think these standards are unreasonably high. Leaders are continually raising the bar and drive their teams to deliver high quality products, services, and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
 
 * **Situation**: In a short time, we needed a mechanism to propagate secrets through the infrastructure. A designed was rushed out that had, to me, a glaring security issue.
-* **Task**: As a member of the pr
+* **Task**: As a member of the team to implement secret propagation, I needed a 
 * **Action**:  
 * **Result**: 
 
@@ -189,7 +189,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA1ODEzODQsMTk5ODAzMzIyMiwxMj
+eyJoaXN0b3J5IjpbLTE3ODY1Mzk0NDAsMTk5ODAzMzIyMiwxMj
 Y5NDA0MzgwLDE1MDU0MTg3MjAsLTE1Njc3MzE1MTEsMTY1MDc3
 NzgzNSwxOTUwMDkxMjQsLTY4Njg3MzY1NCwtMTQ0MDE5MzE2Ny
 wtODQ4NjE3MTQzLDExODY4OTg1LDIyNDU3NjE4NywtMTI3MzI0
