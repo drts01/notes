@@ -99,8 +99,8 @@ Provided opportunity for customer support staff to expand their role and skill s
 
 > Leaders have relentlessly high standards — many people may think these standards are unreasonably high. Leaders are continually raising the bar and drive their teams to deliver high quality products, services, and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
 
-* **Situation**: 
-* **Task**: 
+* **Situation**: In a short time, we needed a mechanism to propagate secrets through the infrastructure. A designed was rushed out that had, to me, a glaring security issue.
+* **Task**: As a member of the pr
 * **Action**:  
 * **Result**: 
 
@@ -189,10 +189,10 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODAzMzIyMiwxMjY5NDA0MzgwLDE1MD
-U0MTg3MjAsLTE1Njc3MzE1MTEsMTY1MDc3NzgzNSwxOTUwMDkx
-MjQsLTY4Njg3MzY1NCwtMTQ0MDE5MzE2NywtODQ4NjE3MTQzLD
-ExODY4OTg1LDIyNDU3NjE4NywtMTI3MzI0NDQzMSwxNjM3ODI5
-MjYyLC05Mzk3Mzg2OTQsODM1NDMwNDU5LDE2Njg0MjM0NTksND
-AzOTUzMzExLC0xNjYyNzMxNTQ0XX0=
+eyJoaXN0b3J5IjpbLTIwNzA1ODEzODQsMTk5ODAzMzIyMiwxMj
+Y5NDA0MzgwLDE1MDU0MTg3MjAsLTE1Njc3MzE1MTEsMTY1MDc3
+NzgzNSwxOTUwMDkxMjQsLTY4Njg3MzY1NCwtMTQ0MDE5MzE2Ny
+wtODQ4NjE3MTQzLDExODY4OTg1LDIyNDU3NjE4NywtMTI3MzI0
+NDQzMSwxNjM3ODI5MjYyLC05Mzk3Mzg2OTQsODM1NDMwNDU5LD
+E2Njg0MjM0NTksNDAzOTUzMzExLC0xNjYyNzMxNTQ0XX0=
 -->
