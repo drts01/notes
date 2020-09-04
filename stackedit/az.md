@@ -32,7 +32,7 @@
 
 > Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here." As we do new things, we accept that we may be misunderstood for long periods of time.
 
-* **Situation**: 
+* **Situation**: Terraform setup had organicly gain 
 * **Task**: 
 * **Action**:  
 * **Result**: 
@@ -190,11 +190,11 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDYzNzI0MiwyNDQyNjMxNTYsLTE3Mj
-c1NjA1MjcsLTE4MDQzMjE0MTUsLTIxMTQxNjQyNDEsLTU1NDEw
-NTYyOSwtMTgxOTIxOTQwMywxODY3NTExMzc2LC01MTI4MjEzMj
-YsNDAzOTE3MjkzLDE5OTgwMzMyMjIsMTI2OTQwNDM4MCwxNTA1
-NDE4NzIwLC0xNTY3NzMxNTExLDE2NTA3Nzc4MzUsMTk1MDA5MT
-I0LC02ODY4NzM2NTQsLTE0NDAxOTMxNjcsLTg0ODYxNzE0Mywx
-MTg2ODk4NV19
+eyJoaXN0b3J5IjpbMTMxNjg3MDIxNywtNzM0NjM3MjQyLDI0ND
+I2MzE1NiwtMTcyNzU2MDUyNywtMTgwNDMyMTQxNSwtMjExNDE2
+NDI0MSwtNTU0MTA1NjI5LC0xODE5MjE5NDAzLDE4Njc1MTEzNz
+YsLTUxMjgyMTMyNiw0MDM5MTcyOTMsMTk5ODAzMzIyMiwxMjY5
+NDA0MzgwLDE1MDU0MTg3MjAsLTE1Njc3MzE1MTEsMTY1MDc3Nz
+gzNSwxOTUwMDkxMjQsLTY4Njg3MzY1NCwtMTQ0MDE5MzE2Nywt
+ODQ4NjE3MTQzXX0=
 -->
