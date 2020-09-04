@@ -135,7 +135,7 @@ Cleaning up unused resources across all accounts.
 
 * **Situation**: Building TDI MVP with no budget.
 * **Task**: As an engineer of a manage service provider, needed to build reliable infra for clients.
-* **Action**: 
+* **Action**: Added, what was a decommissioned server from a 
 * **Result**: 
 
 Converting data entry systems from EOL Windows and MS Office machines to running open source software that was receiving security updates.
@@ -190,11 +190,11 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYxNjUwNTcsLTU1NDEwNTYyOSwtMT
-gxOTIxOTQwMywxODY3NTExMzc2LC01MTI4MjEzMjYsNDAzOTE3
-MjkzLDE5OTgwMzMyMjIsMTI2OTQwNDM4MCwxNTA1NDE4NzIwLC
-0xNTY3NzMxNTExLDE2NTA3Nzc4MzUsMTk1MDA5MTI0LC02ODY4
-NzM2NTQsLTE0NDAxOTMxNjcsLTg0ODYxNzE0MywxMTg2ODk4NS
-wyMjQ1NzYxODcsLTEyNzMyNDQ0MzEsMTYzNzgyOTI2MiwtOTM5
-NzM4Njk0XX0=
+eyJoaXN0b3J5IjpbMTM5NzU0MDEyLC01NTQxMDU2MjksLTE4MT
+kyMTk0MDMsMTg2NzUxMTM3NiwtNTEyODIxMzI2LDQwMzkxNzI5
+MywxOTk4MDMzMjIyLDEyNjk0MDQzODAsMTUwNTQxODcyMCwtMT
+U2NzczMTUxMSwxNjUwNzc3ODM1LDE5NTAwOTEyNCwtNjg2ODcz
+NjU0LC0xNDQwMTkzMTY3LC04NDg2MTcxNDMsMTE4Njg5ODUsMj
+I0NTc2MTg3LC0xMjczMjQ0NDMxLDE2Mzc4MjkyNjIsLTkzOTcz
+ODY5NF19
 -->
