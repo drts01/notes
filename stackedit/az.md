@@ -182,15 +182,15 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 > Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 
-* **Situation**: Creating a pipeline to have consistence images across all environments (i.e. public and private cloud). We were leveraging a tool from the Debian team on Ubuntu. As we developed, we kept discovering changes required to make the tool work for both OSes causing the project to be at risk of not mak
+* **Situation**: Creating a pipeline to have consistence images across all environments (i.e. public and private cloud and baremetal) that start from the same base artifact. We were leveraging a tool from the Debian team on Ubuntu. As we developed, we kept discovering changes required to make the tool work for both OSes causing the project to be at risk of not making the delivery date.
 * **Task**: Lead the project.
-* **Action**:  
+* **Action**: Proposed to focus on AWS and OpenStack. And drop Docker images and 
 * **Result**: 
 
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwNDk5NDAxLDI0NDI2MzE1NiwtMTcyNz
+eyJoaXN0b3J5IjpbNTg0Mzc5OTk2LDI0NDI2MzE1NiwtMTcyNz
 U2MDUyNywtMTgwNDMyMTQxNSwtMjExNDE2NDI0MSwtNTU0MTA1
 NjI5LC0xODE5MjE5NDAzLDE4Njc1MTEzNzYsLTUxMjgyMTMyNi
 w0MDM5MTcyOTMsMTk5ODAzMzIyMiwxMjY5NDA0MzgwLDE1MDU0
