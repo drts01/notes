@@ -102,7 +102,7 @@ Provided opportunity for customer support staff to expand their role and skill s
 * **Situation**: In a short time, we needed a mechanism to propagate secrets through the infrastructure. A designed was rushed out that had, to me, a glaring security issue.
 * **Task**: As a member of the team to implement secret propagation, I was responsible for ensuring that best practices were used.
 * **Action**: I researched the problem space and create a new design that would leverage the work that was already inflight w/o causing out delivery date to slip.
-* **Result**: A product that 
+* **Result**: A product that I had confidence in and 
 
 Proper implementation of secret propagation. I was not satisfied with the proposed solution. Across the next few days I researched and designed a solution that was more secure and less technical debt.
 
@@ -189,7 +189,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NDA5Nzk0MCwxOTk4MDMzMjIyLDEyNj
+eyJoaXN0b3J5IjpbMTE3MDgzOTk4MiwxOTk4MDMzMjIyLDEyNj
 k0MDQzODAsMTUwNTQxODcyMCwtMTU2NzczMTUxMSwxNjUwNzc3
 ODM1LDE5NTAwOTEyNCwtNjg2ODczNjU0LC0xNDQwMTkzMTY3LC
 04NDg2MTcxNDMsMTE4Njg5ODUsMjI0NTc2MTg3LC0xMjczMjQ0
