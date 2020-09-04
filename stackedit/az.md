@@ -78,7 +78,7 @@ Recently learned:
 &nbsp;
 * **Situation**: As someone formerly studying electronics I have a desire to bridge my development skill set with low level hardware.
 * **Task**:  As a organizer in the Los Angeles tech scene, I regular aid groups with events.
-* **Action**:  Joined the SCaLE A/V to help develop an interface to control the 
+* **Action**:  Joined the SCaLE A/V to help develop an interface to control the audio/video switches from the in-room recording /muxing computer.
 * **Result**:  Improved conversations around requirements/mvp, and priorities.
 
 ## Hire and Develop the Best
@@ -189,10 +189,10 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDE2MTYxNCwxNTA1NDE4NzIwLC0xNT
-Y3NzMxNTExLDE2NTA3Nzc4MzUsMTk1MDA5MTI0LC02ODY4NzM2
-NTQsLTE0NDAxOTMxNjcsLTg0ODYxNzE0MywxMTg2ODk4NSwyMj
-Q1NzYxODcsLTEyNzMyNDQ0MzEsMTYzNzgyOTI2MiwtOTM5NzM4
-Njk0LDgzNTQzMDQ1OSwxNjY4NDIzNDU5LDQwMzk1MzMxMSwtMT
-Y2MjczMTU0NF19
+eyJoaXN0b3J5IjpbLTE4ODcxNTM2NDcsMTUwNTQxODcyMCwtMT
+U2NzczMTUxMSwxNjUwNzc3ODM1LDE5NTAwOTEyNCwtNjg2ODcz
+NjU0LC0xNDQwMTkzMTY3LC04NDg2MTcxNDMsMTE4Njg5ODUsMj
+I0NTc2MTg3LC0xMjczMjQ0NDMxLDE2Mzc4MjkyNjIsLTkzOTcz
+ODY5NCw4MzU0MzA0NTksMTY2ODQyMzQ1OSw0MDM5NTMzMTEsLT
+E2NjI3MzE1NDRdfQ==
 -->
