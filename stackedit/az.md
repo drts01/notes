@@ -146,7 +146,7 @@ Converting data entry systems from EOL Windows and MS Office machines to running
 
 Putting myself out there by doing demo/presentations for the team when I was new. This encouraged more junior engineers to try. I provided accolades during our weekly retrospectives for the effort made and information shared.
 
-* **Situation**: New at Verizon/Edgecast, I was asked to manually configure the networking of a rack of
+* **Situation**: Several racks of kvm nodes needed the .
 * **Task**: 
 * **Action**:  
 * **Result**: 
@@ -190,7 +190,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI5NzQzNTcsLTIxMTQxNjQyNDEsLT
+eyJoaXN0b3J5IjpbLTE2MTY1Njc1ODMsLTIxMTQxNjQyNDEsLT
 U1NDEwNTYyOSwtMTgxOTIxOTQwMywxODY3NTExMzc2LC01MTI4
 MjEzMjYsNDAzOTE3MjkzLDE5OTgwMzMyMjIsMTI2OTQwNDM4MC
 wxNTA1NDE4NzIwLC0xNTY3NzMxNTExLDE2NTA3Nzc4MzUsMTk1
