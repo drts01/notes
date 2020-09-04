@@ -110,7 +110,7 @@ Proper implementation of secret propagation. I was not satisfied with the propos
 
 > Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.
 
-* **Situation**: 
+* **Situation**: E
 * **Task**: 
 * **Action**:  
 * **Result**: 
@@ -189,10 +189,11 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzOTE3MjkzLDE5OTgwMzMyMjIsMTI2OT
-QwNDM4MCwxNTA1NDE4NzIwLC0xNTY3NzMxNTExLDE2NTA3Nzc4
-MzUsMTk1MDA5MTI0LC02ODY4NzM2NTQsLTE0NDAxOTMxNjcsLT
-g0ODYxNzE0MywxMTg2ODk4NSwyMjQ1NzYxODcsLTEyNzMyNDQ0
-MzEsMTYzNzgyOTI2MiwtOTM5NzM4Njk0LDgzNTQzMDQ1OSwxNj
-Y4NDIzNDU5LDQwMzk1MzMxMSwtMTY2MjczMTU0NF19
+eyJoaXN0b3J5IjpbLTUxMjgyMTMyNiw0MDM5MTcyOTMsMTk5OD
+AzMzIyMiwxMjY5NDA0MzgwLDE1MDU0MTg3MjAsLTE1Njc3MzE1
+MTEsMTY1MDc3NzgzNSwxOTUwMDkxMjQsLTY4Njg3MzY1NCwtMT
+Q0MDE5MzE2NywtODQ4NjE3MTQzLDExODY4OTg1LDIyNDU3NjE4
+NywtMTI3MzI0NDQzMSwxNjM3ODI5MjYyLC05Mzk3Mzg2OTQsOD
+M1NDMwNDU5LDE2Njg0MjM0NTksNDAzOTUzMzExLC0xNjYyNzMx
+NTQ0XX0=
 -->
