@@ -90,8 +90,8 @@ Identify candidates to train in Python.
 Provided opportunity for customer support staff to expand their role and skill set by teaching them how to do post new products on the website.
 
 
-* **Situation**: Shortly after being hired, I was moved to a tiger team to aid in the automated buildout of a new private cloud infrastructure. Shortly after working on the tiger team, I was promoted and moved where I able to 
-* **Task**: 
+* **Situation**: Shortly after being hired, I was moved to a tiger team to aid in the automated build-out of a new private cloud infrastructure. Shortly after working on the tiger team, I was promoted and moved to the main provisioning team, to leverage and further advance my development skill set.
+* **Task**: As a memeber of the automated provisioning team, we were responsible 
 * **Action**:  
 * **Result**: 
 * 
@@ -189,10 +189,10 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM2MjcwNTYsMTI2OTQwNDM4MCwxNT
-A1NDE4NzIwLC0xNTY3NzMxNTExLDE2NTA3Nzc4MzUsMTk1MDA5
-MTI0LC02ODY4NzM2NTQsLTE0NDAxOTMxNjcsLTg0ODYxNzE0My
-wxMTg2ODk4NSwyMjQ1NzYxODcsLTEyNzMyNDQ0MzEsMTYzNzgy
-OTI2MiwtOTM5NzM4Njk0LDgzNTQzMDQ1OSwxNjY4NDIzNDU5LD
-QwMzk1MzMxMSwtMTY2MjczMTU0NF19
+eyJoaXN0b3J5IjpbMzYxNjk4NDQ3LDEyNjk0MDQzODAsMTUwNT
+QxODcyMCwtMTU2NzczMTUxMSwxNjUwNzc3ODM1LDE5NTAwOTEy
+NCwtNjg2ODczNjU0LC0xNDQwMTkzMTY3LC04NDg2MTcxNDMsMT
+E4Njg5ODUsMjI0NTc2MTg3LC0xMjczMjQ0NDMxLDE2Mzc4Mjky
+NjIsLTkzOTczODY5NCw4MzU0MzA0NTksMTY2ODQyMzQ1OSw0MD
+M5NTMzMTEsLTE2NjI3MzE1NDRdfQ==
 -->
