@@ -121,9 +121,9 @@ Compliance enforcement
 
 > Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
 
-* **Situation**: Received a complaint from an employee of a client that they were unable to access their documents from the file server. In the time to respond to the issue, a 
-* **Task**: 
-* **Action**:  
+* **Situation**: Received a complaint from an employee of a client that they were unable to access their documents from the file server. In the time to respond to the issue, another use reported that they could not access files from the file server and their local files were unable to open.
+* **Task**: As an engineer of managed service provider my role was to assist clients with their infrastructure needs.
+* **Action**: 
 * **Result**: 
 
 Cleaning up unused resources across all accounts.
@@ -190,11 +190,11 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODM0NDY3NCwxODY3NTExMzc2LC01MT
-I4MjEzMjYsNDAzOTE3MjkzLDE5OTgwMzMyMjIsMTI2OTQwNDM4
-MCwxNTA1NDE4NzIwLC0xNTY3NzMxNTExLDE2NTA3Nzc4MzUsMT
-k1MDA5MTI0LC02ODY4NzM2NTQsLTE0NDAxOTMxNjcsLTg0ODYx
-NzE0MywxMTg2ODk4NSwyMjQ1NzYxODcsLTEyNzMyNDQ0MzEsMT
-YzNzgyOTI2MiwtOTM5NzM4Njk0LDgzNTQzMDQ1OSwxNjY4NDIz
-NDU5XX0=
+eyJoaXN0b3J5IjpbLTIwOTY1Mzk1NzcsMTg2NzUxMTM3NiwtNT
+EyODIxMzI2LDQwMzkxNzI5MywxOTk4MDMzMjIyLDEyNjk0MDQz
+ODAsMTUwNTQxODcyMCwtMTU2NzczMTUxMSwxNjUwNzc3ODM1LD
+E5NTAwOTEyNCwtNjg2ODczNjU0LC0xNDQwMTkzMTY3LC04NDg2
+MTcxNDMsMTE4Njg5ODUsMjI0NTc2MTg3LC0xMjczMjQ0NDMxLD
+E2Mzc4MjkyNjIsLTkzOTczODY5NCw4MzU0MzA0NTksMTY2ODQy
+MzQ1OV19
 -->
