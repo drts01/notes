@@ -124,7 +124,7 @@ Compliance enforcement
 * **Situation**: Received a complaint from an employee of a client that they were unable to access their documents from the file server. In the time to respond to the issue, another use reported that they could not access files from the file server and their local files were unable to open.
 * **Task**: As an engineer of managed service provider my role was to assist clients with their infrastructure needs.
 * **Action**: Connected to the file server and saw evidence of a ransomware attack. Immediately powered off the file server and closed the ports on the switch.
-* **Result**: While I caused the company to come to a halt, I prevented wide spread datal
+* **Result**: While I caused the company to come to a halt, I prevented wide spread dataloss. The local backup were still intact, enabling speedy recovery of encrypted data. The c
 
 Cleaning up unused resources across all accounts.
 
@@ -190,11 +190,11 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQzODYwMTksMTg2NzUxMTM3NiwtNT
-EyODIxMzI2LDQwMzkxNzI5MywxOTk4MDMzMjIyLDEyNjk0MDQz
-ODAsMTUwNTQxODcyMCwtMTU2NzczMTUxMSwxNjUwNzc3ODM1LD
-E5NTAwOTEyNCwtNjg2ODczNjU0LC0xNDQwMTkzMTY3LC04NDg2
-MTcxNDMsMTE4Njg5ODUsMjI0NTc2MTg3LC0xMjczMjQ0NDMxLD
-E2Mzc4MjkyNjIsLTkzOTczODY5NCw4MzU0MzA0NTksMTY2ODQy
-MzQ1OV19
+eyJoaXN0b3J5IjpbOTA1MjExMzIwLDE4Njc1MTEzNzYsLTUxMj
+gyMTMyNiw0MDM5MTcyOTMsMTk5ODAzMzIyMiwxMjY5NDA0Mzgw
+LDE1MDU0MTg3MjAsLTE1Njc3MzE1MTEsMTY1MDc3NzgzNSwxOT
+UwMDkxMjQsLTY4Njg3MzY1NCwtMTQ0MDE5MzE2NywtODQ4NjE3
+MTQzLDExODY4OTg1LDIyNDU3NjE4NywtMTI3MzI0NDQzMSwxNj
+M3ODI5MjYyLC05Mzk3Mzg2OTQsODM1NDMwNDU5LDE2Njg0MjM0
+NTldfQ==
 -->
