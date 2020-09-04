@@ -121,7 +121,7 @@ Compliance enforcement
 
 > Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
 
-* **Situation**: Recieved a complaint from an employee of a client that they were unable to access their documents.
+* **Situation**: Received a complaint from an employee of a client that they were unable to access their documents from the file server. In the time to respond to the issue, a 
 * **Task**: 
 * **Action**:  
 * **Result**: 
@@ -190,7 +190,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTM1MTU1OSwxODY3NTExMzc2LC01MT
+eyJoaXN0b3J5IjpbMTM5ODM0NDY3NCwxODY3NTExMzc2LC01MT
 I4MjEzMjYsNDAzOTE3MjkzLDE5OTgwMzMyMjIsMTI2OTQwNDM4
 MCwxNTA1NDE4NzIwLC0xNTY3NzMxNTExLDE2NTA3Nzc4MzUsMT
 k1MDA5MTI0LC02ODY4NzM2NTQsLTE0NDAxOTMxNjcsLTg0ODYx
