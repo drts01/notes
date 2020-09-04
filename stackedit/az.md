@@ -134,8 +134,8 @@ Cleaning up unused resources across all accounts.
 > Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense.
 
 * **Situation**: Building TDI MVP
-* **Task**: As an 
-* **Action**:  
+* **Task**: As an engineer of a manage service provider, needed to build reliable infra for clients.
+* **Action**: 
 * **Result**: 
 
 Converting data entry systems from EOL Windows and MS Office machines to running open source software that was receiving security updates.
@@ -190,7 +190,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjY4OTE1NiwtMTgxOTIxOTQwMywxOD
+eyJoaXN0b3J5IjpbLTU1NDEwNTYyOSwtMTgxOTIxOTQwMywxOD
 Y3NTExMzc2LC01MTI4MjEzMjYsNDAzOTE3MjkzLDE5OTgwMzMy
 MjIsMTI2OTQwNDM4MCwxNTA1NDE4NzIwLC0xNTY3NzMxNTExLD
 E2NTA3Nzc4MzUsMTk1MDA5MTI0LC02ODY4NzM2NTQsLTE0NDAx
