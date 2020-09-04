@@ -135,8 +135,8 @@ Cleaning up unused resources across all accounts.
 
 * **Situation**: Building TDI MVP with no budget or dev environment.
 * **Task**: As an engineer of a manage service provider, needed to build reliable infra for clients.
-* **Action**: Added a server, that was a decommissioned from a client, to the VMware/vSphere cluster. Gave it, it's own spinning rust to avoid using the production SAN. And create a VLAN for the VMs on this hypervisor node to provide some level
-* **Result**: 
+* **Action**: Added a server, that was a decommissioned from a client, to the VMware/vSphere cluster. Gave it, it's own spinning rust to avoid using the production SAN. And create a VLAN for the VMs on this hypervisor node to provide some level of segmentation.
+* **Result**: Created a TDI pipeline and dev environment to build a base image for servers w/o having to purchase 
 
 Converting data entry systems from EOL Windows and MS Office machines to running open source software that was receiving security updates.
 
@@ -190,11 +190,11 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDY4MTk0NiwtNTU0MTA1NjI5LC0xOD
-E5MjE5NDAzLDE4Njc1MTEzNzYsLTUxMjgyMTMyNiw0MDM5MTcy
-OTMsMTk5ODAzMzIyMiwxMjY5NDA0MzgwLDE1MDU0MTg3MjAsLT
-E1Njc3MzE1MTEsMTY1MDc3NzgzNSwxOTUwMDkxMjQsLTY4Njg3
-MzY1NCwtMTQ0MDE5MzE2NywtODQ4NjE3MTQzLDExODY4OTg1LD
-IyNDU3NjE4NywtMTI3MzI0NDQzMSwxNjM3ODI5MjYyLC05Mzk3
-Mzg2OTRdfQ==
+eyJoaXN0b3J5IjpbLTE3MjY5NDY3MTMsLTU1NDEwNTYyOSwtMT
+gxOTIxOTQwMywxODY3NTExMzc2LC01MTI4MjEzMjYsNDAzOTE3
+MjkzLDE5OTgwMzMyMjIsMTI2OTQwNDM4MCwxNTA1NDE4NzIwLC
+0xNTY3NzMxNTExLDE2NTA3Nzc4MzUsMTk1MDA5MTI0LC02ODY4
+NzM2NTQsLTE0NDAxOTMxNjcsLTg0ODYxNzE0MywxMTg2ODk4NS
+wyMjQ1NzYxODcsLTEyNzMyNDQ0MzEsMTYzNzgyOTI2MiwtOTM5
+NzM4Njk0XX0=
 -->
