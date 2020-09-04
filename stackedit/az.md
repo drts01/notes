@@ -148,7 +148,7 @@ Putting myself out there by doing demo/presentations for the team when I was new
 
 * **Situation**: Several racks of kvm nodes needed the networking configured. This was a manual process to determine VLANs, IP ranges, etc. This needed to be delivered asap, as we were already out of capacity.
 * **Task**: A new engineer on the team, I was task to configure the nodes. 
-* **Action**: I setup the first node and the copied the config files to the rest of the servers. I accidentally skip a server resulting in two nodes w/ the exact same network configuration for the VMs. Also, I was unaware spanning tree was disabled in our backoffice. I ended up making a network loop and so much congestion, the control plain of one of the CDNs was inaccessible. But I did not know that or how I could have done that yet. The networking team quickly identified which switches had high congestion. When I realized it was my change that caused this
+* **Action**: I setup the first node and the copied the config files to the rest of the servers. I accidentally skip a server resulting in two nodes w/ the exact same network configuration for the VMs. I ended up making a network loop and so much congestion, the control plain of one of the CDNs was inaccessible. But I did not know that or how I could have done that yet. The networking team quickly identified which switches had high congestion. When I realized it was my change that caused this, in a public channel I informed them that I believed the problem was a result from a change i did and that it was safe to close the ports on the top of the racks.
 * **Result**: 
 
 ## Dive Deep
@@ -190,7 +190,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzQ2MzkxNSwtMTgwNDMyMTQxNSwtMj
+eyJoaXN0b3J5IjpbLTk1NDU3MzIzMSwtMTgwNDMyMTQxNSwtMj
 ExNDE2NDI0MSwtNTU0MTA1NjI5LC0xODE5MjE5NDAzLDE4Njc1
 MTEzNzYsLTUxMjgyMTMyNiw0MDM5MTcyOTMsMTk5ODAzMzIyMi
 wxMjY5NDA0MzgwLDE1MDU0MTg3MjAsLTE1Njc3MzE1MTEsMTY1
