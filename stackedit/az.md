@@ -148,7 +148,7 @@ Putting myself out there by doing demo/presentations for the team when I was new
 
 * **Situation**: Several racks of kvm nodes needed the networking configured. This was a manual process to determine VLANs, IP ranges, etc. This needed to be delivered asap, as we were already out of capacity.
 * **Task**: A new engineer on the team, I was task to configure the nodes. 
-* **Action**: I setup the first node and the copied the config files to the rest of the servers.
+* **Action**: I setup the first node and the copied the config files to the rest of the servers. I accidentally skip a server resulting in two nodes w/ the exact same network configuration for the VMs. I was unaware spanning tree was disab
 * **Result**: 
 
 ## Dive Deep
@@ -190,11 +190,11 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQzMjE0MTUsLTIxMTQxNjQyNDEsLT
-U1NDEwNTYyOSwtMTgxOTIxOTQwMywxODY3NTExMzc2LC01MTI4
-MjEzMjYsNDAzOTE3MjkzLDE5OTgwMzMyMjIsMTI2OTQwNDM4MC
-wxNTA1NDE4NzIwLC0xNTY3NzMxNTExLDE2NTA3Nzc4MzUsMTk1
-MDA5MTI0LC02ODY4NzM2NTQsLTE0NDAxOTMxNjcsLTg0ODYxNz
-E0MywxMTg2ODk4NSwyMjQ1NzYxODcsLTEyNzMyNDQ0MzEsMTYz
-NzgyOTI2Ml19
+eyJoaXN0b3J5IjpbLTE5ODc2NTA5OTIsLTE4MDQzMjE0MTUsLT
+IxMTQxNjQyNDEsLTU1NDEwNTYyOSwtMTgxOTIxOTQwMywxODY3
+NTExMzc2LC01MTI4MjEzMjYsNDAzOTE3MjkzLDE5OTgwMzMyMj
+IsMTI2OTQwNDM4MCwxNTA1NDE4NzIwLC0xNTY3NzMxNTExLDE2
+NTA3Nzc4MzUsMTk1MDA5MTI0LC02ODY4NzM2NTQsLTE0NDAxOT
+MxNjcsLTg0ODYxNzE0MywxMTg2ODk4NSwyMjQ1NzYxODcsLTEy
+NzMyNDQ0MzFdfQ==
 -->
