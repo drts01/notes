@@ -123,7 +123,7 @@ Compliance enforcement
 
 * **Situation**: Received a complaint from an employee of a client that they were unable to access their documents from the file server. In the time to respond to the issue, another use reported that they could not access files from the file server and their local files were unable to open.
 * **Task**: As an engineer of managed service provider my role was to assist clients with their infrastructure needs.
-* **Action**: Connected to the file server and saw evidence of a ransomware attack. Immediately powered off the file server and closed the ports on the switch.
+* **Action**: Connected to the file server and saw evidence of a ransomware attack. Immediately powered off the file server and closed the ports on the switch w/o first seeking approval.
 * **Result**: While I caused the company to come to a halt, I prevented wide spread dataloss. The company was functional within a few hours. The local backup were still intact, enabling speedy recovery of encrypted data.
 
 Cleaning up unused resources across all accounts.
@@ -133,8 +133,8 @@ Cleaning up unused resources across all accounts.
 
 > Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense.
 
-* **Situation**: 
-* **Task**: 
+* **Situation**: Building TDI MVP
+* **Task**: As an 
 * **Action**:  
 * **Result**: 
 
@@ -190,11 +190,11 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTkyMTk0MDMsMTg2NzUxMTM3NiwtNT
-EyODIxMzI2LDQwMzkxNzI5MywxOTk4MDMzMjIyLDEyNjk0MDQz
-ODAsMTUwNTQxODcyMCwtMTU2NzczMTUxMSwxNjUwNzc3ODM1LD
-E5NTAwOTEyNCwtNjg2ODczNjU0LC0xNDQwMTkzMTY3LC04NDg2
-MTcxNDMsMTE4Njg5ODUsMjI0NTc2MTg3LC0xMjczMjQ0NDMxLD
-E2Mzc4MjkyNjIsLTkzOTczODY5NCw4MzU0MzA0NTksMTY2ODQy
-MzQ1OV19
+eyJoaXN0b3J5IjpbMTQ4NjY4OTE1NiwtMTgxOTIxOTQwMywxOD
+Y3NTExMzc2LC01MTI4MjEzMjYsNDAzOTE3MjkzLDE5OTgwMzMy
+MjIsMTI2OTQwNDM4MCwxNTA1NDE4NzIwLC0xNTY3NzMxNTExLD
+E2NTA3Nzc4MzUsMTk1MDA5MTI0LC02ODY4NzM2NTQsLTE0NDAx
+OTMxNjcsLTg0ODYxNzE0MywxMTg2ODk4NSwyMjQ1NzYxODcsLT
+EyNzMyNDQ0MzEsMTYzNzgyOTI2MiwtOTM5NzM4Njk0LDgzNTQz
+MDQ1OV19
 -->
