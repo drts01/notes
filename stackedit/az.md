@@ -160,7 +160,7 @@ Working with sysadmins to better understand their needs.
 * **Situation**: Terraform setup had organically gain several layers of shims/wrappers to provide functionality.
 * **Task**: My role was to help the ops team automate their workflows. While this was not directly my responsibility, it was adding cognitive complexity and tech debt to the provisioning for service team.
 * **Action**: Audited the workflow, tracked down all the scripts being used to generate and execute the terraform. 
-* **Result**: With minimal changes to the current terraform layout, all technical debt could be removed with newer versions of terraform and terragrunt. 
+* **Result**: With minimal changes to the current terraform layout, all technical debt could be removed with newer versions of terraform and terragrunt. And better positioned the config-as-code to be deployed w/ Atlantis.
 
 ## Have Backbone; Disagree and Commit
 
@@ -190,11 +190,11 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMwNDY5NzA4LDMzNDcyNDQ4MSwxNzE2MT
-kzODk4LC03MzQ2MzcyNDIsMjQ0MjYzMTU2LC0xNzI3NTYwNTI3
-LC0xODA0MzIxNDE1LC0yMTE0MTY0MjQxLC01NTQxMDU2MjksLT
-E4MTkyMTk0MDMsMTg2NzUxMTM3NiwtNTEyODIxMzI2LDQwMzkx
-NzI5MywxOTk4MDMzMjIyLDEyNjk0MDQzODAsMTUwNTQxODcyMC
-wtMTU2NzczMTUxMSwxNjUwNzc3ODM1LDE5NTAwOTEyNCwtNjg2
-ODczNjU0XX0=
+eyJoaXN0b3J5IjpbLTE3Mjc1MjE0MTUsNDMwNDY5NzA4LDMzND
+cyNDQ4MSwxNzE2MTkzODk4LC03MzQ2MzcyNDIsMjQ0MjYzMTU2
+LC0xNzI3NTYwNTI3LC0xODA0MzIxNDE1LC0yMTE0MTY0MjQxLC
+01NTQxMDU2MjksLTE4MTkyMTk0MDMsMTg2NzUxMTM3NiwtNTEy
+ODIxMzI2LDQwMzkxNzI5MywxOTk4MDMzMjIyLDEyNjk0MDQzOD
+AsMTUwNTQxODcyMCwtMTU2NzczMTUxMSwxNjUwNzc3ODM1LDE5
+NTAwOTEyNF19
 -->
