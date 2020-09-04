@@ -135,7 +135,7 @@ Cleaning up unused resources across all accounts.
 
 * **Situation**: Building TDI MVP with no budget.
 * **Task**: As an engineer of a manage service provider, needed to build reliable infra for clients.
-* **Action**: Added, what was a decommissioned server from a 
+* **Action**: Added a server, that was a decommissioned from a client, to the VMware cluster. Gave it, it's own spinning rust to 
 * **Result**: 
 
 Converting data entry systems from EOL Windows and MS Office machines to running open source software that was receiving security updates.
@@ -190,7 +190,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzU0MDEyLC01NTQxMDU2MjksLTE4MT
+eyJoaXN0b3J5IjpbNzM1ODUyMDMzLC01NTQxMDU2MjksLTE4MT
 kyMTk0MDMsMTg2NzUxMTM3NiwtNTEyODIxMzI2LDQwMzkxNzI5
 MywxOTk4MDMzMjIyLDEyNjk0MDQzODAsMTUwNTQxODcyMCwtMT
 U2NzczMTUxMSwxNjUwNzc3ODM1LDE5NTAwOTEyNCwtNjg2ODcz
