@@ -34,7 +34,7 @@
 
 * **Situation**: Terraform setup had organically gain several layers of shims/wrappers to provide functionality.
 * **Task**: My role was to help the ops team automate their workflows. While this was not directly my responsibility, it was adding cognitive complexity and tech debt to the provisioning for service team.
-* **Action**: Tracked down all the scripts being used to generate and execute the terraform. 
+* **Action**: Audited the workflow, tracked down all the scripts being used to generate and execute the terraform. 
 * **Result**: With minimal changes to the current terraform layout, all technical debt could be removed with newer versions of terraform and terragrunt. 
 &nbsp;
 * **Situation**: As a managed service provider, each client's needs had vastly different needs resulting in hand crafting infrastructure for each environment.
@@ -190,11 +190,11 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0NzI0NDgxLDE3MTYxOTM4OTgsLTczND
-YzNzI0MiwyNDQyNjMxNTYsLTE3Mjc1NjA1MjcsLTE4MDQzMjE0
-MTUsLTIxMTQxNjQyNDEsLTU1NDEwNTYyOSwtMTgxOTIxOTQwMy
-wxODY3NTExMzc2LC01MTI4MjEzMjYsNDAzOTE3MjkzLDE5OTgw
-MzMyMjIsMTI2OTQwNDM4MCwxNTA1NDE4NzIwLC0xNTY3NzMxNT
-ExLDE2NTA3Nzc4MzUsMTk1MDA5MTI0LC02ODY4NzM2NTQsLTE0
-NDAxOTMxNjddfQ==
+eyJoaXN0b3J5IjpbNTc2NjExOTQ1LDMzNDcyNDQ4MSwxNzE2MT
+kzODk4LC03MzQ2MzcyNDIsMjQ0MjYzMTU2LC0xNzI3NTYwNTI3
+LC0xODA0MzIxNDE1LC0yMTE0MTY0MjQxLC01NTQxMDU2MjksLT
+E4MTkyMTk0MDMsMTg2NzUxMTM3NiwtNTEyODIxMzI2LDQwMzkx
+NzI5MywxOTk4MDMzMjIyLDEyNjk0MDQzODAsMTUwNTQxODcyMC
+wtMTU2NzczMTUxMSwxNjUwNzc3ODM1LDE5NTAwOTEyNCwtNjg2
+ODczNjU0XX0=
 -->
