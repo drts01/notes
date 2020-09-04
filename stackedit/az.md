@@ -182,7 +182,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 > Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 
-* **Situation**: Creating a pipeline to have consistence images across all environments (i.e. public and private cloud). We were leveraging 
+* **Situation**: Creating a pipeline to have consistence images across all environments (i.e. public and private cloud). We were leveraging a tool from the Debian team on Ubuntu. 
 * **Task**: 
 * **Action**:  
 * **Result**: 
@@ -190,11 +190,11 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDY5Nzg3NCwtMTcyNzU2MDUyNywtMT
-gwNDMyMTQxNSwtMjExNDE2NDI0MSwtNTU0MTA1NjI5LC0xODE5
-MjE5NDAzLDE4Njc1MTEzNzYsLTUxMjgyMTMyNiw0MDM5MTcyOT
-MsMTk5ODAzMzIyMiwxMjY5NDA0MzgwLDE1MDU0MTg3MjAsLTE1
-Njc3MzE1MTEsMTY1MDc3NzgzNSwxOTUwMDkxMjQsLTY4Njg3Mz
-Y1NCwtMTQ0MDE5MzE2NywtODQ4NjE3MTQzLDExODY4OTg1LDIy
-NDU3NjE4N119
+eyJoaXN0b3J5IjpbMjQ0MjYzMTU2LC0xNzI3NTYwNTI3LC0xOD
+A0MzIxNDE1LC0yMTE0MTY0MjQxLC01NTQxMDU2MjksLTE4MTky
+MTk0MDMsMTg2NzUxMTM3NiwtNTEyODIxMzI2LDQwMzkxNzI5My
+wxOTk4MDMzMjIyLDEyNjk0MDQzODAsMTUwNTQxODcyMCwtMTU2
+NzczMTUxMSwxNjUwNzc3ODM1LDE5NTAwOTEyNCwtNjg2ODczNj
+U0LC0xNDQwMTkzMTY3LC04NDg2MTcxNDMsMTE4Njg5ODUsMjI0
+NTc2MTg3XX0=
 -->
