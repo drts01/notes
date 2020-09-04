@@ -110,8 +110,8 @@ Proper implementation of secret propagation. I was not satisfied with the propos
 
 > Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.
 
-* **Situation**: A lot of old and/or unused AWS resources.
-* **Task**: 
+* **Situation**: A lot of old and/or unused AWS resources. Increasing opx and reducing security. 
+* **Task**: A 
 * **Action**: Created Policy-As-Code Service for compliance enforcement.
 * **Result**: The security posture of our customer's data was increased. And internal customers overhead costs reduced.
 
@@ -189,11 +189,11 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzcyMDI0OTYsLTUxMjgyMTMyNiw0MD
-M5MTcyOTMsMTk5ODAzMzIyMiwxMjY5NDA0MzgwLDE1MDU0MTg3
-MjAsLTE1Njc3MzE1MTEsMTY1MDc3NzgzNSwxOTUwMDkxMjQsLT
-Y4Njg3MzY1NCwtMTQ0MDE5MzE2NywtODQ4NjE3MTQzLDExODY4
-OTg1LDIyNDU3NjE4NywtMTI3MzI0NDQzMSwxNjM3ODI5MjYyLC
-05Mzk3Mzg2OTQsODM1NDMwNDU5LDE2Njg0MjM0NTksNDAzOTUz
-MzExXX0=
+eyJoaXN0b3J5IjpbLTc2NTkwNDczMSwtNTEyODIxMzI2LDQwMz
+kxNzI5MywxOTk4MDMzMjIyLDEyNjk0MDQzODAsMTUwNTQxODcy
+MCwtMTU2NzczMTUxMSwxNjUwNzc3ODM1LDE5NTAwOTEyNCwtNj
+g2ODczNjU0LC0xNDQwMTkzMTY3LC04NDg2MTcxNDMsMTE4Njg5
+ODUsMjI0NTc2MTg3LC0xMjczMjQ0NDMxLDE2Mzc4MjkyNjIsLT
+kzOTczODY5NCw4MzU0MzA0NTksMTY2ODQyMzQ1OSw0MDM5NTMz
+MTFdfQ==
 -->
