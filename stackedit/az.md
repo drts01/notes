@@ -146,7 +146,7 @@ Converting data entry systems from EOL Windows and MS Office machines to running
 
 Putting myself out there by doing demo/presentations for the team when I was new. This encouraged more junior engineers to try. I provided accolades during our weekly retrospectives for the effort made and information shared.
 
-* **Situation**: 
+* **Situation**: New at Verizon/Edgecast, I was asked to manual confi
 * **Task**: 
 * **Action**:  
 * **Result**: 
@@ -190,11 +190,11 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQxNjQyNDEsLTU1NDEwNTYyOSwtMT
-gxOTIxOTQwMywxODY3NTExMzc2LC01MTI4MjEzMjYsNDAzOTE3
-MjkzLDE5OTgwMzMyMjIsMTI2OTQwNDM4MCwxNTA1NDE4NzIwLC
-0xNTY3NzMxNTExLDE2NTA3Nzc4MzUsMTk1MDA5MTI0LC02ODY4
-NzM2NTQsLTE0NDAxOTMxNjcsLTg0ODYxNzE0MywxMTg2ODk4NS
-wyMjQ1NzYxODcsLTEyNzMyNDQ0MzEsMTYzNzgyOTI2MiwtOTM5
-NzM4Njk0XX0=
+eyJoaXN0b3J5IjpbMTMzNDMxMzk5OCwtMjExNDE2NDI0MSwtNT
+U0MTA1NjI5LC0xODE5MjE5NDAzLDE4Njc1MTEzNzYsLTUxMjgy
+MTMyNiw0MDM5MTcyOTMsMTk5ODAzMzIyMiwxMjY5NDA0MzgwLD
+E1MDU0MTg3MjAsLTE1Njc3MzE1MTEsMTY1MDc3NzgzNSwxOTUw
+MDkxMjQsLTY4Njg3MzY1NCwtMTQ0MDE5MzE2NywtODQ4NjE3MT
+QzLDExODY4OTg1LDIyNDU3NjE4NywtMTI3MzI0NDQzMSwxNjM3
+ODI5MjYyXX0=
 -->
