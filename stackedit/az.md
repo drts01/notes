@@ -32,8 +32,8 @@
 
 > Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here." As we do new things, we accept that we may be misunderstood for long periods of time.
 
-* **Situation**: Terraform setup had organicly gain 
-* **Task**: 
+* **Situation**: Terraform setup had organically gain several layers of shims/wrappers to provide functionality.
+* **Task**: My role was to help the ops team automate their workflows. While this was not directly my responsibility, it was 
 * **Action**:  
 * **Result**: 
 &nbsp;
@@ -190,7 +190,7 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjg3MDIxNywtNzM0NjM3MjQyLDI0ND
+eyJoaXN0b3J5IjpbLTc0OTc3MDExNywtNzM0NjM3MjQyLDI0ND
 I2MzE1NiwtMTcyNzU2MDUyNywtMTgwNDMyMTQxNSwtMjExNDE2
 NDI0MSwtNTU0MTA1NjI5LC0xODE5MjE5NDAzLDE4Njc1MTEzNz
 YsLTUxMjgyMTMyNiw0MDM5MTcyOTMsMTk5ODAzMzIyMiwxMjY5
