@@ -185,16 +185,16 @@ Disagreed with the design decision of secret propagation. While is was an improv
 * **Situation**: Creating a pipeline to have consistence images across all environments (i.e. public and private cloud and baremetal) that start from the same base artifact. We were leveraging a tool from the Debian team on Ubuntu. As we developed, we kept discovering changes required to make the tool work for both OSes causing the project to be at risk of not making the delivery date.
 * **Task**: Lead the project.
 * **Action**: Proposed to focus on AWS and OpenStack. And drop Docker images and baremetal support. AWS and OpenStack is where the most new development and issues were occurring. Docker was still experimental in the org. Bare metal was already building from the internal repos.
-* **Result**: W
+* **Result**: We delivered a product on time that addressed the larger pain points atm. This also stopped the technical debt of workarounds teams were making 
 
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODcxNTg1NywyNDQyNjMxNTYsLTE3Mj
-c1NjA1MjcsLTE4MDQzMjE0MTUsLTIxMTQxNjQyNDEsLTU1NDEw
-NTYyOSwtMTgxOTIxOTQwMywxODY3NTExMzc2LC01MTI4MjEzMj
-YsNDAzOTE3MjkzLDE5OTgwMzMyMjIsMTI2OTQwNDM4MCwxNTA1
-NDE4NzIwLC0xNTY3NzMxNTExLDE2NTA3Nzc4MzUsMTk1MDA5MT
-I0LC02ODY4NzM2NTQsLTE0NDAxOTMxNjcsLTg0ODYxNzE0Mywx
-MTg2ODk4NV19
+eyJoaXN0b3J5IjpbMjUwOTIzNTAsMjQ0MjYzMTU2LC0xNzI3NT
+YwNTI3LC0xODA0MzIxNDE1LC0yMTE0MTY0MjQxLC01NTQxMDU2
+MjksLTE4MTkyMTk0MDMsMTg2NzUxMTM3NiwtNTEyODIxMzI2LD
+QwMzkxNzI5MywxOTk4MDMzMjIyLDEyNjk0MDQzODAsMTUwNTQx
+ODcyMCwtMTU2NzczMTUxMSwxNjUwNzc3ODM1LDE5NTAwOTEyNC
+wtNjg2ODczNjU0LC0xNDQwMTkzMTY3LC04NDg2MTcxNDMsMTE4
+Njg5ODVdfQ==
 -->
