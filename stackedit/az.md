@@ -128,6 +128,7 @@ Compliance enforcement
 
 Cleaning up unused resources across all accounts.
 
+
 ## Frugality
 
 > Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense.
@@ -189,11 +190,11 @@ Disagreed with the design decision of secret propagation. While is was an improv
 
 On-prem and public cloud teams base images did not match the rest rest of the infrastructure causing deployment issues for service teams.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzUxMTM3NiwtNTEyODIxMzI2LDQwMz
-kxNzI5MywxOTk4MDMzMjIyLDEyNjk0MDQzODAsMTUwNTQxODcy
-MCwtMTU2NzczMTUxMSwxNjUwNzc3ODM1LDE5NTAwOTEyNCwtNj
-g2ODczNjU0LC0xNDQwMTkzMTY3LC04NDg2MTcxNDMsMTE4Njg5
-ODUsMjI0NTc2MTg3LC0xMjczMjQ0NDMxLDE2Mzc4MjkyNjIsLT
-kzOTczODY5NCw4MzU0MzA0NTksMTY2ODQyMzQ1OSw0MDM5NTMz
-MTFdfQ==
+eyJoaXN0b3J5IjpbLTE1NzU3MDAzNTQsMTg2NzUxMTM3NiwtNT
+EyODIxMzI2LDQwMzkxNzI5MywxOTk4MDMzMjIyLDEyNjk0MDQz
+ODAsMTUwNTQxODcyMCwtMTU2NzczMTUxMSwxNjUwNzc3ODM1LD
+E5NTAwOTEyNCwtNjg2ODczNjU0LC0xNDQwMTkzMTY3LC04NDg2
+MTcxNDMsMTE4Njg5ODUsMjI0NTc2MTg3LC0xMjczMjQ0NDMxLD
+E2Mzc4MjkyNjIsLTkzOTczODY5NCw4MzU0MzA0NTksMTY2ODQy
+MzQ1OV19
 -->
