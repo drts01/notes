@@ -119,6 +119,7 @@ out of class communication to foster community, collaborations, support, etc
     * designed to work w/ chromebooks
     * low/no-cost
 * [Tech Dev Guide](https://techdevguide.withgoogle.com/)
+   Grow Your Technical Skills with Google
 
 ### Independent / Supplemental
 * https://www.khanacademy.org/computing/computer-programming
@@ -167,8 +168,8 @@ out of class communication to foster community, collaborations, support, etc
 		* We need to seek approval to join ASAP as they follow the school year for access. Traditional a "host site" is needed. Not sure if we are "virtual" or nomadic.
 * I can support/mentor up to 3 other facilitators
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTcwNjExMSwtNTU1MzU3MzU3LC04Mz
-cxMjkwODcsLTExOTkzODQ0NzYsMTk0NDg2MzUxNSw0NzA4MTMw
-NzAsLTgwNTgyMzc4NywxODEwODUzMDU3LC0xMTAzODAxOTE5XX
-0=
+eyJoaXN0b3J5IjpbNDkyNTQyNjEzLDEzMTE3MDYxMTEsLTU1NT
+M1NzM1NywtODM3MTI5MDg3LC0xMTk5Mzg0NDc2LDE5NDQ4NjM1
+MTUsNDcwODEzMDcwLC04MDU4MjM3ODcsMTgxMDg1MzA1NywtMT
+EwMzgwMTkxOV19
 -->
