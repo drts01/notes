@@ -1,7 +1,5 @@
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
+* https://hourofpython.com/
+* https://www.twilio.com/quest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTI0MjA3ODMyLDczMDk5ODExNl19
 -->
