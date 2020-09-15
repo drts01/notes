@@ -96,7 +96,7 @@ out of class communication to foster community, collaborations, support, etc
 * https://edu.google.com
    Tools, professional development available
 * https://csfirst.withgoogle.com/
-  
+  A free computer science curriculum that makes coding easy to teach and fun to learn. (Younger demographic?)
 * [K–12 Computer Science Framework](https://k12cs.org/)
    Framework, resources, developed by:
 	* The Association for Computing Machinery<sup>*</sup>
@@ -173,8 +173,8 @@ out of class communication to foster community, collaborations, support, etc
 		* We need to seek approval to join ASAP as they follow the school year for access. Traditional a "host site" is needed. Not sure if we are "virtual" or nomadic.
 * I can support/mentor up to 3 other facilitators
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjAwNjA5NCw4NzY2Mjg2ODUsNDkyNT
-QyNjEzLDEzMTE3MDYxMTEsLTU1NTM1NzM1NywtODM3MTI5MDg3
-LC0xMTk5Mzg0NDc2LDE5NDQ4NjM1MTUsNDcwODEzMDcwLC04MD
-U4MjM3ODcsMTgxMDg1MzA1NywtMTEwMzgwMTkxOV19
+eyJoaXN0b3J5IjpbLTEwMTIwNjIwMzQsODc2NjI4Njg1LDQ5Mj
+U0MjYxMywxMzExNzA2MTExLC01NTUzNTczNTcsLTgzNzEyOTA4
+NywtMTE5OTM4NDQ3NiwxOTQ0ODYzNTE1LDQ3MDgxMzA3MCwtOD
+A1ODIzNzg3LDE4MTA4NTMwNTcsLTExMDM4MDE5MTldfQ==
 -->
