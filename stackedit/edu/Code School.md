@@ -95,6 +95,8 @@ out of class communication to foster community, collaborations, support, etc
 ### General Platform
 * https://edu.google.com
    Tools, professional development available
+* https://csfirst.withgoogle.com/
+  
 * [K–12 Computer Science Framework](https://k12cs.org/)
    Framework, resources, developed by:
 	* The Association for Computing Machinery<sup>*</sup>
@@ -171,7 +173,7 @@ out of class communication to foster community, collaborations, support, etc
 		* We need to seek approval to join ASAP as they follow the school year for access. Traditional a "host site" is needed. Not sure if we are "virtual" or nomadic.
 * I can support/mentor up to 3 other facilitators
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTM1ODM3Niw4NzY2Mjg2ODUsNDkyNT
+eyJoaXN0b3J5IjpbMTYxMjAwNjA5NCw4NzY2Mjg2ODUsNDkyNT
 QyNjEzLDEzMTE3MDYxMTEsLTU1NTM1NzM1NywtODM3MTI5MDg3
 LC0xMTk5Mzg0NDc2LDE5NDQ4NjM1MTUsNDcwODEzMDcwLC04MD
 U4MjM3ODcsMTgxMDg1MzA1NywtMTEwMzgwMTkxOV19
