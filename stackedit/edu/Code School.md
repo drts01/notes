@@ -1,7 +1,7 @@
 # Introduction
 
 ## Why learn to code?
-Coding is a basic literacy in the digital age, and it is important to understand and be able to work with and understand the technology. Coding helps with communication, creativity, math,writing, and confidence.
+Coding is a basic literacy in the digital age, and it is important to understand and be able to work with and understand the technology. Coding helps with communication, creativity, math, writing, and confidence.
 
 > "Everybody in this country should learn how to program a computer, should learn a computer language, because it teaches you how to think. --Steve Jobs, https://www.businessinsider.com/the-best-quotes-from-the-lost-steve-jobs-interview-showing-this-weekend-2011-11
 
@@ -168,8 +168,8 @@ out of class communication to foster community, collaborations, support, etc
 		* We need to seek approval to join ASAP as they follow the school year for access. Traditional a "host site" is needed. Not sure if we are "virtual" or nomadic.
 * I can support/mentor up to 3 other facilitators
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyNTQyNjEzLDEzMTE3MDYxMTEsLTU1NT
-M1NzM1NywtODM3MTI5MDg3LC0xMTk5Mzg0NDc2LDE5NDQ4NjM1
-MTUsNDcwODEzMDcwLC04MDU4MjM3ODcsMTgxMDg1MzA1NywtMT
-EwMzgwMTkxOV19
+eyJoaXN0b3J5IjpbODc2NjI4Njg1LDQ5MjU0MjYxMywxMzExNz
+A2MTExLC01NTUzNTczNTcsLTgzNzEyOTA4NywtMTE5OTM4NDQ3
+NiwxOTQ0ODYzNTE1LDQ3MDgxMzA3MCwtODA1ODIzNzg3LDE4MT
+A4NTMwNTcsLTExMDM4MDE5MTldfQ==
 -->
