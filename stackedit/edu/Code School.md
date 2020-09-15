@@ -11,7 +11,7 @@ Full Quote
 ### What is code?
 Code is a written set of instructions that tells the computer what to do.
 
-Coding, sometimes called computer programming, is how we communicate with computers. Code tells a computer what actions to take, and writing code is like creating a set of instructions. By learning to write code, you can tell computers what to do or how to behave in a much faster way. You can use this skill to make websites and apps, process data, and do lots of other cool things. --
+Coding, sometimes called computer programming, is how we communicate with computers. Code tells a computer what actions to take, and writing code is like creating a set of instructions. By learning to write code, you can tell computers what to do or how to behave in a much faster way. You can use this skill to make websites and apps, process data, and do lots of other cool things. --https://grasshopper.app/why-coding/
 
 ### What is CS?
 Computer science is the study of computation and information.
@@ -102,7 +102,8 @@ out of class communication to foster community, collaborations, support, etc
 	* Computer Science Teachers Association<sup>*</sup>
 	* Cyber Innovation Center
 	* National Math and Science Initiative
-	
+
+&nbsp;
 	<sup>*</sup> I am affiliated with these orgs
 
 ### Class
@@ -170,8 +171,8 @@ out of class communication to foster community, collaborations, support, etc
 		* We need to seek approval to join ASAP as they follow the school year for access. Traditional a "host site" is needed. Not sure if we are "virtual" or nomadic.
 * I can support/mentor up to 3 other facilitators
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQ4NDYyMjcsODc2NjI4Njg1LDQ5Mj
-U0MjYxMywxMzExNzA2MTExLC01NTUzNTczNTcsLTgzNzEyOTA4
-NywtMTE5OTM4NDQ3NiwxOTQ0ODYzNTE1LDQ3MDgxMzA3MCwtOD
-A1ODIzNzg3LDE4MTA4NTMwNTcsLTExMDM4MDE5MTldfQ==
+eyJoaXN0b3J5IjpbLTIyOTM1ODM3Niw4NzY2Mjg2ODUsNDkyNT
+QyNjEzLDEzMTE3MDYxMTEsLTU1NTM1NzM1NywtODM3MTI5MDg3
+LC0xMTk5Mzg0NDc2LDE5NDQ4NjM1MTUsNDcwODEzMDcwLC04MD
+U4MjM3ODcsMTgxMDg1MzA1NywtMTEwMzgwMTkxOV19
 -->
