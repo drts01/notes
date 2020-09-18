@@ -1,5 +1,8 @@
 # Beginner
 
+## Algorithm and Pseudocoding
+* https://www.bbc.co.uk/bitesize/subjects/zvc9q6f
+
 ## Variables
 * Reference
 * Data types
@@ -142,8 +145,8 @@ http://www.dabeaz.com/coroutines/
 * prompt
 ## Regular Expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTczNDE0MSwyMTA3MTgxMDIxLDEzNT
-g5NjgyMzUsLTU1OTg1NTYxNSw4OTQ5MjU3MywxNDI4MDg3NzYy
-LC0xNTg5NjkwNzIzLDE2ODY0Mzk2MDAsODMwNTc2MzgsLTI3Nj
-g0MDM2LDc2Mzg2MTc5XX0=
+eyJoaXN0b3J5IjpbMTYwODU0MDY1MiwxMDExNzM0MTQxLDIxMD
+cxODEwMjEsMTM1ODk2ODIzNSwtNTU5ODU1NjE1LDg5NDkyNTcz
+LDE0MjgwODc3NjIsLTE1ODk2OTA3MjMsMTY4NjQzOTYwMCw4Mz
+A1NzYzOCwtMjc2ODQwMzYsNzYzODYxNzldfQ==
 -->
