@@ -16,7 +16,8 @@ Notes:
 Explain FizzBuzz
 
 ## Why
-For the lulz.Popular interview questions.
+* For the lulz.
+* Popular interview questions.
 
 
 ## Basic Implementation
@@ -36,5 +37,5 @@ Break apart and refactor
 
 ## Chat Bot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTc2MzQyNiwtNjgzMjQ0ODMxXX0=
+eyJoaXN0b3J5IjpbMTQ3ODMxMDYwOCwtNjgzMjQ0ODMxXX0=
 -->
