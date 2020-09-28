@@ -30,7 +30,7 @@ Break apart and refactor
 ## API
 ### Deploy
 
-## Bot
+## Chat Bot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjcwMTEzMjcsLTY4MzI0NDgzMV19
+eyJoaXN0b3J5IjpbMzIzMzkzMTMzLC02ODMyNDQ4MzFdfQ==
 -->
