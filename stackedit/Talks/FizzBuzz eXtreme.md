@@ -6,8 +6,11 @@ Notes:
 * DevSecOps CI /CD
 	* Testing
 	* Bandit
+	* Dep Sec
+	* Deployment
+	* Pkging
 * Packaging
-* 
+* Generators
 
 ## What
 
@@ -19,11 +22,15 @@ Notes:
 ### Unit
 Break apart and refactor
 
-
+## Generator
 
 ## CLI
-
 ### Module
+
+## API
+### Deploy
+
+## Bot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzA0NzUyOCwtNjgzMjQ0ODMxXX0=
+eyJoaXN0b3J5IjpbLTE0MjcwMTEzMjcsLTY4MzI0NDgzMV19
 -->
