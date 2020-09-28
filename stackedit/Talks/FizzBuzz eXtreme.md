@@ -2,6 +2,12 @@
 
 Notes:
 * TDD
+* Library, Module, CLI, API
+* DevSecOps CI /CD
+	* Testing
+	* Bandit
+* Packaging
+* 
 
 ## What
 
@@ -19,5 +25,5 @@ Break apart and refactor
 
 ### Module
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTkzMjcwOCwtNjgzMjQ0ODMxXX0=
+eyJoaXN0b3J5IjpbLTg4MzA0NzUyOCwtNjgzMjQ0ODMxXX0=
 -->
