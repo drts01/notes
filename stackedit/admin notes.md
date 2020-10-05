@@ -9,6 +9,13 @@ gpg2 \
     | grep -F pub -A1 \
     | tail -1 \
     | cut -d':' -f10) \
+gpg2 --quick-set-expire \
+  $(gpg2 \
+    --fingerprint \
+    --with-colons \
+    'carlos@digitalr00ts.com' \
+    | grep -F pub \
+    | cut -d':' -f5)
 ```
 # SSH
 * https://infosec.mozilla.org/guidelines/openssh.html
@@ -23,7 +30,7 @@ ssh-keygen -t ed25519 -a 100 -N "" -C "NAME@DOMAIN" -f ID_HOST_ed25519_key
 ssh -T git@github.com
 `````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTAxMTAzMzcsMjEyMTc0NzM5OSwtMT
-I2Njk0MjkyMiwyMDU4MTgwMjc2LC0yMTEwMDI2MDg4LDczMDk5
-ODExNl19
+eyJoaXN0b3J5IjpbMTM2NzA4OTUyOCwtMjA5MDExMDMzNywyMT
+IxNzQ3Mzk5LC0xMjY2OTQyOTIyLDIwNTgxODAyNzYsLTIxMTAw
+MjYwODgsNzMwOTk4MTE2XX0=
 -->
