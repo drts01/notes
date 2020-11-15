@@ -12,7 +12,9 @@
 
 ## To Investigate
 * https://github.com/rafaelmardojai/firefox-gnome-theme
+* * https://github.com/tridactyl/tridactyl
+* https://github.com/philc/vimium
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzY3NzcxNTMsLTY5NjQ5OTc0NiwtMT
-MyMzk2Njg2NF19
+eyJoaXN0b3J5IjpbLTExNTY1Njc0MjIsLTEzNzY3NzcxNTMsLT
+Y5NjQ5OTc0NiwtMTMyMzk2Njg2NF19
 -->
