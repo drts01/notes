@@ -9,6 +9,10 @@
 ## Collections
 * [Base](https://addons.mozilla.org/en-US/firefox/collections/16201026/base/)
 * [Power User](https://addons.mozilla.org/en-US/firefox/collections/16201026/adv/)
+
+## To Investigate
+* https://github.com/rafaelmardojai/firefox-gnome-theme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjQ5OTc0NiwtMTMyMzk2Njg2NF19
+eyJoaXN0b3J5IjpbLTEzNzY3NzcxNTMsLTY5NjQ5OTc0NiwtMT
+MyMzk2Njg2NF19
 -->
