@@ -7,10 +7,12 @@
 | 5 tbsp | Chia Seeds |
 | 2 tsp | Ground Cinnamon |
 | 2 tsp | Vanilla Extract |
+| .5 tsp | Almond Extract |
 | 2-3 tsp | Stevia |
+| 6 tsp | Monk Fruit (or) |
 | 2-3 tbsp | Allulose (or) |
 | small | Cinnamon Stick (Optional)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjEyMTkyNiwyMDk1MzczMDQ4LC0xNj
-AzMzQyMDE3LDY5MjQ2MTczMl19
+eyJoaXN0b3J5IjpbLTM4OTQ4NTAzNCwxMTk2MTIxOTI2LDIwOT
+UzNzMwNDgsLTE2MDMzNDIwMTcsNjkyNDYxNzMyXX0=
 -->
