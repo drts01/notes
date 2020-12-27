@@ -16,12 +16,12 @@
 # Sweet Chicharron Dip
 |  |  |
 | -- | -- |
-| 6 tbsp | Salted butter |
+| 6 tbsp | Melted Salted Butter |
 | 3 tbsp | Cinnamon |
-| 6 tsp | Monk Fruit |
+| 4 tbsp | Monk Fruit |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjYwODE0NTksLTEwNTU2MTIwNDcsMT
-E5NjEyMTkyNiwyMDk1MzczMDQ4LC0xNjAzMzQyMDE3LDY5MjQ2
-MTczMl19
+eyJoaXN0b3J5IjpbLTE3MDI0NTI0NiwtMjEyNjA4MTQ1OSwtMT
+A1NTYxMjA0NywxMTk2MTIxOTI2LDIwOTUzNzMwNDgsLTE2MDMz
+NDIwMTcsNjkyNDYxNzMyXX0=
 -->
