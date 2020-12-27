@@ -19,9 +19,10 @@
 | 6 tbsp | Melted Salted Butter |
 | 3 tbsp | Cinnamon |
 | 4 tbsp | Monk Fruit |
+| 1 tsp | Salt (optional) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDI0NTI0NiwtMjEyNjA4MTQ1OSwtMT
-A1NTYxMjA0NywxMTk2MTIxOTI2LDIwOTUzNzMwNDgsLTE2MDMz
-NDIwMTcsNjkyNDYxNzMyXX0=
+eyJoaXN0b3J5IjpbNjMxOTk2MTUsLTE3MDI0NTI0NiwtMjEyNj
+A4MTQ1OSwtMTA1NTYxMjA0NywxMTk2MTIxOTI2LDIwOTUzNzMw
+NDgsLTE2MDMzNDIwMTcsNjkyNDYxNzMyXX0=
 -->
