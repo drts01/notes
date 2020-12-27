@@ -1,5 +1,6 @@
 * https://www.ibreatheimhungry.com/cream-cheese-pancakes/
 * https://www.ketoconnect.net/easy-buffalo-chicken-dip/
+* https://www.maebells.com/slow-cooker-ranch-chicken-ketogluten-free/
 
 # Cloud Bread
 * https://www.aspicyperspective.com/best-cloud-bread-recipe/
@@ -10,6 +11,6 @@
 * https://joyfilledeats.com/crack-chicken-recipe/
 * https://www.wholesomeyum.com/crock-pot-slow-cooker-crack-chicken-recipe/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjI2ODQ5Myw4ODcyMjMzMDQsLTExMD
-M5Nzg5MywtMTMzOTIwNzIxN119
+eyJoaXN0b3J5IjpbLTIxMDgyMDk4NTksODg3MjIzMzA0LC0xMT
+AzOTc4OTMsLTEzMzkyMDcyMTddfQ==
 -->
