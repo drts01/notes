@@ -13,13 +13,15 @@
 | 2-3 tbsp | Allulose (or) |
 | small | Cinnamon Stick (Optional)
 
-# Sweet Chicharrons
-| ||
+# Sweet Chicharron Dip
+|  |  |
 | -- | -- |
 | 6 tbsp | Salted butter |
+| 3 tbsp | Cinnamon |
+| 6 tsp | Monk Fruit |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3Nzg2NTM2LC0xMDU1NjEyMDQ3LDExOT
-YxMjE5MjYsMjA5NTM3MzA0OCwtMTYwMzM0MjAxNyw2OTI0NjE3
-MzJdfQ==
+eyJoaXN0b3J5IjpbLTIxMjYwODE0NTksLTEwNTU2MTIwNDcsMT
+E5NjEyMTkyNiwyMDk1MzczMDQ4LC0xNjAzMzQyMDE3LDY5MjQ2
+MTczMl19
 -->
