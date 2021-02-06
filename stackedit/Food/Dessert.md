@@ -20,9 +20,16 @@
 | 3 tbsp | Cinnamon |
 | 4 tbsp | Monk Fruit |
 
+# Atole
+
+| Quantity | Ingredient |
+| -- | -- |
+| | |
+
 # To Try
 * https://gimmedelicious.com/keto-cheesecake-fat-bombs/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDM5NjI3MSwtNzU4Nzc2MzA2XX0=
+eyJoaXN0b3J5IjpbNzExNDg5MTM5LC01ODAzOTYyNzEsLTc1OD
+c3NjMwNl19
 -->
