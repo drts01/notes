@@ -10,7 +10,9 @@
 * https://diethood.com/slow-cooker-crack-chicken/
 * https://joyfilledeats.com/crack-chicken-recipe/
 * https://www.wholesomeyum.com/crock-pot-slow-cooker-crack-chicken-recipe/
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDgyMDk4NTksODg3MjIzMzA0LC0xMT
-AzOTc4OTMsLTEzMzkyMDcyMTddfQ==
+eyJoaXN0b3J5IjpbLTg3ODA3Mzk1OSwtMjEwODIwOTg1OSw4OD
+cyMjMzMDQsLTExMDM5Nzg5MywtMTMzOTIwNzIxN119
 -->
