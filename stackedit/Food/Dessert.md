@@ -28,11 +28,12 @@
 |  | Monk Fruit | 
 |  | Ground Cinnamon |
 | A Splash | Almond Extract |
+  } C
 
 # To Try
 * https://gimmedelicious.com/keto-cheesecake-fat-bombs/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjg0NTMzNzksLTU4MDM5NjI3MSwtNz
-U4Nzc2MzA2XX0=
+eyJoaXN0b3J5IjpbNzI0NjUxMjk3LC0xOTI4NDUzMzc5LC01OD
+AzOTYyNzEsLTc1ODc3NjMwNl19
 -->
