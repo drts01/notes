@@ -14,13 +14,14 @@
 # Chicken Wings
 | Quantity | Ingredient |
 | - | - |
-| 1/2 tsp | [kosher salt](https://amzn.to/2KIACPf)
-| 4 Tbsp [Smoked Paprika](https://amzn.to/2LYE7gu)
-| 3 Tbsp [Garlic Powder](https://amzn.to/2NehB85)
-| 1 Tbsp [Onion Powder](https://amzn.to/2wI8Too)
-| 3 Tbsp [Ground Black Pepper](https://amzn.to/2BTP6q5)
-| 1 tsp [Cayenne Pepper](https://amzn.to/2oFukmk)
+| 1/2 tsp | kosher salt
+| 4 Tbsp | Smoked Paprika
+| 3 Tbsp | Garlic Powder
+| 1 Tbsp | Onion Powder
+| 3 Tbsp | Ground Black Pepper
+| 1 tsp | Cayenne Pepper
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTgyNTMzNiwtMjEwODIwOTg1OSw4OD
+eyJoaXN0b3J5IjpbLTI5MzMxODA1MiwtMjEwODIwOTg1OSw4OD
 cyMjMzMDQsLTExMDM5Nzg5MywtMTMzOTIwNzIxN119
 -->
