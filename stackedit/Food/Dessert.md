@@ -28,12 +28,13 @@
 |  | Monk Fruit | 
 |  | Ground Cinnamon |
 | A Splash | Almond Extract |
-  } C
+|  | Husk
+|  | Heavy Cream?
 
 # To Try
 * https://gimmedelicious.com/keto-cheesecake-fat-bombs/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0NjUxMjk3LC0xOTI4NDUzMzc5LC01OD
-AzOTYyNzEsLTc1ODc3NjMwNl19
+eyJoaXN0b3J5IjpbLTExMDIxNzY5NDYsLTE5Mjg0NTMzNzksLT
+U4MDM5NjI3MSwtNzU4Nzc2MzA2XX0=
 -->
