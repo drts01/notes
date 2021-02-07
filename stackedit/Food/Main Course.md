@@ -6,7 +6,7 @@
 | 3-4 tbsp | Curry Powder
 | 2 tbsp | Ginger Powder
 | 1 tbsp | Cumin (double for ground beef)
-|  | Salt
+| 1 tsp | Salt
 | 1 tbsp | Smoked Paprika
 | 1 tbsp | Cayenne Pepper
 | 1 tbsp | crushed large Black peppercorn
@@ -15,6 +15,6 @@
 | t tbsp | tomato sauce
 | 1 tbsp | Butter (not needed if using ground beef or fatty broth)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5NjA0ODI0LC0xNTI5MjY2MzQwLDIyOT
-c5MjkzNSwxNTAzMjcwMTU3LC0xMTEwODQyMDBdfQ==
+eyJoaXN0b3J5IjpbMTc0NzM5NzU2NiwtMTUyOTI2NjM0MCwyMj
+k3OTI5MzUsMTUwMzI3MDE1NywtMTExMDg0MjAwXX0=
 -->
