@@ -14,7 +14,7 @@
 # Chicken Wings
 | Quantity | Ingredient |
 | - | - |
-|8  chicken thighs bone-in, skinless (8 thighs = ~1 lb 3 oz)
+| 8 | chicken thighs bone-in, skinless (8 thighs = ~1 lb 3 oz)
 | 1/2 tsp | kosher salt
 | 4 Tbsp | Smoked Paprika
 | 3 Tbsp | Garlic Powder
@@ -23,7 +23,7 @@
 | 1 tsp | Cayenne Pepper
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTc1MDI3NDQsLTI5MzMxODA1MiwtMj
-EwODIwOTg1OSw4ODcyMjMzMDQsLTExMDM5Nzg5MywtMTMzOTIw
-NzIxN119
+eyJoaXN0b3J5IjpbNTI1NzczMjEyLC0yOTMzMTgwNTIsLTIxMD
+gyMDk4NTksODg3MjIzMzA0LC0xMTAzOTc4OTMsLTEzMzkyMDcy
+MTddfQ==
 -->
