@@ -5,16 +5,16 @@
 | .5 cup | Filtered Water
 | 3-4 tbsp | Curry Powder
 | 2 tbsp | Ginger Powder
-|  | Cumin
+| 1 tbsp | Cumin (double for ground beef)
 |  | Salt
 | 1 tbsp | Smoked Paprika
 | 1 tbsp | Cayenne Pepper
-|  | Black pepper (maybe change for whole pepper corn)
+| 1 tbsp | crushed large Black peppercorn
 | 2 tbsp | Minced Garlic
 | 1 tbsp | ?? Onion Powder
 | t tbsp | tomato sauce
 | 1 tbsp | Butter (not needed if using ground beef or fatty broth)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjQzMzY4NCwtMTUyOTI2NjM0MCwyMj
-k3OTI5MzUsMTUwMzI3MDE1NywtMTExMDg0MjAwXX0=
+eyJoaXN0b3J5IjpbMzY5NjA0ODI0LC0xNTI5MjY2MzQwLDIyOT
+c5MjkzNSwxNTAzMjcwMTU3LC0xMTEwODQyMDBdfQ==
 -->
