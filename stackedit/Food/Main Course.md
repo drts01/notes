@@ -12,8 +12,9 @@
 |  | Black pepper (maybe change for whole pepper corn)
 |  | ?? Minced Garlic
 |  | ?? Onion Powder
-| 1 tbsp | Butter
+| t tbsp | tomato sauce
+| 1 tbsp | Butter (not needed if using ground beef or fatty broth)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5NzkyOTM1LDE1MDMyNzAxNTcsLTExMT
-A4NDIwMF19
+eyJoaXN0b3J5IjpbLTE1MjkyNjYzNDAsMjI5NzkyOTM1LDE1MD
+MyNzAxNTcsLTExMTA4NDIwMF19
 -->
