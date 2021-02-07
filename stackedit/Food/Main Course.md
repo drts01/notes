@@ -10,11 +10,11 @@
 |  | Smoked Paprika
 |  | Cayenne Pepper
 |  | Black pepper (maybe change for whole pepper corn)
-|  | ?? Minced Garlic
-|  | ?? Onion Powder
+| 1 tbsp | ?? Minced Garlic
+| 1 tbsp | ?? Onion Powder
 | t tbsp | tomato sauce
 | 1 tbsp | Butter (not needed if using ground beef or fatty broth)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjkyNjYzNDAsMjI5NzkyOTM1LDE1MD
-MyNzAxNTcsLTExMTA4NDIwMF19
+eyJoaXN0b3J5IjpbMTcyMTYwMDAyOCwtMTUyOTI2NjM0MCwyMj
+k3OTI5MzUsMTUwMzI3MDE1NywtMTExMDg0MjAwXX0=
 -->
