@@ -24,17 +24,18 @@
 
 | Quantity | Ingredient |
 | -- | -- |
-|  | Vanilla Almond Milk |
-|  | Monk Fruit | 
-|  | Ground Cinnamon |
+| .5 cup | Vanilla Almond Milk |
+| 2 tsp | Stevia | 
+| 1 tsp | Ground Cinnamon |
+| 1tsp | Vanilla Extract
 | A Splash | Almond Extract |
-|  | Husk
-|  | Heavy Cream?
+| 2 tbsp | Husk
+| 0 | Heavy Cream?
 
 # To Try
 * https://gimmedelicious.com/keto-cheesecake-fat-bombs/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDIxNzY5NDYsLTE5Mjg0NTMzNzksLT
-U4MDM5NjI3MSwtNzU4Nzc2MzA2XX0=
+eyJoaXN0b3J5IjpbMTk0NTY4MTc2LC0xMTAyMTc2OTQ2LC0xOT
+I4NDUzMzc5LC01ODAzOTYyNzEsLTc1ODc3NjMwNl19
 -->
