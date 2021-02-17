@@ -24,18 +24,19 @@
 
 | Quantity | Ingredient |
 | -- | -- |
-| .5 cup | Vanilla Almond Milk |
-| 2 tsp | Stevia | 
-| 1 tsp | Ground Cinnamon |
-| 1tsp | Vanilla Extract
+| 1 cup | Vanilla Almond Milk |
+| 5 tsp | Stevia | 
+| 2-3 tsp | Ground Cinnamon |
+| 2 tsp | Vanilla Extract
 | A Splash | Almond Extract |
-| 2 tbsp | Husk
+| 1 tbsp | Husk
 | 0 | Heavy Cream?
 
 # To Try
 * https://gimmedelicious.com/keto-cheesecake-fat-bombs/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTY4MTc2LC0xMTAyMTc2OTQ2LC0xOT
-I4NDUzMzc5LC01ODAzOTYyNzEsLTc1ODc3NjMwNl19
+eyJoaXN0b3J5IjpbLTE4NjU3NTkzOTAsMTk0NTY4MTc2LC0xMT
+AyMTc2OTQ2LC0xOTI4NDUzMzc5LC01ODAzOTYyNzEsLTc1ODc3
+NjMwNl19
 -->
