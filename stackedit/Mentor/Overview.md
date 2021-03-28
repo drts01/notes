@@ -45,10 +45,15 @@ Misunderstandings, culture clashes, poor choices of words, etc happen.
      It is okay that we are not all be compatible everyone. We encourage everyone to find communities where they can thrive.
  4. 
 
+# Roles
 
+## Organizer
+## Member
+## Conflict mediator
+By defaul
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTM2MDc3NDAsLTgwODA5NjQ2MywxNj
-I5NjM1MTcsNDk5MTk5ODZdfQ==
+eyJoaXN0b3J5IjpbMjAxODk3OTY4NiwtODA4MDk2NDYzLDE2Mj
+k2MzUxNyw0OTkxOTk4Nl19
 -->
