@@ -50,10 +50,10 @@ Misunderstandings, culture clashes, poor choices of words, etc happen.
 ## Organizer
 ## Member
 ## Conflict mediator
-By defaul
+By default this will be an organizer. Any member may fullfill this role, provided all parties agree.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODk3OTY4NiwtODA4MDk2NDYzLDE2Mj
-k2MzUxNyw0OTkxOTk4Nl19
+eyJoaXN0b3J5IjpbMjA0Mzg5MjIwLC04MDgwOTY0NjMsMTYyOT
+YzNTE3LDQ5OTE5OTg2XX0=
 -->
