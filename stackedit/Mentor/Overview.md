@@ -32,9 +32,11 @@ Notes:
 Misunderstandings, culture clashes, etc happen.
 
  1. We start from the premise that harm was not intended.
- 2. We provide an opperunity for individuals to redeam themselves.
+ 2. We provide an opportunity for individuals to redeam themselves.
+	 3. 
  3. If no satifactory resolution can be reached, we may need to part ways (tempararely or permentatly) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTYzNTE3LDQ5OTE5OTg2XX0=
+eyJoaXN0b3J5IjpbLTMzOTA1OTQwMCwxNjI5NjM1MTcsNDk5MT
+k5ODZdfQ==
 -->
