@@ -37,10 +37,11 @@ Misunderstandings, culture clashes, poor choices of words, etc happen.
  3. If no satifactory resolution can be reached, we may need to part ways (tempararely or permentatly) 
 
 Notes:
- - Everyone is responsible for the their own feelings, and actions.
  - Everyone one is entitled to their perspectives
+ - Everyone is responsible for the their own feelings
+ - Everyone is accountable for their actions. disruptive actions.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDQ1MzI3MiwxNjI5NjM1MTcsNDk5MT
-k5ODZdfQ==
+eyJoaXN0b3J5IjpbLTE5NDkyNTIwMTMsMTYyOTYzNTE3LDQ5OT
+E5OTg2XX0=
 -->
