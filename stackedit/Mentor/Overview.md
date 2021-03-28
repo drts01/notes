@@ -49,14 +49,21 @@ Misunderstandings, culture clashes, poor choices of words, etc happen.
      It is okay that we are not all be compatible everyone. We encourage everyone to find communities where they can thrive.
 
 
-# Roles
+## Roles
 
-## Organizer
-## Member
+### Organizer
+
+### Member
+
+Organizer are members.
+
  1. Participates
-	 2. in pulic
-## Conflict mediator
-By default this will be an organizer. Any member may fullfill this role, provided all parties agree.
+	 2. in public discussion
+	 3. 
+
+### Conflict mediator
+
+By default this will be an organizer. Though any member may fullfill this role, provided all parties agree.
 Function:
  1. Help ensure the conversion is productive.
 	 2. i.e. encourage taking breaking if things are getting too emotional
@@ -64,7 +71,7 @@ Function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDc3MjI1OCwzMjI1ODM3NzQsLTEwNT
+eyJoaXN0b3J5IjpbMTM3MDAwNjgzNiwzMjI1ODM3NzQsLTEwNT
 kwMzc0MSwtODA4MDk2NDYzLDE2Mjk2MzUxNyw0OTkxOTk4Nl19
 
 -->
