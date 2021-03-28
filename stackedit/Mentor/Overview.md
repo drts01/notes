@@ -31,18 +31,21 @@ Notes:
 ## Conflict Resolution
 Misunderstandings, culture clashes, poor choices of words, etc happen.
 
- 1. We start from the premise that harm was not intended.
- 2. We provide an opportunity for individuals to redeam themselves.
-	 - Allow parties to express their feelings free of judgement.
- 3. If no satifactory resolution can be reached, we may need to part ways (tempararely or permentatly) 
-
-Notes:
+### Guidelines
  - Everyone one is entitled to their perspectives
  - Everyone is responsible for the their own feelings
  - Everyone is accountable for their actions.
  - Actions disruptive to the community need to be addressed.
 
+ 1. We start from the premise that harm was not intended.
+ 2. We provide an opportunity for individuals to redeam themselves.
+	 - Allow parties to express their feelings free of judgement.
+ 3. If no satifactory resolution can be reached, we may need to part ways (tempararely or permentatly) 
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1NjUwODM4LDE2Mjk2MzUxNyw0OTkxOT
-k4Nl19
+eyJoaXN0b3J5IjpbODE5NjgwNDUsMTYyOTYzNTE3LDQ5OTE5OT
+g2XX0=
 -->
