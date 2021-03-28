@@ -40,12 +40,13 @@ Misunderstandings, culture clashes, poor choices of words, etc happen.
  1. We start from the premise that harm was not intended.
  2. We provide an opportunity for individuals to redeam themselves.
 	 - Allow parties to express their feelings free of judgement.
- 3. If no satifactory resolution can be reached, we may need to part ways (tempararely or permentatly) 
+ 3. If no satifactory resolution can be reached, we may need to part ways (tempararely or permentatly)
+     It is okay that we may not all be compatible with one another.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5NjgwNDUsMTYyOTYzNTE3LDQ5OTE5OT
-g2XX0=
+eyJoaXN0b3J5IjpbMTczMDI3NjkyMiwxNjI5NjM1MTcsNDk5MT
+k5ODZdfQ==
 -->
