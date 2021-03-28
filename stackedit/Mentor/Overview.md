@@ -29,7 +29,7 @@ Notes:
  - Sharing knowledge out side our community.
 
 ## Conflict Resolution
-Misunderstandings, culture clashes, etc happen.
+Misunderstandings, culture clashes, poor choices of words, etc happen.
 
  1. We start from the premise that harm was not intended.
  2. We provide an opportunity for individuals to redeam themselves.
@@ -37,9 +37,10 @@ Misunderstandings, culture clashes, etc happen.
  3. If no satifactory resolution can be reached, we may need to part ways (tempararely or permentatly) 
 
 Notes:
- - Everyone is responsible for the th
+ - Everyone is responsible for the their own feelings, and actions.
+ - Everyone one is entitled to their perspectives
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzMTY2NTI2LDE2Mjk2MzUxNyw0OTkxOT
-k4Nl19
+eyJoaXN0b3J5IjpbLTc5NDQ1MzI3MiwxNjI5NjM1MTcsNDk5MT
+k5ODZdfQ==
 -->
