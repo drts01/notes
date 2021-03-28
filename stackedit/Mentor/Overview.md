@@ -4,6 +4,7 @@
 Notes:
  - We believe in positive languge and encourage "do's" over "do not's".
  - We believe in sharing a common purpose and expectations.
+ - 
 
 ## Tenets
 
@@ -60,6 +61,7 @@ Function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIyNTgzNzc0LC0xMDU5MDM3NDEsLTgwOD
-A5NjQ2MywxNjI5NjM1MTcsNDk5MTk5ODZdfQ==
+eyJoaXN0b3J5IjpbNjAwMDc5ODY1LDMyMjU4Mzc3NCwtMTA1OT
+AzNzQxLC04MDgwOTY0NjMsMTYyOTYzNTE3LDQ5OTE5OTg2XX0=
+
 -->
