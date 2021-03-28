@@ -1,4 +1,8 @@
 
+# Code of Conduct
+
+Notes:
+We believe in positive languge and encourage "do's" over "do not's".
 
 ## Tenets
 
@@ -24,6 +28,12 @@ Notes:
 
  - Sharing knowledge out side our community.
 
+## Conflict Resolution
+Misunderstandings, culture clashes, etc happen.
+
+ 1. We start from the premism that harm was not intended.
+ 2. We provide an opperu
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDExNjg5NzFdfQ==
+eyJoaXN0b3J5IjpbLTE2NTg1NDA5NThdfQ==
 -->
