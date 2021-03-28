@@ -26,7 +26,8 @@ Notes:
 
 ### Pay It Forward
 
- - Sharing knowledge out side our community.
+ - Helping new members feel welcomed.
+ - Sharing knowledge and participating beyond our group.
 
 ## Conflict Resolution
 Misunderstandings, culture clashes, poor choices of words, etc happen.
@@ -42,11 +43,12 @@ Misunderstandings, culture clashes, poor choices of words, etc happen.
 	 - Allow parties to express their feelings free of judgement.
  3. If no satifactory resolution can be reached, we may need to part ways (tempararely or permentatly)
      It is okay that we are not all be compatible everyone. We encourage everyone to find communities where they can thrive.
+ 4. 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODA5NjQ2MywxNjI5NjM1MTcsNDk5MT
-k5ODZdfQ==
+eyJoaXN0b3J5IjpbLTE4OTM2MDc3NDAsLTgwODA5NjQ2MywxNj
+I5NjM1MTcsNDk5MTk5ODZdfQ==
 -->
