@@ -43,7 +43,7 @@ Misunderstandings, culture clashes, poor choices of words, etc happen.
 	 - Allow parties to express their feelings free of judgement.
  3. If no satifactory resolution can be reached, we may need to part ways (tempararely or permentatly)
      It is okay that we are not all be compatible everyone. We encourage everyone to find communities where they can thrive.
- 4. 
+ 4. We encourage parties to reach their own resolution. If that appears unlikely, the mediator will
 
 # Roles
 
@@ -54,10 +54,10 @@ By default this will be an organizer. Any member may fullfill this role, provide
 Function:
  1. Help ensure the converstion is productive.
 	 2. i.e. encourage taking breaking if things are getting too emotional
-	 3. interupt if people are speaking 
+	 3. facilitate disscussion with out interuptions/speaking over one another
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTg2NTExNiwtODA4MDk2NDYzLDE2Mj
-k2MzUxNyw0OTkxOTk4Nl19
+eyJoaXN0b3J5IjpbLTEwNDA4Nzg4OTIsLTgwODA5NjQ2MywxNj
+I5NjM1MTcsNDk5MTk5ODZdfQ==
 -->
