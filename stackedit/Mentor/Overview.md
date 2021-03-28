@@ -17,11 +17,12 @@ i.e.:
 
 Notes:
  - If we are encouraging one another we are are not bulling, shaming, excluding, etc.
+ - It is okay for use to embracess our differences and celebrate them.
 
 ## Pay It Forward
 
  - Sharing knowledge out side our community.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDY0MTg5NF19
+eyJoaXN0b3J5IjpbMTExMjY5MjRdfQ==
 -->
