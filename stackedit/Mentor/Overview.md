@@ -1,9 +1,10 @@
 
 # Community Guidelines
 
+This document is to foster a common understanding of purpose and expectiation.
+
 Notes:
- - We believe in positive languge and encourage "do's" over "do not's".
- - We believe in sharing a common purpose and expectations.
+ - We believe in positive language and encourage "do's" over "do not's".
  - This is a living document and is subject to evolve with the community.
 
 ## Tenets
@@ -44,7 +45,7 @@ Misunderstandings, culture clashes, poor choices of words, etc happen.
  2. We provide an opportunity for parties to understand how they affect one another, with a facilitator.
 	 - Allow parties to express their feelings free of judgement.
  3. We encourage parties to reach their own resolution. If that appears unlikely, the mediator will make a decision on the best path forward.
- 3. If no satifactory resolution can be reached, we may need to part ways (tempararely or permentatly)
+ 3. If no satisfactory resolution can be reached, we may need to part ways (tempararely or permentatly)
      It is okay that we are not all be compatible everyone. We encourage everyone to find communities where they can thrive.
 
 
@@ -55,13 +56,13 @@ Misunderstandings, culture clashes, poor choices of words, etc happen.
 ## Conflict mediator
 By default this will be an organizer. Any member may fullfill this role, provided all parties agree.
 Function:
- 1. Help ensure the converstion is productive.
+ 1. Help ensure the conversion is productive.
 	 2. i.e. encourage taking breaking if things are getting too emotional
 	 3. facilitate disscussion with out interuptions/speaking over one another
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDc1OTYyNSwzMjI1ODM3NzQsLTEwNT
+eyJoaXN0b3J5IjpbMTEwMTYyNTQ3NSwzMjI1ODM3NzQsLTEwNT
 kwMzc0MSwtODA4MDk2NDYzLDE2Mjk2MzUxNyw0OTkxOTk4Nl19
 
 -->
