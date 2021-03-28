@@ -1,8 +1,9 @@
 
-# Code of Conduct
+# Commu
 
 Notes:
-We believe in positive languge and encourage "do's" over "do not's".
+ - We believe in positive languge and encourage "do's" over "do not's".
+ - We believe in sharing a common purpose and expectations.
 
 ## Tenets
 
@@ -59,6 +60,6 @@ Function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTkwMzc0MSwtODA4MDk2NDYzLDE2Mj
-k2MzUxNyw0OTkxOTk4Nl19
+eyJoaXN0b3J5IjpbLTEzMzkxODM0NjksLTEwNTkwMzc0MSwtOD
+A4MDk2NDYzLDE2Mjk2MzUxNyw0OTkxOTk4Nl19
 -->
