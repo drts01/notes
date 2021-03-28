@@ -4,7 +4,7 @@
 Notes:
  - We believe in positive languge and encourage "do's" over "do not's".
  - We believe in sharing a common purpose and expectations.
- - 
+ - This is a living document and is subject to evolve with the community.
 
 ## Tenets
 
@@ -61,7 +61,7 @@ Function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMDc5ODY1LDMyMjU4Mzc3NCwtMTA1OT
-AzNzQxLC04MDgwOTY0NjMsMTYyOTYzNTE3LDQ5OTE5OTg2XX0=
+eyJoaXN0b3J5IjpbMTEzNDc1OTYyNSwzMjI1ODM3NzQsLTEwNT
+kwMzc0MSwtODA4MDk2NDYzLDE2Mjk2MzUxNyw0OTkxOTk4Nl19
 
 -->
