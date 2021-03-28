@@ -16,12 +16,12 @@ i.e.:
  - Encourage each other
 
 Notes:
- - If we are encouraging w
+ - If we are encouraging one another we are are not bulling, shaming, excluding, etc.
 
 ## Pay It Forward
 
  - Sharing knowledge out side our community.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxNzkyOTYyXX0=
+eyJoaXN0b3J5IjpbLTMxMDY0MTg5NF19
 -->
