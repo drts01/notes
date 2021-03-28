@@ -3,9 +3,9 @@
 
 This document is to foster a common understanding of purpose and expectiation.
 
-Notes:
- - We believe in positive language and encourage "do's" over "do not's".
- - This is a living document and is subject to evolve with the community.
+We believe in positive language and encourage "do's" over "do not's".
+
+This is a living document and is subject to evolve with the community.
 
 ## Tenets
 
@@ -62,7 +62,7 @@ Function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTYyNTQ3NSwzMjI1ODM3NzQsLTEwNT
-kwMzc0MSwtODA4MDk2NDYzLDE2Mjk2MzUxNyw0OTkxOTk4Nl19
+eyJoaXN0b3J5IjpbNjc1MjA1NzU2LDMyMjU4Mzc3NCwtMTA1OT
+AzNzQxLC04MDgwOTY0NjMsMTYyOTYzNTE3LDQ5OTE5OTg2XX0=
 
 -->
