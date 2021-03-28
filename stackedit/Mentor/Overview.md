@@ -53,6 +53,8 @@ Misunderstandings, culture clashes, poor choices of words, etc happen.
 
 ## Organizer
 ## Member
+ 1. Participates
+	 2. in pulic
 ## Conflict mediator
 By default this will be an organizer. Any member may fullfill this role, provided all parties agree.
 Function:
@@ -62,7 +64,7 @@ Function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1MjA1NzU2LDMyMjU4Mzc3NCwtMTA1OT
-AzNzQxLC04MDgwOTY0NjMsMTYyOTYzNTE3LDQ5OTE5OTg2XX0=
+eyJoaXN0b3J5IjpbLTgwNDc3MjI1OCwzMjI1ODM3NzQsLTEwNT
+kwMzc0MSwtODA4MDk2NDYzLDE2Mjk2MzUxNyw0OTkxOTk4Nl19
 
 -->
