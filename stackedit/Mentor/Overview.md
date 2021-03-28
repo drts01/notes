@@ -32,8 +32,9 @@ Notes:
 Misunderstandings, culture clashes, etc happen.
 
  1. We start from the premism that harm was not intended.
- 2. We provide an opperu
+ 2. We provide an opperunity for individuals to redeam themselves.
+ 3. If 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTg1NDA5NThdfQ==
+eyJoaXN0b3J5IjpbNDk5MTk5ODZdfQ==
 -->
