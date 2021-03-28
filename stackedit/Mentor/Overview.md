@@ -39,9 +39,10 @@ Misunderstandings, culture clashes, poor choices of words, etc happen.
 Notes:
  - Everyone one is entitled to their perspectives
  - Everyone is responsible for the their own feelings
- - Everyone is accountable for their actions. disruptive actions.
+ - Everyone is accountable for their actions.
+ - Actions disruptive to the community need to be addressed.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDkyNTIwMTMsMTYyOTYzNTE3LDQ5OT
-E5OTg2XX0=
+eyJoaXN0b3J5IjpbNzY1NjUwODM4LDE2Mjk2MzUxNyw0OTkxOT
+k4Nl19
 -->
