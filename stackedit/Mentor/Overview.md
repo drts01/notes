@@ -1,5 +1,5 @@
 
-# Commu
+# Community Guidelines
 
 Notes:
  - We believe in positive languge and encourage "do's" over "do not's".
@@ -60,6 +60,6 @@ Function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzkxODM0NjksLTEwNTkwMzc0MSwtOD
-A4MDk2NDYzLDE2Mjk2MzUxNyw0OTkxOTk4Nl19
+eyJoaXN0b3J5IjpbMzIyNTgzNzc0LC0xMDU5MDM3NDEsLTgwOD
+A5NjQ2MywxNjI5NjM1MTcsNDk5MTk5ODZdfQ==
 -->
