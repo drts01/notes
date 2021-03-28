@@ -1,5 +1,5 @@
 
-# Guidelines
+# Tenets
 
  1. Be Curious; Have fun.
  2. Help each other grow.
@@ -13,11 +13,15 @@ i.e.:
  - Answering questions from other members
  - Asking questions in public changelles
  - Share projects
+ - Encourage each other
+
+Notes:
+ - If we are encouraging w
 
 ## Pay It Forward
 
  - Sharing knowledge out side our community.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjk2NDkwNjFdfQ==
+eyJoaXN0b3J5IjpbODQxNzkyOTYyXX0=
 -->
