@@ -51,9 +51,11 @@ Misunderstandings, culture clashes, poor choices of words, etc happen.
 ## Member
 ## Conflict mediator
 By default this will be an organizer. Any member may fullfill this role, provided all parties agree.
+Function:
+ 1. Help ensure the converstion
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Mzg5MjIwLC04MDgwOTY0NjMsMTYyOT
-YzNTE3LDQ5OTE5OTg2XX0=
+eyJoaXN0b3J5IjpbLTE5Mjc1OTI0MjcsLTgwODA5NjQ2MywxNj
+I5NjM1MTcsNDk5MTk5ODZdfQ==
 -->
