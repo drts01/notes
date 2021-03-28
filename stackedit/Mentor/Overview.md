@@ -52,10 +52,12 @@ Misunderstandings, culture clashes, poor choices of words, etc happen.
 ## Conflict mediator
 By default this will be an organizer. Any member may fullfill this role, provided all parties agree.
 Function:
- 1. Help ensure the converstion
+ 1. Help ensure the converstion is productive.
+	 2. i.e. encourage taking breaking if things are getting too emotional
+	 3. interupt if people are speaking 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjc1OTI0MjcsLTgwODA5NjQ2MywxNj
-I5NjM1MTcsNDk5MTk5ODZdfQ==
+eyJoaXN0b3J5IjpbLTE4OTg2NTExNiwtODA4MDk2NDYzLDE2Mj
+k2MzUxNyw0OTkxOTk4Nl19
 -->
