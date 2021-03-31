@@ -51,7 +51,9 @@ Misunderstandings, culture clashes, poor choices of words, etc happen.
 
 ## Roles
 
+### Administrator
 
+Member that
 
 
 ### Member
@@ -73,7 +75,7 @@ Function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMzQ3NTU1LDEzNzAwMDY4MzYsMzIyNT
-gzNzc0LC0xMDU5MDM3NDEsLTgwODA5NjQ2MywxNjI5NjM1MTcs
-NDk5MTk5ODZdfQ==
+eyJoaXN0b3J5IjpbLTE0OTUxNzAzOTYsMTM3MDAwNjgzNiwzMj
+I1ODM3NzQsLTEwNTkwMzc0MSwtODA4MDk2NDYzLDE2Mjk2MzUx
+Nyw0OTkxOTk4Nl19
 -->
