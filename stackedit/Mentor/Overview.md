@@ -53,7 +53,11 @@ Misunderstandings, culture clashes, poor choices of words, etc happen.
 
 ### Administrator
 
-Member that
+Member that manages:
+
+ - Legal
+ - Financials
+ - External relations
 
 
 ### Member
@@ -75,7 +79,7 @@ Function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTUxNzAzOTYsMTM3MDAwNjgzNiwzMj
-I1ODM3NzQsLTEwNTkwMzc0MSwtODA4MDk2NDYzLDE2Mjk2MzUx
-Nyw0OTkxOTk4Nl19
+eyJoaXN0b3J5IjpbLTY3ODMzNzA5NCwxMzcwMDA2ODM2LDMyMj
+U4Mzc3NCwtMTA1OTAzNzQxLC04MDgwOTY0NjMsMTYyOTYzNTE3
+LDQ5OTE5OTg2XX0=
 -->
