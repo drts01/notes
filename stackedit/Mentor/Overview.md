@@ -51,15 +51,17 @@ Misunderstandings, culture clashes, poor choices of words, etc happen.
 
 ## Roles
 
-### Organizer
+
+
 
 ### Member
-
-Organizer are members.
 
  1. Participates
 	 2. in public discussion
 	 3. 
+
+### Facilitaor
+Members that aid in the facilitation of the group.
 
 ### Conflict mediator
 
@@ -71,7 +73,7 @@ Function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDAwNjgzNiwzMjI1ODM3NzQsLTEwNT
-kwMzc0MSwtODA4MDk2NDYzLDE2Mjk2MzUxNyw0OTkxOTk4Nl19
-
+eyJoaXN0b3J5IjpbLTIzMzQ3NTU1LDEzNzAwMDY4MzYsMzIyNT
+gzNzc0LC0xMDU5MDM3NDEsLTgwODA5NjQ2MywxNjI5NjM1MTcs
+NDk5MTk5ODZdfQ==
 -->
