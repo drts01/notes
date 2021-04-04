@@ -1,7 +1,6 @@
 
 
-
-> Written with [StackEdit](https://stackedit.io/).
+https://github.com/StartBootstrap/startbootstrap-resume
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTUzMDkwNDQ1Nyw3MzA5OTgxMTZdfQ==
 -->
