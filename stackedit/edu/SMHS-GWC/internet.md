@@ -1,6 +1,9 @@
 # How does the Internet work?
 
-What are the parts of
+What are the parts of the the internet?
+
+
+Cloud
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc0Mzg3OF19
+eyJoaXN0b3J5IjpbNDQxOTM5MTVdfQ==
 -->
