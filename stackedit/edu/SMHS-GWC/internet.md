@@ -7,8 +7,9 @@ What are the parts of the the internet?
 
  - List item
 
-(https://archive.org/details/howinternetworks0008gral)
+- (https://archive.org/details/howinternetworks0008gral)
+- [How networks work](https://archive.org/details/hownetworkswork00derf_0)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQ4NzY4NjUsNzQ3MjQyMzIsNDQxOT
-M5MTVdfQ==
+eyJoaXN0b3J5IjpbMTU1NTU1NjMzMSwtMTI0NDg3Njg2NSw3ND
+cyNDIzMiw0NDE5MzkxNV19
 -->
