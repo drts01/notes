@@ -8,10 +8,11 @@ see show notes
 - [# Leading leaders who lead engineers](
 - 
 
-# MISC
+## MISC
 
+- https://www.youtube.com/playlist?list=PL2KXbZ9-EY9TRND2YHxordGt8pOw5r45R
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTAzMTAxMSw1NDgyMjE2MjgsNzMwOT
+eyJoaXN0b3J5IjpbLTY0MDc3OTY1MSw1NDgyMjE2MjgsNzMwOT
 k4MTE2XX0=
 -->
