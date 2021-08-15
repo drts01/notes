@@ -11,8 +11,9 @@ see show notes
 ## MISC
 
 - [GitOps Summit 2021](https://www.youtube.com/watch?v=alqdkYRVRv8&list=PL2KXbZ9-EY9TRND2YHxordGt8pOw5r45R)
+- [Cloud Native Application Architecture](https://www.udacity.com/course/cloud-native-application-architecture-nanodegree--nd064)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjQ2OTA0Miw1NDgyMjE2MjgsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEyMDc5OTA5ODMsNTQ4MjIxNjI4LDczMD
+k5ODExNl19
 -->
