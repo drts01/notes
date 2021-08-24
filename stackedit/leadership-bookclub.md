@@ -11,13 +11,15 @@
   as defined by Kief Morris in his book Infrastructure as Code
 * Healthy Teams
   * systems for planning work need to be mature.
-     must have backlogs of items described in terms of their value and have processes for prioritisation,
+     must have backlogs of items described in terms of their value and have processes for prioritisation
+   * if too much of the team’s time is consumed with toil, then it will never have the capacity to invest in the improvement of its products
+   * Teams should not try to manage too many platform products at once.
 
 
 XP
 * The difference between a team and a group of individuals are the existence of a common set of goals and values (the XP values are communication, simplicity, feedback, courage, and respect) as well as the presence of a high bandwidth, low latency medium that they use to communicate (Sit Together).
 * ensure that information about the status of the work is visible at all times, which includes both progress on planned features and observability on running systems (Informative Workspace).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTk5MDg1NTksLTE4NTQwMDEzNjddfQ
+eyJoaXN0b3J5IjpbLTExMjQwMDkxNzIsLTE4NTQwMDEzNjddfQ
 ==
 -->
