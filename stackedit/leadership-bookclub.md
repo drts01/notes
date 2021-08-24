@@ -15,11 +15,15 @@
    * if too much of the team’s time is consumed with toil, then it will never have the capacity to invest in the improvement of its products
    * Teams should not try to manage too many platform products at once.
 
+### Getting Started
+* produce business value, be guided by product thinking, be implemented with operational and software engineering excellence and be backed by a team structure that can sustain the new platform service
+* Small, focused platform services targeted at well-understood parts of your technology estate have a lower degree of difficulty.
+
 
 XP
 * The difference between a team and a group of individuals are the existence of a common set of goals and values (the XP values are communication, simplicity, feedback, courage, and respect) as well as the presence of a high bandwidth, low latency medium that they use to communicate (Sit Together).
 * ensure that information about the status of the work is visible at all times, which includes both progress on planned features and observability on running systems (Informative Workspace).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQwMDkxNzIsLTE4NTQwMDEzNjddfQ
-==
+eyJoaXN0b3J5IjpbLTY3OTU3NDI1NywtMTEyNDAwOTE3MiwtMT
+g1NDAwMTM2N119
 -->
