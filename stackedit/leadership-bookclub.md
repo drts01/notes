@@ -23,12 +23,17 @@
 2. how could we upgrade or migrate away from this when the time comes?
    * If deprecating your platform service would require a painful transition over years, it is probably time to go back to the drawing board and simplify your product. 
    * factoring in a realistic lifetime (three to five years) and architectural seams for replacing solutions will force your designs to be simpler and more decoupled.
+&nbsp;
 
+#### voluntary adoption of platform
+* when product teams have the ability to opt out of platform services, it encourages you to keep your services loosely coupled
+* when your platform organisation is dependent on product teams’ appreciation of the platform’s benefits, it puts a strong pressure on your platform organisation to keep customer delight at the forefront of their minds.
+* Mandatory migration to the platform is a shortcut that has the long-term risk of eroding your team’s product thinking discipline.
 
 XP
 * The difference between a team and a group of individuals are the existence of a common set of goals and values (the XP values are communication, simplicity, feedback, courage, and respect) as well as the presence of a high bandwidth, low latency medium that they use to communicate (Sit Together).
 * ensure that information about the status of the work is visible at all times, which includes both progress on planned features and observability on running systems (Informative Workspace).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDY2NTY5MywtMTEyNDAwOTE3MiwtMT
+eyJoaXN0b3J5IjpbMTk3NDg3MTMxNSwtMTEyNDAwOTE3MiwtMT
 g1NDAwMTM2N119
 -->
