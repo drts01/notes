@@ -33,10 +33,12 @@ voluntary adoption of platform
 &nbsp;
 * platform teams will manage small portfolios of very effective products
 
+**digital platforms succeed by reducing cognitive load on product development teams and accelerating an organisation’s innovation**
+
 XP
 * The difference between a team and a group of individuals are the existence of a common set of goals and values (the XP values are communication, simplicity, feedback, courage, and respect) as well as the presence of a high bandwidth, low latency medium that they use to communicate (Sit Together).
 * ensure that information about the status of the work is visible at all times, which includes both progress on planned features and observability on running systems (Informative Workspace).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTc5Mzk2MSwtMTEyNDAwOTE3MiwtMT
-g1NDAwMTM2N119
+eyJoaXN0b3J5IjpbMjEyMDM3MDU5MywtNDk1NzkzOTYxLC0xMT
+I0MDA5MTcyLC0xODU0MDAxMzY3XX0=
 -->
