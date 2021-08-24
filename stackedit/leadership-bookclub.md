@@ -18,15 +18,17 @@
 ### Getting Started
 * produce business value, be guided by product thinking, be implemented with operational and software engineering excellence and be backed by a team structure that can sustain the new platform service
 * Small, focused platform services targeted at well-understood parts of your technology estate have a lower degree of difficulty.
-
+&nbsp;
 1. _what is the smallest thing  [[1]](https://martinfowler.com/articles/platform-prerequisites.html#footnote-tvp)  we can build_ that would help the product teams?
 2. how could we upgrade or migrate away from this when the time comes?
+   * If deprecating your platform service would require a painful transition over years, it is probably time to go back to the drawing board and simplify your product. 
+   * factoring in a realistic lifetime (three to five years) and architectural seams for replacing solutions will force your designs to be simpler and more decoupled.
 
 
 XP
 * The difference between a team and a group of individuals are the existence of a common set of goals and values (the XP values are communication, simplicity, feedback, courage, and respect) as well as the presence of a high bandwidth, low latency medium that they use to communicate (Sit Together).
 * ensure that information about the status of the work is visible at all times, which includes both progress on planned features and observability on running systems (Informative Workspace).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0NzQ4ODAwLC0xMTI0MDA5MTcyLC0xOD
-U0MDAxMzY3XX0=
+eyJoaXN0b3J5IjpbMTExMDY2NTY5MywtMTEyNDAwOTE3MiwtMT
+g1NDAwMTM2N119
 -->
