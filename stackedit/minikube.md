@@ -9,7 +9,8 @@ brew install minikube
 
 ```sh
 minikube config set driver hyperkit
+minikube config set container-runtime cri-o
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTk5MTU2XX0=
+eyJoaXN0b3J5IjpbLTUxODExMjY3OF19
 -->
