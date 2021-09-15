@@ -9,21 +9,21 @@ brew install hyperkit
 brew install minikube
 ```
 
-```sh
+```s
 minikube config set driver hyperkit
 minikube config set container-runtime cri-o
 ```
 
-```sh
+```bash
 minikube start
 ```
 
 ### Client
 
-```sh
-brew install docker
-pipx install docker-compose
+```bash
+# brew install docker
+# pipx install docker-compose
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1MTcyNDYyXX0=
+eyJoaXN0b3J5IjpbOTYwMTIzMDAsMzc1MTcyNDYyXX0=
 -->
