@@ -2,6 +2,8 @@
 
 ## MacOS
 
+### Server
+
 ```sh
 brew install hyperkit
 brew install minikube
@@ -16,8 +18,12 @@ minikube config set container-runtime cri-o
 minikube start
 ```
 
+### Client
+
 ```sh
-brew isn
+brew install docker
+pipx install docker-compose
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDg2NzU0Ml19
+eyJoaXN0b3J5IjpbMzc1MTcyNDYyXX0=
 -->
