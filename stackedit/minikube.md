@@ -2,34 +2,19 @@
 
 ## MacOS
 
-### Server
-
 ```bash
 brew install hyperkit
 brew install minikube
+brew install kubernetes-cli
+echo 'source <(kubectl completion zsh)' >> "~/.zshrc"
 ```
 
 ```bash
 minikube config set driver hyperkit
 minikube config set container-runtime cri-o
-```
-
-```bash
 minikube start
 ```
-
-### Client
-
-```bash
-# brew install docker
-# pipx install docker-compose
-# brew install docker-compose-completion
-brew install kubernetes-cli
-source <(kubectl completion zsh)
-
-# to-do: enable shell autocompletion
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY2MjgzNDEsLTIyMjMyMjkwMCwyMD
-A2ODQ4NjAyLDEzOTY2MTcxNjIsMzc1MTcyNDYyXX0=
+eyJoaXN0b3J5IjpbMTY4NjYyODM1NSwtMjIyMzIyOTAwLDIwMD
+Y4NDg2MDIsMTM5NjYxNzE2MiwzNzUxNzI0NjJdfQ==
 -->
