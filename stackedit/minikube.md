@@ -11,6 +11,13 @@ brew install minikube
 minikube config set driver hyperkit
 minikube config set container-runtime cri-o
 ```
+
+```sh
+minikube start
+```
+
+```sh
+brew isn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODExMjY3OF19
+eyJoaXN0b3J5IjpbMTMwMDg2NzU0Ml19
 -->
