@@ -4,12 +4,12 @@
 
 ### Server
 
-```sh
+```bash
 brew install hyperkit
 brew install minikube
 ```
 
-```s
+```bash
 minikube config set driver hyperkit
 minikube config set container-runtime cri-o
 ```
@@ -25,5 +25,5 @@ minikube start
 # pipx install docker-compose
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwMTIzMDAsMzc1MTcyNDYyXX0=
+eyJoaXN0b3J5IjpbMTM5NjYxNzE2MiwzNzUxNzI0NjJdfQ==
 -->
