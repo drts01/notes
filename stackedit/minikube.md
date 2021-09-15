@@ -25,9 +25,11 @@ minikube start
 # pipx install docker-compose
 # brew install docker-compose-completion
 brew install kubernetes-cli
+source <(kubectl completion zsh)
+
 # to-do: enable shell autocompletion
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjMyMjkwMCwyMDA2ODQ4NjAyLDEzOT
-Y2MTcxNjIsMzc1MTcyNDYyXX0=
+eyJoaXN0b3J5IjpbLTEwOTY2MjgzNDEsLTIyMjMyMjkwMCwyMD
+A2ODQ4NjAyLDEzOTY2MTcxNjIsMzc1MTcyNDYyXX0=
 -->
