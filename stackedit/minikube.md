@@ -24,8 +24,9 @@ minikube start
 # brew install docker
 # pipx install docker-compose
 # brew install docker-compose-completion
+brew install kubernetes-cli
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjg0ODYwMiwxMzk2NjE3MTYyLDM3NT
-E3MjQ2Ml19
+eyJoaXN0b3J5IjpbMTkxNTU4MTIyNCwyMDA2ODQ4NjAyLDEzOT
+Y2MTcxNjIsMzc1MTcyNDYyXX0=
 -->
