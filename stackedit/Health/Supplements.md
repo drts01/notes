@@ -15,9 +15,12 @@ Avoid mixing:
 - Berberine HCI / Berberine Dihydroberberine
   - compares to Metformin (wonder drug)
   - lower mTOR (generally good, except when trying to build muscle)
-  - 
+- Butyric Acid
+  - good when not doing high fat
+  - helps gut bateria / microbiome
+  - improve glucose tolerance
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzE2ODY4ODksLTQ1OTA1NDk2OCwxMD
+eyJoaXN0b3J5IjpbLTE1MjQ3NzI5NTMsLTQ1OTA1NDk2OCwxMD
 Q4NDQwNTYwLC04NjgxNzY2NTZdfQ==
 -->
