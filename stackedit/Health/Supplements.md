@@ -12,11 +12,12 @@ Avoid mixing:
 &nbsp;
 - Bear Bile / Ox Bile / TUDCA
   Take when not taking high amounts of fiber. -https://health.howstuffworks.com/diseases-conditions/cardiovascular/cholesterol/foods-that-lower-cholesterol2.htm
-- Berberine 
+- Berberine HCI / Berberine Dihydroberberine
   - compares to Metformin (wonder drug)
   - lower mTOR (generally good, except when trying to build muscle)
+  - 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTE2NTk1NjQsLTQ1OTA1NDk2OCwxMD
+eyJoaXN0b3J5IjpbLTE0NzE2ODY4ODksLTQ1OTA1NDk2OCwxMD
 Q4NDQwNTYwLC04NjgxNzY2NTZdfQ==
 -->
