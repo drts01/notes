@@ -9,7 +9,9 @@ Combine:
 
 Avoid mixing:
  - Calcium can affect how your body absorbs iron, zinc and magnesium. -- https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/calcium-supplements/faq-20058238
+
+- Bear Bile / Ox Bile / TU
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTA1NDk2OCwxMDQ4NDQwNTYwLC04Nj
-gxNzY2NTZdfQ==
+eyJoaXN0b3J5IjpbLTc3MTgwMjc2NywtNDU5MDU0OTY4LDEwND
+g0NDA1NjAsLTg2ODE3NjY1Nl19
 -->
