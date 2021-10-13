@@ -9,13 +9,14 @@ Combine:
 
 Avoid mixing:
  - Calcium can affect how your body absorbs iron, zinc and magnesium. -- https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/calcium-supplements/faq-20058238
-
+&nbsp;
 - Bear Bile / Ox Bile / TUDCA
   Take when not taking high amounts of fiber. -https://health.howstuffworks.com/diseases-conditions/cardiovascular/cholesterol/foods-that-lower-cholesterol2.htm
-- Berberine
-  - compares to 
-- s
+- Berberine 
+  - compares to Metformin (wonder drug)
+  - lower mTOR (generally good, except when trying to build muscle)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODE4MTE5OSwtNDU5MDU0OTY4LDEwND
-g0NDA1NjAsLTg2ODE3NjY1Nl19
+eyJoaXN0b3J5IjpbLTEzOTE2NTk1NjQsLTQ1OTA1NDk2OCwxMD
+Q4NDQwNTYwLC04NjgxNzY2NTZdfQ==
 -->
