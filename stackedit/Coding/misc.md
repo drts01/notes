@@ -21,7 +21,7 @@ CONFIGURE_OPTS="--enable-optimizations --with-lto" \
 pyenv install --verbose $(pyenv install --list | grep -E '^ *3(\.\d*){2}$' | tail -1)
 ```
 
-script.sh
+`script.sh`:
 ```bash
 PYTHON_BUILD_ARIA2_OPTS="--min-split-size=1M --max-connection-per-server=10 --optimize-concurrent-downloads=true"
 CXX=clang++
@@ -35,8 +35,8 @@ for v in {7..11}; do
 done
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1Mzc3MzEzLC0xMDM5ODk0MzEsLTE1Nz
-AxMTUwODIsMjQyNzc4NDIxLC0xMDk1ODI2MDY4LDkxMjY0NjY5
-MCw4NjYxNjA5NDUsODY4MDU3MDk3LC0yMTIxNTM3NDUsLTEyMT
-g0NjUxODMsLTk2NTIwMzk4NCwyNzQ0Mjk2ODBdfQ==
+eyJoaXN0b3J5IjpbMTg4MDA4Mjk4MywtMTAzOTg5NDMxLC0xNT
+cwMTE1MDgyLDI0Mjc3ODQyMSwtMTA5NTgyNjA2OCw5MTI2NDY2
+OTAsODY2MTYwOTQ1LDg2ODA1NzA5NywtMjEyMTUzNzQ1LC0xMj
+E4NDY1MTgzLC05NjUyMDM5ODQsMjc0NDI5NjgwXX0=
 -->
