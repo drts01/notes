@@ -7,8 +7,8 @@
 https://docs.python.org/3/using/configure.html#performance-options
 ```bash
 PYTHON_BUILD_ARIA2_OPTS="--min-split-size=1M --max-connection-per-server=10 --optimize-concurrent-downloads=true" \
-MAKEFLAGS="-j$(sysctl -n hw.ncpu) -l $(($(sysctl -n hw.ncpu) / 1.5))" \
-CFLAGS="-O3 -pipe -march=native -Wno-unused-value -Wno-empty-body -Wno-parentheses-equality" \
+MAKE_OPTS="-j$(sysctl -n hw.ncpu) -l $(($(sysctl -n hw.ncpu) / 1.5))" \
+PYTHON_CFLAGS="-O3 -pipe -march=native -Wno-unused-value -Wno-empty-body -Wno-parentheses-equality" \
 CONFIGURE_OPTS="--enable-optimizations --with-lto" \
 pyenv install --verbose $(pyenv install --list | grep -E '^ *3(\.\d*){2}$' | tail -1)
 ```
@@ -18,7 +18,7 @@ for py3.7
 PATH="${PATH}:$(brew --prefix llvm)/bin/" CXX=clang++ CC=clang
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU4MjYwNjgsOTEyNjQ2NjkwLDg2Nj
-E2MDk0NSw4NjgwNTcwOTcsLTIxMjE1Mzc0NSwtMTIxODQ2NTE4
-MywtOTY1MjAzOTg0LDI3NDQyOTY4MF19
+eyJoaXN0b3J5IjpbLTczNDQ5Nzk2NSwtMTA5NTgyNjA2OCw5MT
+I2NDY2OTAsODY2MTYwOTQ1LDg2ODA1NzA5NywtMjEyMTUzNzQ1
+LC0xMjE4NDY1MTgzLC05NjUyMDM5ODQsMjc0NDI5NjgwXX0=
 -->
