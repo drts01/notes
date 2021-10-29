@@ -9,7 +9,7 @@
 
 notes:
 - Python 3.7 build has lots of tests.
-- Python 3.7 build fails w/ `1--with-lto` because no compatible `llvm-ar` (version from brew is different then on 
+- Python 3.7 build fails on Mac w/ `1--with-lto` because no compatible `llvm-ar` (version from brew is different then one from xcode)
 - If size is important, use -O2
 
 ```bash
@@ -27,7 +27,7 @@ for py3.7
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTUzMDM2OTYsLTE1NzAxMTUwODIsMj
+eyJoaXN0b3J5IjpbLTEwMjI1NjM2NTcsLTE1NzAxMTUwODIsMj
 QyNzc4NDIxLC0xMDk1ODI2MDY4LDkxMjY0NjY5MCw4NjYxNjA5
 NDUsODY4MDU3MDk3LC0yMTIxNTM3NDUsLTEyMTg0NjUxODMsLT
 k2NTIwMzk4NCwyNzQ0Mjk2ODBdfQ==
