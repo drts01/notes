@@ -28,15 +28,15 @@ CXX=clang++
 CC=clang
 MAKE_OPTS="-j$(sysctl -n hw.ncpu) -l $(($(sysctl -n hw.ncpu) / 1.25))"
 PYTHON_CFLAGS="-O3 -pipe -march=native -Wno-unused-value -Wno-empty-body -Wno-parentheses-equality"
-CONFIGURE_OPTS="--enable-optimizations --with-lto"
 
-for v in {9..11}; do
+for v in {7..11}; do
+  CONFIGURE_OPTS="--enable-optimizations $(test ${v} -gt 8 && printf -- --with-lto)"
   pyenv install --verbose --skip-existing "$(pyenv install --list | grep -E "^ *3\.${v}\." | tail -1)"
 done
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzk4OTQzMSwtMTU3MDExNTA4MiwyND
-I3Nzg0MjEsLTEwOTU4MjYwNjgsOTEyNjQ2NjkwLDg2NjE2MDk0
-NSw4NjgwNTcwOTcsLTIxMjE1Mzc0NSwtMTIxODQ2NTE4MywtOT
-Y1MjAzOTg0LDI3NDQyOTY4MF19
+eyJoaXN0b3J5IjpbODA1Mzc3MzEzLC0xMDM5ODk0MzEsLTE1Nz
+AxMTUwODIsMjQyNzc4NDIxLC0xMDk1ODI2MDY4LDkxMjY0NjY5
+MCw4NjYxNjA5NDUsODY4MDU3MDk3LC0yMTIxNTM3NDUsLTEyMT
+g0NjUxODMsLTk2NTIwMzk4NCwyNzQ0Mjk2ODBdfQ==
 -->
