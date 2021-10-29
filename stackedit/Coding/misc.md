@@ -9,7 +9,7 @@
 
 notes:
 - Python 3.7 build takes awhile.
-- 
+- If size is important, use -O2
 
 ```bash
 PYTHON_BUILD_ARIA2_OPTS="--min-split-size=1M --max-connection-per-server=10 --optimize-concurrent-downloads=true" \
@@ -26,7 +26,7 @@ for py3.7
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ4MTg3MDksMjQyNzc4NDIxLC0xMD
+eyJoaXN0b3J5IjpbLTE1NzAxMTUwODIsMjQyNzc4NDIxLC0xMD
 k1ODI2MDY4LDkxMjY0NjY5MCw4NjYxNjA5NDUsODY4MDU3MDk3
 LC0yMTIxNTM3NDUsLTEyMTg0NjUxODMsLTk2NTIwMzk4NCwyNz
 Q0Mjk2ODBdfQ==
