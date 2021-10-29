@@ -31,11 +31,11 @@ PYTHON_CFLAGS="-O3 -pipe -march=native -Wno-unused-value -Wno-empty-body -Wno-pa
 CONFIGURE_OPTS="--enable-optimizations --with-lto"
 
 for v in {9..11}; do
-  pyenv install --verbose "$(pyenv install --list | grep -E "^ *3\.${v}\." | tail -1)"
+  pyenv install --verbose --skip-existing "$(pyenv install --list | grep -E "^ *3\.${v}\." | tail -1)"
 done
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Mjc1OTQ5MCwtMTU3MDExNTA4MiwyND
+eyJoaXN0b3J5IjpbLTEwMzk4OTQzMSwtMTU3MDExNTA4MiwyND
 I3Nzg0MjEsLTEwOTU4MjYwNjgsOTEyNjQ2NjkwLDg2NjE2MDk0
 NSw4NjgwNTcwOTcsLTIxMjE1Mzc0NSwtMTIxODQ2NTE4MywtOT
 Y1MjAzOTg0LDI3NDQyOTY4MF19
