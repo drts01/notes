@@ -32,11 +32,12 @@ PYTHON_CFLAGS="-O3 -pipe -march=native -Wno-unused-value -Wno-empty-body -Wno-pa
 CONFIGURE_OPTS="--enable-optimizations --with-lto"
 
 for v in {9..11}; do
-  pyenv install --verbose "$(pyenv install --list | grep -E ^ *3\.${v}\.\d | tail -1)"
+  pyenv install --verbose "$(pyenv install --list | grep -E "^ *3\.${v}\." | tail -1)"
+done
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njc0NDc3ODcsLTE1NzAxMTUwODIsMj
-QyNzc4NDIxLC0xMDk1ODI2MDY4LDkxMjY0NjY5MCw4NjYxNjA5
-NDUsODY4MDU3MDk3LC0yMTIxNTM3NDUsLTEyMTg0NjUxODMsLT
-k2NTIwMzk4NCwyNzQ0Mjk2ODBdfQ==
+eyJoaXN0b3J5IjpbNzIyNjk4OTQ5LC0xNTcwMTE1MDgyLDI0Mj
+c3ODQyMSwtMTA5NTgyNjA2OCw5MTI2NDY2OTAsODY2MTYwOTQ1
+LDg2ODA1NzA5NywtMjEyMTUzNzQ1LC0xMjE4NDY1MTgzLC05Nj
+UyMDM5ODQsMjc0NDI5NjgwXX0=
 -->
