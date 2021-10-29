@@ -15,10 +15,10 @@ pyenv install --verbose $(pyenv install --list | grep -E '^ *3(\.\d*){2}$' | tai
 
 for py3.7
 ```bash
-CXX=clang++ CC=clang
+PATH="${PATH}:$(brew --prefix llvm)/bin/" CXX=clang++ CC=clang
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyNjQ2NjkwLDg2NjE2MDk0NSw4NjgwNT
-cwOTcsLTIxMjE1Mzc0NSwtMTIxODQ2NTE4MywtOTY1MjAzOTg0
-LDI3NDQyOTY4MF19
+eyJoaXN0b3J5IjpbLTEwOTU4MjYwNjgsOTEyNjQ2NjkwLDg2Nj
+E2MDk0NSw4NjgwNTcwOTcsLTIxMjE1Mzc0NSwtMTIxODQ2NTE4
+MywtOTY1MjAzOTg0LDI3NDQyOTY4MF19
 -->
