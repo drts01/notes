@@ -22,13 +22,19 @@ CONFIGURE_OPTS="--enable-optimizations --with-lto" \
 pyenv install --verbose $(pyenv install --list | grep -E '^ *3(\.\d*){2}$' | tail -1)
 ```
 
-for py3.7
+script.sh
 ```bash
-
+PYTHON_BUILD_ARIA2_OPTS="--min-split-size=1M --max-connection-per-server=10 --optimize-concurrent-downloads=true"
+CXX=clang++
+CC=clang
+MAKE_OPTS="-j$(sysctl -n hw.ncpu) -l $(($(sysctl -n hw.ncpu) / 1.25))"
+PYTHON_CFLAGS="-O3 -pipe -march=native -Wno-unused-value -Wno-empty-body -Wno-parentheses-equality"
+CONFIGURE_OPTS="--enable-optimizations --with-lto"
+pyenv install --verbose $(pyenv install --list | grep -E '^ *3(\.\d*){2}$' | tail -1)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjI1NjM2NTcsLTE1NzAxMTUwODIsMj
-QyNzc4NDIxLC0xMDk1ODI2MDY4LDkxMjY0NjY5MCw4NjYxNjA5
-NDUsODY4MDU3MDk3LC0yMTIxNTM3NDUsLTEyMTg0NjUxODMsLT
-k2NTIwMzk4NCwyNzQ0Mjk2ODBdfQ==
+eyJoaXN0b3J5IjpbMTk0MDU2ODU4MywtMTU3MDExNTA4MiwyND
+I3Nzg0MjEsLTEwOTU4MjYwNjgsOTEyNjQ2NjkwLDg2NjE2MDk0
+NSw4NjgwNTcwOTcsLTIxMjE1Mzc0NSwtMTIxODQ2NTE4MywtOT
+Y1MjAzOTg0LDI3NDQyOTY4MF19
 -->
