@@ -8,7 +8,7 @@
 - https://github.com/pyenv/pyenv/blob/master/plugins/python-build/README.md
 
 notes:
-- Python 3.7 build takes awhile.
+- Python 3.7 build has lots of tests.
 - If size is important, use -O2
 
 ```bash
@@ -26,8 +26,8 @@ for py3.7
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzAxMTUwODIsMjQyNzc4NDIxLC0xMD
-k1ODI2MDY4LDkxMjY0NjY5MCw4NjYxNjA5NDUsODY4MDU3MDk3
-LC0yMTIxNTM3NDUsLTEyMTg0NjUxODMsLTk2NTIwMzk4NCwyNz
-Q0Mjk2ODBdfQ==
+eyJoaXN0b3J5IjpbLTE0NjgyODg5NTgsLTE1NzAxMTUwODIsMj
+QyNzc4NDIxLC0xMDk1ODI2MDY4LDkxMjY0NjY5MCw4NjYxNjA5
+NDUsODY4MDU3MDk3LC0yMTIxNTM3NDUsLTEyMTg0NjUxODMsLT
+k2NTIwMzk4NCwyNzQ0Mjk2ODBdfQ==
 -->
