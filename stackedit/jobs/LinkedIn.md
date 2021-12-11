@@ -32,7 +32,7 @@ Python + Functional
   - Siloed deployment teams (CI, staging, QA, etc)
   - Lack of defined/standard practices
   - Tight coupling to CI platform
-- Task: Migrate to GitHub Actions
+- Task: Initiate migrate to GitHub Actions
 - Action(s):
   - Establish software deployment SIG
   - Docs-as-Code to pubish:
@@ -42,6 +42,7 @@ Python + Functional
    - Increased collaboration within deployment teams
    - Increased customer (product engs) engagement
    - Improved communications to customers
+   - Surfaced 
 
 #### Results
 
@@ -80,6 +81,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODE1ODcwMiwxOTExMDQyMTM0LDE4Mz
-E3Mzg4NzQsMTI1NjM2NzU4OV19
+eyJoaXN0b3J5IjpbLTE3ODI1MDIwNTksMTkxMTA0MjEzNCwxOD
+MxNzM4ODc0LDEyNTYzNjc1ODldfQ==
 -->
