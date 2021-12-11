@@ -36,8 +36,8 @@ Python + Functional
      - Product Engineers
      - Security (minimally due to lack of bandwith from attrition)
 - Reduced segmentation and improved support w/ a single chat channel focused on deploying rather than technologies
-- 
 - Acting on customer feedback from assigned items from Lean Coffee
+- Documentation to publish peferred/support tools, unified roadmap, 
 
 #### Challenges
 
@@ -59,6 +59,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTM1NTQzMzksMTgzMTczODg3NCwxMj
-U2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbOTA4NzUxNzU3LDE4MzE3Mzg4NzQsMTI1Nj
+M2NzU4OV19
 -->
