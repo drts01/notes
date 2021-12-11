@@ -25,6 +25,9 @@ Python + Functional
 
 ### Leading CI Migration (Jenkins -> GH Actions)
 
+- Lack of defined/standard proctices
+- Silos, 
+
 #### Results
 
 - Established internal SIG on code deployment
@@ -62,6 +65,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTA0MjEzNCwxODMxNzM4ODc0LDEyNT
-YzNjc1ODldfQ==
+eyJoaXN0b3J5IjpbLTY4NTg1OTkyMywxOTExMDQyMTM0LDE4Mz
+E3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
