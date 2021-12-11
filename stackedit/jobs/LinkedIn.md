@@ -35,7 +35,8 @@ Python + Functional
      - Load Testing
      - Product Engineers
      - Security (minimally due to lack of bandwith from attrition)
-- Assigned actionable items from Lean Coffee
+- Reduced segmentation 
+- Acting on customer feedback from action items from Lean Coffee
 
 #### Challenges
 
@@ -57,6 +58,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODE1MjYzODQsMTgzMTczODg3NCwxMj
-U2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbMTkzMDI3MDQ2NSwxODMxNzM4ODc0LDEyNT
+YzNjc1ODldfQ==
 -->
