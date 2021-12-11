@@ -13,10 +13,11 @@ Design of the CDN:
 
 Python + Functional
 
+* python syntax is simple to grok (generally)
 * Python is quick for me to make a library or cli
 * Most application I write are not performance bound
 * I prefer to use function paradigms w/ Python for data integrity
 * Network I/O , multiple independent API queries, through it a threadpool.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM2NzI3NDYsMTI1NjM2NzU4OV19
+eyJoaXN0b3J5IjpbLTE0ODM5MTI2MjMsMTI1NjM2NzU4OV19
 -->
