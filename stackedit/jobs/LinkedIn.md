@@ -35,10 +35,13 @@ Python + Functional
 - Task: Migrate to GitHub Actions
 - Action(s):
   - Establish software deployment SIG
-  - Docs-as-Code to 
+  - Docs-as-Code to pubish:
+    - supported tools and practices
+    - unified roadmap
 - Results:
    - Increased collaboration within deployment teams
    - Increased customer (product engs) engagement
+   - Improved communications to customers
 
 #### Results
 
@@ -77,6 +80,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzg1MzU5NywxOTExMDQyMTM0LDE4Mz
+eyJoaXN0b3J5IjpbMTQ3ODE1ODcwMiwxOTExMDQyMTM0LDE4Mz
 E3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
