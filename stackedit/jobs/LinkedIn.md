@@ -32,6 +32,9 @@ Python + Functional
   - Siloed deployment teams (CI, staging, QA, etc)
   - Lack of defined/standard practices
   - Tight coupling to CI platform
+  - Build/deployments deplays due to CI issues
+    - High context to use platform
+    - Platform 
 - Task: Initiate migrate to GitHub Actions
 - Action(s):
   - Created PoC to demonstrate benifits and impediments
@@ -82,6 +85,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzY1NjQ0MSwxOTExMDQyMTM0LDE4Mz
+eyJoaXN0b3J5IjpbMTAzOTU1NjMzOSwxOTExMDQyMTM0LDE4Mz
 E3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
