@@ -28,16 +28,14 @@ Python + Functional
 #### Results
 
 - Established internal SIG on shipping code
-   (w/ longterm goal of defining practices and tools for the entire SDLC)
-   - Reduce silos and increase collabration
+   (w/ longterm goal of defining practices and tools for the entire SDLC). Participating groups:
      - CI platform team (me)
      - Test/staging env team
      - QA
      - Load Testing
      - Product Engineers
-     - Operations
      - Security (minimally due to lack of bandwith from attrition)
-   - Assigned actionable items from Lean Coffee
+- Assigned actionable items from Lean Coffee
 
 #### Challenges
 
@@ -59,6 +57,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTM3MTQ3NCwxODMxNzM4ODc0LDEyNT
-YzNjc1ODldfQ==
+eyJoaXN0b3J5IjpbLTEzODE1MjYzODQsMTgzMTczODg3NCwxMj
+U2MzY3NTg5XX0=
 -->
