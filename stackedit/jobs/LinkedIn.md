@@ -16,8 +16,8 @@ Python + Functional
 * python syntax is simple to grok (generally)
 * Python is quick for me to make a library or cli
 * Most application I write are not performance bound
-* I prefer to use function paradigms w/ Python for data integrity
+* I prefer to use function paradigms w/ Python for data integrity, avoid accidents
 * Network I/O , multiple independent API queries, through it a threadpool.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM5MTI2MjMsMTI1NjM2NzU4OV19
+eyJoaXN0b3J5IjpbMTgzMTczODg3NCwxMjU2MzY3NTg5XX0=
 -->
