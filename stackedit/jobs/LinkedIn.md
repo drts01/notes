@@ -100,7 +100,7 @@ Communication:
 - Public Speaking
 - Writing
 
-Leadership:
+Leadership, 
 
 ## strength/weakness
 
@@ -110,6 +110,8 @@ Leadership:
 
 ### Weak
 
+- writing
+- public speaking
 
 ## x
 - hiring manager: resume, what have i been working on lately, i have learned from, i liked  
@@ -119,7 +121,7 @@ Leadership:
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjE1Mzc1OSwtMzcxMjY5NywxODc2OT
-AzMTM2LDE5MTEwNDIxMzQsMTgzMTczODg3NCwxMjU2MzY3NTg5
-XX0=
+eyJoaXN0b3J5IjpbMTU4MTcxMDYsLTM3MTI2OTcsMTg3NjkwMz
+EzNiwxOTExMDQyMTM0LDE4MzE3Mzg4NzQsMTI1NjM2NzU4OV19
+
 -->
