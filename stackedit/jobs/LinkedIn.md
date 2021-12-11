@@ -50,7 +50,9 @@ Python + Functional
    - Decoupling workflows from CI platform
    - Buy-in from higher level managment
  - **Longterm goal(s)**:
-   - Improve security (through practices, i.e. code anali
+   - Reduce cycletime
+   - Improve security (through common practices and tools, i.e. code analyzers, use of secrets in pipelines, 3rd party tools (codecov))
+   - Expand  to manage entire SDLC
 
 #### Results
 
@@ -89,6 +91,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2NDcyMTI4LDE5MTEwNDIxMzQsMTgzMT
-czODg3NCwxMjU2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbLTE3Mjc2MDc3NywxOTExMDQyMTM0LDE4Mz
+E3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
