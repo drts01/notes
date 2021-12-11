@@ -16,7 +16,7 @@ Python + Functional
 * Python is quick for me to make a library or cli
 * Most application I write are not performance bound
 * I prefer to use function paradigms w/ Python for data integrity
-* Network I/O is a freque
+* Network I/O , multiple independent API queries, through it a threadpool.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTIwNTk1MiwxMjU2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbLTExMDM2NzI3NDYsMTI1NjM2NzU4OV19
 -->
