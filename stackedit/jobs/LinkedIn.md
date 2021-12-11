@@ -18,6 +18,19 @@ Python + Functional
 * Most application I write are not performance bound
 * I prefer to use function paradigms w/ Python for data integrity, avoid accidents
 * Network I/O , multiple independent API queries, through it a threadpool.
+
+# Hiring Manager
+
+## Current Project(s)
+
+### Leading Migra
+- hiring manager: resume, what have i been working on lately, i have learned from, i liked  
+- what are strength/weakness?  
+- proudes achmplishment  
+- misktake?  
+- grow / skills desired?  
+- (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMTczODg3NCwxMjU2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbNjYyMDE2MTI1LDE4MzE3Mzg4NzQsMTI1Nj
+M2NzU4OV19
 -->
