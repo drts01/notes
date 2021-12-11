@@ -25,12 +25,19 @@ Python + Functional
 
 ### Leading CI Migration (Jenkins -> GH Actions)
 
+#### Results
+
+- Internal SIG on shipping code (
+
 #### Challenges
 
 - Deployment tightly coupled to legacy CI platform
 - Lack of standard/best practices to ship product
 - Fragmented/Silo platform teams
 - Lack of internal experiance w/ GitHub Actions
+- Seeking buy-in / resources (time)
+- High attrition while continueing to delivar features and provide maintance and support
+
 
 
 
@@ -42,6 +49,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTI2NjMxLDE4MzE3Mzg4NzQsMTI1Nj
-M2NzU4OV19
+eyJoaXN0b3J5IjpbMTE4OTE0NDg5MSwxODMxNzM4ODc0LDEyNT
+YzNjc1ODldfQ==
 -->
