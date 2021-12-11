@@ -25,8 +25,11 @@ Python + Functional
 
 ### Leading CI Migration (Jenkins -> GH Actions)
 
-- Lack of defined/standard proctices
+- Lack of defined/standard practices, need to create common pattern
 - Silos, 
+
+- Situation: Poor code deployment UX
+- Task: Mi
 
 #### Results
 
@@ -65,6 +68,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTg1OTkyMywxOTExMDQyMTM0LDE4Mz
-E3Mzg4NzQsMTI1NjM2NzU4OV19
+eyJoaXN0b3J5IjpbLTE3MjgwNzM2NDksMTkxMTA0MjEzNCwxOD
+MxNzM4ODc0LDEyNTYzNjc1ODldfQ==
 -->
