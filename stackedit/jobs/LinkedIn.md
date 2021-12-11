@@ -13,9 +13,10 @@ Design of the CDN:
 
 Python + Functional
 
+* Python is quick for me to make a library or cli
 * Most application I write are not performance bound
 * I prefer to use function paradigms w/ Python for data integrity
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODg1OTYwODNdfQ==
+eyJoaXN0b3J5IjpbMTI1NjM2NzU4OV19
 -->
