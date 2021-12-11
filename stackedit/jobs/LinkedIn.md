@@ -98,9 +98,15 @@ Python + Functional
 
 Communication:
 - Public Speaking
+  - hosting/mc software engineering group
+  - giving conference talks
+  - GWC / teaching
 - Writing
+  - drafting internal propsals
 
-Leadership, 
+Leadership, improving by:
+- leading engineering group
+- teach interal python class (
 
 ## strength/weakness
 
@@ -121,7 +127,7 @@ Leadership,
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTcxMDYsLTM3MTI2OTcsMTg3NjkwMz
-EzNiwxOTExMDQyMTM0LDE4MzE3Mzg4NzQsMTI1NjM2NzU4OV19
-
+eyJoaXN0b3J5IjpbLTIyNDY4MzcxNiwtMzcxMjY5NywxODc2OT
+AzMTM2LDE5MTEwNDIxMzQsMTgzMTczODg3NCwxMjU2MzY3NTg5
+XX0=
 -->
