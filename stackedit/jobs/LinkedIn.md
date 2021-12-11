@@ -34,6 +34,9 @@ Python + Functional
   - Tight coupling to CI platform
   - Build/deployments deplays due to CI issues
     - High context to use platform
+      - Syntax DSL
+      -  Internal glue
+      - Teams administer their own nodes ("self-serve")
     - Platform 
 - Task: Initiate migrate to GitHub Actions
 - Action(s):
@@ -85,6 +88,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTU1NjMzOSwxOTExMDQyMTM0LDE4Mz
-E3Mzg4NzQsMTI1NjM2NzU4OV19
+eyJoaXN0b3J5IjpbNzUzOTE4MDM0LDE5MTEwNDIxMzQsMTgzMT
+czODg3NCwxMjU2MzY3NTg5XX0=
 -->
