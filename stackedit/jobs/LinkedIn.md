@@ -37,7 +37,10 @@ Python + Functional
      - Security (minimally due to lack of bandwith from attrition)
 - Reduced segmentation and improved support w/ a single chat channel focused on deploying rather than technologies
 - Acting on customer feedback from assigned items from Lean Coffee
-- Imporved commucations to customers Documentation to publish peferred/support tools, unified product roadmap, and practices.
+- Imporved commucations to customers with centeralized documentation:
+  - peferred/supported tools
+  - unified product roadmap
+  - recommended/supported practices
 
 #### Challenges
 
@@ -59,6 +62,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxMjgyNzksMTgzMTczODg3NCwxMjU2Mz
-Y3NTg5XX0=
+eyJoaXN0b3J5IjpbMTkxMTA0MjEzNCwxODMxNzM4ODc0LDEyNT
+YzNjc1ODldfQ==
 -->
