@@ -48,7 +48,7 @@ Python + Functional
    - Increased customer (product engs) engagement
    - Improved communications to customers
    - Decoupling workflows from CI platform
-   - Unifing 
+   - Buy-in from higher managment
 
 #### Results
 
@@ -87,6 +87,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDY0MDA4MjEsMTkxMTA0MjEzNCwxOD
-MxNzM4ODc0LDEyNTYzNjc1ODldfQ==
+eyJoaXN0b3J5IjpbLTQ4Mjk3MTAwMiwxOTExMDQyMTM0LDE4Mz
+E3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
