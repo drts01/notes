@@ -34,6 +34,7 @@ Python + Functional
   - Tight coupling to CI platform
 - Task: Initiate migrate to GitHub Actions
 - Action(s):
+  - Created PoC to demonstrate benifits and impediments
   - Establish software deployment SIG
   - Docs-as-Code to pubish:
     - supported tools and practices
@@ -81,6 +82,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODI0ODQzMSwxOTExMDQyMTM0LDE4Mz
+eyJoaXN0b3J5IjpbMTQ1MzY1NjQ0MSwxOTExMDQyMTM0LDE4Mz
 E3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
