@@ -8,6 +8,12 @@ Design of the CDN:
 * Content may be stale but in most cases it is better than a 404.
 * Customers should have configured an expiration, i.e. e-commerce sale
 * If the need to update, i.e. relieazed the expiration is set for the wrong timezon, the disconnect PoP would not get the new configs. This is an edge case were could be serving the wrong conent, but tradeoff to provide a better experince for most of our customers' customers.
+
+# Performance, Complexity vs Simplicity
+
+Python + Functional
+
+* Most application I write are not 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzMyNzQ1NV19
+eyJoaXN0b3J5IjpbMTk5MDE1MDEyXX0=
 -->
