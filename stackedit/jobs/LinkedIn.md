@@ -27,7 +27,9 @@ Python + Functional
 
 #### Results
 
-- Internal SIG on shipping code (
+- Internal SIG on shipping code
+   (w/ longterm goal of defining practices and tools for the entire SDLC)
+   - Reduce silos and 
 
 #### Challenges
 
@@ -49,6 +51,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTE0NDg5MSwxODMxNzM4ODc0LDEyNT
-YzNjc1ODldfQ==
+eyJoaXN0b3J5IjpbLTEyNjkyMzkxLDE4MzE3Mzg4NzQsMTI1Nj
+M2NzU4OV19
 -->
