@@ -51,8 +51,10 @@ Python + Functional
    - Buy-in from higher level managment
  - **Longterm goal(s)**:
    - Reduce cycletime
-   - Improve security (through common practices and tools, i.e. code analyzers, use of secrets in pipelines, 3rd party tools (codecov))
-   - Expand  to manage entire SDLC
+   - Improve security through common practices and tools, i.e.:
+     -  code analyzers
+     - better use of secrets in pipelines, 3rd party tools (codecov))
+   - Expand to manage entire SDLC
 
 #### Results
 
@@ -91,6 +93,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjc2MDc3NywxOTExMDQyMTM0LDE4Mz
+eyJoaXN0b3J5IjpbLTY5NTY1MjEyMywxOTExMDQyMTM0LDE4Mz
 E3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
