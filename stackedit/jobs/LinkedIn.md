@@ -30,6 +30,7 @@ Python + Functional
 - Deployment tightly coupled to legacy CI platform
 - Lack of standard/best practices to ship product
 - Fragmented/Silo platform teams
+- Lack of internal experiance w/ GitHub Actions
 
 
 
@@ -41,6 +42,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU3MTc0MzcsMTgzMTczODg3NCwxMj
-U2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbLTU3OTI2NjMxLDE4MzE3Mzg4NzQsMTI1Nj
+M2NzU4OV19
 -->
