@@ -27,7 +27,7 @@ Python + Functional
 
 #### Results
 
-- Established internal SIG on shipping code
+- Established internal SIG on code deployment
    (w/ longterm goal of defining practices and tools for the entire SDLC). Participating groups:
      - CI platform team (me)
      - Test/staging env team
@@ -35,7 +35,7 @@ Python + Functional
      - Load Testing
      - Product Engineers
      - Security (minimally due to lack of bandwith from attrition)
-- Reduced segmentation 
+- Reduced segmentation and improved support w/ a chat channel focused on deploying 
 - Acting on customer feedback from action items from Lean Coffee
 
 #### Challenges
@@ -58,6 +58,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDI3MDQ2NSwxODMxNzM4ODc0LDEyNT
+eyJoaXN0b3J5IjpbLTE5Mjc2MjAwNSwxODMxNzM4ODc0LDEyNT
 YzNjc1ODldfQ==
 -->
