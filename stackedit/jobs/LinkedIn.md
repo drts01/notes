@@ -23,7 +23,13 @@ Python + Functional
 
 ## Current Project(s)
 
-### Leading Migra
+### Leading CI Migration (Jenkins -> GH Actions)
+
+#### Challenges
+
+- Deployment tightly coupled to legacy CI platform
+
+## x
 - hiring manager: resume, what have i been working on lately, i have learned from, i liked  
 - what are strength/weakness?  
 - proudes achmplishment  
@@ -31,6 +37,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyMDE2MTI1LDE4MzE3Mzg4NzQsMTI1Nj
+eyJoaXN0b3J5IjpbNzIwNTIwOTc1LDE4MzE3Mzg4NzQsMTI1Nj
 M2NzU4OV19
 -->
