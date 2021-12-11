@@ -29,15 +29,16 @@ Python + Functional
 - Silos, 
 
 - Situation: Poor code deployment UX
-  - Siloed teams 
+  - Siloed deployment teams (CI, staging, QA, etc)
   - Lack of defined/standard practices
   - Tight coupling to CI platform
 - Task: Migrate to GitHub Actions
 - Action(s):
   - Establish software deployment SIG
+  - Docs-as-Code to 
 - Results:
-   - Increased collaboration with teams
-   - 
+   - Increased collaboration within deployment teams
+   - Increased customer (product engs) engagement
 
 #### Results
 
@@ -76,6 +77,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5NzQzNTcyLDE5MTEwNDIxMzQsMTgzMT
-czODg3NCwxMjU2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbLTUwMzg1MzU5NywxOTExMDQyMTM0LDE4Mz
+E3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
