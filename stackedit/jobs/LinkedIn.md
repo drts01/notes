@@ -28,6 +28,10 @@ Python + Functional
 #### Challenges
 
 - Deployment tightly coupled to legacy CI platform
+- Lack of standard/best practices to ship product
+- Fragmented/Silo platform teams
+
+
 
 ## x
 - hiring manager: resume, what have i been working on lately, i have learned from, i liked  
@@ -37,6 +41,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwNTIwOTc1LDE4MzE3Mzg4NzQsMTI1Nj
-M2NzU4OV19
+eyJoaXN0b3J5IjpbLTE4NTU3MTc0MzcsMTgzMTczODg3NCwxMj
+U2MzY3NTg5XX0=
 -->
