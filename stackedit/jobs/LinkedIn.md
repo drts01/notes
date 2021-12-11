@@ -29,7 +29,10 @@ Python + Functional
 
 - Internal SIG on shipping code
    (w/ longterm goal of defining practices and tools for the entire SDLC)
-   - Reduce silos and 
+   - Reduce silos and increase collabration
+     - CI platform team (me)
+     - Test/staging env team
+     - QA
 
 #### Challenges
 
@@ -51,6 +54,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjkyMzkxLDE4MzE3Mzg4NzQsMTI1Nj
-M2NzU4OV19
+eyJoaXN0b3J5IjpbLTkzMzY3NDI1MywxODMxNzM4ODc0LDEyNT
+YzNjc1ODldfQ==
 -->
