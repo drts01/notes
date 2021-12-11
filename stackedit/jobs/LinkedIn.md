@@ -9,7 +9,7 @@ Design of the CDN:
 * Customers should have configured an expiration, i.e. e-commerce sale
 * If the need to update, i.e. relieazed the expiration is set for the wrong timezon, the disconnect PoP would not get the new configs. This is an edge case were could be serving the wrong conent, but tradeoff to provide a better experince for most of our customers' customers.
 
-# Performance, Complexity vs Simplicity
+## Performance, Complexity vs Simplicity
 
 Python + Functional
 
@@ -18,5 +18,5 @@ Python + Functional
 * I prefer to use function paradigms w/ Python for data integrity
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjM2NzU4OV19
+eyJoaXN0b3J5IjpbLTE0MzA3NzQzMDQsMTI1NjM2NzU4OV19
 -->
