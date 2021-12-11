@@ -96,7 +96,17 @@ Python + Functional
 
 ## grow / skills desired
 
-- Leader 
+- Public Speaking
+- Leadership
+
+## strength/weakness
+
+### Strong
+
+* Python
+
+### Weak
+
 
 ## x
 - hiring manager: resume, what have i been working on lately, i have learned from, i liked  
@@ -106,6 +116,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTgyOTQyNywxODc2OTAzMTM2LDE5MT
-EwNDIxMzQsMTgzMTczODg3NCwxMjU2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbLTM3MTI2OTcsMTg3NjkwMzEzNiwxOTExMD
+QyMTM0LDE4MzE3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
