@@ -28,24 +28,23 @@ Python + Functional
 - Lack of defined/standard practices, need to create common pattern
 - Silos, 
 
-- Situation: Poor code deployment UX
+- **Situation**: Poor code deployment UX
   - Siloed deployment teams (CI, staging, QA, etc)
   - Lack of defined/standard practices
   - Tight coupling to CI platform
   - Build/deployments deplays due to CI issues
-    - High context to use platform
+  - High context to use platform
       - Syntax DSL
       -  Internal glue
       - Teams administer their own nodes ("self-serve")
-    - Platform 
-- Task: Initiate migrate to GitHub Actions
-- Action(s):
+- **Task**: Initiate migrate to GitHub Actions
+- **Action(s)**:
   - Created PoC to demonstrate benifits and impediments
   - Establish software deployment SIG
   - Docs-as-Code to pubish:
     - supported tools and practices
     - unified roadmap
-- Results:
+- **Results**:
    - Increased collaboration within deployment teams
    - Increased customer (product engs) engagement
    - Improved communications to customers
@@ -88,6 +87,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzOTE4MDM0LDE5MTEwNDIxMzQsMTgzMT
-czODg3NCwxMjU2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbLTc3MTUzNTIwMiwxOTExMDQyMTM0LDE4Mz
+E3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
