@@ -42,7 +42,7 @@ Python + Functional
    - Increased collaboration within deployment teams
    - Increased customer (product engs) engagement
    - Improved communications to customers
-   - Surfaced 
+   - Decoupling workflows from CI platform
 
 #### Results
 
@@ -81,6 +81,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI1MDIwNTksMTkxMTA0MjEzNCwxOD
-MxNzM4ODc0LDEyNTYzNjc1ODldfQ==
+eyJoaXN0b3J5IjpbLTE4ODI0ODQzMSwxOTExMDQyMTM0LDE4Mz
+E3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
