@@ -53,7 +53,8 @@ Python + Functional
    - Reduce cycletime
    - Improve security through common practices and tools, i.e.:
      -  code analyzers
-     - better use of secrets in pipelines, 3rd party tools (codecov))
+     - better handling of secrets in pipelines
+     - managing 3rd party tools (codecov))
    - Expand to manage entire SDLC
 
 #### Results
@@ -93,6 +94,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTY1MjEyMywxOTExMDQyMTM0LDE4Mz
+eyJoaXN0b3J5IjpbMTg3NjkwMzEzNiwxOTExMDQyMTM0LDE4Mz
 E3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
