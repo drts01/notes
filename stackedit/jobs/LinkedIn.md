@@ -25,9 +25,6 @@ Python + Functional
 
 ### Leading CI Migration (Jenkins -> GH Actions)
 
-- Lack of defined/standard practices, need to create common pattern
-- Silos, 
-
 - **Situation**: Poor code deployment UX
   - Siloed deployment teams (CI, staging, QA, etc)
   - Lack of defined/standard practices
@@ -83,8 +80,11 @@ Python + Functional
 - Seeking buy-in / resources (time)
 - High attrition while continueing to delivar features and provide maintance and support
 
+## Proudest accomplishment
 
+## Misktake
 
+- 
 
 ## x
 - hiring manager: resume, what have i been working on lately, i have learned from, i liked  
@@ -94,6 +94,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjkwMzEzNiwxOTExMDQyMTM0LDE4Mz
-E3Mzg4NzQsMTI1NjM2NzU4OV19
+eyJoaXN0b3J5IjpbLTE3NDQ3NzIwNjQsMTg3NjkwMzEzNiwxOT
+ExMDQyMTM0LDE4MzE3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
