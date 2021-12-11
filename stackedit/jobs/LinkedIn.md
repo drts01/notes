@@ -32,8 +32,7 @@ Python + Functional
   - Siloed deployment teams (CI, staging, QA, etc)
   - Lack of defined/standard practices
   - Tight coupling to CI platform
-  - Build/deployments deplays due to CI issues
-  - High context to use platform
+  - Build/deployments deplays due to difficult to troubleshoot pipelines (High context platform):
       - Syntax DSL
       -  Internal glue
       - Teams administer their own nodes ("self-serve")
@@ -87,6 +86,6 @@ Python + Functional
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTUzNTIwMiwxOTExMDQyMTM0LDE4Mz
-E3Mzg4NzQsMTI1NjM2NzU4OV19
+eyJoaXN0b3J5IjpbODAyMjY2MDI2LDE5MTEwNDIxMzQsMTgzMT
+czODg3NCwxMjU2MzY3NTg5XX0=
 -->
