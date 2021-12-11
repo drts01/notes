@@ -13,7 +13,9 @@ Design of the CDN:
 
 Python + Functional
 
-* Most application I write are not 
+* Most application I write are not performance bound
+* I prefer to use function paradigms w/ Python for data integrity
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDE1MDEyXX0=
+eyJoaXN0b3J5IjpbLTE4ODg1OTYwODNdfQ==
 -->
