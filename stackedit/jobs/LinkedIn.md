@@ -166,8 +166,16 @@ Security
 - writing
 - public speaking
 - work/life balance/bounderies
+
+## Conflict
+- **Situation**:
+  - A security indicent was mitigated where a sha
+- **Task**: 
+- **Action(s)**: 
+- **Results**:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTI0MzM4NSwxNzM5OTgzNzYwLDc4OT
-YyOTA4MiwtMTcyOTcwNzk5MCwtMzcxMjY5NywxODc2OTAzMTM2
-LDE5MTEwNDIxMzQsMTgzMTczODg3NCwxMjU2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbMTE2ODQ2NjU1NywxOTU1MjQzMzg1LDE3Mz
+k5ODM3NjAsNzg5NjI5MDgyLC0xNzI5NzA3OTkwLC0zNzEyNjk3
+LDE4NzY5MDMxMzYsMTkxMTA0MjEzNCwxODMxNzM4ODc0LDEyNT
+YzNjc1ODldfQ==
 -->
