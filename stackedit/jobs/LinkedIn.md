@@ -96,7 +96,8 @@ Python + Functional
 - **Takeaways**:
   - Learned about spanning tree
   - Learned we disable spanning for performance
-  - 
+  - Prioritize vnic into CasC
+    - The culture
 
 ## grow / skills desired
 
@@ -140,7 +141,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzczNjAxMjYsLTE3Mjk3MDc5OTAsLT
-M3MTI2OTcsMTg3NjkwMzEzNiwxOTExMDQyMTM0LDE4MzE3Mzg4
-NzQsMTI1NjM2NzU4OV19
+eyJoaXN0b3J5IjpbMjU5MzkxNzcsLTE3Mjk3MDc5OTAsLTM3MT
+I2OTcsMTg3NjkwMzEzNiwxOTExMDQyMTM0LDE4MzE3Mzg4NzQs
+MTI1NjM2NzU4OV19
 -->
