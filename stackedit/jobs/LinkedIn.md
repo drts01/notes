@@ -170,13 +170,13 @@ Security
 ## Conflict
 - **Situation**:
   - A security indicent was mitigated where a a single credential was used to move through the enviroment.
-  - 
+  - CasC need to support distributing more grandular secrets per PoP per ser
 - **Task**: 
 - **Action(s)**: 
 - **Results**:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTk2MDg2NjEsMTk1NTI0MzM4NSwxNz
-M5OTgzNzYwLDc4OTYyOTA4MiwtMTcyOTcwNzk5MCwtMzcxMjY5
-NywxODc2OTAzMTM2LDE5MTEwNDIxMzQsMTgzMTczODg3NCwxMj
-U2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbLTYwMDM2NzA2NiwxOTU1MjQzMzg1LDE3Mz
+k5ODM3NjAsNzg5NjI5MDgyLC0xNzI5NzA3OTkwLC0zNzEyNjk3
+LDE4NzY5MDMxMzYsMTkxMTA0MjEzNCwxODMxNzM4ODc0LDEyNT
+YzNjc1ODldfQ==
 -->
