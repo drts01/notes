@@ -92,7 +92,11 @@ Python + Functional
 - **Situation**:  
 - **Task**: Manually configure virtual network interfaces
 - **Action(s)**: cp-ed config files from first server to other, then edit.
-- **Results**: Accidentally created a duplicate interface (MAC) that created a network loo
+- **Results**: Accidentally created a duplicate interface (MAC) that created a network loop causing that create
+- **Takeaways**:
+  - Learned about spanning tree
+  - Learned we disable spanning for performance
+  - 
 
 ## grow / skills desired
 
@@ -136,7 +140,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTU2NTYyMDcsLTE3Mjk3MDc5OTAsLT
+eyJoaXN0b3J5IjpbLTIwNzczNjAxMjYsLTE3Mjk3MDc5OTAsLT
 M3MTI2OTcsMTg3NjkwMzEzNiwxOTExMDQyMTM0LDE4MzE3Mzg4
 NzQsMTI1NjM2NzU4OV19
 -->
