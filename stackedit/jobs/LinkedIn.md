@@ -86,8 +86,9 @@ Python + Functional
   - Life challenges de-railed my career
   - I returned to tech as hobbiest and the tech team for mom and pop shops.
   - I started attending user groups and confrences as a spectator
-  - 
-- **Task**: 
+  - I would idolize members of the local LUG as they did real tech at JPL.
+  - I would idolize speakers a the SoCal Linux Expo
+- **Task**: LUG members asked me why I was not submitting a talk to
 - **Action(s)**:
 - **Results**:
 
@@ -147,7 +148,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTk4Mzc2MCw3ODk2MjkwODIsLTE3Mj
-k3MDc5OTAsLTM3MTI2OTcsMTg3NjkwMzEzNiwxOTExMDQyMTM0
-LDE4MzE3Mzg4NzQsMTI1NjM2NzU4OV19
+eyJoaXN0b3J5IjpbLTY1MTYzMDU4MSwxNzM5OTgzNzYwLDc4OT
+YyOTA4MiwtMTcyOTcwNzk5MCwtMzcxMjY5NywxODc2OTAzMTM2
+LDE5MTEwNDIxMzQsMTgzMTczODg3NCwxMjU2MzY3NTg5XX0=
 -->
