@@ -173,14 +173,16 @@ Security
   - Each service utilized the same secret across the infrastructure
   - CasC need to support distributing more grandular secrets per PoP per service.
   - The lead engineer on the project propsed a solution my instianct said was wrong, as they were moving private keys so each PoP can decrypt its own secrects.
+  - I proposed investigating integrating a 
   - The lead engineer believed my solution involved to high of a level of effort and their solution was good enough as it was an improvement to the current situation.
 - **Task**: I need to illustrate:
-- the proposed solution was poor security and 
+  - the proposed solution was poor security
+  - my solution was not a significat increase in effort
 - **Action(s)**: 
 - **Results**:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2MTQyMDU5LDE5NTUyNDMzODUsMTczOT
-k4Mzc2MCw3ODk2MjkwODIsLTE3Mjk3MDc5OTAsLTM3MTI2OTcs
-MTg3NjkwMzEzNiwxOTExMDQyMTM0LDE4MzE3Mzg4NzQsMTI1Nj
-M2NzU4OV19
+eyJoaXN0b3J5IjpbLTE2NzM1NjE2MDYsMTk1NTI0MzM4NSwxNz
+M5OTgzNzYwLDc4OTYyOTA4MiwtMTcyOTcwNzk5MCwtMzcxMjY5
+NywxODc2OTAzMTM2LDE5MTEwNDIxMzQsMTgzMTczODg3NCwxMj
+U2MzY3NTg5XX0=
 -->
