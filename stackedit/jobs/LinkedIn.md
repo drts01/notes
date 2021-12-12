@@ -158,6 +158,8 @@ Security
 ### Strong
 
 * Python
+* Conistenting striving for quality
+  Building the right product correctly
 
 ### Weak
 
@@ -165,7 +167,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTQ5Mjc2NSwxNzM5OTgzNzYwLDc4OT
+eyJoaXN0b3J5IjpbMTk1NTI0MzM4NSwxNzM5OTgzNzYwLDc4OT
 YyOTA4MiwtMTcyOTcwNzk5MCwtMzcxMjY5NywxODc2OTAzMTM2
 LDE5MTEwNDIxMzQsMTgzMTczODg3NCwxMjU2MzY3NTg5XX0=
 -->
