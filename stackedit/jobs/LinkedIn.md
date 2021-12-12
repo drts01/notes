@@ -89,7 +89,7 @@ Python + Functional
 
 ## Misktake
 
-- **Situation**: 
+- **Situation**:  Manually con
 - **Task**: 
 - **Action(s)**:
 - **Results**:
@@ -136,7 +136,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjk3MDc5OTAsLTM3MTI2OTcsMTg3Nj
-kwMzEzNiwxOTExMDQyMTM0LDE4MzE3Mzg4NzQsMTI1NjM2NzU4
-OV19
+eyJoaXN0b3J5IjpbNDYwOTgxMzY5LC0xNzI5NzA3OTkwLC0zNz
+EyNjk3LDE4NzY5MDMxMzYsMTkxMTA0MjEzNCwxODMxNzM4ODc0
+LDEyNTYzNjc1ODldfQ==
 -->
