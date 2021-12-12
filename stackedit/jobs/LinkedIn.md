@@ -88,7 +88,8 @@ Python + Functional
   - I started attending user groups and confrences as a spectator
   - I would idolize members of the local LUG as they did real tech at JPL.
   - I would idolize speakers a the SoCal Linux Expo
-- **Task**: LUG members asked me why I was not submitting a talk to
+  - Imposter syndrom prevented me from seeing these peo
+- **Task**: LUG members asked me why I was not submitting a talk proposal to SCaLE.
 - **Action(s)**:
 - **Results**:
 
@@ -148,7 +149,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTYzMDU4MSwxNzM5OTgzNzYwLDc4OT
-YyOTA4MiwtMTcyOTcwNzk5MCwtMzcxMjY5NywxODc2OTAzMTM2
-LDE5MTEwNDIxMzQsMTgzMTczODg3NCwxMjU2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbNzU0NjI0MTg2LDE3Mzk5ODM3NjAsNzg5Nj
+I5MDgyLC0xNzI5NzA3OTkwLC0zNzEyNjk3LDE4NzY5MDMxMzYs
+MTkxMTA0MjEzNCwxODMxNzM4ODc0LDEyNTYzNjc1ODldfQ==
 -->
