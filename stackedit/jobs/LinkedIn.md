@@ -84,7 +84,9 @@ Python + Functional
 
 - **Situation**:
   - Life challenges de-railed my career
-  - I returned to tech as hobbiest and the tech team for mom and 
+  - I returned to tech as hobbiest and the tech team for mom and pop shops.
+  - I started attending user groups and confrences as a spectator
+  - 
 - **Task**: 
 - **Action(s)**:
 - **Results**:
@@ -145,7 +147,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzIyMjM2Niw3ODk2MjkwODIsLTE3Mj
+eyJoaXN0b3J5IjpbMTczOTk4Mzc2MCw3ODk2MjkwODIsLTE3Mj
 k3MDc5OTAsLTM3MTI2OTcsMTg3NjkwMzEzNiwxOTExMDQyMTM0
 LDE4MzE3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
