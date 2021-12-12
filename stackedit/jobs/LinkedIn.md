@@ -82,7 +82,9 @@ Python + Functional
 
 ## Proudest accomplishment
 
-- **Situation**: 
+- **Situation**:
+  - Life challenges de-railed my career
+  - I returned to tech as hobbiest and the tech team for mom and 
 - **Task**: 
 - **Action(s)**:
 - **Results**:
@@ -143,7 +145,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5NjI5MDgyLC0xNzI5NzA3OTkwLC0zNz
-EyNjk3LDE4NzY5MDMxMzYsMTkxMTA0MjEzNCwxODMxNzM4ODc0
-LDEyNTYzNjc1ODldfQ==
+eyJoaXN0b3J5IjpbLTg4NzIyMjM2Niw3ODk2MjkwODIsLTE3Mj
+k3MDc5OTAsLTM3MTI2OTcsMTg3NjkwMzEzNiwxOTExMDQyMTM0
+LDE4MzE3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
