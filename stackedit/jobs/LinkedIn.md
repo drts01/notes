@@ -82,8 +82,12 @@ Python + Functional
 
 ## Proudest accomplishment
 
+### Presenting at conferences
+
 - **Situation**:
-  - Never though I would do pubilc people.
+  - Never though I would do pubilc people
+    1. fear of public speaking
+    2. lack of confidence as competent to speak on any topic
   - Life challenges de-railed my career
   - I returned to tech as hobbiest and the tech team for mom and pop shops.
   - I started attending user groups and confrences as a spectator
@@ -158,7 +162,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjEzMjM3MDEsMTczOTk4Mzc2MCw3OD
-k2MjkwODIsLTE3Mjk3MDc5OTAsLTM3MTI2OTcsMTg3NjkwMzEz
-NiwxOTExMDQyMTM0LDE4MzE3Mzg4NzQsMTI1NjM2NzU4OV19
+eyJoaXN0b3J5IjpbLTE4MDg0Njk4LDE3Mzk5ODM3NjAsNzg5Nj
+I5MDgyLC0xNzI5NzA3OTkwLC0zNzEyNjk3LDE4NzY5MDMxMzYs
+MTkxMTA0MjEzNCwxODMxNzM4ODc0LDEyNTYzNjc1ODldfQ==
 -->
