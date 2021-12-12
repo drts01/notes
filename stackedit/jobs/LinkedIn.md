@@ -96,6 +96,8 @@ Python + Functional
 
 ## grow / skills desired
 
+### Soft
+
 Communication:
 - Public Speaking
   - hosting/mc software engineering group
@@ -111,6 +113,10 @@ Leadership, improving by:
 - teach interal python class (volunteered, next quarter)
 - took a mentee
 
+### Tech
+
+Security
+
 ## strength/weakness
 
 ### Strong
@@ -122,16 +128,8 @@ Leadership, improving by:
 - writing
 - public speaking
 - work/life balance/bounderies
-
-## x
-- hiring manager: resume, what have i been working on lately, i have learned from, i liked  
-- what are strength/weakness?  
-- proudes achmplishment  
-- misktake?  
-- grow / skills desired?  
-- (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1NTA1MTI4LC0zNzEyNjk3LDE4NzY5MD
-MxMzYsMTkxMTA0MjEzNCwxODMxNzM4ODc0LDEyNTYzNjc1ODld
-fQ==
+eyJoaXN0b3J5IjpbLTE1NDAxNjkzMjksLTM3MTI2OTcsMTg3Nj
+kwMzEzNiwxOTExMDQyMTM0LDE4MzE3Mzg4NzQsMTI1NjM2NzU4
+OV19
 -->
