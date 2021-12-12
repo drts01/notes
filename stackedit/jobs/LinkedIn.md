@@ -173,12 +173,12 @@ Security
   - Each service utilized the same secret across the infrastructure
   - CasC need to support distributing more grandular secrets per PoP per service.
   - The lead engineer on the project propsed a solution i found flawed.
-  - 
+  - The lead engineer believed my solution involved to high of a level of effort and their solution was good enough as it was an improvement to the current 
 - **Task**: 
 - **Action(s)**: 
 - **Results**:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg0NzY2ODAsMTk1NTI0MzM4NSwxNz
+eyJoaXN0b3J5IjpbLTEyNDc2NjYyMjgsMTk1NTI0MzM4NSwxNz
 M5OTgzNzYwLDc4OTYyOTA4MiwtMTcyOTcwNzk5MCwtMzcxMjY5
 NywxODc2OTAzMTM2LDE5MTEwNDIxMzQsMTgzMTczODg3NCwxMj
 U2MzY3NTg5XX0=
