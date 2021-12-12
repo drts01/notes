@@ -82,7 +82,7 @@ Python + Functional
 
 ## Proudest accomplishment
 
-### Presenting at conferences
+### Conference Speaker
 
 - **Situation**:
   - Never though I would do pubilc people
@@ -162,7 +162,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDg0Njk4LDE3Mzk5ODM3NjAsNzg5Nj
-I5MDgyLC0xNzI5NzA3OTkwLC0zNzEyNjk3LDE4NzY5MDMxMzYs
-MTkxMTA0MjEzNCwxODMxNzM4ODc0LDEyNTYzNjc1ODldfQ==
+eyJoaXN0b3J5IjpbMTQzMjY5NDUwNiwxNzM5OTgzNzYwLDc4OT
+YyOTA4MiwtMTcyOTcwNzk5MCwtMzcxMjY5NywxODc2OTAzMTM2
+LDE5MTEwNDIxMzQsMTgzMTczODg3NCwxMjU2MzY3NTg5XX0=
 -->
