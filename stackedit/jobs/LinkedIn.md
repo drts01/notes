@@ -180,11 +180,11 @@ Security
   - my solution was not a significat increase in effort
 - **Action(s)**: 
   - located documentation on industry practices around GPG and private keys
-  - researched GNU PGP
+  - researched GnuPG. (it has good man pages/docs)
 - **Results**:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjM2OTgyOCwxOTU1MjQzMzg1LDE3Mz
-k5ODM3NjAsNzg5NjI5MDgyLC0xNzI5NzA3OTkwLC0zNzEyNjk3
-LDE4NzY5MDMxMzYsMTkxMTA0MjEzNCwxODMxNzM4ODc0LDEyNT
-YzNjc1ODldfQ==
+eyJoaXN0b3J5IjpbMjMxNDIyMTExLDE5NTUyNDMzODUsMTczOT
+k4Mzc2MCw3ODk2MjkwODIsLTE3Mjk3MDc5OTAsLTM3MTI2OTcs
+MTg3NjkwMzEzNiwxOTExMDQyMTM0LDE4MzE3Mzg4NzQsMTI1Nj
+M2NzU4OV19
 -->
