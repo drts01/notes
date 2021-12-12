@@ -181,10 +181,11 @@ Security
 - **Action(s)**: 
   - located documentation on industry practices around GPG and private keys
   - researched GnuPG. (it has good man pages/docs)
+  - involved teammate that also questioned the current imple
 - **Results**:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxNDIyMTExLDE5NTUyNDMzODUsMTczOT
-k4Mzc2MCw3ODk2MjkwODIsLTE3Mjk3MDc5OTAsLTM3MTI2OTcs
-MTg3NjkwMzEzNiwxOTExMDQyMTM0LDE4MzE3Mzg4NzQsMTI1Nj
-M2NzU4OV19
+eyJoaXN0b3J5IjpbMTQ4NjY1MDYyNSwyMzE0MjIxMTEsMTk1NT
+I0MzM4NSwxNzM5OTgzNzYwLDc4OTYyOTA4MiwtMTcyOTcwNzk5
+MCwtMzcxMjY5NywxODc2OTAzMTM2LDE5MTEwNDIxMzQsMTgzMT
+czODg3NCwxMjU2MzY3NTg5XX0=
 -->
