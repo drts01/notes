@@ -47,6 +47,8 @@ Python + Functional
    - Decoupling workflows from CI platform
    - Buy-in from higher level managment
  - **Longterm goal(s)**:
+   - Continous Delivery, all code can be deployed
+     - precursor to continous deployment
    - Reduce cycletime
    - Improve security through common practices and tools, i.e.:
      -  code analyzers
@@ -199,8 +201,8 @@ Security
     - Keys published from the PoP, not triggered by the server of CasC, would trigger a security event
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE5MjA3NiwyMzE0MjIxMTEsMTk1NT
-I0MzM4NSwxNzM5OTgzNzYwLDc4OTYyOTA4MiwtMTcyOTcwNzk5
-MCwtMzcxMjY5NywxODc2OTAzMTM2LDE5MTEwNDIxMzQsMTgzMT
-czODg3NCwxMjU2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbLTg5MTAxNTYyNCwtMTcxMTkyMDc2LDIzMT
+QyMjExMSwxOTU1MjQzMzg1LDE3Mzk5ODM3NjAsNzg5NjI5MDgy
+LC0xNzI5NzA3OTkwLC0zNzEyNjk3LDE4NzY5MDMxMzYsMTkxMT
+A0MjEzNCwxODMxNzM4ODc0LDEyNTYzNjc1ODldfQ==
 -->
