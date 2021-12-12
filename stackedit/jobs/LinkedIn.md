@@ -92,14 +92,14 @@ Python + Functional
 - **Situation**:
   - New hire (weeks)
   - First large tech company/infra
-- **Task**: Manually configure virtual network interfaces of a rack of indiviual 
+- **Task**: Manually configure virtual network interfaces of a rack of indiviual hypervisors.
 - **Action(s)**: to avoid repetive work, cp-ed config files from first server to other, then edit.
 - **Results**: Accidentally created a duplicate interface (MAC) that created a network loop causing that create
 - **Takeaways**:
   - Learned about spanning tree
   - Learned we disable spanning for performance
-  - Prioritize vnic into CasC
-    - The culture had real blameless postmortems
+   - learned about root cause and blameless postmortems
+   - Prioritize vnic into CasC
 
 ## grow / skills desired
 
@@ -143,7 +143,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzc1OTE1OCwtMTcyOTcwNzk5MCwtMz
-cxMjY5NywxODc2OTAzMTM2LDE5MTEwNDIxMzQsMTgzMTczODg3
-NCwxMjU2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbNzg5NjI5MDgyLC0xNzI5NzA3OTkwLC0zNz
+EyNjk3LDE4NzY5MDMxMzYsMTkxMTA0MjEzNCwxODMxNzM4ODc0
+LDEyNTYzNjc1ODldfQ==
 -->
