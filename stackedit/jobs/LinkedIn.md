@@ -181,11 +181,14 @@ Security
 - **Action(s)**: 
   - located documentation on industry practices around GPG and private keys
   - researched GnuPG. (it has good man pages/docs)
-  - involved teammate that also questioned the current imple
+  - involved teammate that also questioned the current design
+  - designed
+    - how the CacC servers would publish, rotate, sign (web of trust) keys.
+    - documented 
 - **Results**:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjY1MDYyNSwyMzE0MjIxMTEsMTk1NT
-I0MzM4NSwxNzM5OTgzNzYwLDc4OTYyOTA4MiwtMTcyOTcwNzk5
-MCwtMzcxMjY5NywxODc2OTAzMTM2LDE5MTEwNDIxMzQsMTgzMT
-czODg3NCwxMjU2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbMTk3NzUwMDUzLDIzMTQyMjExMSwxOTU1Mj
+QzMzg1LDE3Mzk5ODM3NjAsNzg5NjI5MDgyLC0xNzI5NzA3OTkw
+LC0zNzEyNjk3LDE4NzY5MDMxMzYsMTkxMTA0MjEzNCwxODMxNz
+M4ODc0LDEyNTYzNjc1ODldfQ==
 -->
