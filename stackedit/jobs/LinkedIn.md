@@ -172,14 +172,14 @@ Security
   - A security indicent was mitigated where a a single credential was used to move through the enviroment.
   - Each service utilized the same secret across the infrastructure
   - CasC need to support distributing more grandular secrets per PoP per service.
-  - The lead engineer on the project propsed a solution i found flawed.
-  - The lead engineer believed my solution involved to high of a level of effort and their solution was good enough as it was an improvement to the current 
+  - The lead engineer on the project propsed a solution my instianct said was wrong, as they were moving private keys so each PoP can decrypt its own secrects.
+  - The lead engineer believed my solution involved to high of a level of effort and their solution was good enough as it was an improvement to the current situation.
 - **Task**: 
 - **Action(s)**: 
 - **Results**:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDc2NjYyMjgsMTk1NTI0MzM4NSwxNz
-M5OTgzNzYwLDc4OTYyOTA4MiwtMTcyOTcwNzk5MCwtMzcxMjY5
-NywxODc2OTAzMTM2LDE5MTEwNDIxMzQsMTgzMTczODg3NCwxMj
-U2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbMTY5NzI3MTcxLDE5NTUyNDMzODUsMTczOT
+k4Mzc2MCw3ODk2MjkwODIsLTE3Mjk3MDc5OTAsLTM3MTI2OTcs
+MTg3NjkwMzEzNiwxOTExMDQyMTM0LDE4MzE3Mzg4NzQsMTI1Nj
+M2NzU4OV19
 -->
