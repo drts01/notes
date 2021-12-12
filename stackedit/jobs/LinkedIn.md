@@ -91,8 +91,8 @@ Python + Functional
 
 - **Situation**:  
 - **Task**: Manually configure virtual network interfaces
-- **Action(s)**: 
-- **Results**:
+- **Action(s)**: cp-ed config files from first server to other, then edit.
+- **Results**: create a duplicate interface (MAC)
 
 ## grow / skills desired
 
@@ -136,7 +136,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM0Mzg0OTIsLTE3Mjk3MDc5OTAsLT
-M3MTI2OTcsMTg3NjkwMzEzNiwxOTExMDQyMTM0LDE4MzE3Mzg4
-NzQsMTI1NjM2NzU4OV19
+eyJoaXN0b3J5IjpbLTI1MDQ0MjAzMiwtMTcyOTcwNzk5MCwtMz
+cxMjY5NywxODc2OTAzMTM2LDE5MTEwNDIxMzQsMTgzMTczODg3
+NCwxMjU2MzY3NTg5XX0=
 -->
