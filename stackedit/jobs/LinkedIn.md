@@ -191,13 +191,15 @@ Security
     - no maintance required because if key server goes down, the PoP will continue to have the current secrets and we bootstrap w/ a single script again.
     - active and inactive keys are distributed to quickly rotate service secrets and re-encrypt.
     - integrated work already inflight for the bootstrapping process, no need to start over.
+ - Had design evaluated by the most hard nose archutect and harden the design and gain their buyin
 - **Results**:
+  - Managment and team buy-in to pivot
   - Higher security
     - Private keys are programticly generate, rotated,  and nerver transfered
     - Keys published from the PoP, not triggered by the server of CasC, would trigger a security event
-  - 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTQ4ODYxNSwyMzE0MjIxMTEsMTk1NT
+eyJoaXN0b3J5IjpbLTE3MTE5MjA3NiwyMzE0MjIxMTEsMTk1NT
 I0MzM4NSwxNzM5OTgzNzYwLDc4OTYyOTA4MiwtMTcyOTcwNzk5
 MCwtMzcxMjY5NywxODc2OTAzMTM2LDE5MTEwNDIxMzQsMTgzMT
 czODg3NCwxMjU2MzY3NTg5XX0=
