@@ -187,14 +187,17 @@ Security
     - documented the bootstrap process
       - which would as serve to revoke and republish incase of emergancy
       - cause CasC to sign and trust new keys
-      - The server of CasC servers will or
+      - The server of CasC servers will orchastrate the key rotation and signal to CasC to accept new keys.
     - no maintance required because if key server goes down, the PoP will continue to have the current secrets and we bootstrap w/ a single script again.
     - active and inactive keys are distributed to quickly rotate service secrets and re-encrypt.
     - integrated work already inflight for the bootstrapping process, no need to start over.
 - **Results**:
+  - Higher security
+    - Private keys are programticly generate, rotated,  and nerver transfered
+    - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxNjk4Nzk5LDIzMTQyMjExMSwxOTU1Mj
-QzMzg1LDE3Mzk5ODM3NjAsNzg5NjI5MDgyLC0xNzI5NzA3OTkw
-LC0zNzEyNjk3LDE4NzY5MDMxMzYsMTkxMTA0MjEzNCwxODMxNz
-M4ODc0LDEyNTYzNjc1ODldfQ==
+eyJoaXN0b3J5IjpbLTEwNjQxMzQyNzYsMjMxNDIyMTExLDE5NT
+UyNDMzODUsMTczOTk4Mzc2MCw3ODk2MjkwODIsLTE3Mjk3MDc5
+OTAsLTM3MTI2OTcsMTg3NjkwMzEzNiwxOTExMDQyMTM0LDE4Mz
+E3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
