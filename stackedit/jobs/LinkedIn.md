@@ -91,9 +91,9 @@ Python + Functional
 
 - **Situation**:
   - New hire (weeks)
-  - First big tech company/infra
-- **Task**: Manually configure virtual network interfaces
-- **Action(s)**: cp-ed config files from first server to other, then edit.
+  - First large tech company/infra
+- **Task**: Manually configure virtual network interfaces of a rack of indiviual 
+- **Action(s)**: to avoid repetive work, cp-ed config files from first server to other, then edit.
 - **Results**: Accidentally created a duplicate interface (MAC) that created a network loop causing that create
 - **Takeaways**:
   - Learned about spanning tree
@@ -143,7 +143,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NzU1NjE5MywtMTcyOTcwNzk5MCwtMz
+eyJoaXN0b3J5IjpbLTE4Nzc1OTE1OCwtMTcyOTcwNzk5MCwtMz
 cxMjY5NywxODc2OTAzMTM2LDE5MTEwNDIxMzQsMTgzMTczODg3
 NCwxMjU2MzY3NTg5XX0=
 -->
