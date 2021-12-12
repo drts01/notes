@@ -184,10 +184,11 @@ Security
   - involved teammate that also questioned the current design
   - designed
     - how the CacC servers would publish, rotate, sign (web of trust) keys.
-    - documented 
+    - documented the bootstrap process, which would as serve to revoke and republish incase of emergancy
+    - no maintance required because if key ser
 - **Results**:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzUwMDUzLDIzMTQyMjExMSwxOTU1Mj
+eyJoaXN0b3J5IjpbLTk0MDIwMTQ0LDIzMTQyMjExMSwxOTU1Mj
 QzMzg1LDE3Mzk5ODM3NjAsNzg5NjI5MDgyLC0xNzI5NzA3OTkw
 LC0zNzEyNjk3LDE4NzY5MDMxMzYsMTkxMTA0MjEzNCwxODMxNz
 M4ODc0LDEyNTYzNjc1ODldfQ==
