@@ -94,7 +94,10 @@ Python + Functional
   - Intro to Test Driven Infrastructure
 - **Results**:
   - I am an organizer of DevOps Days Los Angeles
-  - I
+  - I organize a Linux User Group in Los Angeles
+  - I co-founded a Software Engineering Meetup in Los Angeles
+  - I have given more confrence presentations.
+  - I have the goal of speaking internationally.
 
 ## Misktake
 
@@ -152,7 +155,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0MDQ3NjIsMTczOTk4Mzc2MCw3ODk2Mj
-kwODIsLTE3Mjk3MDc5OTAsLTM3MTI2OTcsMTg3NjkwMzEzNiwx
-OTExMDQyMTM0LDE4MzE3Mzg4NzQsMTI1NjM2NzU4OV19
+eyJoaXN0b3J5IjpbMjE0MzcyMDIzMywxNzM5OTgzNzYwLDc4OT
+YyOTA4MiwtMTcyOTcwNzk5MCwtMzcxMjY5NywxODc2OTAzMTM2
+LDE5MTEwNDIxMzQsMTgzMTczODg3NCwxMjU2MzY3NTg5XX0=
 -->
