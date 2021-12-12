@@ -106,7 +106,8 @@ Communication:
 
 Leadership, improving by:
 - leading engineering group
-- teach interal python class (
+- teach interal python class (volunteered, next quarter)
+- took a mentee
 
 ## strength/weakness
 
@@ -118,6 +119,7 @@ Leadership, improving by:
 
 - writing
 - public speaking
+- work/life balance/bounderies
 
 ## x
 - hiring manager: resume, what have i been working on lately, i have learned from, i liked  
@@ -127,7 +129,7 @@ Leadership, improving by:
 - grow / skills desired?  
 - (am i hungry?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDY4MzcxNiwtMzcxMjY5NywxODc2OT
-AzMTM2LDE5MTEwNDIxMzQsMTgzMTczODg3NCwxMjU2MzY3NTg5
-XX0=
+eyJoaXN0b3J5IjpbNzYwOTI5NDU4LC0zNzEyNjk3LDE4NzY5MD
+MxMzYsMTkxMTA0MjEzNCwxODMxNzM4ODc0LDEyNTYzNjc1ODld
+fQ==
 -->
