@@ -91,7 +91,8 @@ Python + Functional
   - Imposter syndrom prevented me from seeing these people as peers.
 - **Task**: LUG members asked me why I was not submitting a talk proposal to SCaLE.
 - **Action(s)**: I drafted and submitted talk to two conferences.
-  - Intro to Test Driven Infrastructure
+  - DNSSec for SCaLE
+  - Intro to Test Driven Infrastructure for DevOps Days L.A.
 - **Results**:
   - I am an organizer of DevOps Days Los Angeles
   - I organize a Linux User Group in Los Angeles
@@ -155,7 +156,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MzcyMDIzMywxNzM5OTgzNzYwLDc4OT
-YyOTA4MiwtMTcyOTcwNzk5MCwtMzcxMjY5NywxODc2OTAzMTM2
-LDE5MTEwNDIxMzQsMTgzMTczODg3NCwxMjU2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbLTE2ODE0MTIyNDEsMTczOTk4Mzc2MCw3OD
+k2MjkwODIsLTE3Mjk3MDc5OTAsLTM3MTI2OTcsMTg3NjkwMzEz
+NiwxOTExMDQyMTM0LDE4MzE3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
