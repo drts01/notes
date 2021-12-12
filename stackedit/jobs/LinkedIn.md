@@ -90,8 +90,11 @@ Python + Functional
   - I would idolize speakers a the SoCal Linux Expo
   - Imposter syndrom prevented me from seeing these people as peers.
 - **Task**: LUG members asked me why I was not submitting a talk proposal to SCaLE.
-- **Action(s)**: I worked on dr
+- **Action(s)**: I drafted and submitted talk to two conferences.
+  - Intro to Test Driven Infrastructure
 - **Results**:
+  - I am an organizer of DevOps Days Los Angeles
+  - I
 
 ## Misktake
 
@@ -149,7 +152,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NjE3ODkxMCwxNzM5OTgzNzYwLDc4OT
-YyOTA4MiwtMTcyOTcwNzk5MCwtMzcxMjY5NywxODc2OTAzMTM2
-LDE5MTEwNDIxMzQsMTgzMTczODg3NCwxMjU2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbMzA0MDQ3NjIsMTczOTk4Mzc2MCw3ODk2Mj
+kwODIsLTE3Mjk3MDc5OTAsLTM3MTI2OTcsMTg3NjkwMzEzNiwx
+OTExMDQyMTM0LDE4MzE3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
