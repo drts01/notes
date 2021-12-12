@@ -83,6 +83,7 @@ Python + Functional
 ## Proudest accomplishment
 
 - **Situation**:
+  - Never though I would do pubilc people.
   - Life challenges de-railed my career
   - I returned to tech as hobbiest and the tech team for mom and pop shops.
   - I started attending user groups and confrences as a spectator
@@ -94,6 +95,7 @@ Python + Functional
   - DNSSec for SCaLE
   - Intro to Test Driven Infrastructure for DevOps Days L.A.
 - **Results**:
+  - Both talks were accepted
   - I am an organizer of DevOps Days Los Angeles
   - I organize a Linux User Group in Los Angeles
   - I co-founded a Software Engineering Meetup in Los Angeles
@@ -156,7 +158,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE0MTIyNDEsMTczOTk4Mzc2MCw3OD
+eyJoaXN0b3J5IjpbLTIwNjEzMjM3MDEsMTczOTk4Mzc2MCw3OD
 k2MjkwODIsLTE3Mjk3MDc5OTAsLTM3MTI2OTcsMTg3NjkwMzEz
 NiwxOTExMDQyMTM0LDE4MzE3Mzg4NzQsMTI1NjM2NzU4OV19
 -->
