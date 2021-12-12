@@ -118,7 +118,11 @@ Leadership, improving by:
 Security
 - Joined intenal security advocte program
 - Active infosec community memeber
-  - BSi
+  - BSides
+    - LV (volunteer)
+    - ShellCon
+  - LayerOne
+  - Meetups
 
 ## strength/weakness
 
@@ -132,7 +136,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzg1MzcxODcsLTM3MTI2OTcsMTg3Nj
+eyJoaXN0b3J5IjpbLTE3Mjk3MDc5OTAsLTM3MTI2OTcsMTg3Nj
 kwMzEzNiwxOTExMDQyMTM0LDE4MzE3Mzg4NzQsMTI1NjM2NzU4
 OV19
 -->
