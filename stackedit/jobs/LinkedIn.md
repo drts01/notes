@@ -89,9 +89,9 @@ Python + Functional
 
 ## Misktake
 
-- **Situation**:  Manually con
-- **Task**: 
-- **Action(s)**:
+- **Situation**:  
+- **Task**: Manually configure virtual network interfaces
+- **Action(s)**: 
 - **Results**:
 
 ## grow / skills desired
@@ -136,7 +136,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwOTgxMzY5LC0xNzI5NzA3OTkwLC0zNz
-EyNjk3LDE4NzY5MDMxMzYsMTkxMTA0MjEzNCwxODMxNzM4ODc0
-LDEyNTYzNjc1ODldfQ==
+eyJoaXN0b3J5IjpbLTE1MjM0Mzg0OTIsLTE3Mjk3MDc5OTAsLT
+M3MTI2OTcsMTg3NjkwMzEzNiwxOTExMDQyMTM0LDE4MzE3Mzg4
+NzQsMTI1NjM2NzU4OV19
 -->
