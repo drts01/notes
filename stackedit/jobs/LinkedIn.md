@@ -89,7 +89,9 @@ Python + Functional
 
 ## Misktake
 
-- **Situation**:  
+- **Situation**:
+  - New hire (weeks)
+  - First big tech company/infra
 - **Task**: Manually configure virtual network interfaces
 - **Action(s)**: cp-ed config files from first server to other, then edit.
 - **Results**: Accidentally created a duplicate interface (MAC) that created a network loop causing that create
@@ -97,7 +99,7 @@ Python + Functional
   - Learned about spanning tree
   - Learned we disable spanning for performance
   - Prioritize vnic into CasC
-    - The culture
+    - The culture had real blameless postmortems
 
 ## grow / skills desired
 
@@ -141,7 +143,7 @@ Security
 - public speaking
 - work/life balance/bounderies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5MzkxNzcsLTE3Mjk3MDc5OTAsLTM3MT
-I2OTcsMTg3NjkwMzEzNiwxOTExMDQyMTM0LDE4MzE3Mzg4NzQs
-MTI1NjM2NzU4OV19
+eyJoaXN0b3J5IjpbMTc1NzU1NjE5MywtMTcyOTcwNzk5MCwtMz
+cxMjY5NywxODc2OTAzMTM2LDE5MTEwNDIxMzQsMTgzMTczODg3
+NCwxMjU2MzY3NTg5XX0=
 -->
