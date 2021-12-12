@@ -173,16 +173,18 @@ Security
   - Each service utilized the same secret across the infrastructure
   - CasC need to support distributing more grandular secrets per PoP per service.
   - The lead engineer on the project propsed a solution my instianct said was wrong, as they were moving private keys so each PoP can decrypt its own secrects.
-  - I proposed investigating integrating a 
+  - I proposed investigating integrating a PGP key server into the CasC system.
   - The lead engineer believed my solution involved to high of a level of effort and their solution was good enough as it was an improvement to the current situation.
 - **Task**: I need to illustrate:
   - the proposed solution was poor security
   - my solution was not a significat increase in effort
 - **Action(s)**: 
+  - located documentation on industry practices around GPG and private keys
+  - researched GNU PGP
 - **Results**:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM1NjE2MDYsMTk1NTI0MzM4NSwxNz
-M5OTgzNzYwLDc4OTYyOTA4MiwtMTcyOTcwNzk5MCwtMzcxMjY5
-NywxODc2OTAzMTM2LDE5MTEwNDIxMzQsMTgzMTczODg3NCwxMj
-U2MzY3NTg5XX0=
+eyJoaXN0b3J5IjpbLTU0MjM2OTgyOCwxOTU1MjQzMzg1LDE3Mz
+k5ODM3NjAsNzg5NjI5MDgyLC0xNzI5NzA3OTkwLC0zNzEyNjk3
+LDE4NzY5MDMxMzYsMTkxMTA0MjEzNCwxODMxNzM4ODc0LDEyNT
+YzNjc1ODldfQ==
 -->
