@@ -25,11 +25,13 @@
 * https://github.com/pyupio/safety
 * https://github.com/intel/cve-bin-tool
 * https://github.com/github/ossar-action
+* https://github.com/trailofbits/pip-audit
 
 ## Packaging
 * Twine
 * Pyroma
 * https://github.com/mgedmin/check-manifest
+* https://github.com/jwodder/check-wheel-contents
 
 ## Need To Evaluate
 * https://sourcery.ai/
@@ -106,11 +108,11 @@
 * Railway Oriented Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTMwNTM3OTMsODg1NDA3MTg4LC0xND
-k3Mzc4MzU1LDE3NjE2MjU5LC0xMzU3NTY3ODMyLC0xMzM5MDQ2
-MDY2LC0zOTMzNjMwMTMsLTI5ODUzNDU2NiwtODQ4NDgxNjg5LC
-0xMjIzNjQ2NjI0LC0xMDU5MDIzMTY1LC0xNTQ1OTYwNDk5LC03
-NTc5MzA2NSwyMDUwNDA4NDQ3LC01NzU0MDYsMTU3MDY5ODI3MS
-wxNzI3NzQ3MzM5LC0xNjE1MDUxNTMzLC0xODE3MDA1OTIwLDE5
-MTM2MzIyNjhdfQ==
+eyJoaXN0b3J5IjpbMTgyNTU3MDkyMSwtMjA1MzA1Mzc5Myw4OD
+U0MDcxODgsLTE0OTczNzgzNTUsMTc2MTYyNTksLTEzNTc1Njc4
+MzIsLTEzMzkwNDYwNjYsLTM5MzM2MzAxMywtMjk4NTM0NTY2LC
+04NDg0ODE2ODksLTEyMjM2NDY2MjQsLTEwNTkwMjMxNjUsLTE1
+NDU5NjA0OTksLTc1NzkzMDY1LDIwNTA0MDg0NDcsLTU3NTQwNi
+wxNTcwNjk4MjcxLDE3Mjc3NDczMzksLTE2MTUwNTE1MzMsLTE4
+MTcwMDU5MjBdfQ==
 -->
