@@ -14,6 +14,7 @@ Tell me about a project:
 	 - Stages/Loop
 	 - Key compents (i.e. SCM, build server)
 	 - Continous Integration, Delivery, vs Deployment
+	 - Awareness of ecosystem (common tools)
  - Scripting
 	 - HTTP and ReSTful APIs
 	 - Git
@@ -42,6 +43,7 @@ Tell me about a project:
 	 - Key compents, i.e. SCM, build server, etc
 	 - Continous Integration, Delivery, vs Deployment
 	 - Feedback
+ - What are common DevOps tools?
  - Why/When to automate?
 	 - repreated process
 	 - error prone process
@@ -83,6 +85,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjE5NTA2MzQsMTM3NTc3MDA4MCwtMj
-UxMjI5NDk2LDg0MzY0MzA2OSwtMTc2NzI0NjU3MF19
+eyJoaXN0b3J5IjpbMjAyODExOTgxLDEzNzU3NzAwODAsLTI1MT
+IyOTQ5Niw4NDM2NDMwNjksLTE3NjcyNDY1NzBdfQ==
 -->
