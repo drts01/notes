@@ -25,9 +25,9 @@ Linux and Cloud
 
 ## Soft
 
- - How do you 
+ - Any current personal projects?
+ - An
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDAxMjQ1MjQsLTE3NjcyNDY1NzBdfQ
-==
+eyJoaXN0b3J5IjpbOTcwNTM1ODAsLTE3NjcyNDY1NzBdfQ==
 -->
