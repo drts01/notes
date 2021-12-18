@@ -6,6 +6,7 @@ Tell me about a project:
  - How did you check/validate your code/service?
  - How did you document your work? (code comments, readme, wiki)
  - How did you deploy?
+ - 
 
 ## Attributes
 
@@ -16,7 +17,7 @@ Tell me about a project:
  - Scripting
 	 - HTTP and ReSTful APIs
 	 - Git
-	 - FizzBuzz
+	 - FizzBuzz Capable
  - Ops
 	 - Cloud
 	 - Containers
@@ -82,6 +83,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDkxNjIzMSwxMzc1NzcwMDgwLC0yNT
-EyMjk0OTYsODQzNjQzMDY5LC0xNzY3MjQ2NTcwXX0=
+eyJoaXN0b3J5IjpbLTE5NjE5NTA2MzQsMTM3NTc3MDA4MCwtMj
+UxMjI5NDk2LDg0MzY0MzA2OSwtMTc2NzI0NjU3MF19
 -->
