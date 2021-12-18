@@ -3,7 +3,8 @@
 
 Tell me about a project:
  - What was the problem?
- - How did you check/validate your code/service?
+ - How did you check/validate your code/service? (test and build automation)
+ - Did
  - How did you document your work? (code comments, readme, wiki)
  - How did you deploy?
  - 
@@ -27,14 +28,13 @@ Tell me about a project:
 	 - Will try before asking for help
 	 - Can figure out what to search/ask
 	 - Knows when to ask for help
- - Curious
+ - Curious / Teachable
 	 - Personal projects
 	 - Favorite or currently consuming/participating
 		 - podcast / youtube channel / etc
 		 - books
 		 - conferences
 		 - user groups
- - Teachable
 
 ## DevOps
 
@@ -85,6 +85,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODExOTgxLDEzNzU3NzAwODAsLTI1MT
-IyOTQ5Niw4NDM2NDMwNjksLTE3NjcyNDY1NzBdfQ==
+eyJoaXN0b3J5IjpbMjExNjMyODkwOCwxMzc1NzcwMDgwLC0yNT
+EyMjk0OTYsODQzNjQzMDY5LC0xNzY3MjQ2NTcwXX0=
 -->
