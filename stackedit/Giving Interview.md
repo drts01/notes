@@ -4,7 +4,7 @@
 Tell me about a project:
  - What was the problem?
  - How did you check/validate your code/service?
- - How did you document your work?
+ - How did you document your work? (code comments, readme, wiki)
  - How did you deploy?
 
 ## Attributes
@@ -82,6 +82,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTM3MzEsMTM3NTc3MDA4MCwtMjUxMj
-I5NDk2LDg0MzY0MzA2OSwtMTc2NzI0NjU3MF19
+eyJoaXN0b3J5IjpbLTg1MDkxNjIzMSwxMzc1NzcwMDgwLC0yNT
+EyMjk0OTYsODQzNjQzMDY5LC0xNzY3MjQ2NTcwXX0=
 -->
