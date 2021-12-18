@@ -1,6 +1,8 @@
 
 # Junior DevOps/Platform Eng
 
+ - How did you deploy
+
 ## Attributes
 
  - DevOps
@@ -45,7 +47,9 @@
 ## Development
 
 ### Git
- - How to to ensure 
+ - How to to ensure you have the most recent code locally? (fetch or pull)
+ - What is a branch or tag?
+ - How to know
 ### HTTP/ReSTful
 
 - What is a ReSTful API?
@@ -74,6 +78,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzM4NjIxLDEzNzU3NzAwODAsLTI1MT
-IyOTQ5Niw4NDM2NDMwNjksLTE3NjcyNDY1NzBdfQ==
+eyJoaXN0b3J5IjpbLTQ0MTI0MjY4OSwxMzc1NzcwMDgwLC0yNT
+EyMjk0OTYsODQzNjQzMDY5LC0xNzY3MjQ2NTcwXX0=
 -->
