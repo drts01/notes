@@ -29,7 +29,9 @@
 - What is HTTP?
 - (HTTP verbs) How would you get/send data to an endpoint?
 - (HTTP status codes) Familiar with common codes?
-- (Auth / Sec) 
+- (Auth / Sec) How to query endpoint safely?
+	- send token over TLS
+	- 
 
 ## Ops
 
@@ -42,6 +44,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk2NzIyMDUsODQzNjQzMDY5LC0xNz
-Y3MjQ2NTcwXX0=
+eyJoaXN0b3J5IjpbODEyNzA1MzcwLDg0MzY0MzA2OSwtMTc2Nz
+I0NjU3MF19
 -->
