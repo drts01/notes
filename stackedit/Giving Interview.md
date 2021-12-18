@@ -16,6 +16,9 @@
 	 - What are the stages?
 	 - Continous Delivery vs Deployment
 	 - Feedback
+ - When to automate?
+	 - i.e. repreated process, error prone process
+	 - 
 
 ## Development
 
@@ -30,5 +33,5 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODg4ODU1MCwtMTc2NzI0NjU3MF19
+eyJoaXN0b3J5IjpbNDg1NTkxOTY1LC0xNzY3MjQ2NTcwXX0=
 -->
