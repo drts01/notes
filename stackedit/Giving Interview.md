@@ -26,8 +26,8 @@ Linux and Cloud
 ## Soft
 
  - Any current personal projects?
- - An
+ - Fave technical podcasts or books?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwNTM1ODAsLTE3NjcyNDY1NzBdfQ==
+eyJoaXN0b3J5IjpbNjA5MTg1NTY1LC0xNzY3MjQ2NTcwXX0=
 -->
