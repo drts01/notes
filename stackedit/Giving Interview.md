@@ -4,6 +4,8 @@
 ## Attributes
 
  - Scripting
+ - Ops
+	 - Containers
  - Self Sufficient
 	 - Can figure out where to looking for info (what question to ask)
 	 - Knows when to ask for help
@@ -38,7 +40,10 @@
 
 Linux and Cloud
 
- - Have you manged a fleet or cluster
+ - Have you manged a fleet or cluster of servers?
+	 - SSH + scripts
+	 - Config Managment
+	 - 
 
 ## Soft
 
@@ -47,6 +52,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTc3MDg0OCw4NDM2NDMwNjksLTE3Nj
+eyJoaXN0b3J5IjpbLTg2MDY1Mjg0OCw4NDM2NDMwNjksLTE3Nj
 cyNDY1NzBdfQ==
 -->
