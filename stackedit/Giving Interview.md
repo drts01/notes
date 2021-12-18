@@ -4,7 +4,8 @@
 ## Attributes
 
  - DevOps
-	 - Stages
+	 - Stages/Loop
+	 - Continous Integration, Delivery, vs Deployment
  - Scripting
 	 - HTTP and ReSTful APIs
 	 - Debugging a service
@@ -30,7 +31,7 @@
 
  - Why DevOps?
 	 - What are the stages?
-	 - Continous Delivery vs Deployment
+	 - Continous Integration, Delivery, vs Deployment
 	 - Feedback
  - Why/When to automate?
 	 - repreated process
@@ -67,6 +68,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTIyOTQ5Niw4NDM2NDMwNjksLTE3Nj
-cyNDY1NzBdfQ==
+eyJoaXN0b3J5IjpbMjEzODQ4ODIwNCwtMjUxMjI5NDk2LDg0Mz
+Y0MzA2OSwtMTc2NzI0NjU3MF19
 -->
