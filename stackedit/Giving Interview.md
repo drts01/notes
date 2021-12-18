@@ -3,13 +3,15 @@
 
 ## Attributes
 
+ - DevOps
+	 - Stages
  - Scripting
 	 - HTTP and ReSTful APIs
+	 - Debugging a service
  - Ops
 	 - Cloud
 	 - Containers
-	 - Linux
-		 - CLI and Config Managment
+	 - Linux (CLI and Config Managment)
  - Self Sufficient
 	 - Will try before asking for help
 	 - Can figure out what to search/ask
@@ -64,6 +66,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODE4OTU5NzQsODQzNjQzMDY5LC0xNz
-Y3MjQ2NTcwXX0=
+eyJoaXN0b3J5IjpbMjgxMTcwMDY3LDg0MzY0MzA2OSwtMTc2Nz
+I0NjU3MF19
 -->
