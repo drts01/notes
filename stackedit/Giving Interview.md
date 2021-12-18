@@ -13,11 +13,11 @@
 	 - Knows when to ask for help
  - Curious
 	 - Personal projects
-	 - Favorite
-		 - podcast
+	 - Favorite or currently consuming/participating
+		 - podcast / youtube channel / etc
 		 - books
 		 - conferences
-		 - user
+		 - user groups
  - Teachable
 
 ## DevOps
@@ -60,6 +60,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU1MTQzNjQsODQzNjQzMDY5LC0xNz
-Y3MjQ2NTcwXX0=
+eyJoaXN0b3J5IjpbOTcyMjAzMTc4LDg0MzY0MzA2OSwtMTc2Nz
+I0NjU3MF19
 -->
