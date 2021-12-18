@@ -4,7 +4,8 @@
 ## Attributes
 
  - Scripting
- - Selfsufficent
+ - Self Sufficient
+	 - Can figure out where to gather info and wh 
  - Curious
  - Teachable
 
@@ -22,5 +23,5 @@
 Linux and Cloud
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTEyNzM3MywtMTc2NzI0NjU3MF19
+eyJoaXN0b3J5IjpbMTUyNTA2MzY0NiwtMTc2NzI0NjU3MF19
 -->
