@@ -5,10 +5,11 @@
 
  - DevOps
 	 - Stages/Loop
+	 - Key compents (i.e. SCM, build server)
 	 - Continous Integration, Delivery, vs Deployment
  - Scripting
 	 - HTTP and ReSTful APIs
-	 - Debugging a service
+	 - Git
 	 - FizzBuzz
  - Ops
 	 - Cloud
@@ -31,7 +32,7 @@
 
  - Why DevOps?
 	 - What are the stages/loop?
-	 - Key compents, i.e. SCM, b
+	 - Key compents, i.e. SCM, build server, etc
 	 - Continous Integration, Delivery, vs Deployment
 	 - Feedback
  - Why/When to automate?
@@ -69,6 +70,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODIwMTIwMjUsLTI1MTIyOTQ5Niw4ND
-M2NDMwNjksLTE3NjcyNDY1NzBdfQ==
+eyJoaXN0b3J5IjpbMTM3NTc3MDA4MCwtMjUxMjI5NDk2LDg0Mz
+Y0MzA2OSwtMTc2NzI0NjU3MF19
 -->
