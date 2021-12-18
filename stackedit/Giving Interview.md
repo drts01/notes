@@ -1,7 +1,12 @@
 
 # Junior DevOps/Platform Eng
 
-## 
+## Attributes
+
+ - Scripting
+ - Selfsufficent
+ - Curious
+ - Teachable
 
 ## DevOps
 
@@ -17,5 +22,5 @@
 Linux and Cloud
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzMwMDUwNywtMTc2NzI0NjU3MF19
+eyJoaXN0b3J5IjpbMTY4OTEyNzM3MywtMTc2NzI0NjU3MF19
 -->
