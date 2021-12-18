@@ -13,7 +13,7 @@ Tell me about a project:
 ## Attributes
 
  - DevOps
-	 - Pipeline stages
+	 - Pipeline stages (Infinite Loop)
 	 - Key compents (i.e. SCM, build server)
 	 - Continous Integration, Delivery, vs Deployment
 	 - Awareness of ecosystem (common tools)
@@ -91,7 +91,7 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE0NzA4MTEsMzYzMDIxMTIyLDEzNz
-U3NzAwODAsLTI1MTIyOTQ5Niw4NDM2NDMwNjksLTE3NjcyNDY1
-NzBdfQ==
+eyJoaXN0b3J5IjpbLTQyODY3NzYyOCwzNjMwMjExMjIsMTM3NT
+c3MDA4MCwtMjUxMjI5NDk2LDg0MzY0MzA2OSwtMTc2NzI0NjU3
+MF19
 -->
