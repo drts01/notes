@@ -27,7 +27,8 @@
 
 - What is a ReSTful API?
 - What is HTTP?
-- (HTTP verbs) How would you get/send data to an endpoint?
+- (HTTP verbs) How would you query an endpoint?
+- (HTTP verbs) How would you upload data?
 - (HTTP status codes) Familiar with common codes?
 - (Auth / Sec) How to query endpoint safely?
 	- always over TLS
@@ -37,6 +38,8 @@
 
 Linux and Cloud
 
+ - Have you manged a fleet or cluster
+
 ## Soft
 
  - Any current personal projects?
@@ -44,6 +47,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTU1NzE0Niw4NDM2NDMwNjksLTE3Nj
+eyJoaXN0b3J5IjpbMTUwMTc3MDg0OCw4NDM2NDMwNjksLTE3Nj
 cyNDY1NzBdfQ==
 -->
