@@ -27,7 +27,8 @@ Linux and Cloud
 
  - Any current personal projects?
  - Fave technical podcasts or books?
+ - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5MTg1NTY1LC0xNzY3MjQ2NTcwXX0=
+eyJoaXN0b3J5IjpbLTg0ODg4ODU1MCwtMTc2NzI0NjU3MF19
 -->
