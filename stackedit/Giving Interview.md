@@ -25,8 +25,11 @@
 
 ## Development
 
+- What is a ReSTful API?
 - What is HTTP?
-	- How would you get/send data to an end
+- (HTTP verbs) How would you get/send data to an endpoint?
+- (HTTP status codes) Familiar with common codes?
+- (Auth / Sec) 
 
 ## Ops
 
@@ -39,6 +42,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTIyMzAyNTIsODQzNjQzMDY5LC0xNz
+eyJoaXN0b3J5IjpbLTEzNTk2NzIyMDUsODQzNjQzMDY5LC0xNz
 Y3MjQ2NTcwXX0=
 -->
