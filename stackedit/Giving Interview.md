@@ -44,6 +44,10 @@
 
 ## Development
 
+### Git
+ - How to to ensure 
+### HTTP/ReSTful
+
 - What is a ReSTful API?
 - What is HTTP?
 - (HTTP verbs) How would you query an endpoint?
@@ -70,6 +74,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTc3MDA4MCwtMjUxMjI5NDk2LDg0Mz
-Y0MzA2OSwtMTc2NzI0NjU3MF19
+eyJoaXN0b3J5IjpbLTIzNzM4NjIxLDEzNzU3NzAwODAsLTI1MT
+IyOTQ5Niw4NDM2NDMwNjksLTE3NjcyNDY1NzBdfQ==
 -->
