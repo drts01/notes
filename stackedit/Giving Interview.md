@@ -4,12 +4,20 @@
 ## Attributes
 
  - Scripting
+	 - R
  - Ops
+	 - Linux (CLI and Config Managment)
 	 - Containers
  - Self Sufficient
 	 - Can figure out where to looking for info (what question to ask)
 	 - Knows when to ask for help
  - Curious
+	 - Personal projects
+	 - Favorite
+		 - podcast
+		 - books
+		 - conferences
+		 - user
  - Teachable
 
 ## DevOps
@@ -52,6 +60,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDY1Mjg0OCw4NDM2NDMwNjksLTE3Nj
-cyNDY1NzBdfQ==
+eyJoaXN0b3J5IjpbLTE1NjU1MTQzNjQsODQzNjQzMDY5LC0xNz
+Y3MjQ2NTcwXX0=
 -->
