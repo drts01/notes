@@ -25,6 +25,9 @@
 
 ## Development
 
+- What is HTTP?
+	- How would you get/send data to an end
+
 ## Ops
 
 Linux and Cloud
@@ -36,5 +39,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzNjQzMDY5LC0xNzY3MjQ2NTcwXX0=
+eyJoaXN0b3J5IjpbLTEwNTIyMzAyNTIsODQzNjQzMDY5LC0xNz
+Y3MjQ2NTcwXX0=
 -->
