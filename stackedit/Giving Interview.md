@@ -4,7 +4,7 @@
 ## Attributes
 
  - Scripting
-	 - R
+	 - HTTP and ReSTful APIs
  - Ops
 	 - Linux (CLI and Config Managment)
 	 - Containers
@@ -52,7 +52,7 @@ Linux and Cloud
  - Have you manged a fleet or cluster of servers?
 	 - SSH + scripts
 	 - Config Managment
- - 
+ - What are linux container?
  - Walk through an example of toubleshooting a service
 
 ## Soft
@@ -62,6 +62,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5NzI1MTczLDg0MzY0MzA2OSwtMTc2Nz
-I0NjU3MF19
+eyJoaXN0b3J5IjpbLTU0MDIyNTcyMCw4NDM2NDMwNjksLTE3Nj
+cyNDY1NzBdfQ==
 -->
