@@ -6,8 +6,10 @@
  - Scripting
 	 - HTTP and ReSTful APIs
  - Ops
-	 - Linux (CLI and Config Managment)
+	 - Cloud
 	 - Containers
+	 - Linux
+		 - CLI and Config Managment
  - Self Sufficient
 	 - Will try before asking for help
 	 - Can figure out what to search/ask
@@ -62,6 +64,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDIyNTcyMCw4NDM2NDMwNjksLTE3Nj
-cyNDY1NzBdfQ==
+eyJoaXN0b3J5IjpbLTE4ODE4OTU5NzQsODQzNjQzMDY5LC0xNz
+Y3MjQ2NTcwXX0=
 -->
