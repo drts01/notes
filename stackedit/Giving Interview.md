@@ -13,11 +13,11 @@ Tell me about a project:
 ## Attributes
 
  - DevOps
-	 - Stages/Loop
+	 - Pipeline stages
 	 - Key compents (i.e. SCM, build server)
 	 - Continous Integration, Delivery, vs Deployment
 	 - Awareness of ecosystem (common tools)
-	 - Practices
+	 - CAMS
 		 - Testing
 		 - Documentation
  - Scripting
@@ -47,6 +47,7 @@ Tell me about a project:
 	 - Key compents, i.e. SCM, build server, etc
 	 - Continous Integration, Delivery, vs Deployment
 	 - Feedback
+	 - Culture, Automation, Measurement, and Sharing (CAMS)
  - What are common DevOps tools?
  - Why/When to automate?
 	 - repreated process
@@ -90,6 +91,7 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzMDIxMTIyLDEzNzU3NzAwODAsLTI1MT
-IyOTQ5Niw4NDM2NDMwNjksLTE3NjcyNDY1NzBdfQ==
+eyJoaXN0b3J5IjpbLTEzMTE0NzA4MTEsMzYzMDIxMTIyLDEzNz
+U3NzAwODAsLTI1MTIyOTQ5Niw4NDM2NDMwNjksLTE3NjcyNDY1
+NzBdfQ==
 -->
