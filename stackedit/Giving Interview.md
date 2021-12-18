@@ -9,7 +9,8 @@
 	 - Linux (CLI and Config Managment)
 	 - Containers
  - Self Sufficient
-	 - Can figure out where to looking for info (what question to ask)
+	 - Will try before asking for help
+	 - Can figure out what to search/ask
 	 - Knows when to ask for help
  - Curious
 	 - Personal projects
@@ -51,7 +52,8 @@ Linux and Cloud
  - Have you manged a fleet or cluster of servers?
 	 - SSH + scripts
 	 - Config Managment
-	 - 
+ - 
+ - Walk through an example of toubleshooting a service
 
 ## Soft
 
@@ -60,6 +62,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyMjAzMTc4LDg0MzY0MzA2OSwtMTc2Nz
+eyJoaXN0b3J5IjpbNjQ5NzI1MTczLDg0MzY0MzA2OSwtMTc2Nz
 I0NjU3MF19
 -->
