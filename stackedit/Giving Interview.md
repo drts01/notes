@@ -30,7 +30,8 @@
 ## DevOps
 
  - Why DevOps?
-	 - What are the stages?
+	 - What are the stages/loop?
+	 - Key compents, i.e. SCM, b
 	 - Continous Integration, Delivery, vs Deployment
 	 - Feedback
  - Why/When to automate?
@@ -68,6 +69,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODQ4ODIwNCwtMjUxMjI5NDk2LDg0Mz
-Y0MzA2OSwtMTc2NzI0NjU3MF19
+eyJoaXN0b3J5IjpbLTExODIwMTIwMjUsLTI1MTIyOTQ5Niw4ND
+M2NDMwNjksLTE3NjcyNDY1NzBdfQ==
 -->
