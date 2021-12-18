@@ -30,8 +30,8 @@
 - (HTTP verbs) How would you get/send data to an endpoint?
 - (HTTP status codes) Familiar with common codes?
 - (Auth / Sec) How to query endpoint safely?
-	- send token over TLS
-	- 
+	- always over TLS
+	- Auth headers
 
 ## Ops
 
@@ -44,6 +44,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyNzA1MzcwLDg0MzY0MzA2OSwtMTc2Nz
-I0NjU3MF19
+eyJoaXN0b3J5IjpbMjA0NTU1NzE0Niw4NDM2NDMwNjksLTE3Nj
+cyNDY1NzBdfQ==
 -->
