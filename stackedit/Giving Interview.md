@@ -8,6 +8,7 @@
  - Scripting
 	 - HTTP and ReSTful APIs
 	 - Debugging a service
+	 - FizzBuzz
  - Ops
 	 - Cloud
 	 - Containers
@@ -66,6 +67,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxMTcwMDY3LDg0MzY0MzA2OSwtMTc2Nz
-I0NjU3MF19
+eyJoaXN0b3J5IjpbLTI1MTIyOTQ5Niw4NDM2NDMwNjksLTE3Nj
+cyNDY1NzBdfQ==
 -->
