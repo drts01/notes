@@ -19,8 +19,9 @@
  - Why/When to automate?
 	 - repreated process
 	 - error prone process
-	 - engineer enga
-	 - 
+	 - engineer engament time
+	 - "low moral" work (things people dont want to do)
+	 - not: one-off (maybe), focusing on phasing out the process
 
 ## Development
 
@@ -35,5 +36,5 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTkwNTY2MiwtMTc2NzI0NjU3MF19
+eyJoaXN0b3J5IjpbODQzNjQzMDY5LC0xNzY3MjQ2NTcwXX0=
 -->
