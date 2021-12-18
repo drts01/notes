@@ -21,7 +21,7 @@ Tell me about a project:
 		 - Testing
 		 - Documentation
  - Scripting
-	 - HTTP and ReSTful APIs
+	 - HTTP, CRUD/REST APIs, JSON
 	 - Git
 	 - FizzBuzz Capable
  - Ops
@@ -91,7 +91,7 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODY3NzYyOCwzNjMwMjExMjIsMTM3NT
-c3MDA4MCwtMjUxMjI5NDk2LDg0MzY0MzA2OSwtMTc2NzI0NjU3
-MF19
+eyJoaXN0b3J5IjpbMTEzOTI5ODU0OSwtNDI4Njc3NjI4LDM2Mz
+AyMTEyMiwxMzc1NzcwMDgwLC0yNTEyMjk0OTYsODQzNjQzMDY5
+LC0xNzY3MjQ2NTcwXX0=
 -->
