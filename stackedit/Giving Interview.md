@@ -3,8 +3,9 @@
 
 Tell me about a project:
  - What was the problem?
- - How did you check/validate your code/service? (test and build automation)
- - Did
+ - How did you check/validate your code/service? (test, build automation, debug)
+ - How did you get inpu/feedbackt from the team? (code review)
+ - Did you get stuck at any point? How did you get unstuck? (looking up info before asking for help)
  - How did you document your work? (code comments, readme, wiki)
  - How did you deploy?
  - 
@@ -16,6 +17,9 @@ Tell me about a project:
 	 - Key compents (i.e. SCM, build server)
 	 - Continous Integration, Delivery, vs Deployment
 	 - Awareness of ecosystem (common tools)
+	 - Practices
+		 - Testing
+		 - Documentation
  - Scripting
 	 - HTTP and ReSTful APIs
 	 - Git
@@ -50,6 +54,7 @@ Tell me about a project:
 	 - engineer engament time
 	 - "low moral" work (things people dont want to do)
 	 - not: one-off (maybe), focusing on phasing out the process
+ - Types of tests?
 
 ## Development
 
@@ -85,6 +90,6 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjMyODkwOCwxMzc1NzcwMDgwLC0yNT
-EyMjk0OTYsODQzNjQzMDY5LC0xNzY3MjQ2NTcwXX0=
+eyJoaXN0b3J5IjpbMzYzMDIxMTIyLDEzNzU3NzAwODAsLTI1MT
+IyOTQ5Niw4NDM2NDMwNjksLTE3NjcyNDY1NzBdfQ==
 -->
