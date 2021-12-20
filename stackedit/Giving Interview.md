@@ -8,14 +8,14 @@ Tell me about a project:
  - Did you get stuck at any point? How did you get unstuck? (looking up info before asking for help)
  - How did you document your work? (code comments, readme, wiki)
  - How did you deploy?
- - 
+ - What would you do different or what could be improved?
 
 ## Attributes
 
  - DevOps
 	 - Pipeline stages (Infinite Loop)
-	 - Key compents (i.e. SCM, build server)
-	 - Continous Integration, Delivery, vs Deployment
+	 - Key components (i.e. SCM, build server)
+	 - Continuous Integration, Delivery, vs Deployment
 	 - Awareness of ecosystem (common tools)
 	 - CAMS
 		 - Testing
@@ -44,8 +44,8 @@ Tell me about a project:
 
  - Why DevOps?
 	 - What are the stages/loop?
-	 - Key compents, i.e. SCM, build server, etc
-	 - Continous Integration, Delivery, vs Deployment
+	 - Key components, i.e. SCM, build server, etc
+	 - Continuous Integration, Delivery, vs Deployment
 	 - Feedback
 	 - Culture, Automation, Measurement, and Sharing (CAMS)
  - What are common DevOps tools?
@@ -81,8 +81,8 @@ Linux and Cloud
  - Have you manged a fleet or cluster of servers?
 	 - SSH + scripts
 	 - Config Managment
- - What are linux container?
- - Walk through an example of toubleshooting a service
+ - What are Linux container?
+ - Walk through an example of troubleshooting a service
 
 ## Soft
 
@@ -91,7 +91,7 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTI5ODU0OSwtNDI4Njc3NjI4LDM2Mz
-AyMTEyMiwxMzc1NzcwMDgwLC0yNTEyMjk0OTYsODQzNjQzMDY5
-LC0xNzY3MjQ2NTcwXX0=
+eyJoaXN0b3J5IjpbLTQ4ODExMDI2NywxMTM5Mjk4NTQ5LC00Mj
+g2Nzc2MjgsMzYzMDIxMTIyLDEzNzU3NzAwODAsLTI1MTIyOTQ5
+Niw4NDM2NDMwNjksLTE3NjcyNDY1NzBdfQ==
 -->
