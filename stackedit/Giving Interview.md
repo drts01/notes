@@ -4,11 +4,11 @@
 Tell me about a project:
  - What was the problem?
  - How did you check/validate your code/service? (test, build automation, debug)
- - How did you get inpu/feedbackt from the team? (code review)
+ - How did you get input/feedback from the team? (code review)
  - Did you get stuck at any point? How did you get unstuck? (looking up info before asking for help)
  - How did you document your work? (code comments, readme, wiki)
  - How did you deploy?
- - What would you do different or what could be improved?
+ - What would you do differently or what could be improved?
 
 ## Attributes
 
@@ -91,7 +91,7 @@ Linux and Cloud
  - Attend user groups and/or conferences? DevOpsDays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODExMDI2NywxMTM5Mjk4NTQ5LC00Mj
-g2Nzc2MjgsMzYzMDIxMTIyLDEzNzU3NzAwODAsLTI1MTIyOTQ5
-Niw4NDM2NDMwNjksLTE3NjcyNDY1NzBdfQ==
+eyJoaXN0b3J5IjpbLTgyNzc4NzU2NiwtNDg4MTEwMjY3LDExMz
+kyOTg1NDksLTQyODY3NzYyOCwzNjMwMjExMjIsMTM3NTc3MDA4
+MCwtMjUxMjI5NDk2LDg0MzY0MzA2OSwtMTc2NzI0NjU3MF19
 -->
