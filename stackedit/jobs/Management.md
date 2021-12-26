@@ -22,7 +22,9 @@
 	 - Work w/ product teams as a partner
 		 - provide tooling/feedback on mitigating vulns, i.e. dep updates
 		 - standarized build tool chains
-			 - easier to 
+			 - simpler to intergrate and audit
+			 - less work for teams as they do not design their build process
+			 - one less hurdle when engineers move between teams
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDc2MTA0MiwxOTEwNDcxMzJdfQ==
+eyJoaXN0b3J5IjpbMTY1MDA5MzgxMiwxOTEwNDcxMzJdfQ==
 -->
