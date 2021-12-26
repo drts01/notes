@@ -13,8 +13,8 @@
  - Which tasks do you dislike the most?
  - How can a manager help you?
  - What do you want from a manager?
-
+ - Any particular reasons you are not appling for the role?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDQ3MTMyXX0=
+eyJoaXN0b3J5IjpbLTI5MjU0MjM5MSwxOTEwNDcxMzJdfQ==
 -->
