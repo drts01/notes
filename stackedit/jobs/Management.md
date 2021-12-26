@@ -15,6 +15,10 @@
  - What do you want from a manager?
  - Any particular reasons you are not appling for the role?
 
+### My perspectives
+
+ - Provide InfoSec as product/service
+ - ShiftLeft - Attack DevSecOps at the CI Pipeline
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MjU0MjM5MSwxOTEwNDcxMzJdfQ==
+eyJoaXN0b3J5IjpbMTM0MjEwODQxMiwxOTEwNDcxMzJdfQ==
 -->
