@@ -19,6 +19,10 @@
 
  - Provide InfoSec as product/service
  - ShiftLeft - Attack DevSecOps at the CI Pipeline
+	 - Work w/ product teams as a partner
+		 - provide tooling/feedback on mitigating vulns, i.e. dep updates
+		 - standarized build tool chains
+			 - easier to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjEwODQxMiwxOTEwNDcxMzJdfQ==
+eyJoaXN0b3J5IjpbMTgxMDc2MTA0MiwxOTEwNDcxMzJdfQ==
 -->
