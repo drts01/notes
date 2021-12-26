@@ -13,7 +13,10 @@ see show notes
 - [GitOps Summit 2021](https://www.youtube.com/watch?v=alqdkYRVRv8&list=PL2KXbZ9-EY9TRND2YHxordGt8pOw5r45R)
 - [udacity: Cloud Native Application Architecture](https://www.udacity.com/course/cloud-native-application-architecture-nanodegree--nd064)
 
+## Leadership
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA3MzUyNTAsLTEyMDc5OTA5ODMsNT
-Q4MjIxNjI4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTk2NTIyODgxNSwtMTY2MDczNTI1MCwtMT
+IwNzk5MDk4Myw1NDgyMjE2MjgsNzMwOTk4MTE2XX0=
 -->
