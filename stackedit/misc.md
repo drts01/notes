@@ -15,8 +15,9 @@ see show notes
 
 ## Leadership
 
+- https://www.paradoxicalcommandments.com/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTIyODgxNSwtMTY2MDczNTI1MCwtMT
-IwNzk5MDk4Myw1NDgyMjE2MjgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNDc1MzU2MjYwLC0xNjYwNzM1MjUwLC0xMj
+A3OTkwOTgzLDU0ODIyMTYyOCw3MzA5OTgxMTZdfQ==
 -->
