@@ -6,7 +6,7 @@
 ### Team / Subboradenats
 
  - What is the typical type of work/day look like?
- - How is work being prioritized?
+ - How is work being prioritized? (how is risk being assessed?
  - What is your biggest goal/desire for the team to achieve?
  - What gets in your way of that goal?
  - What tasks consume all of your time?
@@ -26,5 +26,6 @@
 			 - less work for teams as they do not design their build process
 			 - one less hurdle when engineers move between teams
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDA5MzgxMiwxOTEwNDcxMzJdfQ==
+eyJoaXN0b3J5IjpbMTk0NDc3Nzc0OCwxNjUwMDkzODEyLDE5MT
+A0NzEzMl19
 -->
