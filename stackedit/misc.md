@@ -16,10 +16,10 @@ see show notes
 ## Leadership
 
  - https://www.paradoxicalcommandments.com/
- - https://pmicie.org/files/22/PM-Toolkit/85/racirweb31.pdf
+ - [_Responsibility Charting_ document by _Michael L Smith_ and _James Erwin_](https://pmicie.org/files/22/PM-Toolkit/85/racirweb31.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTgwOTQ5LDQ3NTM1NjI2MCwtMTY2MD
-czNTI1MCwtMTIwNzk5MDk4Myw1NDgyMjE2MjgsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbLTEwNjcyMjkzMTgsNDc1MzU2MjYwLC0xNj
+YwNzM1MjUwLC0xMjA3OTkwOTgzLDU0ODIyMTYyOCw3MzA5OTgx
+MTZdfQ==
 -->
