@@ -15,9 +15,11 @@ see show notes
 
 ## Leadership
 
-- https://www.paradoxicalcommandments.com/
+ - https://www.paradoxicalcommandments.com/
+ - https://pmicie.org/files/22/PM-Toolkit/85/racirweb31.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1MzU2MjYwLC0xNjYwNzM1MjUwLC0xMj
-A3OTkwOTgzLDU0ODIyMTYyOCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTc1NTgwOTQ5LDQ3NTM1NjI2MCwtMTY2MD
+czNTI1MCwtMTIwNzk5MDk4Myw1NDgyMjE2MjgsNzMwOTk4MTE2
+XX0=
 -->
