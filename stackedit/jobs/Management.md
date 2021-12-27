@@ -13,7 +13,8 @@
  - Which tasks do you dislike the most?
  - How can a manager help you?
  - What do you want from a manager?
- - Any particular reasons you are not appling for the role?
+ - Any particular reasons you are not going for this role?
+ - What are 
 
 ### My perspectives
 
@@ -26,6 +27,6 @@
 			 - less work for teams as they do not design their build process
 			 - one less hurdle when engineers move between teams
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDc3Nzc0OCwxNjUwMDkzODEyLDE5MT
-A0NzEzMl19
+eyJoaXN0b3J5IjpbLTY3Njc3NDc3MSwxOTQ0Nzc3NzQ4LDE2NT
+AwOTM4MTIsMTkxMDQ3MTMyXX0=
 -->
