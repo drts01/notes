@@ -1,6 +1,6 @@
  - How does the team validate the product/feature?
- - How does the team balance and prev interupt work?
+ - How does the team balance and prevent interupt work?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyMTAwMjUxXX0=
+eyJoaXN0b3J5IjpbLTE2MTkzOTgzNThdfQ==
 -->
