@@ -3,7 +3,6 @@
 mkdir ${HOME}isobuild && cd ${HOME}isobuild
 dnf install --assume-yes rpm-ostree lorax git-core
 
-```
 lorax  --product=Fedora \
 		--version=33 \
 		--release=20180410 \
@@ -25,7 +24,6 @@ lorax  --product=Fedora \
 		--rootfs-size=8 \
 		$(pwd)/ostree_installer
 ```
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzA0MzkyN119
+eyJoaXN0b3J5IjpbMTEzNTMxOTI2MV19
 -->
