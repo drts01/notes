@@ -57,8 +57,9 @@ lorax
   --nomacboot \
   --logfile=$(pwd)/lorax.log \
   --tmp=$(pwd)/tmp \
-		--add-template=$(pwd)/fedora-lorax-templates/ostree-based-installer/lorax-configure-repo.tmpl \
-		--add-template=$(pwd)/fedora-lorax-templates/ostree-based-installer/lorax-embed-repo.tmpl \
+  --add-template=$(pwd)/fedora-lorax-templates/ostree-based-installer/lorax-configure-repo.tmpl \
+  --add-template=$(pwd)/fedora-lorax-templates/ostree-based-installer/lorax-embed-repo.tmpl \
+  --add-template=$(pwd)/fedora-lorax-templates/ostree-based-installer/lorax-embed-flatpaks.tmpl \
 		--add-template-var=ostree_install_repo=file://$(pwd)/repo \
 		--add-template-var=ostree_update_repo=file://$(pwd)/repo \
 		--add-template-var=ostree_osname=fedora \
@@ -72,6 +73,6 @@ lorax
 		$(pwd)/ostree_installer
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDQ5ODI0MCwtOTA2MjM0OTg0LC04OD
+eyJoaXN0b3J5IjpbLTM3MjMwMTI0OSwtOTA2MjM0OTg0LC04OD
 I0MDQyMDUsMTc3NTMxMDc1OSwxMTM1MzE5MjYxXX0=
 -->
