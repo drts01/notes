@@ -48,7 +48,8 @@ dnf install --assume-yes rpm-ostree lorax git-core
 
 lorax  --product=Fedora \
   --source=https://kojipkgs.fedoraproject.org/compose/33/latest-Fedora-33/compose/Everything/x86_64/os/ \
-  --version=rawhide \
+  --version rawhide \
+  --release "$(printf '%(%Y-%m-%d)T')"
   --variant=Silverblue \
 		--nomacboot \
 		--volid=Fedora-SB-ostree-x86_64-33 \
@@ -67,5 +68,6 @@ lorax  --product=Fedora \
 		$(pwd)/ostree_installer
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTMxMDc1OSwxMTM1MzE5MjYxXX0=
+eyJoaXN0b3J5IjpbNTU0NzU4NzM0LDE3NzUzMTA3NTksMTEzNT
+MxOTI2MV19
 -->
