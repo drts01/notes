@@ -67,14 +67,14 @@ lorax
   --add-template-var=ostree_contenturl=mirrorlist=https://ostree.fedoraproject.org/mirrorlist \
   --add-template-var=ostree_install_ref=fedora/rawhide/x86_64/silverblue \
   --add-template-var=ostree_update_ref=fedora/rawhide/x86_64/silverblue \
-  --add-template-var=
-  --add-template-var=
-  --add-template-var=
+  --add-template-var=flatpak_remote_name=fedora
+  --add-template-var=flatpak_remote_url=oci+https://registry-no-cdn.fedoraproject.org
+  --add-template-var=flatpak_remote_refs=runtime/org.fedoraproject.Platform/x86_64/f35 app/org.gnome.baobab/x86_64/stable app/org.gnome.Calculator/x86_64/stable app/org.gnome.Calendar/x86_64/stable app/org.gnome.Characters/x86_64/stable app/org.gnome.clocks/x86_64/stable app/org.gnome.Connections/x86_64/stable app/org.gnome.Contacts/x86_64/stable app/org.gnome.eog/x86_64/stable app/org.gnome.Evince/x86_64/stable app/org.gnome.Extensions/x86_64/stable app/org.gnome.font-viewer/x86_64/stable app/org.gnome.gedit/x86_64/stable app/org.gnome.Logs/x86_64/stable app/org.gnome.Maps/x86_64/stable app/org.fedoraproject.MediaWriter/x86_64/stable app/org.gnome.NautilusPreviewer/x86_64/stable app/org.gnome.Screenshot/x86_64/stable app/org.gnome.Weather/x86_64/stable
   --rootfs-size=8 \
   --skip-branding \
   $(pwd)/ostree_installer
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODE4MzYyMCwtOTA2MjM0OTg0LC04OD
+eyJoaXN0b3J5IjpbMTk5MjE2MTg2MywtOTA2MjM0OTg0LC04OD
 I0MDQyMDUsMTc3NTMxMDc1OSwxMTM1MzE5MjYxXX0=
 -->
