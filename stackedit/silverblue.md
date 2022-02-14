@@ -1,7 +1,8 @@
 
 ## Silverblue Experiment
 
-- Lorax [docs](https://weldr.io/lorax/) [source](
+- Lorax [[docs](https://weldr.io/lorax/)][[source](https://github.com/weldr/lorax)]\
+  Lorax is used to build the Anaconda Installer boot.iso,
 
 ```sh
 mkdir ${HOME}isobuild && cd ${HOME}isobuild
@@ -34,7 +35,7 @@ lorax \
   ./results/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Mjk1NzI3NCwtMTEwMzA0Mzc1NSwxMj
-A0NTE1MDMwLC05MDYyMzQ5ODQsLTg4MjQwNDIwNSwxNzc1MzEw
-NzU5LDExMzUzMTkyNjFdfQ==
+eyJoaXN0b3J5IjpbLTE3MzQxNDU4ODcsLTExMDMwNDM3NTUsMT
+IwNDUxNTAzMCwtOTA2MjM0OTg0LC04ODI0MDQyMDUsMTc3NTMx
+MDc1OSwxMTM1MzE5MjYxXX0=
 -->
