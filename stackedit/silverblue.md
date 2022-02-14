@@ -65,14 +65,16 @@ lorax
   --add-template-var=ostree_osname=fedora \
   --add-template-var=ostree_oskey=fedora-37-primary \
   --add-template-var=ostree_contenturl=mirrorlist=https://ostree.fedoraproject.org/mirrorlist \
-		--add-template-var=ostree_install_ref=fedora/33/x86_64/silverblue \
-		--add-template-var=ostree_update_ref=fedora/33/x86_64/silverblue \
-		
-   --rootfs-size=8 \
+  --add-template-var=ostree_install_ref=fedora/rawhide/x86_64/silverblue \
+  --add-template-var=ostree_update_ref=fedora/rawhide/x86_64/silverblue \
+  --add-template-var=
+  --add-template-var=
+  --add-template-var=
+  --rootfs-size=8 \
   --skip-branding \
-		$(pwd)/ostree_installer
+  $(pwd)/ostree_installer
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDY0ODM4MywtOTA2MjM0OTg0LC04OD
+eyJoaXN0b3J5IjpbLTU5ODE4MzYyMCwtOTA2MjM0OTg0LC04OD
 I0MDQyMDUsMTc3NTMxMDc1OSwxMTM1MzE5MjYxXX0=
 -->
