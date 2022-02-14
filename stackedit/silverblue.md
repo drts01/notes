@@ -45,7 +45,8 @@ dnf install --assume-yes rpm-ostree lorax git-core
 	
             'extra_runroot_pkgs': ['flatpak', 'dbus-daemon'],
 
-
+git clone --branch main --depth=1 https://pagure.io/workstation-ostree-config
+git clone --branch main --depth=1 https://pagure.io/fedora-lorax-templates.git
 lorax
   --product=Fedora \
   --version rawhide \
@@ -55,7 +56,7 @@ lorax
   --volid=Fedora-SB-ostree-x86_64-rawhide \
   --nomacboot \
   --logfile=$(pwd)/lorax.log \
-	--tmp=$(pwd)/tmp \
+  --tmp=$(pwd)/tmp \
 		--add-template=$(pwd)/fedora-lorax-templates/ostree-based-installer/lorax-configure-repo.tmpl \
 		--add-template=$(pwd)/fedora-lorax-templates/ostree-based-installer/lorax-embed-repo.tmpl \
 		--add-template-var=ostree_install_repo=file://$(pwd)/repo \
@@ -66,11 +67,11 @@ lorax
 		--add-template-var=ostree_install_ref=fedora/33/x86_64/silverblue \
 		--add-template-var=ostree_update_ref=fedora/33/x86_64/silverblue \
 		
-  --rootfs-size=8 \
-		--skip-branding \
+   --rootfs-size=8 \
+  --skip-branding \
 		$(pwd)/ostree_installer
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE1MjkyMzksLTkwNjIzNDk4NCwtOD
-gyNDA0MjA1LDE3NzUzMTA3NTksMTEzNTMxOTI2MV19
+eyJoaXN0b3J5IjpbMTUyMDQ5ODI0MCwtOTA2MjM0OTg0LC04OD
+I0MDQyMDUsMTc3NTMxMDc1OSwxMTM1MzE5MjYxXX0=
 -->
