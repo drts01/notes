@@ -42,18 +42,13 @@ subprocess.CalledProcessError: Command '['ostree', '--repo=/root/isobuild/tmp/lo
 ```
 https://gist.github.com/JayDoubleu/6d0409b657fe84ea53ef0fa9da8d8e63
 ```sh
-
-git clone --branch main --depth=1 https://pagure.io/workstation-ostree-config
-
-```
 --add-template-var "ostree_install_repo=file://$(pwd)/repo" \
 --add-template-var "ostree_update_repo=file://$(pwd)/repo" \
 ```
-```
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDI2OTkyNSwtNzY4NzU1NDczLC0xNz
-M0MTQ1ODg3LC0xMTAzMDQzNzU1LDEyMDQ1MTUwMzAsLTkwNjIz
-NDk4NCwtODgyNDA0MjA1LDE3NzUzMTA3NTksMTEzNTMxOTI2MV
-19
+eyJoaXN0b3J5IjpbLTE3MzgzODcwNjksLTc2ODc1NTQ3MywtMT
+czNDE0NTg4NywtMTEwMzA0Mzc1NSwxMjA0NTE1MDMwLC05MDYy
+MzQ5ODQsLTg4MjQwNDIwNSwxNzc1MzEwNzU5LDExMzUzMTkyNj
+FdfQ==
 -->
