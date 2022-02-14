@@ -51,8 +51,8 @@ lorax
   --version rawhide \
   --release "$(printf '%(%Y-%m-%d)T')"
   --variant Silverblue \
-  --source=https://kojipkgs.fedoraproject.org/compose/33/latest-Fedora-33/compose/Everything/x86_64/os/ \
-		--nomacboot \
+  --source https://kojipkgs.fedoraproject.org/compose/rawhide/latest-Fedora-Rawhide/compose/Everything/x86_64/os/
+  --nomacboot \
 		--volid=Fedora-SB-ostree-x86_64-33 \
 		--add-template=$(pwd)/fedora-lorax-templates/ostree-based-installer/lorax-configure-repo.tmpl \
 		--add-template=$(pwd)/fedora-lorax-templates/ostree-based-installer/lorax-embed-repo.tmpl \
@@ -69,6 +69,6 @@ lorax
 		$(pwd)/ostree_installer
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjQwNDIwNSwxNzc1MzEwNzU5LDExMz
-UzMTkyNjFdfQ==
+eyJoaXN0b3J5IjpbMTI3OTk3OTY4NCwtODgyNDA0MjA1LDE3Nz
+UzMTA3NTksMTEzNTMxOTI2MV19
 -->
