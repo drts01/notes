@@ -2,7 +2,8 @@
 ## Silverblue Experiment
 
 - Lorax [[docs](https://weldr.io/lorax/)][[source](https://github.com/weldr/lorax)]\
-  Lorax is used to build the Anaconda Installer boot.iso,
+  Lorax is used to build the Anaconda Installer boot.iso.
+  https://pagure.io/pungi-fedora/blob/main/f/fedora.conf#_769-796
 
 ```sh
 mkdir ${HOME}isobuild && cd ${HOME}isobuild
@@ -35,7 +36,7 @@ lorax \
   ./results/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQxNDU4ODcsLTExMDMwNDM3NTUsMT
-IwNDUxNTAzMCwtOTA2MjM0OTg0LC04ODI0MDQyMDUsMTc3NTMx
-MDc1OSwxMTM1MzE5MjYxXX0=
+eyJoaXN0b3J5IjpbMTM2NzQ0MTQ4LC0xNzM0MTQ1ODg3LC0xMT
+AzMDQzNzU1LDEyMDQ1MTUwMzAsLTkwNjIzNDk4NCwtODgyNDA0
+MjA1LDE3NzUzMTA3NTksMTEzNTMxOTI2MV19
 -->
