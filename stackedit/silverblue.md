@@ -54,6 +54,8 @@ lorax
   --variant Silverblue \
   --volid=Fedora-SB-ostree-x86_64-rawhide \
   --nomacboot \
+  --logfile=$(pwd)/lorax.log \
+	--tmp=$(pwd)/tmp \
 		--add-template=$(pwd)/fedora-lorax-templates/ostree-based-installer/lorax-configure-repo.tmpl \
 		--add-template=$(pwd)/fedora-lorax-templates/ostree-based-installer/lorax-embed-repo.tmpl \
 		--add-template-var=ostree_install_repo=file://$(pwd)/repo \
@@ -63,12 +65,12 @@ lorax
 		--add-template-var=ostree_contenturl=mirrorlist=https://ostree.fedoraproject.org/mirrorlist \
 		--add-template-var=ostree_install_ref=fedora/33/x86_64/silverblue \
 		--add-template-var=ostree_update_ref=fedora/33/x86_64/silverblue \
-		--logfile=$(pwd)/lorax.log \
-		--tmp=$(pwd)/tmp \
-		--rootfs-size=8 \
+		
+  --rootfs-size=8 \
+		--skip-branding \
 		$(pwd)/ostree_installer
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTI2OTY2MCwtOTA2MjM0OTg0LC04OD
-I0MDQyMDUsMTc3NTMxMDc1OSwxMTM1MzE5MjYxXX0=
+eyJoaXN0b3J5IjpbLTEzMzE1MjkyMzksLTkwNjIzNDk4NCwtOD
+gyNDA0MjA1LDE3NzUzMTA3NTksMTEzNTMxOTI2MV19
 -->
