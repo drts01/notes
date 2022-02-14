@@ -3,7 +3,7 @@
 
 - Lorax [[docs](https://weldr.io/lorax/)][[source](https://github.com/weldr/lorax)]\
   Lorax is used to build the Anaconda Installer boot.iso.
-  https://pagure.io/pungi-fedora/blob/main/f/fedora.conf#_769-796
+- Config: https://pagure.io/pungi-fedora/blob/main/f/fedora.conf#_769-796
 
 ```sh
 mkdir ${HOME}isobuild && cd ${HOME}isobuild
@@ -36,7 +36,7 @@ lorax \
   ./results/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzQ0MTQ4LC0xNzM0MTQ1ODg3LC0xMT
-AzMDQzNzU1LDEyMDQ1MTUwMzAsLTkwNjIzNDk4NCwtODgyNDA0
-MjA1LDE3NzUzMTA3NTksMTEzNTMxOTI2MV19
+eyJoaXN0b3J5IjpbLTc2ODc1NTQ3MywtMTczNDE0NTg4NywtMT
+EwMzA0Mzc1NSwxMjA0NTE1MDMwLC05MDYyMzQ5ODQsLTg4MjQw
+NDIwNSwxNzc1MzEwNzU5LDExMzUzMTkyNjFdfQ==
 -->
