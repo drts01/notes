@@ -44,11 +44,16 @@ https://gist.github.com/JayDoubleu/6d0409b657fe84ea53ef0fa9da8d8e63
 ```sh
 
 git clone --branch main --depth=1 https://pagure.io/workstation-ostree-config
+
+```
+--add-template-var "ostree_install_repo=file://$(pwd)/repo" \
+--add-template-var "ostree_update_repo=file://$(pwd)/repo" \
+```
 ```
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzMjU0MjExLC03Njg3NTU0NzMsLTE3Mz
-QxNDU4ODcsLTExMDMwNDM3NTUsMTIwNDUxNTAzMCwtOTA2MjM0
-OTg0LC04ODI0MDQyMDUsMTc3NTMxMDc1OSwxMTM1MzE5MjYxXX
-0=
+eyJoaXN0b3J5IjpbLTU1NDI2OTkyNSwtNzY4NzU1NDczLC0xNz
+M0MTQ1ODg3LC0xMTAzMDQzNzU1LDEyMDQ1MTUwMzAsLTkwNjIz
+NDk4NCwtODgyNDA0MjA1LDE3NzUzMTA3NTksMTEzNTMxOTI2MV
+19
 -->
