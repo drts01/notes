@@ -35,8 +35,20 @@ lorax \
   --skip-branding \
   ./results/
 ```
+
+### Error
+```
+subprocess.CalledProcessError: Command '['ostree', '--repo=/root/isobuild/tmp/lorax.gywgheib/installtree/ostree/repo', 'pull', '--mirror', 'fedora', 'fedora/rawhide/x86_64/silverblue']' returned non-zero exit status 1.
+```
+https://gist.github.com/JayDoubleu/6d0409b657fe84ea53ef0fa9da8d8e63
+```sh
+
+git clone --branch main --depth=1 https://pagure.io/workstation-ostree-config
+```
+		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODc1NTQ3MywtMTczNDE0NTg4NywtMT
-EwMzA0Mzc1NSwxMjA0NTE1MDMwLC05MDYyMzQ5ODQsLTg4MjQw
-NDIwNSwxNzc1MzEwNzU5LDExMzUzMTkyNjFdfQ==
+eyJoaXN0b3J5IjpbMjUzMjU0MjExLC03Njg3NTU0NzMsLTE3Mz
+QxNDU4ODcsLTExMDMwNDM3NTUsMTIwNDUxNTAzMCwtOTA2MjM0
+OTg0LC04ODI0MDQyMDUsMTc3NTMxMDc1OSwxMTM1MzE5MjYxXX
+0=
 -->
