@@ -47,16 +47,16 @@ dnf install --assume-yes rpm-ostree lorax git-core
 
 git clone --branch main --depth=1 https://pagure.io/workstation-ostree-config
 git clone --branch main --depth=1 https://pagure.io/fedora-lorax-templates.git
-lorax
-  --product=Fedora \
+lorax \
+  --product Fedora \
   --version rawhide \
-  --release "$(printf '%(%Y-%m-%d)T')"
-  --source https://kojipkgs.fedoraproject.org/compose/rawhide/latest-Fedora-Rawhide/compose/Everything/x86_64/os/
+  --release "$(printf '%(%Y-%m-%d)T')" \
+  --source https://kojipkgs.fedoraproject.org/compose/rawhide/latest-Fedora-Rawhide/compose/Everything/x86_64/os/ \
   --variant Silverblue \
-  --volid=Fedora-SB-ostree-x86_64-rawhide \
+  --volid Fedora-SB-ostree-x86_64-rawhide \
   --nomacboot \
-  --logfile=$(pwd)/lorax.log \
-  --tmp=$(pwd)/tmp \
+  --logfile $(pwd)/lorax.log \
+  --tmp $(pwd)/tmp \
   --add-template $(pwd)/fedora-lorax-templates/ostree-based-installer/lorax-configure-repo.tmpl \
   --add-template $(pwd)/fedora-lorax-templates/ostree-based-installer/lorax-embed-repo.tmpl \
   --add-template $(pwd)/fedora-lorax-templates/ostree-based-installer/lorax-embed-flatpaks.tmpl \
@@ -69,11 +69,12 @@ lorax
   --add-template-var ostree_update_ref=fedora/rawhide/x86_64/silverblue \
   --add-template-var flatpak_remote_name=fedora \
   --add-template-var flatpak_remote_url=oci+https://registry-no-cdn.fedoraproject.org \
-  --rootfs-size=8 \
+  --rootfs-size 8 \
   --skip-branding \
   $(pwd)/ostree_installer
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDUxNTAzMCwtOTA2MjM0OTg0LC04OD
-I0MDQyMDUsMTc3NTMxMDc1OSwxMTM1MzE5MjYxXX0=
+eyJoaXN0b3J5IjpbLTExMDMwNDM3NTUsMTIwNDUxNTAzMCwtOT
+A2MjM0OTg0LC04ODI0MDQyMDUsMTc3NTMxMDc1OSwxMTM1MzE5
+MjYxXX0=
 -->
