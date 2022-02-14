@@ -46,11 +46,12 @@ dnf install --assume-yes rpm-ostree lorax git-core
             'extra_runroot_pkgs': ['flatpak', 'dbus-daemon'],
 
 
-lorax  --product=Fedora \
-  --source=https://kojipkgs.fedoraproject.org/compose/33/latest-Fedora-33/compose/Everything/x86_64/os/ \
+lorax
+  --product=Fedora \
   --version rawhide \
   --release "$(printf '%(%Y-%m-%d)T')"
-  --variant=Silverblue \
+  --variant Silverblue \
+  --source=https://kojipkgs.fedoraproject.org/compose/33/latest-Fedora-33/compose/Everything/x86_64/os/ \
 		--nomacboot \
 		--volid=Fedora-SB-ostree-x86_64-33 \
 		--add-template=$(pwd)/fedora-lorax-templates/ostree-based-installer/lorax-configure-repo.tmpl \
@@ -68,6 +69,6 @@ lorax  --product=Fedora \
 		$(pwd)/ostree_installer
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU0NzU4NzM0LDE3NzUzMTA3NTksMTEzNT
-MxOTI2MV19
+eyJoaXN0b3J5IjpbLTg4MjQwNDIwNSwxNzc1MzEwNzU5LDExMz
+UzMTkyNjFdfQ==
 -->
