@@ -1,4 +1,8 @@
 
+## Silverblue Experiment
+
+- Lorax [docs](https://weldr.io/lorax/) [source](
+
 ```sh
 mkdir ${HOME}isobuild && cd ${HOME}isobuild
 dnf install --assume-yes rpm-ostree lorax git-core
@@ -30,7 +34,7 @@ lorax \
   ./results/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3NzE2NzE3LC0xMTAzMDQzNzU1LDEyMD
-Q1MTUwMzAsLTkwNjIzNDk4NCwtODgyNDA0MjA1LDE3NzUzMTA3
-NTksMTEzNTMxOTI2MV19
+eyJoaXN0b3J5IjpbLTI4Mjk1NzI3NCwtMTEwMzA0Mzc1NSwxMj
+A0NTE1MDMwLC05MDYyMzQ5ODQsLTg4MjQwNDIwNSwxNzc1MzEw
+NzU5LDExMzUzMTkyNjFdfQ==
 -->
