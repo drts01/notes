@@ -23,19 +23,21 @@ pyenv install --verbose $(pyenv install --list | grep -E '^ *3(\.\d*){2}$' | tai
 
 `script.sh`:
 ```bash
-PYTHON_BUILD_ARIA2_OPTS="--min-split-size=1M --max-connection-per-server=10 --optimize-concurrent-downloads=true"
+#/usr/bin/env sh
+
+PYTHON_BUILD_ARIA2_OPTS='--min-split-size=1M --max-connection-per-server=10 --optimize-concurrent-downloads=true'
 CXX=clang++
 CC=clang
 MAKE_OPTS="-j$(sysctl -n hw.ncpu) -l $(echo "$(sysctl -n hw.ncpu) / 1.25" | bc)"
-PYTHON_CFLAGS="-O3 -pipe -march=native -Wno-unused-value -Wno-empty-body -Wno-parentheses-equality"
+PYTHON_CFLAGS='-O3 -pipe -march=native -Wno-unused-value -Wno-empty-body -Wno-parentheses-equality'
 
 for v in {7..11}; do
   CONFIGURE_OPTS="--enable-optimizations $(test ${v} -gt 8 && printf -- --with-lto)"
-  pyenv install --verbose --skip-existing "$(pyenv install --list | grep -E "^ *3\.${v}\." | tail -1)"
+  pyenv install --verbose --skip-existing $(pyenv install --list | grep -E "^ *3\.${v}\." | tail -1)
 done
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTE2NDA2LDE4ODAwODI5ODMsLTEwMz
+eyJoaXN0b3J5IjpbNDE2MjgyODc5LDE4ODAwODI5ODMsLTEwMz
 k4OTQzMSwtMTU3MDExNTA4MiwyNDI3Nzg0MjEsLTEwOTU4MjYw
 NjgsOTEyNjQ2NjkwLDg2NjE2MDk0NSw4NjgwNTcwOTcsLTIxMj
 E1Mzc0NSwtMTIxODQ2NTE4MywtOTY1MjAzOTg0LDI3NDQyOTY4
