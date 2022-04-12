@@ -43,7 +43,7 @@ The first line cannot be longer than 72 characters and should be followed by a b
 * **test** for adding missing tests, refactoring tests; no production code change.
 * **build** for updating build configuration, development tools or other changes irrelevant to the user.
 * **ci**: for changes to CI/CD and automation pipeline.
-* * **chore**: for miscellaneous non-production code change
+* **chore**: for miscellaneous non-production code change
 
 ### Example `<scope>` values:
 
@@ -57,7 +57,7 @@ The first line cannot be longer than 72 characters and should be followed by a b
 
 The `<scope>` can be empty (e.g. if the change is a global or difficult
 to assign to a single component), in which case the parentheses are
-omitted. In smaller projects such as Karma plugins, the `<scope>` is empty.
+omitted.
 
 ## Message body
 
@@ -99,6 +99,6 @@ This document is based on [Angular Commit Message Format]. See the [commit histo
 [Angular Commit Message Format]: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
 [commit history]: https://github.com/karma-runner/karma/commits/master
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTEyMzA0NiwtNTAzNTk4OTQ5LC05Mj
-kwODMyNDZdfQ==
+eyJoaXN0b3J5IjpbMTU2NzkzNjA2LC01MDM1OTg5NDksLTkyOT
+A4MzI0Nl19
 -->
