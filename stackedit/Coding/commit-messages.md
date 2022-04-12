@@ -1,5 +1,5 @@
 
-In the repository we use and enforce the commit message conventions. The conventions are verified using [commitlint] with the [conventional config](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional).
+In the repository we use and enforce the commit message conventions. The conventions are verified using [commitlint] with the [conventional config].
 
 ## Why:
 
@@ -44,6 +44,7 @@ The first line cannot be longer than 72 characters and should be followed by a b
 * **build** for updating build configuration, development tools or other changes irrelevant to the user.
 * **ci**: for changes to CI/CD and automation pipeline.
 * **chore**: for miscellaneous non-production code change
+* **ci**: Changes to our CI configuration files and scripts (examples: CircleCi, SauceLabs)
 
 ### Example `<scope>` values:
 
@@ -95,10 +96,10 @@ Any commit with the breaking change section will trigger a MAJOR release and app
 This document is based on [Angular Commit Message Format]. See the [commit history] for examples of properly-formatted commit messages.
 
 [commitlint]: https://conventional-changelog.github.io/commitlint/
-[Angular config]: https://www.npmjs.com/package/@commitlint/config-angular
+[conventional config]: https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional
 [Angular Commit Message Format]: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
 [commit history]: https://github.com/karma-runner/karma/commits/master
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzkzNjA2LC01MDM1OTg5NDksLTkyOT
-A4MzI0Nl19
+eyJoaXN0b3J5IjpbLTE5OTk0NTQwNjUsLTUwMzU5ODk0OSwtOT
+I5MDgzMjQ2XX0=
 -->
