@@ -1,5 +1,5 @@
 
-In the repository we use and enforce the commit message conventions. The conventions are verified using [commitlint] with [Angular config](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional).
+In the repository we use and enforce the commit message conventions. The conventions are verified using [commitlint] with the [conventional config](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional).
 
 ## The reasons for these conventions:
 - automatic generating of the changelog
@@ -94,5 +94,5 @@ This document is based on [Angular Commit Message Format]. See the [commit histo
 [Angular Commit Message Format]: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
 [commit history]: https://github.com/karma-runner/karma/commits/master
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDA3ODI4NywtOTI5MDgzMjQ2XX0=
+eyJoaXN0b3J5IjpbLTc1OTIyNTg4MiwtOTI5MDgzMjQ2XX0=
 -->
