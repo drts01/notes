@@ -3,11 +3,11 @@ In the repository we use and enforce the commit message conventions. The convent
 
 ## The reasons for these conventions:
 - automatic generating of the changelog
-- 
+- automatic versioning
 - simple navigation through git history (e.g. ignoring style changes)
 
 ## Format of the commit message:
-```bash
+```
 <type>(<scope>): <subject>
 <BLANK LINE>
 <body>
@@ -17,7 +17,7 @@ In the repository we use and enforce the commit message conventions. The convent
 
 ## Example commit message:
 
-```bash
+```
 fix(middleware): ensure Range headers adhere more closely to RFC 2616
 
 Add one new dependency, use `range-parser` (Express dependency) to compute
@@ -94,5 +94,5 @@ This document is based on [Angular Commit Message Format]. See the [commit histo
 [Angular Commit Message Format]: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
 [commit history]: https://github.com/karma-runner/karma/commits/master
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODg2ODkwNV19
+eyJoaXN0b3J5IjpbLTkyOTA4MzI0Nl19
 -->
