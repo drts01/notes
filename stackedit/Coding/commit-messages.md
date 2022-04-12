@@ -48,15 +48,15 @@ The first line cannot be longer than 72 characters and should be followed by a b
 
 a
 
--   **build**: Changes that affect the build system or external dependencies (examples: tox, npm)
+-   **build**: Changes that affect the build system or external dependencies (e.g.: tox, npm)
 - **chore**: Miscellaneous non-production code change
--   **ci**: Changes to the CI configuration files and scripts (examples: GitHub Actions, GitLab CI)
+-   **ci**: Changes to the CI configuration files and scripts (e.g.,: GitHub Actions, GitLab CI)
 -   **docs**: Documentation only changes
 -   **feat**: A new feature; will trigger a MINOR version bump
 -   **fix**: A bug fix; will trigger a PATCH version bump
 -   **perf**: A code change that improves performance; will trigger a PATCH version bump
 -   **refactor**: A code change that neither fixes a bug nor adds a feature
-- **style** for formatting changes, missing semicolons, etc.
+- **style** Formatting changes (e.g., missing semicolons, etc.
 -   **test**: Adding missing tests or correcting existing tests
 
 ### Example `<scope>` values:
@@ -113,6 +113,6 @@ This document is based on [Angular Commit Message Format]. See the [commit histo
 [Angular Commit Message Format]: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
 [commit history]: https://github.com/karma-runner/karma/commits/master
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1MzQwMzI0LC01MDM1OTg5NDksLTkyOT
-A4MzI0Nl19
+eyJoaXN0b3J5IjpbMTU2OTg5NjM2MSwtNTAzNTk4OTQ5LC05Mj
+kwODMyNDZdfQ==
 -->
