@@ -42,6 +42,8 @@ The first line cannot be longer than 72 characters and should be followed by a b
 * **refactor** for refactoring production code, e.g. renaming a variable.
 * **test** for adding missing tests, refactoring tests; no production code change.
 * **build** for updating build configuration, development tools or other changes irrelevant to the user.
+* **chore**: no production code change
+* **ci**: b
 
 ### Example `<scope>` values:
 
@@ -97,5 +99,6 @@ This document is based on [Angular Commit Message Format]. See the [commit histo
 [Angular Commit Message Format]: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
 [commit history]: https://github.com/karma-runner/karma/commits/master
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzU5ODk0OSwtOTI5MDgzMjQ2XX0=
+eyJoaXN0b3J5IjpbMTY4NjIyNjY5OSwtNTAzNTk4OTQ5LC05Mj
+kwODMyNDZdfQ==
 -->
