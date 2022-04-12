@@ -46,6 +46,17 @@ The first line cannot be longer than 72 characters and should be followed by a b
 * **chore**: for miscellaneous non-production code change
 * **ci**: Changes to our CI configuration files and scripts (examples: CircleCi, SauceLabs)
 
+a
+
+-   **build**: Changes that affect the build system or external dependencies (examples: npm)
+-   **ci**: Changes to our CI configuration files and scripts (examples: CircleCi, SauceLabs)
+-   **docs**: Documentation only changes
+-   **feat**: A new feature
+-   **fix**: A bug fix
+-   **perf**: A code change that improves performance
+-   **refactor**: A code change that neither fixes a bug nor adds a feature
+-   **test**: Adding missing tests or correcting existing tests
+
 ### Example `<scope>` values:
 
 * init
@@ -100,6 +111,6 @@ This document is based on [Angular Commit Message Format]. See the [commit histo
 [Angular Commit Message Format]: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
 [commit history]: https://github.com/karma-runner/karma/commits/master
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTk0NTQwNjUsLTUwMzU5ODk0OSwtOT
-I5MDgzMjQ2XX0=
+eyJoaXN0b3J5IjpbODQ2OTg4MTM0LC01MDM1OTg5NDksLTkyOT
+A4MzI0Nl19
 -->
