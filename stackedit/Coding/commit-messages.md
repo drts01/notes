@@ -38,7 +38,7 @@ The first line cannot be longer than 72 characters and should be followed by a b
 * **fix** for a bug fix for the user, not a fix to a build script. Such commit will trigger a release bumping a PATCH version.
 * **perf** for performance improvements. Such commit will trigger a release bumping a PATCH version.
 * **docs** for changes to the documentation.
-* **style** for formatting changes, missing semicolons, etc.
+
 * **refactor** for refactoring production code, e.g. renaming a variable.
 * **test** for adding missing tests, refactoring tests; no production code change.
 * **build** for updating build configuration, development tools or other changes irrelevant to the user.
@@ -49,12 +49,14 @@ The first line cannot be longer than 72 characters and should be followed by a b
 a
 
 -   **build**: Changes that affect the build system or external dependencies (examples: tox, npm)
--   **ci**: Changes to our CI configuration files and scripts (examples: GitHub Actions, GitLab CI)
+- **chore**: Miscellaneous non-production code change
+-   **ci**: Changes to the CI configuration files and scripts (examples: GitHub Actions, GitLab CI)
 -   **docs**: Documentation only changes
--   **feat**: A new feature; will trigger a MAJOR version bump
+-   **feat**: A new feature; will trigger a MINOR version bump
 -   **fix**: A bug fix; will trigger a PATCH version bump
--   **perf**: A code change that improves performance
+-   **perf**: A code change that improves performance; will trigger a PATCH version bump
 -   **refactor**: A code change that neither fixes a bug nor adds a feature
+- **style** for formatting changes, missing semicolons, etc.
 -   **test**: Adding missing tests or correcting existing tests
 
 ### Example `<scope>` values:
@@ -111,6 +113,6 @@ This document is based on [Angular Commit Message Format]. See the [commit histo
 [Angular Commit Message Format]: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
 [commit history]: https://github.com/karma-runner/karma/commits/master
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDMyNzY3NDAsLTUwMzU5ODk0OSwtOT
-I5MDgzMjQ2XX0=
+eyJoaXN0b3J5IjpbNzU1MzQwMzI0LC01MDM1OTg5NDksLTkyOT
+A4MzI0Nl19
 -->
