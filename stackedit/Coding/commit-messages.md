@@ -48,11 +48,11 @@ The first line cannot be longer than 72 characters and should be followed by a b
 
 a
 
--   **build**: Changes that affect the build system or external dependencies (examples: npm)
--   **ci**: Changes to our CI configuration files and scripts (examples: CircleCi, SauceLabs)
+-   **build**: Changes that affect the build system or external dependencies (examples: tox, npm)
+-   **ci**: Changes to our CI configuration files and scripts (examples: GitHub Actions, GitLab CI)
 -   **docs**: Documentation only changes
--   **feat**: A new feature
--   **fix**: A bug fix
+-   **feat**: A new feature; will trigger a MAJOR version bump
+-   **fix**: A bug fix; will trigger a PATCH version bump
 -   **perf**: A code change that improves performance
 -   **refactor**: A code change that neither fixes a bug nor adds a feature
 -   **test**: Adding missing tests or correcting existing tests
@@ -111,6 +111,6 @@ This document is based on [Angular Commit Message Format]. See the [commit histo
 [Angular Commit Message Format]: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
 [commit history]: https://github.com/karma-runner/karma/commits/master
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2OTg4MTM0LC01MDM1OTg5NDksLTkyOT
-A4MzI0Nl19
+eyJoaXN0b3J5IjpbLTEzNDMyNzY3NDAsLTUwMzU5ODk0OSwtOT
+I5MDgzMjQ2XX0=
 -->
