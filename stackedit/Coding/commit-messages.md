@@ -1,26 +1,13 @@
 
 In the repository we use and enforce the commit message conventions. The conventions are verified using [commitlint] with the [conventional config](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional).
 
-## The reasons for these conventions:
+## Why:
 
-[Commit conventions](https://www.conventionalcommits.org/) allow more semantic meaning to the git history. This e.g. includes `type`, `scope` or `breaking changes`.
-
-With this additional information tools can derive useful human-readable information for releases of your project. Some examples are
+[Commit conventions](https://www.conventionalcommits.org/) allow more semantic meaning to the git history. With this additional information tools can derive useful human-readable information for releases of your project. Some examples are:
 
 - Automated, rich changelogs
 - Automatic version bumps
-- Filter for test harnesses to run
-
-The most common commit conventions follow this pattern:
-
-```
-type(scope?): subject
-body?
-footer?
-```
-- automatic generating of the changelog
-- automatic versioning
-- simple navigation through git history (e.g. ignoring style changes)
+- Simple navigation through git history
 
 ## Format of the commit message:
 ```
@@ -110,5 +97,5 @@ This document is based on [Angular Commit Message Format]. See the [commit histo
 [Angular Commit Message Format]: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
 [commit history]: https://github.com/karma-runner/karma/commits/master
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTEzMjA2NzksLTkyOTA4MzI0Nl19
+eyJoaXN0b3J5IjpbLTUwMzU5ODk0OSwtOTI5MDgzMjQ2XX0=
 -->
