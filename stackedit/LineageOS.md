@@ -9,10 +9,11 @@ Check connection to phone, `adb devices`. USB debug must be enabled and then aut
 ```
 # Enable USB debugging on phone
 # Connect phone via USB
-adb devices
+adb devices  # Verify connection
 # Authorize on phone
 adb reboot bootloader
+fastboot devices  # Verify connection
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjg5MjQ0NCwtMTUxOTk0ODA1Ml19
+eyJoaXN0b3J5IjpbOTU3OTQ1NzIzLC0xNTE5OTQ4MDUyXX0=
 -->
