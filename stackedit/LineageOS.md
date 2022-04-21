@@ -12,9 +12,9 @@ Check connection to phone, `adb devices`. USB debug must be enabled and then aut
 adb devices  # Verify connection
 # Authorize on phone
 adb reboot bootloader
-fastboot devices  # Verify connection 
+fastboot devices  # Verify connection (may require to run as root)
 fastboot flash boot <recovery_filename>.img  # Flash w/ temporary recovery image.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwNDA1NTgzLC0xNTE5OTQ4MDUyXX0=
+eyJoaXN0b3J5IjpbMTQwNTMzNDEzOCwtMTUxOTk0ODA1Ml19
 -->
