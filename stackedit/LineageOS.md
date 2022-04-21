@@ -4,7 +4,7 @@ from the [platform-tools](https://developer.android.com/studio/releases/platform
 
 [Using ADB and fastboot](https://wiki.lineageos.org/adb_fastboot_guide)
 
-
+Check connection to phone, `adb devices`. USB debug must be enabled and then authorized on phone.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1NTYzNzkxXX0=
+eyJoaXN0b3J5IjpbLTE1MTk5NDgwNTJdfQ==
 -->
