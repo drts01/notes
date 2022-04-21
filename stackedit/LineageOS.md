@@ -19,8 +19,11 @@ fastboot reboot recovery   # Not all phones support booting into recovery mode f
 adb sideload filename.zip
 ```
 
+`adb install <filename>.apk`
+
 https://github.com/topjohnwu/Magisk
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExNjc4MzY4LDE4MjI1NjY4OTUsMTU5ND
-U1OTU3MSwxNDA1MzM0MTM4LC0xNTE5OTQ4MDUyXX0=
+eyJoaXN0b3J5IjpbODAxMTQ3MDkzLDMxMTY3ODM2OCwxODIyNT
+Y2ODk1LDE1OTQ1NTk1NzEsMTQwNTMzNDEzOCwtMTUxOTk0ODA1
+Ml19
 -->
