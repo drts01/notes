@@ -16,8 +16,9 @@ fastboot devices  # Verify connection (may require to run as root)
 fastboot flashing unlock
 fastboot flash boot <recovery_filename>.img  # Flash w/ temporary recovery image
 fastboot reboot recovery   # Not all phones support booting into recovery mode from fastboot
+adb sideload filename.zip
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDU1OTU3MSwxNDA1MzM0MTM4LC0xNT
-E5OTQ4MDUyXX0=
+eyJoaXN0b3J5IjpbMTgyMjU2Njg5NSwxNTk0NTU5NTcxLDE0MD
+UzMzQxMzgsLTE1MTk5NDgwNTJdfQ==
 -->
