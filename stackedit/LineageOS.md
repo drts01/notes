@@ -18,7 +18,9 @@ fastboot flash boot <recovery_filename>.img  # Flash w/ temporary recovery image
 fastboot reboot recovery   # Not all phones support booting into recovery mode from fastboot
 adb sideload filename.zip
 ```
+
+https://github.com/topjohnwu/Magisk
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjU2Njg5NSwxNTk0NTU5NTcxLDE0MD
-UzMzQxMzgsLTE1MTk5NDgwNTJdfQ==
+eyJoaXN0b3J5IjpbMzExNjc4MzY4LDE4MjI1NjY4OTUsMTU5ND
+U1OTU3MSwxNDA1MzM0MTM4LC0xNTE5OTQ4MDUyXX0=
 -->
