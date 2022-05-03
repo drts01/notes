@@ -14,7 +14,11 @@
 
 - https://jakevdp.github.io/PythonDataScienceHandbook/
 - https://nostarch.com/python-data-science
+
+### Interviews
+
+- https://github.com/Sindurav/CodingInterviews
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTA2MTYwNSwtNDIxNzU4MTk0LC0xMT
-g4MTkxNjE5XX0=
+eyJoaXN0b3J5IjpbMTMzMjI1MDYzOCwtNjY1MDYxNjA1LC00Mj
+E3NTgxOTQsLTExODgxOTE2MTldfQ==
 -->
