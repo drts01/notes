@@ -2,7 +2,7 @@
 
 # Setuptools + `pyproject.toml` 🎉
 
-[PEP-621](https://peps.python.org/pep-0621/)
+[PEP-621](https://peps.python.org/pep-0621/) - Storing project metadata in pyproject.toml
 
 > Setuptools will attempt to validate the `pyproject.toml` file according to [PEP 621](https://www.python.org/dev/peps/pep-0621/) specification.
 
@@ -15,6 +15,6 @@ My contribution: `pip-audit`, https://github.com/trailofbits/pip-audit/blob/main
 Worked with:
 - [Python Cryptographic Authority](https://github.com/pyca)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjg2NTU2MjMsOTA4MzQ5MTU0LDE1Nz
-Q1NjU3OSwtMTYwNzU2ODY3OSw2Nzk3MjU0NzVdfQ==
+eyJoaXN0b3J5IjpbMTM5NzQ5Mjk5Myw5MDgzNDkxNTQsMTU3ND
+U2NTc5LC0xNjA3NTY4Njc5LDY3OTcyNTQ3NV19
 -->
