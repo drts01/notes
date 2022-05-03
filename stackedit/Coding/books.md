@@ -18,7 +18,11 @@
 ### Interviews
 
 - https://github.com/Sindurav/CodingInterviews
+
+### Older
+
+- https://greenteapress.com/wp/think-python-2e/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjI1MDYzOCwtNjY1MDYxNjA1LC00Mj
-E3NTgxOTQsLTExODgxOTE2MTldfQ==
+eyJoaXN0b3J5IjpbMjA0MDk1OTk4NSwxMzMyMjUwNjM4LC02Nj
+UwNjE2MDUsLTQyMTc1ODE5NCwtMTE4ODE5MTYxOV19
 -->
