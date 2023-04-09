@@ -1,0 +1,4 @@
+  shortcuts:
+    - name: "<i class='fas fa-fw fa-tags'></i> Tags"
+      url: "tags/"
+      weight: 40
