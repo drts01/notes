@@ -1,2 +1,7 @@
-public
+# Hugo
 .hugo_build.lock
+/public
+resources/
+node_modules/
+
+.ipynb_checkpoints
