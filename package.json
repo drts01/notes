@@ -1,0 +1,27 @@
+{
+    "name": "carlos-notes",
+    "version": "0.0.0",
+    "description": "Carlos' Notes",
+    "repository": "github:optum-rally/carlos-notes",
+    "homepage": "https://",
+    "author": "Carlos Meza",
+    "license": "Apache-2.0",
+    "bugs": "https://github.com/rally-optum/carlos-notes/issues",
+    "spelling": "cSpell:ignore HTMLTEST precheck postbuild -",
+    "scripts": {
+        "_hugo": "hugo --cleanDestinationDir",
+        "build": "npm run _hugo -- ",
+        "clean": "rm -Rf public/* resources",
+        "serve": "hugo server --buildDrafts --buildFuture --disableFastRender --ignoreCache --noHTTPCache",
+        "update": "npm outdated && npm update && npm run update:pkg && npm run update:theme",
+        "update:pkg": "npm run update:pkg:dep && npm run update:pkg:hugo",
+        "update:pkg:dep": "npm install --save-dev autoprefixer@latest postcss-cli@latest",
+        "update:pkg:hugo": "npm install --save-dev --save-exact hugo-extended@latest",
+        "update:theme": "hugo mod get -u github.com/google/docsy@latest && hugo mod tidy"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.19",
+        "hugo-extended": "0.128.0",
+        "postcss-cli": "^11.0.0"
+    }
+}
