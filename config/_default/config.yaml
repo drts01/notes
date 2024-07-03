@@ -1,18 +1,26 @@
----
-baseURL: "http://localhost"
-languageCode: en-us
 title: Carlos' Notes
-theme: relearn
+description: A collection of notes, thoughts, and ideas.
+# theme: relearn
 
 enableEmoji: true
 enableGitInfo: true
+enableRobotsTXT: true
+languageCode: en-us
 relativeURLs: true
 
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+    renderer:
+      unsafe: true
+    extensions:
+      gfm: true
+  highlight:
+    style: tango
+
 outputs:
-  home:
-    - HTML
-    - RSS
-    - SEARCH
-    - SEARCHPAGE
-  section: ["HTML", "RSS", "PRINT"]
-  page: ["HTML", "RSS", "PRINT"]
+  home: [HTML, RSS, print]
+  section: [HTML, RSS, print]
+  page: [HTML, RSS, print]

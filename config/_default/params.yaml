@@ -1,1 +1,13 @@
-collapsibleMenu: true
+github_repo: https://github.com/drts01/notes
+github_project_repo: https://github.com/drts01/notes
+
+offlineSearch: true
+navbar_logo: true
+ui:
+  sidebar_cache_limit: 100
+  sidebar_menu_compact: true
+  sidebar_menu_foldable: true
+  ul_show: 1
+
+# Relearn Theme Configuration
+# collapsibleMenu: true
