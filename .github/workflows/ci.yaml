@@ -1,16 +1,38 @@
 name: CI
 
-on:
-  push: {}
-  workflow_dispatch: {}
+on: [push, workflow_dispatch]
 
 concurrency:
-  group: ${{ github.workflow }}-${{ github.ref_name }}
+  group: ${{ github.workflow }}-${{ github.head_ref || github.ref }}-ci
   cancel-in-progress: true
 
 jobs:
   pre-commit:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version-file: .python-version
+          cache: pip
+          cache-dependency-path: .pre-commit-config.yaml
       - uses: digitalr00ts/action-pre-commit@v0
+
+  build:
+    uses: ./.github/workflows/deploy.yaml
+    with:
+      deploy: false
+
+  # release:
+  #   needs: [pre-commit, build]
+  #   if: ${{ github.ref_name == 'main' }}
+  #   uses: digitalr00ts/shared-workflows/.github/workflows/release.yaml@main
+  #   secrets:
+  #     DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+
+  publish:
+    # needs: [release]
+    # if: ${{ needs.release.outputs.version }}
+    uses: ./.github/workflows/deploy.yaml
+    with:
+      deploy: true
