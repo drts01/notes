@@ -1,3 +1,4 @@
+exclude: (-|\.)lock|^go\.
 default_stages: [commit, manual]
 repos:
   - repo: meta
