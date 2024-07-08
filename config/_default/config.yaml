@@ -1,4 +1,5 @@
-title: Carlos' Notes
+baseURL: http://localhost
+title: digitalroots wiki
 description: A collection of notes, thoughts, and ideas.
 # theme: relearn
 
@@ -18,6 +19,7 @@ markup:
     extensions:
       gfm: true
   highlight:
+    noClasses: false  # https://www.docsy.dev/docs/adding-content/lookandfeel/#lightdark-color-themes
     style: tango
 
 outputs:
