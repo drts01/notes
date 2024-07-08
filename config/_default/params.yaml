@@ -1,6 +1,9 @@
+copyright:
+  authors: >-
+    digitalroots |
+    [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
+  from_year: 2014
 github_repo: https://github.com/drts01/notes
-github_project_repo: https://github.com/drts01/notes
-
 offlineSearch: true
 navbar_logo: true
 ui:
@@ -8,6 +11,3 @@ ui:
   sidebar_menu_compact: true
   sidebar_menu_foldable: true
   ul_show: 1
-
-# Relearn Theme Configuration
-# collapsibleMenu: true
