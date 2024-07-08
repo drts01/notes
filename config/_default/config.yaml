@@ -1,7 +1,6 @@
 baseURL: http://localhost
-title: digitalroots wiki
-description: A collection of notes, thoughts, and ideas.
-# theme: relearn
+title: digitalroots
+description: digitalroots by Carlos Meza
 
 enableEmoji: true
 enableGitInfo: true
