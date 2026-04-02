@@ -1,12 +1,12 @@
 exclude: (-|\.)lock|^go\.
-default_stages: [commit, manual]
+default_stages: [pre-commit, manual]
 repos:
   - repo: meta
     hooks:
       - id: check-hooks-apply
       - id: check-useless-excludes
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.6.0
+    rev: v6.0.0
     hooks:
       - id: check-json
       - id: check-merge-conflict
@@ -21,15 +21,15 @@ repos:
       # - id: no-commit-to-branch
       #   args: [-b main]
   - repo: https://github.com/rhysd/actionlint
-    rev: v1.7.1
+    rev: v1.7.12
     hooks:
       - id: actionlint-docker
   - repo: https://github.com/adrienverge/yamllint.git
-    rev: v1.35.1
+    rev: v1.38.0
     hooks:
       - id: yamllint
   - repo: https://github.com/executablebooks/mdformat
-    rev: 0.7.17
+    rev: 1.0.0
     hooks:
       - id: mdformat
         additional_dependencies:
@@ -37,7 +37,7 @@ repos:
           - mdformat-gfm
           - mdformat-tables
   - repo: https://github.com/alessandrojcm/commitlint-pre-commit-hook
-    rev: v9.16.0
+    rev: v9.24.0
     hooks:
       - id: commitlint
         stages: [commit-msg]
