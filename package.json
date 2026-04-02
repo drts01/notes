@@ -20,8 +20,8 @@
         "update:theme": "hugo mod get -u github.com/google/docsy@latest && hugo mod tidy"
     },
     "devDependencies": {
-        "autoprefixer": "^10.4.19",
-        "hugo-extended": "0.128.0",
-        "postcss-cli": "^11.0.0"
+        "autoprefixer": "^10.4.27",
+        "hugo-extended": "0.158.0",
+        "postcss-cli": "^11.0.1"
     }
 }
