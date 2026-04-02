@@ -43,8 +43,6 @@ jobs:
           node-version-file: .node-version
           cache: npm
           cache-dependency-path: "**/package-lock.json"
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
       - name: Setup Hugo cache path
         run: echo "HUGO_CACHEDIR=$(go env GOMODCACHE)/hugo_cache" >> "$GITHUB_ENV"
       - name: Install dependencies

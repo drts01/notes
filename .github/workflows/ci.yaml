@@ -9,6 +9,8 @@ concurrency:
 jobs:
   pre-commit:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -19,6 +21,8 @@ jobs:
       - uses: digitalr00ts/action-pre-commit@v0
 
   build:
+    permissions:
+      contents: read
     uses: ./.github/workflows/deploy.yaml
     with:
       deploy: false
@@ -31,8 +35,12 @@ jobs:
   #     DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
 
   publish:
-    # needs: [release]
-    # if: ${{ needs.release.outputs.version }}
+    needs: [pre-commit, build]
+    if: ${{ github.ref == 'refs/heads/trunk' }}
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     uses: ./.github/workflows/deploy.yaml
     with:
       deploy: true
