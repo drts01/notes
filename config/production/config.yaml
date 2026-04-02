@@ -1,4 +1,4 @@
-# baseURL: ""
+baseURL: "https://drts01.github.io/notes"
 
 minify:
   minifyOutput: true
