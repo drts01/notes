@@ -1,5 +1,5 @@
 hugoVersion:
   extended: true
-  min: 0.158.0
+  min: 0.164.0
 imports:
-  - path: github.com/google/docsy
+  - path: github.com/google/docsy/theme
